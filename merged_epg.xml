@@ -392,8 +392,23 @@
     <desc />
     <date>2025-05-04</date>
   </programme>
-  <programme channel="400477" start="20250504213000 +0000" stop="20250505000000 +0000">
+  <programme channel="400477" start="20250504213000 +0000" stop="20250504221500 +0000">
     <title lang="zh">ABB FIA Formula E World Championship Highlights</title>
+    <desc />
+    <date>2025-05-04</date>
+  </programme>
+  <programme channel="400477" start="20250504221500 +0000" stop="20250504224500 +0000">
+    <title lang="zh">Premier League - The Big Interview</title>
+    <desc />
+    <date>2025-05-04</date>
+  </programme>
+  <programme channel="400477" start="20250504224500 +0000" stop="20250504230000 +0000">
+    <title lang="zh">Kenny Allstar's Number 1's</title>
+    <desc />
+    <date>2025-05-04</date>
+  </programme>
+  <programme channel="400477" start="20250504230000 +0000" stop="20250505000000 +0000">
+    <title lang="zh">Live MLB</title>
     <desc />
     <date>2025-05-04</date>
   </programme>
@@ -576,10 +591,30 @@
     <desc />
     <date>2025-05-04</date>
   </programme>
-  <programme channel="400480" start="20250504193000 +0000" stop="20250505000000 +0000">
+  <programme channel="400480" start="20250504193000 +0000" stop="20250504213000 +0000">
     <title lang="zh">Live: Grand Slam Track Athletics</title>
     <desc />
     <date>2025-05-04</date>
+  </programme>
+  <programme channel="400480" start="20250504213000 +0000" stop="20250504230000 +0000">
+    <title lang="zh">NBA</title>
+    <desc />
+    <date>2025-05-04</date>
+  </programme>
+  <programme channel="400480" start="20250504230000 +0000" stop="20250504233000 +0000">
+    <title lang="zh">Superbike World Championship</title>
+    <desc />
+    <date>2025-05-04</date>
+  </programme>
+  <programme channel="400480" start="20250504233000 +0000" stop="20250505000000 +0000">
+    <title lang="zh">Superbike World Championship</title>
+    <desc />
+    <date>2025-05-04</date>
+  </programme>
+  <programme channel="400480" start="20250505000000 +0000" stop="20250506000000 +0000">
+    <title lang="zh">Live: NWSL</title>
+    <desc />
+    <date>2025-05-05</date>
   </programme>
 <channel id="405060">
     <display-name lang="Canada">TSN3</display-name>
