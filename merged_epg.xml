@@ -432,8 +432,28 @@
     <desc />
     <date>2025-05-05</date>
   </programme>
-  <programme channel="400477" start="20250505213000 +0000" stop="20250506000000 +0000">
+  <programme channel="400477" start="20250505213000 +0000" stop="20250505221500 +0000">
     <title lang="zh">Fight Week</title>
+    <desc />
+    <date>2025-05-05</date>
+  </programme>
+  <programme channel="400477" start="20250505221500 +0000" stop="20250505223000 +0000">
+    <title lang="zh">Kenny Allstar's Number 1's</title>
+    <desc />
+    <date>2025-05-05</date>
+  </programme>
+  <programme channel="400477" start="20250505223000 +0000" stop="20250505230000 +0000">
+    <title lang="zh">NBA on Fire</title>
+    <desc />
+    <date>2025-05-05</date>
+  </programme>
+  <programme channel="400477" start="20250505230000 +0000" stop="20250505233000 +0000">
+    <title lang="zh">NBA Tip-Off</title>
+    <desc />
+    <date>2025-05-05</date>
+  </programme>
+  <programme channel="400477" start="20250505233000 +0000" stop="20250506000000 +0000">
+    <title lang="zh">Live NBA</title>
     <desc />
     <date>2025-05-05</date>
   </programme>
@@ -666,8 +686,18 @@
     <desc />
     <date>2025-05-05</date>
   </programme>
-  <programme channel="400480" start="20250505220000 +0000" stop="20250506000000 +0000">
+  <programme channel="400480" start="20250505220000 +0000" stop="20250505223000 +0000">
     <title lang="zh">British Superbikes</title>
+    <desc />
+    <date>2025-05-05</date>
+  </programme>
+  <programme channel="400480" start="20250505223000 +0000" stop="20250505233000 +0000">
+    <title lang="zh">Superbike World Championship Highlights</title>
+    <desc />
+    <date>2025-05-05</date>
+  </programme>
+  <programme channel="400480" start="20250505233000 +0000" stop="20250506000000 +0000">
+    <title lang="zh">Live MLB</title>
     <desc />
     <date>2025-05-05</date>
   </programme>
