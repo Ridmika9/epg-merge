@@ -477,8 +477,18 @@
     <desc />
     <date>2025-05-06</date>
   </programme>
-  <programme channel="400477" start="20250506220000 +0000" stop="20250507000000 +0000">
+  <programme channel="400477" start="20250506220000 +0000" stop="20250506223000 +0000">
     <title lang="zh">UEFA Champions League Highlights</title>
+    <desc />
+    <date>2025-05-06</date>
+  </programme>
+  <programme channel="400477" start="20250506223000 +0000" stop="20250506230000 +0000">
+    <title lang="zh">MLB Lead Off</title>
+    <desc />
+    <date>2025-05-06</date>
+  </programme>
+  <programme channel="400477" start="20250506230000 +0000" stop="20250507000000 +0000">
+    <title lang="zh">Live MLB</title>
     <desc />
     <date>2025-05-06</date>
   </programme>
