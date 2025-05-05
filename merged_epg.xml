@@ -711,10 +711,20 @@
     <desc />
     <date>2025-05-06</date>
   </programme>
-  <programme channel="400480" start="20250506201500 +0000" stop="20250507000000 +0000">
+  <programme channel="400480" start="20250506201500 +0000" stop="20250506210000 +0000">
     <title lang="zh">Fight Week</title>
     <desc />
     <date>2025-05-06</date>
+  </programme>
+  <programme channel="400480" start="20250506210000 +0000" stop="20250507000000 +0000">
+    <title lang="zh">UFC</title>
+    <desc />
+    <date>2025-05-06</date>
+  </programme>
+  <programme channel="400480" start="20250507000000 +0000" stop="20250508000000 +0000">
+    <title lang="zh">NBA</title>
+    <desc />
+    <date>2025-05-07</date>
   </programme>
 <channel id="405060">
     <display-name lang="Canada">TSN3</display-name>
