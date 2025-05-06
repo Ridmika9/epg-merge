@@ -691,10 +691,25 @@
     <desc />
     <date>2025-05-07</date>
   </programme>
-  <programme channel="400480" start="20250507201500 +0000" stop="20250508000000 +0000">
+  <programme channel="400480" start="20250507201500 +0000" stop="20250507203000 +0000">
     <title lang="zh">MLB Classic</title>
     <desc />
     <date>2025-05-07</date>
+  </programme>
+  <programme channel="400480" start="20250507203000 +0000" stop="20250507234500 +0000">
+    <title lang="zh">Live MLB</title>
+    <desc />
+    <date>2025-05-07</date>
+  </programme>
+  <programme channel="400480" start="20250507234500 +0000" stop="20250508000000 +0000">
+    <title lang="zh">Superbike Rewind</title>
+    <desc />
+    <date>2025-05-07</date>
+  </programme>
+  <programme channel="400480" start="20250508000000 +0000" stop="20250509000000 +0000">
+    <title lang="zh">UEFA Champions League</title>
+    <desc />
+    <date>2025-05-08</date>
   </programme>
 <channel id="405060">
     <display-name lang="Canada">TSN3</display-name>
