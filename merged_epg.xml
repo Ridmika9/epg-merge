@@ -482,10 +482,20 @@
     <desc />
     <date>2025-05-07</date>
   </programme>
-  <programme channel="400477" start="20250507220000 +0000" stop="20250508000000 +0000">
+  <programme channel="400477" start="20250507220000 +0000" stop="20250507223000 +0000">
     <title lang="zh">TNT Sports Reload</title>
     <desc />
     <date>2025-05-07</date>
+  </programme>
+  <programme channel="400477" start="20250507223000 +0000" stop="20250508000000 +0000">
+    <title lang="zh">NBA</title>
+    <desc />
+    <date>2025-05-07</date>
+  </programme>
+  <programme channel="400477" start="20250508000000 +0000" stop="20250509000000 +0000">
+    <title lang="zh">Live NBA</title>
+    <desc />
+    <date>2025-05-08</date>
   </programme>
 <channel id="400480">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 2 HD</display-name>
