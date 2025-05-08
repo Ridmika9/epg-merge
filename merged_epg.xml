@@ -447,8 +447,18 @@
     <desc />
     <date>2025-05-09</date>
   </programme>
-  <programme channel="400477" start="20250509213000 +0000" stop="20250510000000 +0000">
+  <programme channel="400477" start="20250509213000 +0000" stop="20250509220000 +0000">
     <title lang="zh">UEFA Europa League &amp; Conference League Highlights Show</title>
+    <desc />
+    <date>2025-05-09</date>
+  </programme>
+  <programme channel="400477" start="20250509220000 +0000" stop="20250509230000 +0000">
+    <title lang="zh">MLB Highlights</title>
+    <desc />
+    <date>2025-05-09</date>
+  </programme>
+  <programme channel="400477" start="20250509230000 +0000" stop="20250510000000 +0000">
+    <title lang="zh">Live MLB</title>
     <desc />
     <date>2025-05-09</date>
   </programme>
@@ -696,10 +706,20 @@
     <desc />
     <date>2025-05-09</date>
   </programme>
-  <programme channel="400480" start="20250509200000 +0000" stop="20250510000000 +0000">
+  <programme channel="400480" start="20250509200000 +0000" stop="20250509210000 +0000">
     <title lang="zh">UFC Countdown</title>
     <desc />
     <date>2025-05-09</date>
+  </programme>
+  <programme channel="400480" start="20250509210000 +0000" stop="20250510000000 +0000">
+    <title lang="zh">UFC</title>
+    <desc />
+    <date>2025-05-09</date>
+  </programme>
+  <programme channel="400480" start="20250510000000 +0000" stop="20250511000000 +0000">
+    <title lang="zh">NBA</title>
+    <desc />
+    <date>2025-05-10</date>
   </programme>
 <channel id="405060">
     <display-name lang="Canada">TSN3</display-name>
