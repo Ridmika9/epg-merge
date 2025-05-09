@@ -382,10 +382,30 @@
     <desc />
     <date>2025-05-10</date>
   </programme>
-  <programme channel="400477" start="20250510220000 +0000" stop="20250511000000 +0000">
+  <programme channel="400477" start="20250510220000 +0000" stop="20250510223000 +0000">
     <title lang="zh">NBA on Fire</title>
     <desc />
     <date>2025-05-10</date>
+  </programme>
+  <programme channel="400477" start="20250510223000 +0000" stop="20250510230000 +0000">
+    <title lang="zh">NBA Action</title>
+    <desc />
+    <date>2025-05-10</date>
+  </programme>
+  <programme channel="400477" start="20250510230000 +0000" stop="20250510231500 +0000">
+    <title lang="zh">No Filter Football</title>
+    <desc />
+    <date>2025-05-10</date>
+  </programme>
+  <programme channel="400477" start="20250510231500 +0000" stop="20250511000000 +0000">
+    <title lang="zh">Fight Week</title>
+    <desc />
+    <date>2025-05-10</date>
+  </programme>
+  <programme channel="400477" start="20250511000000 +0000" stop="20250512000000 +0000">
+    <title lang="zh">Live UFC</title>
+    <desc />
+    <date>2025-05-11</date>
   </programme>
 <channel id="400480">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 2 HD</display-name>
