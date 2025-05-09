@@ -621,10 +621,30 @@
     <desc />
     <date>2025-05-10</date>
   </programme>
-  <programme channel="400480" start="20250510190000 +0000" stop="20250511000000 +0000">
+  <programme channel="400480" start="20250510190000 +0000" stop="20250510200000 +0000">
     <title lang="zh">MLB Highlights</title>
     <desc />
     <date>2025-05-10</date>
+  </programme>
+  <programme channel="400480" start="20250510200000 +0000" stop="20250510231500 +0000">
+    <title lang="zh">Live MLB</title>
+    <desc />
+    <date>2025-05-10</date>
+  </programme>
+  <programme channel="400480" start="20250510231500 +0000" stop="20250510234500 +0000">
+    <title lang="zh">MotoGP</title>
+    <desc />
+    <date>2025-05-10</date>
+  </programme>
+  <programme channel="400480" start="20250510234500 +0000" stop="20250511000000 +0000">
+    <title lang="zh">TNT Sports Reload</title>
+    <desc />
+    <date>2025-05-10</date>
+  </programme>
+  <programme channel="400480" start="20250511000000 +0000" stop="20250512000000 +0000">
+    <title lang="zh">AFL</title>
+    <desc />
+    <date>2025-05-11</date>
   </programme>
 <channel id="405060">
     <display-name lang="Canada">TSN3</display-name>
