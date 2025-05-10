@@ -566,8 +566,13 @@
     <desc />
     <date>2025-05-11</date>
   </programme>
-  <programme channel="400480" start="20250511180000 +0000" stop="20250512000000 +0000">
+  <programme channel="400480" start="20250511180000 +0000" stop="20250511211500 +0000">
     <title lang="zh">Live MLB</title>
+    <desc />
+    <date>2025-05-11</date>
+  </programme>
+  <programme channel="400480" start="20250511211500 +0000" stop="20250512000000 +0000">
+    <title lang="zh">UFC</title>
     <desc />
     <date>2025-05-11</date>
   </programme>
