@@ -362,10 +362,30 @@
     <desc />
     <date>2025-05-11</date>
   </programme>
-  <programme channel="400477" start="20250511214500 +0000" stop="20250512000000 +0000">
+  <programme channel="400477" start="20250511214500 +0000" stop="20250511224500 +0000">
     <title lang="zh">MotoGP Chequered Flag</title>
     <desc />
     <date>2025-05-11</date>
+  </programme>
+  <programme channel="400477" start="20250511224500 +0000" stop="20250511230000 +0000">
+    <title lang="zh">TNT Sports Reload</title>
+    <desc />
+    <date>2025-05-11</date>
+  </programme>
+  <programme channel="400477" start="20250511230000 +0000" stop="20250511233000 +0000">
+    <title lang="zh">NBA on Fire</title>
+    <desc />
+    <date>2025-05-11</date>
+  </programme>
+  <programme channel="400477" start="20250511233000 +0000" stop="20250512000000 +0000">
+    <title lang="zh">NBA Tip-Off</title>
+    <desc />
+    <date>2025-05-11</date>
+  </programme>
+  <programme channel="400477" start="20250512000000 +0000" stop="20250513000000 +0000">
+    <title lang="zh">Live NBA</title>
+    <desc />
+    <date>2025-05-12</date>
   </programme>
 <channel id="400480">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 2 HD</display-name>
