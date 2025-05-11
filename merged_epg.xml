@@ -437,8 +437,18 @@
     <desc />
     <date>2025-05-12</date>
   </programme>
-  <programme channel="400477" start="20250512213000 +0000" stop="20250513000000 +0000">
+  <programme channel="400477" start="20250512213000 +0000" stop="20250512220000 +0000">
     <title lang="zh">UFC Connected</title>
+    <desc />
+    <date>2025-05-12</date>
+  </programme>
+  <programme channel="400477" start="20250512220000 +0000" stop="20250512230000 +0000">
+    <title lang="zh">MLB Highlights</title>
+    <desc />
+    <date>2025-05-12</date>
+  </programme>
+  <programme channel="400477" start="20250512230000 +0000" stop="20250513000000 +0000">
+    <title lang="zh">Live MLB</title>
     <desc />
     <date>2025-05-12</date>
   </programme>
@@ -646,10 +656,20 @@
     <desc />
     <date>2025-05-12</date>
   </programme>
-  <programme channel="400480" start="20250512221500 +0000" stop="20250513000000 +0000">
+  <programme channel="400480" start="20250512221500 +0000" stop="20250512223000 +0000">
     <title lang="zh">The Pioneers</title>
     <desc />
     <date>2025-05-12</date>
+  </programme>
+  <programme channel="400480" start="20250512223000 +0000" stop="20250513000000 +0000">
+    <title lang="zh">NBA</title>
+    <desc />
+    <date>2025-05-12</date>
+  </programme>
+  <programme channel="400480" start="20250513000000 +0000" stop="20250514000000 +0000">
+    <title lang="zh">NBA</title>
+    <desc />
+    <date>2025-05-13</date>
   </programme>
 <channel id="405060">
     <display-name lang="Canada">TSN3</display-name>
