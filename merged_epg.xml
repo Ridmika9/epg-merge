@@ -477,8 +477,13 @@
     <desc />
     <date>2025-05-13</date>
   </programme>
-  <programme channel="400477" start="20250513220000 +0000" stop="20250514000000 +0000">
+  <programme channel="400477" start="20250513220000 +0000" stop="20250513223000 +0000">
     <title lang="zh">MLB Lead Off</title>
+    <desc />
+    <date>2025-05-13</date>
+  </programme>
+  <programme channel="400477" start="20250513223000 +0000" stop="20250514000000 +0000">
+    <title lang="zh">Live MLB</title>
     <desc />
     <date>2025-05-13</date>
   </programme>
@@ -711,10 +716,25 @@
     <desc />
     <date>2025-05-13</date>
   </programme>
-  <programme channel="400480" start="20250513193000 +0000" stop="20250514000000 +0000">
+  <programme channel="400480" start="20250513193000 +0000" stop="20250513203000 +0000">
     <title lang="zh">Spanish Women's Liga F</title>
     <desc />
     <date>2025-05-13</date>
+  </programme>
+  <programme channel="400480" start="20250513203000 +0000" stop="20250513233000 +0000">
+    <title lang="zh">UFC</title>
+    <desc />
+    <date>2025-05-13</date>
+  </programme>
+  <programme channel="400480" start="20250513233000 +0000" stop="20250514000000 +0000">
+    <title lang="zh">Fight Week</title>
+    <desc />
+    <date>2025-05-13</date>
+  </programme>
+  <programme channel="400480" start="20250514000000 +0000" stop="20250515000000 +0000">
+    <title lang="zh">UFC Connected</title>
+    <desc />
+    <date>2025-05-14</date>
   </programme>
 <channel id="405060">
     <display-name lang="Canada">TSN3</display-name>
