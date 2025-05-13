@@ -447,8 +447,18 @@
     <desc />
     <date>2025-05-14</date>
   </programme>
-  <programme channel="400477" start="20250514210000 +0000" stop="20250515000000 +0000">
+  <programme channel="400477" start="20250514210000 +0000" stop="20250514213000 +0000">
     <title lang="zh">Fight Week</title>
+    <desc />
+    <date>2025-05-14</date>
+  </programme>
+  <programme channel="400477" start="20250514213000 +0000" stop="20250514230000 +0000">
+    <title lang="zh">NBA</title>
+    <desc />
+    <date>2025-05-14</date>
+  </programme>
+  <programme channel="400477" start="20250514230000 +0000" stop="20250515000000 +0000">
+    <title lang="zh">Live NBA</title>
     <desc />
     <date>2025-05-14</date>
   </programme>
@@ -686,8 +696,18 @@
     <desc />
     <date>2025-05-14</date>
   </programme>
-  <programme channel="400480" start="20250514183000 +0000" stop="20250515000000 +0000">
+  <programme channel="400480" start="20250514183000 +0000" stop="20250514200000 +0000">
     <title lang="zh">Ultimate Pool</title>
+    <desc />
+    <date>2025-05-14</date>
+  </programme>
+  <programme channel="400480" start="20250514200000 +0000" stop="20250514231500 +0000">
+    <title lang="zh">Live MLB</title>
+    <desc />
+    <date>2025-05-14</date>
+  </programme>
+  <programme channel="400480" start="20250514231500 +0000" stop="20250515000000 +0000">
+    <title lang="zh">FIA World Endurance Championship Highlights</title>
     <desc />
     <date>2025-05-14</date>
   </programme>
