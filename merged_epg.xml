@@ -412,8 +412,18 @@
     <desc />
     <date>2025-05-15</date>
   </programme>
-  <programme channel="400477" start="20250515221500 +0000" stop="20250516000000 +0000">
+  <programme channel="400477" start="20250515221500 +0000" stop="20250515224500 +0000">
     <title lang="zh">MLB Plays of the Week</title>
+    <desc />
+    <date>2025-05-15</date>
+  </programme>
+  <programme channel="400477" start="20250515224500 +0000" stop="20250515230000 +0000">
+    <title lang="zh">TNT Sports Reload</title>
+    <desc />
+    <date>2025-05-15</date>
+  </programme>
+  <programme channel="400477" start="20250515230000 +0000" stop="20250516000000 +0000">
+    <title lang="zh">NBA</title>
     <desc />
     <date>2025-05-15</date>
   </programme>
@@ -666,7 +676,17 @@
     <desc />
     <date>2025-05-15</date>
   </programme>
-  <programme channel="400480" start="20250515213000 +0000" stop="20250516000000 +0000">
+  <programme channel="400480" start="20250515213000 +0000" stop="20250515223000 +0000">
+    <title lang="zh">Gallagher Premiership Rugby Union</title>
+    <desc />
+    <date>2025-05-15</date>
+  </programme>
+  <programme channel="400480" start="20250515223000 +0000" stop="20250515233000 +0000">
+    <title lang="zh">Gallagher Premiership Rugby Union</title>
+    <desc />
+    <date>2025-05-15</date>
+  </programme>
+  <programme channel="400480" start="20250515233000 +0000" stop="20250516000000 +0000">
     <title lang="zh">Gallagher Premiership Rugby Union</title>
     <desc />
     <date>2025-05-15</date>
