@@ -576,8 +576,18 @@
     <desc />
     <date>2025-05-17</date>
   </programme>
-  <programme channel="400480" start="20250517200000 +0000" stop="20250518000000 +0000">
+  <programme channel="400480" start="20250517200000 +0000" stop="20250517223000 +0000">
     <title lang="zh">Live: IFSC Climbing World Cup</title>
+    <desc />
+    <date>2025-05-17</date>
+  </programme>
+  <programme channel="400480" start="20250517223000 +0000" stop="20250517230000 +0000">
+    <title lang="zh">Superbike World Championship</title>
+    <desc />
+    <date>2025-05-17</date>
+  </programme>
+  <programme channel="400480" start="20250517230000 +0000" stop="20250518000000 +0000">
+    <title lang="zh">Live MLB</title>
     <desc />
     <date>2025-05-17</date>
   </programme>
