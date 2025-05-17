@@ -332,8 +332,18 @@
     <desc />
     <date>2025-05-18</date>
   </programme>
-  <programme channel="400477" start="20250518221500 +0000" stop="20250519000000 +0000">
+  <programme channel="400477" start="20250518221500 +0000" stop="20250518224500 +0000">
     <title lang="zh">World Rally Championship</title>
+    <desc />
+    <date>2025-05-18</date>
+  </programme>
+  <programme channel="400477" start="20250518224500 +0000" stop="20250518230000 +0000">
+    <title lang="zh">TNT Sports Reload</title>
+    <desc />
+    <date>2025-05-18</date>
+  </programme>
+  <programme channel="400477" start="20250518230000 +0000" stop="20250519000000 +0000">
+    <title lang="zh">Live MLB</title>
     <desc />
     <date>2025-05-18</date>
   </programme>
@@ -536,8 +546,18 @@
     <desc />
     <date>2025-05-18</date>
   </programme>
-  <programme channel="400480" start="20250518214500 +0000" stop="20250519000000 +0000">
+  <programme channel="400480" start="20250518214500 +0000" stop="20250518223000 +0000">
     <title lang="zh">Introduction to MotoGP with Kenny Allstar</title>
+    <desc />
+    <date>2025-05-18</date>
+  </programme>
+  <programme channel="400480" start="20250518223000 +0000" stop="20250518233000 +0000">
+    <title lang="zh">MotoGP Breakdown Show</title>
+    <desc />
+    <date>2025-05-18</date>
+  </programme>
+  <programme channel="400480" start="20250518233000 +0000" stop="20250519000000 +0000">
+    <title lang="zh">Porsche Supercup</title>
     <desc />
     <date>2025-05-18</date>
   </programme>
