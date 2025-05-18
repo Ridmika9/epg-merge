@@ -641,8 +641,18 @@
     <desc />
     <date>2025-05-19</date>
   </programme>
-  <programme channel="400480" start="20250519213000 +0000" stop="20250520000000 +0000">
+  <programme channel="400480" start="20250519213000 +0000" stop="20250519221500 +0000">
     <title lang="zh">The Rugby Review</title>
+    <desc />
+    <date>2025-05-19</date>
+  </programme>
+  <programme channel="400480" start="20250519221500 +0000" stop="20250519233000 +0000">
+    <title lang="zh">Original Documentary</title>
+    <desc />
+    <date>2025-05-19</date>
+  </programme>
+  <programme channel="400480" start="20250519233000 +0000" stop="20250520000000 +0000">
+    <title lang="zh">Serie A</title>
     <desc />
     <date>2025-05-19</date>
   </programme>
