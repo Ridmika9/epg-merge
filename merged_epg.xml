@@ -467,8 +467,13 @@
     <desc />
     <date>2025-05-20</date>
   </programme>
-  <programme channel="400477" start="20250520220000 +0000" stop="20250521000000 +0000">
+  <programme channel="400477" start="20250520220000 +0000" stop="20250520223000 +0000">
     <title lang="zh">MLB Lead Off</title>
+    <desc />
+    <date>2025-05-20</date>
+  </programme>
+  <programme channel="400477" start="20250520223000 +0000" stop="20250521000000 +0000">
+    <title lang="zh">Live MLB</title>
     <desc />
     <date>2025-05-20</date>
   </programme>
@@ -706,10 +711,20 @@
     <desc />
     <date>2025-05-20</date>
   </programme>
-  <programme channel="400480" start="20250520210000 +0000" stop="20250521000000 +0000">
+  <programme channel="400480" start="20250520210000 +0000" stop="20250520220000 +0000">
     <title lang="zh">Isuzu UTE A-League</title>
     <desc />
     <date>2025-05-20</date>
+  </programme>
+  <programme channel="400480" start="20250520220000 +0000" stop="20250521000000 +0000">
+    <title lang="zh">Original Documentary</title>
+    <desc />
+    <date>2025-05-20</date>
+  </programme>
+  <programme channel="400480" start="20250521000000 +0000" stop="20250522000000 +0000">
+    <title lang="zh">NBA on Fire</title>
+    <desc />
+    <date>2025-05-21</date>
   </programme>
 <channel id="405060">
     <display-name lang="Canada">TSN3</display-name>
