@@ -462,10 +462,25 @@
     <desc />
     <date>2025-05-21</date>
   </programme>
-  <programme channel="400477" start="20250521170000 +0000" stop="20250522000000 +0000">
+  <programme channel="400477" start="20250521170000 +0000" stop="20250521220000 +0000">
     <title lang="zh">Live UEFA Europa League</title>
     <desc />
     <date>2025-05-21</date>
+  </programme>
+  <programme channel="400477" start="20250521220000 +0000" stop="20250521230000 +0000">
+    <title lang="zh">The Football's On</title>
+    <desc />
+    <date>2025-05-21</date>
+  </programme>
+  <programme channel="400477" start="20250521230000 +0000" stop="20250522000000 +0000">
+    <title lang="zh">NBA Tip-Off</title>
+    <desc />
+    <date>2025-05-21</date>
+  </programme>
+  <programme channel="400477" start="20250522000000 +0000" stop="20250523000000 +0000">
+    <title lang="zh">Live NBA</title>
+    <desc />
+    <date>2025-05-22</date>
   </programme>
 <channel id="400480">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 2 HD</display-name>
@@ -671,10 +686,25 @@
     <desc />
     <date>2025-05-21</date>
   </programme>
-  <programme channel="400480" start="20250521193000 +0000" stop="20250522000000 +0000">
+  <programme channel="400480" start="20250521193000 +0000" stop="20250521224500 +0000">
     <title lang="zh">Live MLB</title>
     <desc />
     <date>2025-05-21</date>
+  </programme>
+  <programme channel="400480" start="20250521224500 +0000" stop="20250521233000 +0000">
+    <title lang="zh">The Rugby Review</title>
+    <desc />
+    <date>2025-05-21</date>
+  </programme>
+  <programme channel="400480" start="20250521233000 +0000" stop="20250522000000 +0000">
+    <title lang="zh">Serie A - Full Impact</title>
+    <desc />
+    <date>2025-05-21</date>
+  </programme>
+  <programme channel="400480" start="20250522000000 +0000" stop="20250523000000 +0000">
+    <title lang="zh">UEFA Europa League</title>
+    <desc />
+    <date>2025-05-22</date>
   </programme>
 <channel id="405060">
     <display-name lang="Canada">TSN3</display-name>
