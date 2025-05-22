@@ -287,10 +287,25 @@
     <desc />
     <date>2025-05-23</date>
   </programme>
-  <programme channel="400477" start="20250523220000 +0000" stop="20250524000000 +0000">
+  <programme channel="400477" start="20250523220000 +0000" stop="20250523223000 +0000">
     <title lang="zh">The Fantasy Show</title>
     <desc />
     <date>2025-05-23</date>
+  </programme>
+  <programme channel="400477" start="20250523223000 +0000" stop="20250523230000 +0000">
+    <title lang="zh">UEFA Champions League Magazine</title>
+    <desc />
+    <date>2025-05-23</date>
+  </programme>
+  <programme channel="400477" start="20250523230000 +0000" stop="20250524000000 +0000">
+    <title lang="zh">NBA Tip-Off</title>
+    <desc />
+    <date>2025-05-23</date>
+  </programme>
+  <programme channel="400477" start="20250524000000 +0000" stop="20250525000000 +0000">
+    <title lang="zh">Live NBA</title>
+    <desc />
+    <date>2025-05-24</date>
   </programme>
 <channel id="400480">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 2 HD</display-name>
@@ -516,8 +531,18 @@
     <desc />
     <date>2025-05-23</date>
   </programme>
-  <programme channel="400480" start="20250523213000 +0000" stop="20250524000000 +0000">
+  <programme channel="400480" start="20250523213000 +0000" stop="20250523223000 +0000">
     <title lang="zh">MLB Highlights</title>
+    <desc />
+    <date>2025-05-23</date>
+  </programme>
+  <programme channel="400480" start="20250523223000 +0000" stop="20250523230000 +0000">
+    <title lang="zh">MLB: Off the Bat</title>
+    <desc />
+    <date>2025-05-23</date>
+  </programme>
+  <programme channel="400480" start="20250523230000 +0000" stop="20250524000000 +0000">
+    <title lang="zh">Live MLB</title>
     <desc />
     <date>2025-05-23</date>
   </programme>
