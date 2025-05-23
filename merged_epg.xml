@@ -252,8 +252,23 @@
     <desc />
     <date>2025-05-24</date>
   </programme>
-  <programme channel="400477" start="20250524190000 +0000" stop="20250525000000 +0000">
+  <programme channel="400477" start="20250524190000 +0000" stop="20250524200000 +0000">
     <title lang="zh">The Football's On</title>
+    <desc />
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="400477" start="20250524200000 +0000" stop="20250524231500 +0000">
+    <title lang="zh">Live MLB</title>
+    <desc />
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="400477" start="20250524231500 +0000" stop="20250524234500 +0000">
+    <title lang="zh">Premier League Preview</title>
+    <desc />
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="400477" start="20250524234500 +0000" stop="20250525000000 +0000">
+    <title lang="zh">The Fantasy Show</title>
     <desc />
     <date>2025-05-24</date>
   </programme>
@@ -471,8 +486,18 @@
     <desc />
     <date>2025-05-24</date>
   </programme>
-  <programme channel="400480" start="20250524221500 +0000" stop="20250525000000 +0000">
+  <programme channel="400480" start="20250524221500 +0000" stop="20250524223000 +0000">
     <title lang="zh">TNT Sports Cricket Reload</title>
+    <desc />
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="400480" start="20250524223000 +0000" stop="20250524230000 +0000">
+    <title lang="zh">The Fantasy Show</title>
+    <desc />
+    <date>2025-05-24</date>
+  </programme>
+  <programme channel="400480" start="20250524230000 +0000" stop="20250525000000 +0000">
+    <title lang="zh">Live MLB</title>
     <desc />
     <date>2025-05-24</date>
   </programme>
