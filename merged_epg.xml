@@ -312,10 +312,25 @@
     <desc />
     <date>2025-05-25</date>
   </programme>
-  <programme channel="400477" start="20250525180000 +0000" stop="20250526000000 +0000">
+  <programme channel="400477" start="20250525180000 +0000" stop="20250525220000 +0000">
     <title lang="zh">Live: Roland Garros</title>
     <desc />
     <date>2025-05-25</date>
+  </programme>
+  <programme channel="400477" start="20250525220000 +0000" stop="20250525230000 +0000">
+    <title lang="zh">Roland Garros</title>
+    <desc />
+    <date>2025-05-25</date>
+  </programme>
+  <programme channel="400477" start="20250525230000 +0000" stop="20250526000000 +0000">
+    <title lang="zh">NBA Tip-Off</title>
+    <desc />
+    <date>2025-05-25</date>
+  </programme>
+  <programme channel="400477" start="20250526000000 +0000" stop="20250527000000 +0000">
+    <title lang="zh">Live NBA</title>
+    <desc />
+    <date>2025-05-26</date>
   </programme>
 <channel id="400480">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 2 HD</display-name>
@@ -511,8 +526,23 @@
     <desc />
     <date>2025-05-25</date>
   </programme>
-  <programme channel="400480" start="20250525214500 +0000" stop="20250526000000 +0000">
+  <programme channel="400480" start="20250525214500 +0000" stop="20250525220000 +0000">
     <title lang="zh">The Football's On</title>
+    <desc />
+    <date>2025-05-25</date>
+  </programme>
+  <programme channel="400480" start="20250525220000 +0000" stop="20250525223000 +0000">
+    <title lang="zh">What I Wore</title>
+    <desc />
+    <date>2025-05-25</date>
+  </programme>
+  <programme channel="400480" start="20250525223000 +0000" stop="20250525230000 +0000">
+    <title lang="zh">UEFA Champions League Magazine</title>
+    <desc />
+    <date>2025-05-25</date>
+  </programme>
+  <programme channel="400480" start="20250525230000 +0000" stop="20250526000000 +0000">
+    <title lang="zh">Live MLB</title>
     <desc />
     <date>2025-05-25</date>
   </programme>
