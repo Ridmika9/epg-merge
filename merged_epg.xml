@@ -377,10 +377,25 @@
     <desc />
     <date>2025-05-26</date>
   </programme>
-  <programme channel="400477" start="20250526180000 +0000" stop="20250527000000 +0000">
+  <programme channel="400477" start="20250526180000 +0000" stop="20250526220000 +0000">
     <title lang="zh">Live: Roland Garros</title>
     <desc />
     <date>2025-05-26</date>
+  </programme>
+  <programme channel="400477" start="20250526220000 +0000" stop="20250526233000 +0000">
+    <title lang="zh">Roland Garros</title>
+    <desc />
+    <date>2025-05-26</date>
+  </programme>
+  <programme channel="400477" start="20250526233000 +0000" stop="20250527000000 +0000">
+    <title lang="zh">UEFA Champions League Magazine</title>
+    <desc />
+    <date>2025-05-26</date>
+  </programme>
+  <programme channel="400477" start="20250527000000 +0000" stop="20250528000000 +0000">
+    <title lang="zh">NBA Action</title>
+    <desc />
+    <date>2025-05-27</date>
   </programme>
 <channel id="400480">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 2 HD</display-name>
@@ -591,8 +606,13 @@
     <desc />
     <date>2025-05-26</date>
   </programme>
-  <programme channel="400480" start="20250526210000 +0000" stop="20250527000000 +0000">
+  <programme channel="400480" start="20250526210000 +0000" stop="20250526220000 +0000">
     <title lang="zh">MotoGP Breakdown Show</title>
+    <desc />
+    <date>2025-05-26</date>
+  </programme>
+  <programme channel="400480" start="20250526220000 +0000" stop="20250527000000 +0000">
+    <title lang="zh">Live MLB</title>
     <desc />
     <date>2025-05-26</date>
   </programme>
