@@ -402,10 +402,25 @@
     <desc />
     <date>2025-05-27</date>
   </programme>
-  <programme channel="400477" start="20250527180000 +0000" stop="20250528000000 +0000">
+  <programme channel="400477" start="20250527180000 +0000" stop="20250527220000 +0000">
     <title lang="zh">Live: Roland Garros</title>
     <desc />
     <date>2025-05-27</date>
+  </programme>
+  <programme channel="400477" start="20250527220000 +0000" stop="20250527230000 +0000">
+    <title lang="zh">UEFA Europa League &amp; Conference League Magazine</title>
+    <desc />
+    <date>2025-05-27</date>
+  </programme>
+  <programme channel="400477" start="20250527230000 +0000" stop="20250528000000 +0000">
+    <title lang="zh">NBA Tip-Off</title>
+    <desc />
+    <date>2025-05-27</date>
+  </programme>
+  <programme channel="400477" start="20250528000000 +0000" stop="20250529000000 +0000">
+    <title lang="zh">Live NBA</title>
+    <desc />
+    <date>2025-05-28</date>
   </programme>
 <channel id="400480">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 2 HD</display-name>
@@ -641,8 +656,13 @@
     <desc />
     <date>2025-05-27</date>
   </programme>
-  <programme channel="400480" start="20250527220000 +0000" stop="20250528000000 +0000">
+  <programme channel="400480" start="20250527220000 +0000" stop="20250527223000 +0000">
     <title lang="zh">MLB Lead Off</title>
+    <desc />
+    <date>2025-05-27</date>
+  </programme>
+  <programme channel="400480" start="20250527223000 +0000" stop="20250528000000 +0000">
+    <title lang="zh">Live MLB</title>
     <desc />
     <date>2025-05-27</date>
   </programme>
