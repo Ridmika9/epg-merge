@@ -397,8 +397,18 @@
     <desc />
     <date>2025-05-28</date>
   </programme>
-  <programme channel="400477" start="20250528173000 +0000" stop="20250529000000 +0000">
+  <programme channel="400477" start="20250528173000 +0000" stop="20250528220000 +0000">
     <title lang="zh">Live UEFA Conference League</title>
+    <desc />
+    <date>2025-05-28</date>
+  </programme>
+  <programme channel="400477" start="20250528220000 +0000" stop="20250528230000 +0000">
+    <title lang="zh">The Football's On</title>
+    <desc />
+    <date>2025-05-28</date>
+  </programme>
+  <programme channel="400477" start="20250528230000 +0000" stop="20250529000000 +0000">
+    <title lang="zh">Original Documentary</title>
     <desc />
     <date>2025-05-28</date>
   </programme>
@@ -651,10 +661,25 @@
     <desc />
     <date>2025-05-28</date>
   </programme>
-  <programme channel="400480" start="20250528213000 +0000" stop="20250529000000 +0000">
+  <programme channel="400480" start="20250528213000 +0000" stop="20250528223000 +0000">
     <title lang="zh">Giro d'Italia Men Highlights</title>
     <desc />
     <date>2025-05-28</date>
+  </programme>
+  <programme channel="400480" start="20250528223000 +0000" stop="20250528230000 +0000">
+    <title lang="zh">TNT Sports Reload</title>
+    <desc />
+    <date>2025-05-28</date>
+  </programme>
+  <programme channel="400480" start="20250528230000 +0000" stop="20250529000000 +0000">
+    <title lang="zh">Isuzu UTE A-League</title>
+    <desc />
+    <date>2025-05-28</date>
+  </programme>
+  <programme channel="400480" start="20250529000000 +0000" stop="20250530000000 +0000">
+    <title lang="zh">Isuzu UTE A-League</title>
+    <desc />
+    <date>2025-05-29</date>
   </programme>
 <channel id="405060">
     <display-name lang="Canada">TSN3</display-name>
