@@ -362,10 +362,25 @@
     <desc />
     <date>2025-05-29</date>
   </programme>
-  <programme channel="400477" start="20250529220000 +0000" stop="20250530000000 +0000">
+  <programme channel="400477" start="20250529220000 +0000" stop="20250529223000 +0000">
     <title lang="zh">UEFA Champions League Magazine</title>
     <desc />
     <date>2025-05-29</date>
+  </programme>
+  <programme channel="400477" start="20250529223000 +0000" stop="20250529230000 +0000">
+    <title lang="zh">NBA Action</title>
+    <desc />
+    <date>2025-05-29</date>
+  </programme>
+  <programme channel="400477" start="20250529230000 +0000" stop="20250530000000 +0000">
+    <title lang="zh">NBA Tip-Off</title>
+    <desc />
+    <date>2025-05-29</date>
+  </programme>
+  <programme channel="400477" start="20250530000000 +0000" stop="20250531000000 +0000">
+    <title lang="zh">Live NBA</title>
+    <desc />
+    <date>2025-05-30</date>
   </programme>
 <channel id="400480">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 2 HD</display-name>
@@ -601,8 +616,13 @@
     <desc />
     <date>2025-05-29</date>
   </programme>
-  <programme channel="400480" start="20250529213000 +0000" stop="20250530000000 +0000">
+  <programme channel="400480" start="20250529213000 +0000" stop="20250529223000 +0000">
     <title lang="zh">MLB Highlights</title>
+    <desc />
+    <date>2025-05-29</date>
+  </programme>
+  <programme channel="400480" start="20250529223000 +0000" stop="20250530000000 +0000">
+    <title lang="zh">Live MLB</title>
     <desc />
     <date>2025-05-29</date>
   </programme>
