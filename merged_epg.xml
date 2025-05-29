@@ -337,10 +337,25 @@
     <desc />
     <date>2025-05-30</date>
   </programme>
-  <programme channel="400477" start="20250530180000 +0000" stop="20250531000000 +0000">
+  <programme channel="400477" start="20250530180000 +0000" stop="20250530220000 +0000">
     <title lang="zh">Live: Roland Garros</title>
     <desc />
     <date>2025-05-30</date>
+  </programme>
+  <programme channel="400477" start="20250530220000 +0000" stop="20250530233000 +0000">
+    <title lang="zh">Roland Garros</title>
+    <desc />
+    <date>2025-05-30</date>
+  </programme>
+  <programme channel="400477" start="20250530233000 +0000" stop="20250531000000 +0000">
+    <title lang="zh">NBA Action</title>
+    <desc />
+    <date>2025-05-30</date>
+  </programme>
+  <programme channel="400477" start="20250531000000 +0000" stop="20250601000000 +0000">
+    <title lang="zh">NBA on Fire</title>
+    <desc />
+    <date>2025-05-31</date>
   </programme>
 <channel id="400480">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 2 HD</display-name>
@@ -541,8 +556,18 @@
     <desc />
     <date>2025-05-30</date>
   </programme>
-  <programme channel="400480" start="20250530214500 +0000" stop="20250531000000 +0000">
+  <programme channel="400480" start="20250530214500 +0000" stop="20250530223000 +0000">
     <title lang="zh">Sign Up - Into Football</title>
+    <desc />
+    <date>2025-05-30</date>
+  </programme>
+  <programme channel="400480" start="20250530223000 +0000" stop="20250530230000 +0000">
+    <title lang="zh">Discovery Golf</title>
+    <desc />
+    <date>2025-05-30</date>
+  </programme>
+  <programme channel="400480" start="20250530230000 +0000" stop="20250531000000 +0000">
+    <title lang="zh">Ultimate Pool</title>
     <desc />
     <date>2025-05-30</date>
   </programme>
