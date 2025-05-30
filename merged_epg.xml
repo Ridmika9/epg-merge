@@ -312,9 +312,19 @@
     <desc />
     <date>2025-05-31</date>
   </programme>
-  <programme channel="400477" start="20250531170000 +0000" stop="20250601000000 +0000">
+  <programme channel="400477" start="20250531170000 +0000" stop="20250531220000 +0000">
     <title lang="zh">Live UEFA Champions League</title>
     <desc />
+    <date>2025-05-31</date>
+  </programme>
+  <programme channel="400477" start="20250531220000 +0000" stop="20250531230000 +0000">
+    <title lang="zh">TNT Sports Films</title>
+    <desc>20 years on from Liverpool's triumph in the 2005 UEFA Champions League final, we take a look back at the Miracle of Istanbul and one of the greatest comebacks in sporting history.</desc>
+    <date>2025-05-31</date>
+  </programme>
+  <programme channel="400477" start="20250531230000 +0000" stop="20250601000000 +0000">
+    <title lang="zh">Live: The Ultimate Fighting Championship</title>
+    <desc>Action from the UFC Fight Night Prelims in Las Vegas ahead of the flyweight bout between Erin Blanchfield and Maycee Barber.</desc>
     <date>2025-05-31</date>
   </programme>
 <channel id="400480">
