@@ -496,10 +496,25 @@
     <desc />
     <date>2025-05-31</date>
   </programme>
-  <programme channel="400480" start="20250531203000 +0000" stop="20250601000000 +0000">
+  <programme channel="400480" start="20250531203000 +0000" stop="20250531223000 +0000">
     <title lang="zh">Live: Grand Slam Track Athletics</title>
     <desc />
     <date>2025-05-31</date>
+  </programme>
+  <programme channel="400480" start="20250531223000 +0000" stop="20250531230000 +0000">
+    <title lang="zh">NBA On Fire</title>
+    <desc>All the latest updates from the NBA, featuring highlights, behind-the-scenes footage and in-depth analysis of standout performances.</desc>
+    <date>2025-05-31</date>
+  </programme>
+  <programme channel="400480" start="20250531230000 +0000" stop="20250601000000 +0000">
+    <title lang="zh">NBA Tip-Off</title>
+    <desc>Ernie Johnson Jr hosts as basketball legends Charles Barkley, Kenny Smith and Shaquille O'Neal preview the upcoming NBA action.</desc>
+    <date>2025-05-31</date>
+  </programme>
+  <programme channel="400480" start="20250601000000 +0000" stop="20250602000000 +0000">
+    <title lang="zh">Live: NBA Basketball</title>
+    <desc>Game 6 of the NBA Eastern Conference finals as Indiana Pacers face New York Knicks at Gainbridge Fieldhouse.</desc>
+    <date>2025-06-01</date>
   </programme>
 <channel id="405060">
     <display-name lang="Canada">TSN3</display-name>
