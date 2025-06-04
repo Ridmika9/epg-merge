@@ -422,6 +422,11 @@
     <desc>Action is the watchword for this fast paced highlights programme, which rounds up the latest action from the NBA.</desc>
     <date>2025-06-05</date>
   </programme>
+  <programme channel="400477" start="20250606000000 +0000" stop="20250607000000 +0000">
+    <title lang="zh">NBA Action</title>
+    <desc>Action is the watchword for this fast paced highlights programme, which rounds up the latest action from the NBA.</desc>
+    <date>2025-06-06</date>
+  </programme>
 <channel id="400480">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 2 HD</display-name>
     <icon src="" />
