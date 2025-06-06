@@ -412,6 +412,11 @@
     <desc>Tom Aspinall looks ahead to UFC 316 at Prudential Center in Newark, New Jersey, as Merab Dvalishvili defends his bantamweight belt against Sean O'Malley.</desc>
     <date>2025-06-07</date>
   </programme>
+  <programme channel="400477" start="20250608000000 +0000" stop="20250609000000 +0000">
+    <title lang="zh">Live: The Ultimate Fighting Championship</title>
+    <desc>Action from the UFC 316 Prelims at Prudential Center ahead of the bantamweight title bout between Merab Dvalishvili and former champion Sean O'Malley.</desc>
+    <date>2025-06-08</date>
+  </programme>
 <channel id="400480">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 2 HD</display-name>
     <icon src="" />
