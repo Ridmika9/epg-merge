@@ -372,6 +372,11 @@
     <desc>Action from the Roland-Garros Women's Doubles Final.</desc>
     <date>2025-06-08</date>
   </programme>
+  <programme channel="400477" start="20250609000000 +0000" stop="20250610000000 +0000">
+    <title lang="zh">Live: NBA Basketball</title>
+    <desc>Game 2 of the NBA Finals as Oklahoma City Thunder face Indiana Pacers at Paycom Center. The Pacers edged the thrilling finals opener, stunning the Thunder with a 111-110 win.</desc>
+    <date>2025-06-09</date>
+  </programme>
 <channel id="400480">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 2 HD</display-name>
     <icon src="" />
