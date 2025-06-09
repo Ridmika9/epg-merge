@@ -741,6 +741,11 @@
     <desc>Joe Salisbury and Neal Skupski look to become Britain's first Men's Doubles champions at Roland-Garros since 1933, as they take on Marcel Granollers and Horacio Zeballos.</desc>
     <date>2025-06-10</date>
   </programme>
+  <programme channel="400480" start="20250611000000 +0000" stop="20250612000000 +0000">
+    <title lang="zh">Roland Garros 2025</title>
+    <desc>Action from the Roland-Garros Women's Doubles final, as Italian pair Jasmine Paolini and Sara Errani take on Aleksandra Krunic and Anna Danilina.</desc>
+    <date>2025-06-11</date>
+  </programme>
 <channel id="405060">
     <display-name lang="Canada">TSN3</display-name>
     <icon src="" />
