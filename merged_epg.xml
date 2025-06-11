@@ -596,9 +596,19 @@
     <desc>FIA World Endurance Championship action from the fourth free practice session ahead of the 24 Hours of Le Mans.</desc>
     <date>2025-06-12</date>
   </programme>
-  <programme channel="400480" start="20250612221500 +0000" stop="20250613000000 +0000">
+  <programme channel="400480" start="20250612221500 +0000" stop="20250612223000 +0000">
     <title lang="zh">Roland Garros 2025</title>
     <desc>A review of the best action and stories from Roland-Garros.</desc>
+    <date>2025-06-12</date>
+  </programme>
+  <programme channel="400480" start="20250612223000 +0000" stop="20250612233000 +0000">
+    <title lang="zh">Roland Garros 2025</title>
+    <desc>A review of the best action and stories from Roland-Garros.</desc>
+    <date>2025-06-12</date>
+  </programme>
+  <programme channel="400480" start="20250612233000 +0000" stop="20250613000000 +0000">
+    <title lang="zh">IFSC Climbing World Cup</title>
+    <desc>Highlights from the IFSC Climbing World Cup in Prague, Czech Republic, featuring the Men's and Women's Bouldering final.</desc>
     <date>2025-06-12</date>
   </programme>
 <channel id="405060">
