@@ -377,6 +377,11 @@
     <desc>All the latest updates from the NBA, featuring highlights, behind-the-scenes footage and in-depth analysis of standout performances.</desc>
     <date>2025-06-13</date>
   </programme>
+  <programme channel="400477" start="20250614000000 +0000" stop="20250615000000 +0000">
+    <title lang="zh">NBA Action</title>
+    <desc>Action is the watchword for this fast paced highlights programme, which rounds up the latest action from the NBA.</desc>
+    <date>2025-06-14</date>
+  </programme>
 <channel id="400480">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 2 HD</display-name>
     <icon src="" />
@@ -655,6 +660,11 @@
     <title lang="zh">TNT Sports Reload</title>
     <desc>The best bits from TNT Sports over the last week, including exclusive interviews, the best action and so much more.</desc>
     <date>2025-06-13</date>
+  </programme>
+  <programme channel="400480" start="20250614000000 +0000" stop="20250615000000 +0000">
+    <title lang="zh">The Ultimate Cycling Show</title>
+    <desc>Orla Chennaoui and Adam Blythe are joined by the stars of cycling for a comprehensive guide to bike racing on the track, road and in the mountains.</desc>
+    <date>2025-06-14</date>
   </programme>
 <channel id="405060">
     <display-name lang="Canada">TSN3</display-name>
