@@ -331,151 +331,6 @@
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 2 HD</display-name>
     <icon src="" />
   </channel>
-  <programme channel="400480" start="20250613003000 +0000" stop="20250613010000 +0000">
-    <title lang="zh">TNT Sports Reload</title>
-    <desc>The best bits from TNT Sports over the last week, including exclusive interviews, the best action and so much more.</desc>
-    <date>2025-06-13</date>
-  </programme>
-  <programme channel="400480" start="20250613010000 +0000" stop="20250613020000 +0000">
-    <title lang="zh">Critérium du Dauphiné Cycling</title>
-    <desc>Men's Cycling World Tour action from stage five of Criterium du Dauphine, as the riders travel 183km from Saint-Priest to Macon.</desc>
-    <date>2025-06-13</date>
-  </programme>
-  <programme channel="400480" start="20250613020000 +0000" stop="20250613030000 +0000">
-    <title lang="zh">Tour de Suisse</title>
-    <desc>Women's Cycling World Tour action from stage one of the Tour of Switzerland.</desc>
-    <date>2025-06-13</date>
-  </programme>
-  <programme channel="400480" start="20250613030000 +0000" stop="20250613043000 +0000">
-    <title lang="zh">NBA Basketball</title>
-    <desc>Game 3 of the NBA Finals as Oklahoma City Thunder face Indiana Pacers at Gainbridge Fieldhouse.</desc>
-    <date>2025-06-13</date>
-  </programme>
-  <programme channel="400480" start="20250613043000 +0000" stop="20250613050000 +0000">
-    <title lang="zh">NBA Action</title>
-    <desc>Action is the watchword for this fast paced highlights programme, which rounds up the latest action from the NBA.</desc>
-    <date>2025-06-13</date>
-  </programme>
-  <programme channel="400480" start="20250613050000 +0000" stop="20250613053000 +0000">
-    <title lang="zh">Formula E Unplugged</title>
-    <desc>We look at how the customers will push for both the drivers and constructors Championships with their two very different drivers.</desc>
-    <date>2025-06-13</date>
-  </programme>
-  <programme channel="400480" start="20250613053000 +0000" stop="20250613063000 +0000">
-    <title lang="zh">Premiership Speedway</title>
-    <desc>Highlights from round five of British Speedway as Leicester take on Sheffield.</desc>
-    <date>2025-06-13</date>
-  </programme>
-  <programme channel="400480" start="20250613063000 +0000" stop="20250613073000 +0000">
-    <title lang="zh">MotoGP</title>
-    <desc>Race action from the 2025 MotoGP Grand Prix of Aragon at MotorLand Aragon.</desc>
-    <date>2025-06-13</date>
-  </programme>
-  <programme channel="400480" start="20250613073000 +0000" stop="20250613083000 +0000">
-    <title lang="zh">MotoGP Chequered Flag</title>
-    <desc>Post-race show featuring analysis, highlights and interviews with all the key riders following the Grand Prix of Aragon at MotorLand Aragon.</desc>
-    <date>2025-06-13</date>
-  </programme>
-  <programme channel="400480" start="20250613083000 +0000" stop="20250613093000 +0000">
-    <title lang="zh">Live: FIM Superbike World Championship Motorcycle Racing</title>
-    <desc>Superbike World Championship action from the Superbike first free practice session in Emilia-Romagna.</desc>
-    <date>2025-06-13</date>
-  </programme>
-  <programme channel="400480" start="20250613093000 +0000" stop="20250613094500 +0000">
-    <title lang="zh">World Superbike Rewind</title>
-    <desc>We look back at the opening weekend of the 2025 Superbike World Championship at Phillip Island Grand Prix Circuit in Australia.</desc>
-    <date>2025-06-13</date>
-  </programme>
-  <programme channel="400480" start="20250613094500 +0000" stop="20250613100000 +0000">
-    <title lang="zh">World Superbike Rewind</title>
-    <desc>A look back at the Portuguese Round of the 2025 Superbike World Championship at Autodromo Internacional do Algarve.</desc>
-    <date>2025-06-13</date>
-  </programme>
-  <programme channel="400480" start="20250613100000 +0000" stop="20250613101500 +0000">
-    <title lang="zh">World Superbike Rewind</title>
-    <desc>We revisit the Dutch Round of the 2025 Superbike World Championship.</desc>
-    <date>2025-06-13</date>
-  </programme>
-  <programme channel="400480" start="20250613101500 +0000" stop="20250613103000 +0000">
-    <title lang="zh">World Superbike Rewind</title>
-    <desc>A look back at the Italian round of the 2025 Superbike World Championship, as a home hero claimed a stunning hat-trick at the Cremona Circuit.</desc>
-    <date>2025-06-13</date>
-  </programme>
-  <programme channel="400480" start="20250613103000 +0000" stop="20250613104500 +0000">
-    <title lang="zh">World Superbike Rewind</title>
-    <desc>We revisit the Czech Republic Round of the 2025 Superbike World Championship, as Nicolo Bulega and Toprak Razgatlioglu battled it out in an epic race two.</desc>
-    <date>2025-06-13</date>
-  </programme>
-  <programme channel="400480" start="20250613104500 +0000" stop="20250613114500 +0000">
-    <title lang="zh">MotoGP</title>
-    <desc>Highlights from the 2025 MotoGP Grand Prix of Aragon at MotorLand Aragon.</desc>
-    <date>2025-06-13</date>
-  </programme>
-  <programme channel="400480" start="20250613114500 +0000" stop="20250613130000 +0000">
-    <title lang="zh">Live: FIM Superbike World Championship Motorcycle Racing</title>
-    <desc>Superbike World Championship action from the Supersport Superpole race in Emilia-Romagna.</desc>
-    <date>2025-06-13</date>
-  </programme>
-  <programme channel="400480" start="20250613130000 +0000" stop="20250613140000 +0000">
-    <title lang="zh">Live: FIM Superbike World Championship Motorcycle Racing</title>
-    <desc>Superbike World Championship action from the Superbike second free practice session in Emilia-Romagna.</desc>
-    <date>2025-06-13</date>
-  </programme>
-  <programme channel="400480" start="20250613140000 +0000" stop="20250613144500 +0000">
-    <title lang="zh">Live: FIM Superbike World Championship Motorcycle Racing</title>
-    <desc>Superbike World Championship action from the Supersport 300 Superpole race in Emilia-Romagna.</desc>
-    <date>2025-06-13</date>
-  </programme>
-  <programme channel="400480" start="20250613144500 +0000" stop="20250613150000 +0000">
-    <title lang="zh">Endurance Uncovered</title>
-    <desc>A special look at the World Endurance Championship, a global series of races that test the limits of both drivers and vehicles.</desc>
-    <date>2025-06-13</date>
-  </programme>
-  <programme channel="400480" start="20250613150000 +0000" stop="20250613151500 +0000">
-    <title lang="zh">Kenny Allstar's Number 1s</title>
-    <desc>The latest episode of Kenny Allstar's Number 1s, featuring UFC star Paddy Pimblett.</desc>
-    <date>2025-06-13</date>
-  </programme>
-  <programme channel="400480" start="20250613151500 +0000" stop="20250613160000 +0000">
-    <title lang="zh">Sign Up: Into Football</title>
-    <desc>Fara Williams, England Women's most-capped player, joins Rolf and Damaris to look back at the Premier League, Champions League and Women's Champions League.</desc>
-    <date>2025-06-13</date>
-  </programme>
-  <programme channel="400480" start="20250613160000 +0000" stop="20250613163000 +0000">
-    <title lang="zh">NBA On Fire</title>
-    <desc>All the latest updates from the NBA, featuring highlights, behind-the-scenes footage and in-depth analysis of standout performances.</desc>
-    <date>2025-06-13</date>
-  </programme>
-  <programme channel="400480" start="20250613163000 +0000" stop="20250613173000 +0000">
-    <title lang="zh">Major League Baseball</title>
-    <desc>Highlights from Major League Baseball.</desc>
-    <date>2025-06-13</date>
-  </programme>
-  <programme channel="400480" start="20250613173000 +0000" stop="20250613180000 +0000">
-    <title lang="zh">MLB: Off The Bat</title>
-    <desc>All the latest action from Major League Baseball wrapped up, featuring the league's top hitters and pitchers.</desc>
-    <date>2025-06-13</date>
-  </programme>
-  <programme channel="400480" start="20250613180000 +0000" stop="20250613211500 +0000">
-    <title lang="zh">Live: Major League Baseball</title>
-    <desc>Action from Major League Baseball as Chicago Cubs meet Pittsburgh Pirates.</desc>
-    <date>2025-06-13</date>
-  </programme>
-  <programme channel="400480" start="20250613211500 +0000" stop="20250613224500 +0000">
-    <title lang="zh">NBA Basketball</title>
-    <desc>Game 3 of the NBA Finals as Oklahoma City Thunder face Indiana Pacers at Gainbridge Fieldhouse.</desc>
-    <date>2025-06-13</date>
-  </programme>
-  <programme channel="400480" start="20250613224500 +0000" stop="20250613234500 +0000">
-    <title lang="zh">Premiership Speedway</title>
-    <desc>Highlights from round five of British Speedway as Leicester take on Sheffield.</desc>
-    <date>2025-06-13</date>
-  </programme>
-  <programme channel="400480" start="20250613234500 +0000" stop="20250614000000 +0000">
-    <title lang="zh">TNT Sports Reload</title>
-    <desc>The best bits from TNT Sports over the last week, including exclusive interviews, the best action and so much more.</desc>
-    <date>2025-06-13</date>
-  </programme>
   <programme channel="400480" start="20250614000000 +0000" stop="20250614010000 +0000">
     <title lang="zh">The Ultimate Cycling Show</title>
     <desc>Orla Chennaoui and Adam Blythe are joined by the stars of cycling for a comprehensive guide to bike racing on the track, road and in the mountains.</desc>
@@ -575,6 +430,101 @@
     <title lang="zh">Live: Major League Baseball</title>
     <desc>Action from Major League Baseball as New York Yankees face Boston Red Sox.</desc>
     <date>2025-06-14</date>
+  </programme>
+  <programme channel="400480" start="20250615021500 +0000" stop="20250615031500 +0000">
+    <title lang="zh">Critérium du Dauphiné Cycling</title>
+    <desc>Men's Cycling World Tour action from stage seven of Criterium du Dauphine, as the riders face a 131km mountain route from Grand-Aigueblanche to Valmeinier.</desc>
+    <date>2025-06-15</date>
+  </programme>
+  <programme channel="400480" start="20250615031500 +0000" stop="20250615041500 +0000">
+    <title lang="zh">International T20 Cricket</title>
+    <desc>Action from the second T20 between Ireland and West Indies at Bready Cricket Ground.</desc>
+    <date>2025-06-15</date>
+  </programme>
+  <programme channel="400480" start="20250615041500 +0000" stop="20250615044500 +0000">
+    <title lang="zh">FIM Superbike World Championship Motorcycle Racing</title>
+    <desc>Superbike World Championship action from Superbike race one in Emilia-Romagna.</desc>
+    <date>2025-06-15</date>
+  </programme>
+  <programme channel="400480" start="20250615044500 +0000" stop="20250615050000 +0000">
+    <title lang="zh">MotoGP Rewind</title>
+    <desc>A look back at the 2025 MotoGP Grand Prix of Aragon at MotorLand Aragon.</desc>
+    <date>2025-06-15</date>
+  </programme>
+  <programme channel="400480" start="20250615050000 +0000" stop="20250615080000 +0000">
+    <title lang="zh">Live: Australian Rules</title>
+    <desc>Action from the Australian Football League as Port Adelaide face Melbourne.</desc>
+    <date>2025-06-15</date>
+  </programme>
+  <programme channel="400480" start="20250615080000 +0000" stop="20250615083000 +0000">
+    <title lang="zh">FIM Superbike World Championship Motorcycle Racing</title>
+    <desc>Superbike World Championship action from Superbike race one in Emilia-Romagna.</desc>
+    <date>2025-06-15</date>
+  </programme>
+  <programme channel="400480" start="20250615083000 +0000" stop="20250615094500 +0000">
+    <title lang="zh">Live: FIM Superbike World Championship Motorcycle Racing</title>
+    <desc>Superbike World Championship action from the Superbike Superpole Race in Emilia-Romagna.</desc>
+    <date>2025-06-15</date>
+  </programme>
+  <programme channel="400480" start="20250615094500 +0000" stop="20250615100000 +0000">
+    <title lang="zh">World Superbike Rewind</title>
+    <desc>A look back at the Portuguese Round of the 2025 Superbike World Championship at Autodromo Internacional do Algarve.</desc>
+    <date>2025-06-15</date>
+  </programme>
+  <programme channel="400480" start="20250615100000 +0000" stop="20250615113000 +0000">
+    <title lang="zh">Live: FIM Superbike World Championship Motorcycle Racing</title>
+    <desc>Superbike World Championship action from Supersport race two in Emilia-Romagna.</desc>
+    <date>2025-06-15</date>
+  </programme>
+  <programme channel="400480" start="20250615113000 +0000" stop="20250615130000 +0000">
+    <title lang="zh">Live: FIM Superbike World Championship Motorcycle Racing</title>
+    <desc>Superbike World Championship action from Superbike race two in Emilia-Romagna.</desc>
+    <date>2025-06-15</date>
+  </programme>
+  <programme channel="400480" start="20250615130000 +0000" stop="20250615141500 +0000">
+    <title lang="zh">Live: FIM Superbike World Championship Motorcycle Racing</title>
+    <desc>Superbike World Championship action from Supersport 300 race two in Emilia-Romagna.</desc>
+    <date>2025-06-15</date>
+  </programme>
+  <programme channel="400480" start="20250615141500 +0000" stop="20250615150000 +0000">
+    <title lang="zh">Sign Up: Into Football</title>
+    <desc>Fara Williams, England Women's most-capped player, joins Rolf and Damaris to look back at the Premier League, Champions League and Women's Champions League.</desc>
+    <date>2025-06-15</date>
+  </programme>
+  <programme channel="400480" start="20250615150000 +0000" stop="20250615170000 +0000">
+    <title lang="zh">Live: IFSC Climbing World Cup</title>
+    <desc>IFSC Climbing World Cup action from the Men's Bouldering Final in Bern, Switzerland.</desc>
+    <date>2025-06-15</date>
+  </programme>
+  <programme channel="400480" start="20250615170000 +0000" stop="20250615173000 +0000">
+    <title lang="zh">MLB: Off The Bat</title>
+    <desc>All the latest action from Major League Baseball wrapped up, featuring the league's top hitters and pitchers.</desc>
+    <date>2025-06-15</date>
+  </programme>
+  <programme channel="400480" start="20250615173000 +0000" stop="20250615204500 +0000">
+    <title lang="zh">Live: Major League Baseball</title>
+    <desc>Action from Major League Baseball as New York Yankees face Boston Red Sox.</desc>
+    <date>2025-06-15</date>
+  </programme>
+  <programme channel="400480" start="20250615204500 +0000" stop="20250615211500 +0000">
+    <title lang="zh">FIM Superbike World Championship Motorcycle Racing</title>
+    <desc>Superbike World Championship action from the Superbike Superpole Race in Emilia-Romagna.</desc>
+    <date>2025-06-15</date>
+  </programme>
+  <programme channel="400480" start="20250615211500 +0000" stop="20250615214500 +0000">
+    <title lang="zh">FIM Superbike World Championship Motorcycle Racing</title>
+    <desc>Superbike World Championship action from Superbike race two in Emilia-Romagna.</desc>
+    <date>2025-06-15</date>
+  </programme>
+  <programme channel="400480" start="20250615214500 +0000" stop="20250615231500 +0000">
+    <title lang="zh">Premiership Rugby</title>
+    <desc>Bath Rugby face Leicester Tigers in a titanic clash at Twickenham as both sides battle for Gallagher Premiership glory in a thrilling season finale.</desc>
+    <date>2025-06-15</date>
+  </programme>
+  <programme channel="400480" start="20250615231500 +0000" stop="20250616000000 +0000">
+    <title lang="zh">FIM Speedway Grand Prix</title>
+    <desc>Action from the FIM Speedway Grand Prix in Manchester.</desc>
+    <date>2025-06-15</date>
   </programme>
 <channel id="405060">
     <display-name lang="Canada">TSN3</display-name>
