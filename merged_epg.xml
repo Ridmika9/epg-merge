@@ -671,6 +671,11 @@
     <desc>A special behind the scenes look at the Gallagher Premiership Rugby clash between Bath Rugby and Leicester Tigers at Twickenham.</desc>
     <date>2025-06-17</date>
   </programme>
+  <programme channel="400480" start="20250618000000 +0000" stop="20250619000000 +0000">
+    <title lang="zh">TNT Sports Films</title>
+    <desc>In Copsa Mica, the pollution created by industrial activity has impacted the health of the local team and forced them to transplant a football pitch from a nearby village.</desc>
+    <date>2025-06-18</date>
+  </programme>
 <channel id="405060">
     <display-name lang="Canada">TSN3</display-name>
     <icon src="" />
