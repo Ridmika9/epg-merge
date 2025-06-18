@@ -229,7 +229,7 @@
     <date>2025-06-20</date>
   </programme>
 <channel id="400477">
-    <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 1 HD</display-name>
+    <display-name lang="大不列顛及北愛爾蘭聯合王國">TNT Sports 1 HD</display-name>
     <icon src="" />
   </channel>
   <programme channel="400477" start="20250618003000 +0000" stop="20250618010000 +0000">
@@ -407,13 +407,28 @@
     <desc>Action is the watchword for this fast paced highlights programme, which rounds up the latest action from the NBA.</desc>
     <date>2025-06-19</date>
   </programme>
-  <programme channel="400477" start="20250619230000 +0000" stop="20250620000000 +0000">
+  <programme channel="400477" start="20250619230000 +0000" stop="20250619231500 +0000">
     <title lang="zh">NBA Basketball</title>
     <desc>Game 5 of the NBA Finals as Oklahoma City Thunder take on Indiana Pacers at Paycom Center. The Indiana Pacers and Oklahoma City Thunder are tied 2-2 heading into a pivotal Game 5.</desc>
     <date>2025-06-19</date>
   </programme>
+  <programme channel="400477" start="20250619231500 +0000" stop="20250619234500 +0000">
+    <title lang="zh">MLB Plays of the Week</title>
+    <desc>This weekly MLB highlights show showcases the most exciting plays from the past week's matches.</desc>
+    <date>2025-06-19</date>
+  </programme>
+  <programme channel="400477" start="20250619234500 +0000" stop="20250620000000 +0000">
+    <title lang="zh">Kenny Allstar's Number 1s</title>
+    <desc>The latest episode of Kenny Allstar's Number 1s, featuring UFC star Paddy Pimblett.</desc>
+    <date>2025-06-19</date>
+  </programme>
+  <programme channel="400477" start="20250620000000 +0000" stop="20250621000000 +0000">
+    <title lang="zh">NBA Action</title>
+    <desc>Action is the watchword for this fast paced highlights programme, which rounds up the latest action from the NBA.</desc>
+    <date>2025-06-20</date>
+  </programme>
 <channel id="400480">
-    <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 2 HD</display-name>
+    <display-name lang="大不列顛及北愛爾蘭聯合王國">TNT Sports 2 HD</display-name>
     <icon src="" />
   </channel>
   <programme channel="400480" start="20250618000000 +0000" stop="20250618003000 +0000">
