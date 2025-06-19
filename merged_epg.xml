@@ -387,6 +387,11 @@
     <desc>A look back at a classic Premier League clash.</desc>
     <date>2025-06-20</date>
   </programme>
+  <programme channel="400477" start="20250621000000 +0000" stop="20250622000000 +0000">
+    <title lang="zh">Prem Classics</title>
+    <desc>We revisit the 2014/15 New Year's Day Premier League meeting between Tottenham and Chelsea at White Hart Lane, featuring eight goals in total, including two for in-form Harry Kane.</desc>
+    <date>2025-06-21</date>
+  </programme>
 <channel id="400480">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 2 HD</display-name>
     <icon src="" />
@@ -640,6 +645,11 @@
     <title lang="zh">FIM Superbike World Championship Motorcycle Racing</title>
     <desc>Highlights from the Misano Round of the 2025 Superbike World Championship.</desc>
     <date>2025-06-20</date>
+  </programme>
+  <programme channel="400480" start="20250621000000 +0000" stop="20250622000000 +0000">
+    <title lang="zh">Ultimate Pool Pairs Cup</title>
+    <desc>Ultimate Pool action from Group 3 of the Pairs Cup, as three-time finalists Shaun Chipperfield and Karl Sutton return.</desc>
+    <date>2025-06-21</date>
   </programme>
 <channel id="405060">
     <display-name lang="Canada">TSN3</display-name>
