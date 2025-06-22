@@ -711,6 +711,11 @@
     <desc>Post-race show featuring analysis, highlights and interviews with all the key riders following the Grand Prix of Italy.</desc>
     <date>2025-06-23</date>
   </programme>
+  <programme channel="400480" start="20250624000000 +0000" stop="20250625000000 +0000">
+    <title lang="zh">British Superbikes Motorcycle Racing</title>
+    <desc>Highlights from the third round of the 2025 British Superbike Championship, taking place at Snetterton in Norfolk.</desc>
+    <date>2025-06-24</date>
+  </programme>
 <channel id="405060">
     <display-name lang="Canada">TSN3</display-name>
     <icon src="" />
