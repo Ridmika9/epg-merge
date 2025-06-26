@@ -611,6 +611,11 @@
     <desc>All the latest action from Major League Baseball wrapped up, featuring the league's top hitters and pitchers.</desc>
     <date>2025-06-27</date>
   </programme>
+  <programme channel="400480" start="20250628000000 +0000" stop="20250629000000 +0000">
+    <title lang="zh">Live: Major League Baseball</title>
+    <desc>Major League Baseball action as Kansas City Royals face Los Angeles Dodgers at Kauffman Stadium.</desc>
+    <date>2025-06-28</date>
+  </programme>
 <channel id="405060">
     <display-name lang="Canada">TSN3</display-name>
     <icon src="" />
