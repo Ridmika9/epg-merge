@@ -317,6 +317,11 @@
     <desc>Tom Aspinall previews UFC 317 at T-Mobile Arena in Las Vegas, featuring the lightweight title bout between Ilia Topuria and former champion Charles Oliveira.</desc>
     <date>2025-06-28</date>
   </programme>
+  <programme channel="400477" start="20250629000000 +0000" stop="20250630000000 +0000">
+    <title lang="zh">Live: The Ultimate Fighting Championship</title>
+    <desc>Action from the UFC 317 Prelims at T-Mobile Arena ahead of the lightweight title showdown between Ilia Topuria and former champion Charles Oliveira.</desc>
+    <date>2025-06-29</date>
+  </programme>
 <channel id="400480">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 2 HD</display-name>
     <icon src="" />
