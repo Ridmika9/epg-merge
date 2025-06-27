@@ -586,6 +586,11 @@
     <desc>Action from the Sprint Race at the 2025 MotoGP Grand Prix of Netherlands.</desc>
     <date>2025-06-28</date>
   </programme>
+  <programme channel="400480" start="20250629000000 +0000" stop="20250630000000 +0000">
+    <title lang="zh">FIA World Rally Championship</title>
+    <desc>Highlights from the 2025 World Rally Championship in Greece.</desc>
+    <date>2025-06-29</date>
+  </programme>
 <channel id="405060">
     <display-name lang="Canada">TSN3</display-name>
     <icon src="" />
