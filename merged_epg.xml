@@ -497,6 +497,11 @@
     <desc>A look at the upcoming MLB action ahead of Cleveland Guardians @ Chicago Cubs.</desc>
     <date>2025-07-01</date>
   </programme>
+  <programme channel="400477" start="20250702000000 +0000" stop="20250703000000 +0000">
+    <title lang="zh">Live: Major League Baseball</title>
+    <desc>Major League Baseball action as Chicago Cubs host Cleveland Guardians at Wrigley Field.</desc>
+    <date>2025-07-02</date>
+  </programme>
 <channel id="400480">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 2 HD</display-name>
     <icon src="" />
