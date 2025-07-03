@@ -601,6 +601,11 @@
     <desc>Highlights from the HSBC SVNS World Championship at Dignity Health Sports Park in Los Angeles. Who would be crowned the 2025 HSBC SVNS Series champions?</desc>
     <date>2025-07-04</date>
   </programme>
+  <programme channel="400480" start="20250705000000 +0000" stop="20250706000000 +0000">
+    <title lang="zh">The Ultimate Cycling Show</title>
+    <desc>In this Tour de France preview show, we interview top contenders for both the Men's and Women's tours. Plus, Robbie McEwen and Jip van den Bos join Adam and Orla in the cafe.</desc>
+    <date>2025-07-05</date>
+  </programme>
 <channel id="405060">
     <display-name lang="Canada">TSN3</display-name>
     <icon src="" />
