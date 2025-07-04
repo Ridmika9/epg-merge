@@ -73,9 +73,39 @@
     <desc>Harry struggles to find balance with his new human form.</desc>
     <date>2025-07-05</date>
   </programme>
-  <programme channel="403626" start="20250705060700 +0000" stop="20250706000000 +0000">
+  <programme channel="403626" start="20250705060700 +0000" stop="20250705090000 +0000">
     <title lang="zh">Fantastic Beasts: The Secrets of Dumbledore</title>
     <desc>Professor Albus Dumbledore must assist Newt Scamander and his partners as Grindelwald begins to lead an army to eliminate all Muggles.</desc>
+    <date>2025-07-05</date>
+  </programme>
+  <programme channel="403626" start="20250705090000 +0000" stop="20250705100000 +0000">
+    <title lang="zh">Harry Potter and the Prisoner of Azkaban</title>
+    <desc>Harry, Ron and Hermione return for a third term at Hogwarts. But Harry's fate, and that of the entire community of wizards, looks bleak when the infamous Sirius Black escapes from prison.</desc>
+    <date>2025-07-05</date>
+  </programme>
+  <programme channel="403626" start="20250705100000 +0000" stop="20250705120000 +0000">
+    <title lang="zh">Harry Potter and the Prisoner of Azkaban</title>
+    <desc>Harry, Ron and Hermione return for a third term at Hogwarts. But Harry's fate, and that of the entire community of wizards, looks bleak when the infamous Sirius Black escapes from prison.</desc>
+    <date>2025-07-05</date>
+  </programme>
+  <programme channel="403626" start="20250705120000 +0000" stop="20250705153000 +0000">
+    <title lang="zh">Harry Potter and the Goblet of Fire</title>
+    <desc>During Harry's fourth year at Hogwarts a competition will be held between three schools of wizardry, and contestants will be magically chosen for the very dangerous event.</desc>
+    <date>2025-07-05</date>
+  </programme>
+  <programme channel="403626" start="20250705153000 +0000" stop="20250705183000 +0000">
+    <title lang="zh">Harry Potter and the Order of the Phoenix</title>
+    <desc>A summer has passed since Harry's encounter with the Dark Lord. With the wizard community in peril the future of magic may depend on Harry and a secret society known as The Order of the Phoenix.</desc>
+    <date>2025-07-05</date>
+  </programme>
+  <programme channel="403626" start="20250705183000 +0000" stop="20250705220000 +0000">
+    <title lang="zh">Harry Potter and the Half-Blood Prince</title>
+    <desc>While Death Eaters emboldened by the return of Lord Voldemort wreak havoc in both the Muggle and Wizarding worlds, Harry suspects new dangers lie within Hogwarts.</desc>
+    <date>2025-07-05</date>
+  </programme>
+  <programme channel="403626" start="20250705220000 +0000" stop="20250706000000 +0000">
+    <title lang="zh">Harry Potter and the Deathly Hallows: Part 1</title>
+    <desc>In the first part of the seventh and final adventure, Harry, Ron and Hermione set out on their perilous mission to destroy the secret to Voldemort's immortality and destruction: the Horcruxes.</desc>
     <date>2025-07-05</date>
   </programme>
 <channel id="400477">
@@ -276,6 +306,11 @@
     <title lang="zh">UEFA Champions League Football</title>
     <desc>Relive Man City and Tottenham's Champions League quarter-final. It was a classic at the Etihad with seven goals, five of them coming in 17 pulsating minutes, and late VAR drama.</desc>
     <date>2025-07-05</date>
+  </programme>
+  <programme channel="400477" start="20250706000000 +0000" stop="20250707000000 +0000">
+    <title lang="zh">UEFA Champions League Football</title>
+    <desc>Revisit Tottenham's sensational UEFA Champions League semi-final second leg with Ajax at the Amsterdam Arena. Spurs' final hopes hung in the balance after a 1-0 first-leg defeat.</desc>
+    <date>2025-07-06</date>
   </programme>
 <channel id="400480">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 2 HD</display-name>
