@@ -3,66 +3,6 @@
     <display-name lang="US">USA Network - East Feed</display-name>
     <icon src="" />
   </channel>
-  <programme channel="403626" start="20250705000000 +0000" stop="20250705020000 +0000">
-    <title lang="zh">Live: WWE Friday Night SmackDown</title>
-    <desc>The Superstars of World Wrestling Entertainment display their skills and athleticism in weekly episodic programming, as scores are settled and enduring rivalries play out in the ring.</desc>
-    <date>2025-07-05</date>
-  </programme>
-  <programme channel="403626" start="20250705020000 +0000" stop="20250705030200 +0000">
-    <title lang="zh">Resident Alien</title>
-    <desc>Harry struggles to find balance with his new human form.</desc>
-    <date>2025-07-05</date>
-  </programme>
-  <programme channel="403626" start="20250705030200 +0000" stop="20250705040400 +0000">
-    <title lang="zh">Resident Alien</title>
-    <desc>Harry struggles to find balance with his new human form.</desc>
-    <date>2025-07-05</date>
-  </programme>
-  <programme channel="403626" start="20250705040400 +0000" stop="20250705050600 +0000">
-    <title lang="zh">Resident Alien</title>
-    <desc>Harry and Heather reunite, but their relationship is more complicated than ever.</desc>
-    <date>2025-07-05</date>
-  </programme>
-  <programme channel="403626" start="20250705050600 +0000" stop="20250705060700 +0000">
-    <title lang="zh">Resident Alien</title>
-    <desc>Harry struggles to find balance with his new human form.</desc>
-    <date>2025-07-05</date>
-  </programme>
-  <programme channel="403626" start="20250705060700 +0000" stop="20250705090000 +0000">
-    <title lang="zh">Fantastic Beasts: The Secrets of Dumbledore</title>
-    <desc>Professor Albus Dumbledore must assist Newt Scamander and his partners as Grindelwald begins to lead an army to eliminate all Muggles.</desc>
-    <date>2025-07-05</date>
-  </programme>
-  <programme channel="403626" start="20250705090000 +0000" stop="20250705100000 +0000">
-    <title lang="zh">Harry Potter and the Prisoner of Azkaban</title>
-    <desc>Harry, Ron and Hermione return for a third term at Hogwarts. But Harry's fate, and that of the entire community of wizards, looks bleak when the infamous Sirius Black escapes from prison.</desc>
-    <date>2025-07-05</date>
-  </programme>
-  <programme channel="403626" start="20250705100000 +0000" stop="20250705120000 +0000">
-    <title lang="zh">Harry Potter and the Prisoner of Azkaban</title>
-    <desc>Harry, Ron and Hermione return for a third term at Hogwarts. But Harry's fate, and that of the entire community of wizards, looks bleak when the infamous Sirius Black escapes from prison.</desc>
-    <date>2025-07-05</date>
-  </programme>
-  <programme channel="403626" start="20250705120000 +0000" stop="20250705153000 +0000">
-    <title lang="zh">Harry Potter and the Goblet of Fire</title>
-    <desc>During Harry's fourth year at Hogwarts a competition will be held between three schools of wizardry, and contestants will be magically chosen for the very dangerous event.</desc>
-    <date>2025-07-05</date>
-  </programme>
-  <programme channel="403626" start="20250705153000 +0000" stop="20250705183000 +0000">
-    <title lang="zh">Harry Potter and the Order of the Phoenix</title>
-    <desc>A summer has passed since Harry's encounter with the Dark Lord. With the wizard community in peril the future of magic may depend on Harry and a secret society known as The Order of the Phoenix.</desc>
-    <date>2025-07-05</date>
-  </programme>
-  <programme channel="403626" start="20250705183000 +0000" stop="20250705220000 +0000">
-    <title lang="zh">Harry Potter and the Half-Blood Prince</title>
-    <desc>While Death Eaters emboldened by the return of Lord Voldemort wreak havoc in both the Muggle and Wizarding worlds, Harry suspects new dangers lie within Hogwarts.</desc>
-    <date>2025-07-05</date>
-  </programme>
-  <programme channel="403626" start="20250705220000 +0000" stop="20250706000000 +0000">
-    <title lang="zh">Harry Potter and the Deathly Hallows: Part 1</title>
-    <desc>In the first part of the seventh and final adventure, Harry, Ron and Hermione set out on their perilous mission to destroy the secret to Voldemort's immortality and destruction: the Horcruxes.</desc>
-    <date>2025-07-05</date>
-  </programme>
   <programme channel="403626" start="20250706010000 +0000" stop="20250706040000 +0000">
     <title lang="zh">Harry Potter and the Deathly Hallows: Part 2</title>
     <desc>Making their final stand upon the ramparts of Hogwarts School of Witchcraft and Wizardry, Harry Potter, Ron and Hermione face their greatest foe and make the ultimate sacrifice on their journey.</desc>
@@ -168,80 +108,55 @@
     <desc>A man goes on a killing spree, but he has links to a prostitute that Benson encountered in an earlier investigation, so the FBI contacts SVU for information.</desc>
     <date>2025-07-06</date>
   </programme>
-  <programme channel="403626" start="20250707000000 +0000" stop="20250708000000 +0000">
+  <programme channel="403626" start="20250707000000 +0000" stop="20250707010000 +0000">
     <title lang="zh">Law &amp; Order: Special Victims Unit</title>
     <desc>The SVU is called in to help investigate a wave of hate crimes on Christmas Eve; Rollins catches up with an old flame.</desc>
+    <date>2025-07-07</date>
+  </programme>
+  <programme channel="403626" start="20250707010000 +0000" stop="20250707020000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>An internet dating site becomes the source of terror for a young widow; Muncy struggles with Velasco's absence.</desc>
+    <date>2025-07-07</date>
+  </programme>
+  <programme channel="403626" start="20250707020000 +0000" stop="20250707030000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>The SVU helps a man come to terms with being victimized; Benson tries to support a victim's family when tragedy strikes twice.</desc>
+    <date>2025-07-07</date>
+  </programme>
+  <programme channel="403626" start="20250707030000 +0000" stop="20250707040000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Benson and Stabler hit a wall of silence while questioning fraternity brothers about the murder and sodomy of their hard-nosed pledge master.</desc>
+    <date>2025-07-07</date>
+  </programme>
+  <programme channel="403626" start="20250707040000 +0000" stop="20250707050000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Benson and Stabler begin hunting for a serial pedophile after a 5-year-old girl's decomposed body is found in the trash.</desc>
+    <date>2025-07-07</date>
+  </programme>
+  <programme channel="403626" start="20250707050000 +0000" stop="20250707060200 +0000">
+    <title lang="zh">Resident Alien</title>
+    <desc>Harry struggles to find balance with his new human form.</desc>
+    <date>2025-07-07</date>
+  </programme>
+  <programme channel="403626" start="20250707060200 +0000" stop="20250707070100 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Detective Benson goes under cover to combat terrorist activities; a victim refuses a rape kit.</desc>
+    <date>2025-07-07</date>
+  </programme>
+  <programme channel="403626" start="20250707070100 +0000" stop="20250707080000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>The life of a law-abiding engineer (Robin Williams) goes terribly wrong, leading him to challenge authority and to urge others to do so as well.</desc>
+    <date>2025-07-07</date>
+  </programme>
+  <programme channel="403626" start="20250707080000 +0000" stop="20250708000000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>The squad makes a quick arrest when a student is raped at gunpoint in her apartment, but the defense attorney works to undermine their police work.</desc>
     <date>2025-07-07</date>
   </programme>
 <channel id="400477">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 1 HD</display-name>
     <icon src="" />
   </channel>
-  <programme channel="400477" start="20250705010000 +0000" stop="20250705023000 +0000">
-    <title lang="zh">Australian Rules</title>
-    <desc>AFL action between West Coast Eagles and GWS Giants at Optus Stadium.</desc>
-    <date>2025-07-05</date>
-  </programme>
-  <programme channel="400477" start="20250705023000 +0000" stop="20250705053000 +0000">
-    <title lang="zh">Live: Australian Rules</title>
-    <desc>Action from the Australian Football League as Essendon face Gold Coast Suns.</desc>
-    <date>2025-07-05</date>
-  </programme>
-  <programme channel="400477" start="20250705053000 +0000" stop="20250705060000 +0000">
-    <title lang="zh">MotoE</title>
-    <desc>All the best action from the MotoE Grand Prix of Netherlands at TT Circuit Assen. Who would triumph in the second round of the electric class in 2025?</desc>
-    <date>2025-07-05</date>
-  </programme>
-  <programme channel="400477" start="20250705060000 +0000" stop="20250705090000 +0000">
-    <title lang="zh">Live: Australian Rules</title>
-    <desc>Action from the Australian Football League as Geelong Cats take on Richmond.</desc>
-    <date>2025-07-05</date>
-  </programme>
-  <programme channel="400477" start="20250705090000 +0000" stop="20250705093000 +0000">
-    <title lang="zh">Premier League Stories</title>
-    <desc>We peel back the layers on the Premier League's most iconic managerial rivalries; battles that shaped eras, defined clubs, and captivated fans around the world. From the fierce mind games between Arsène Wenger and Sir Alex Ferguson, to the emotional explosion of Kevin Keegan's title-chasing Newcastle.</desc>
-    <date>2025-07-05</date>
-  </programme>
-  <programme channel="400477" start="20250705093000 +0000" stop="20250705100000 +0000">
-    <title lang="zh">Tour de France Cycling</title>
-    <desc>Ahead of the 2025 Tour de France, we take an A to Z look at cycling's oldest and most prestigious Grand Tour.</desc>
-    <date>2025-07-05</date>
-  </programme>
-  <programme channel="400477" start="20250705100000 +0000" stop="20250705110000 +0000">
-    <title lang="zh">The Ultimate Cycling Show</title>
-    <desc>In this Tour de France preview show, we interview top contenders for both the Men's and Women's tours. Plus, Robbie McEwen and Jip van den Bos join Adam and Orla in the cafe.</desc>
-    <date>2025-07-05</date>
-  </programme>
-  <programme channel="400477" start="20250705110000 +0000" stop="20250705161500 +0000">
-    <title lang="zh">Live: Tour de France</title>
-    <desc>The 2025 Tour de France begins with a 184km route around Lille Metropole. Which of the 23 teams will get off to a flying start?</desc>
-    <date>2025-07-05</date>
-  </programme>
-  <programme channel="400477" start="20250705161500 +0000" stop="20250705163000 +0000">
-    <title lang="zh">TNT Sports Reload</title>
-    <desc>The best bits from TNT Sports over the last week, including exclusive interviews, the best action and so much more.</desc>
-    <date>2025-07-05</date>
-  </programme>
-  <programme channel="400477" start="20250705163000 +0000" stop="20250705200000 +0000">
-    <title lang="zh">Live: FIM Speedway Grand Prix</title>
-    <desc>Action from round seven the 2025 FIM Speedway Grand Prix at Malilla's Skrotfrag Arena.</desc>
-    <date>2025-07-05</date>
-  </programme>
-  <programme channel="400477" start="20250705200000 +0000" stop="20250705231500 +0000">
-    <title lang="zh">Live: Major League Baseball</title>
-    <desc>Action from Major League Baseball as New York Yankees face New York Mets.</desc>
-    <date>2025-07-05</date>
-  </programme>
-  <programme channel="400477" start="20250705231500 +0000" stop="20250705233000 +0000">
-    <title lang="zh">MotoGP Rewind</title>
-    <desc>A look back at the best action from the 2025 Grand Prix of Netherlands at the iconic TT Circuit Assen, as title-chasing Marc Marquez looked for a 68th MotoGP victory.</desc>
-    <date>2025-07-05</date>
-  </programme>
-  <programme channel="400477" start="20250705233000 +0000" stop="20250706000000 +0000">
-    <title lang="zh">UEFA Champions League Football</title>
-    <desc>Relive Man City and Tottenham's Champions League quarter-final. It was a classic at the Etihad with seven goals, five of them coming in 17 pulsating minutes, and late VAR drama.</desc>
-    <date>2025-07-05</date>
-  </programme>
   <programme channel="400477" start="20250706000000 +0000" stop="20250706003000 +0000">
     <title lang="zh">UEFA Champions League Football</title>
     <desc>Revisit Tottenham's sensational UEFA Champions League semi-final second leg with Ajax at the Amsterdam Arena. Spurs' final hopes hung in the balance after a 1-0 first-leg defeat.</desc>
@@ -322,100 +237,100 @@
     <desc>We revisit the best tries of the 2024/25 Gallagher Premiership Rugby season, including Tom Roebuck, Kalaveti Ravouvou, Cadan Murley and many others.</desc>
     <date>2025-07-06</date>
   </programme>
-  <programme channel="400477" start="20250707000000 +0000" stop="20250708000000 +0000">
+  <programme channel="400477" start="20250707000000 +0000" stop="20250707010000 +0000">
     <title lang="zh">Major League Baseball</title>
     <desc>Highlights from Major League Baseball.</desc>
+    <date>2025-07-07</date>
+  </programme>
+  <programme channel="400477" start="20250707010000 +0000" stop="20250707041500 +0000">
+    <title lang="zh">Live: Major League Baseball</title>
+    <desc>Action from Major League Baseball as San Diego Padres and Texas Rangers face-off.</desc>
+    <date>2025-07-07</date>
+  </programme>
+  <programme channel="400477" start="20250707041500 +0000" stop="20250707044500 +0000">
+    <title lang="zh">MLB Plays of the Week</title>
+    <desc>This weekly MLB highlights show showcases the most exciting plays from the past week's matches.</desc>
+    <date>2025-07-07</date>
+  </programme>
+  <programme channel="400477" start="20250707044500 +0000" stop="20250707050000 +0000">
+    <title lang="zh">TNT Sports Reload</title>
+    <desc>The best bits from TNT Sports over the last week, including exclusive interviews, the best action and so much more.</desc>
+    <date>2025-07-07</date>
+  </programme>
+  <programme channel="400477" start="20250707050000 +0000" stop="20250707060000 +0000">
+    <title lang="zh">Tour de France Cycling</title>
+    <desc>Highlights from stage two of the 2025 Tour de France, as the riders set off from Lauwin-Planque on a hilly 209km route to the port city of Boulogne-sur-Mer.</desc>
+    <date>2025-07-07</date>
+  </programme>
+  <programme channel="400477" start="20250707060000 +0000" stop="20250707063000 +0000">
+    <title lang="zh">Henley Royal Regatta</title>
+    <desc>Highlights from the 2025 Henley Royal Regatta finals, including the Grand Challenge Cup, Diamond Challenge Sculls and Remenham Challenge Cup.</desc>
+    <date>2025-07-07</date>
+  </programme>
+  <programme channel="400477" start="20250707063000 +0000" stop="20250707080000 +0000">
+    <title lang="zh">Wimbledon 2025</title>
+    <desc>Highlights from day seven at Wimbledon, as the Round of 16 gets underway.</desc>
+    <date>2025-07-07</date>
+  </programme>
+  <programme channel="400477" start="20250707080000 +0000" stop="20250707090000 +0000">
+    <title lang="zh">Test Cricket</title>
+    <desc>Action from day four of the second Test between West Indies and Australia at National Cricket Stadium in Grenada.</desc>
+    <date>2025-07-07</date>
+  </programme>
+  <programme channel="400477" start="20250707090000 +0000" stop="20250707100000 +0000">
+    <title lang="zh">Giro d'Italia Women</title>
+    <desc>The 2025 Giro d'Italia Women gets underway as the riders tackle a 14.km individual time trial around the city of Bergamo.</desc>
+    <date>2025-07-07</date>
+  </programme>
+  <programme channel="400477" start="20250707100000 +0000" stop="20250707110000 +0000">
+    <title lang="zh">Tour de France Cycling</title>
+    <desc>Highlights from stage two of the 2025 Tour de France, as the riders set off from Lauwin-Planque on a hilly 209km route to the port city of Boulogne-sur-Mer.</desc>
+    <date>2025-07-07</date>
+  </programme>
+  <programme channel="400477" start="20250707110000 +0000" stop="20250707160000 +0000">
+    <title lang="zh">Live: Tour de France</title>
+    <desc>Action from stage three of the 2025 Tour de France. This largely flat route takes the riders 178km from Valenciennes to the coastal city of Dunkirk.</desc>
+    <date>2025-07-07</date>
+  </programme>
+  <programme channel="400477" start="20250707160000 +0000" stop="20250707170000 +0000">
+    <title lang="zh">Giro d'Italia Women</title>
+    <desc>Stage two of the 2025 Giro d'Italia Women, as the riders take on a hilly 92km route from Clusone to the town of Aprica.</desc>
+    <date>2025-07-07</date>
+  </programme>
+  <programme channel="400477" start="20250707170000 +0000" stop="20250707173000 +0000">
+    <title lang="zh">Premier League Stories</title>
+    <desc>We peel back the layers on the Premier League's most iconic managerial rivalries; battles that shaped eras, defined clubs, and captivated fans around the world. From the fierce mind games between Arsène Wenger and Sir Alex Ferguson, to the emotional explosion of Kevin Keegan's title-chasing Newcastle.</desc>
+    <date>2025-07-07</date>
+  </programme>
+  <programme channel="400477" start="20250707173000 +0000" stop="20250707183000 +0000">
+    <title lang="zh">British Superbikes Motorcycle Racing</title>
+    <desc>Highlights from round four of the 2025 British Superbike Championship at Knockhill Racing Circuit in Scotland.</desc>
+    <date>2025-07-07</date>
+  </programme>
+  <programme channel="400477" start="20250707183000 +0000" stop="20250707210000 +0000">
+    <title lang="zh">Live: Premiership Speedway</title>
+    <desc>Action from round seven of British Speedway as Oxford and Ipswich go head-to-head.</desc>
+    <date>2025-07-07</date>
+  </programme>
+  <programme channel="400477" start="20250707210000 +0000" stop="20250707213000 +0000">
+    <title lang="zh">Henley Royal Regatta</title>
+    <desc>Highlights from the 2025 Henley Royal Regatta finals, including the Grand Challenge Cup, Diamond Challenge Sculls and Remenham Challenge Cup.</desc>
+    <date>2025-07-07</date>
+  </programme>
+  <programme channel="400477" start="20250707213000 +0000" stop="20250707223000 +0000">
+    <title lang="zh">Major League Baseball</title>
+    <desc>Highlights from Major League Baseball.</desc>
+    <date>2025-07-07</date>
+  </programme>
+  <programme channel="400477" start="20250707223000 +0000" stop="20250708000000 +0000">
+    <title lang="zh">Live: Major League Baseball</title>
+    <desc>MLB action as Detroit Tigers face Tampa Bay Rays at George M. Steinbrenner Field.</desc>
     <date>2025-07-07</date>
   </programme>
 <channel id="400480">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 2 HD</display-name>
     <icon src="" />
   </channel>
-  <programme channel="400480" start="20250705000000 +0000" stop="20250705010000 +0000">
-    <title lang="zh">The Ultimate Cycling Show</title>
-    <desc>In this Tour de France preview show, we interview top contenders for both the Men's and Women's tours. Plus, Robbie McEwen and Jip van den Bos join Adam and Orla in the cafe.</desc>
-    <date>2025-07-05</date>
-  </programme>
-  <programme channel="400480" start="20250705010000 +0000" stop="20250705023000 +0000">
-    <title lang="zh">Wimbledon 2025</title>
-    <desc>Action from Wimbledon, the third of the four tennis Grand Slams each year.</desc>
-    <date>2025-07-05</date>
-  </programme>
-  <programme channel="400480" start="20250705023000 +0000" stop="20250705033000 +0000">
-    <title lang="zh">A-League</title>
-    <desc>Action from the 2025 Isuzu UTE A-League Grand Final between rivals Melbourne City and Melbourne Victory at AAMI Park.</desc>
-    <date>2025-07-05</date>
-  </programme>
-  <programme channel="400480" start="20250705033000 +0000" stop="20250705050000 +0000">
-    <title lang="zh">A-League Women</title>
-    <desc>Action from the 2025 Ninja A-League Women Grand Final between Melbourne Victory and Central Coast Mariners at AAMI Park. Can the Mariners end Victory's 15-game unbeaten run?</desc>
-    <date>2025-07-05</date>
-  </programme>
-  <programme channel="400480" start="20250705050000 +0000" stop="20250705053000 +0000">
-    <title lang="zh">Discovery Golf</title>
-    <desc>We preview the John Deere Classic and get some tips from Davis Thompson, who defends his title against the likes of Rickie Fowler, Max Homa and Tom Kim.</desc>
-    <date>2025-07-05</date>
-  </programme>
-  <programme channel="400480" start="20250705053000 +0000" stop="20250705060000 +0000">
-    <title lang="zh">TNT Sports Reload</title>
-    <desc>The best bits from TNT Sports over the last week, including exclusive interviews, the best action and so much more.</desc>
-    <date>2025-07-05</date>
-  </programme>
-  <programme channel="400480" start="20250705060000 +0000" stop="20250705070000 +0000">
-    <title lang="zh">The Ultimate Cycling Show</title>
-    <desc>In this Tour de France preview show, we interview top contenders for both the Men's and Women's tours. Plus, Robbie McEwen and Jip van den Bos join Adam and Orla in the cafe.</desc>
-    <date>2025-07-05</date>
-  </programme>
-  <programme channel="400480" start="20250705070000 +0000" stop="20250705080000 +0000">
-    <title lang="zh">One-Day International Cricket</title>
-    <desc>Sri Lanka seek to continue their impressive white ball home form as they face Bangladesh in the first of three ODIs at R Premadasa International Stadium in Colombo.</desc>
-    <date>2025-07-05</date>
-  </programme>
-  <programme channel="400480" start="20250705080000 +0000" stop="20250705090000 +0000">
-    <title lang="zh">Test Cricket</title>
-    <desc>Action from day two of the second Test between West Indies and Australia at National Cricket Stadium.</desc>
-    <date>2025-07-05</date>
-  </programme>
-  <programme channel="400480" start="20250705090000 +0000" stop="20250705093000 +0000">
-    <title lang="zh">Discovery Golf</title>
-    <desc>We preview the John Deere Classic and get some tips from Davis Thompson, who defends his title against the likes of Rickie Fowler, Max Homa and Tom Kim.</desc>
-    <date>2025-07-05</date>
-  </programme>
-  <programme channel="400480" start="20250705093000 +0000" stop="20250705123000 +0000">
-    <title lang="zh">Live: Australian Rules</title>
-    <desc>AFL action between Brisbane Lions and Port Adelaide at the Gabba.</desc>
-    <date>2025-07-05</date>
-  </programme>
-  <programme channel="400480" start="20250705123000 +0000" stop="20250705124500 +0000">
-    <title lang="zh">MotoGP Rewind</title>
-    <desc>A look back at the best action from the 2025 Grand Prix of Netherlands at the iconic TT Circuit Assen, as title-chasing Marc Marquez looked for a 68th MotoGP victory.</desc>
-    <date>2025-07-05</date>
-  </programme>
-  <programme channel="400480" start="20250705124500 +0000" stop="20250705134500 +0000">
-    <title lang="zh">Test Cricket</title>
-    <desc>Action from day two of the second Test between West Indies and Australia at National Cricket Stadium.</desc>
-    <date>2025-07-05</date>
-  </programme>
-  <programme channel="400480" start="20250705134500 +0000" stop="20250705220000 +0000">
-    <title lang="zh">Live: Test Cricket</title>
-    <desc>Action from day three of the second Test between West Indies and Australia at National Cricket Stadium in Grenada.</desc>
-    <date>2025-07-05</date>
-  </programme>
-  <programme channel="400480" start="20250705220000 +0000" stop="20250705223000 +0000">
-    <title lang="zh">Henley Royal Regatta</title>
-    <desc>Highlights from day five of the 2025 Henley Royal Regatta, including the semi-finals of the Grand Challenge Cup, Remenham Challenge Cup and Princess Royal Challenge Cup.</desc>
-    <date>2025-07-05</date>
-  </programme>
-  <programme channel="400480" start="20250705223000 +0000" stop="20250705230000 +0000">
-    <title lang="zh">British Superbikes Motorcycle Racing</title>
-    <desc>Action from race one of the fourth round of the 2025 British Superbike Championship, taking place at Knockhill Racing Circuit in Scotland.</desc>
-    <date>2025-07-05</date>
-  </programme>
-  <programme channel="400480" start="20250705230000 +0000" stop="20250706000000 +0000">
-    <title lang="zh">Live: Major League Baseball</title>
-    <desc>Action from Major League Baseball as Houston Astros face Los Angeles Dodgers.</desc>
-    <date>2025-07-05</date>
-  </programme>
   <programme channel="400480" start="20250706021500 +0000" stop="20250706024500 +0000">
     <title lang="zh">MLB Plays of the Week</title>
     <desc>This weekly MLB highlights show showcases the most exciting plays from the past week's matches.</desc>
@@ -505,6 +420,111 @@
     <title lang="zh">Tour de France Cycling</title>
     <desc>Highlights from stage two of the 2025 Tour de France, as the riders set off from Lauwin-Planque on a hilly 209km route to the port city of Boulogne-sur-Mer.</desc>
     <date>2025-07-06</date>
+  </programme>
+  <programme channel="400480" start="20250707003000 +0000" stop="20250707013000 +0000">
+    <title lang="zh">Giro d'Italia Women</title>
+    <desc>The 2025 Giro d'Italia Women gets underway as the riders tackle a 14.km individual time trial around the city of Bergamo.</desc>
+    <date>2025-07-07</date>
+  </programme>
+  <programme channel="400480" start="20250707013000 +0000" stop="20250707023000 +0000">
+    <title lang="zh">FIM Speedway Grand Prix</title>
+    <desc>Highlights from round seven the 2025 FIM Speedway Grand Prix at Malilla's Skrotfrag Arena.</desc>
+    <date>2025-07-07</date>
+  </programme>
+  <programme channel="400480" start="20250707023000 +0000" stop="20250707030000 +0000">
+    <title lang="zh">Henley Royal Regatta</title>
+    <desc>Highlights from the 2025 Henley Royal Regatta finals, including the Grand Challenge Cup, Diamond Challenge Sculls and Remenham Challenge Cup.</desc>
+    <date>2025-07-07</date>
+  </programme>
+  <programme channel="400480" start="20250707030000 +0000" stop="20250707040000 +0000">
+    <title lang="zh">One-Day International Cricket</title>
+    <desc>Action from the second One Day International between Sri Lanka and Bangladesh at R Premadasa International Stadium in Colombo. The Lions hold a 1-0 lead in the series.</desc>
+    <date>2025-07-07</date>
+  </programme>
+  <programme channel="400480" start="20250707040000 +0000" stop="20250707050000 +0000">
+    <title lang="zh">Fishing: On the Bank</title>
+    <desc>Highlights of the 2017 British Carp Angling Championships at Wraysbury, one of the most high profile competitions in the angling calendar.</desc>
+    <date>2025-07-07</date>
+  </programme>
+  <programme channel="400480" start="20250707050000 +0000" stop="20250707054500 +0000">
+    <title lang="zh">FIM JuniorGP World Championship</title>
+    <desc>Action from the Moto 2 race one in Nevers Magny-Cours, part of the 2025 FIM JuniorGP Championship.</desc>
+    <date>2025-07-07</date>
+  </programme>
+  <programme channel="400480" start="20250707054500 +0000" stop="20250707063000 +0000">
+    <title lang="zh">FIM JuniorGP World Championship</title>
+    <desc>Action from the ETC race one in Nevers Magny-Cours, part of the 2025 FIM JuniorGP Championship.</desc>
+    <date>2025-07-07</date>
+  </programme>
+  <programme channel="400480" start="20250707063000 +0000" stop="20250707071500 +0000">
+    <title lang="zh">FIM JuniorGP World Championship</title>
+    <desc>Action from the JuniorGP in Nevers Magny-Cours, part of the 2025 FIM JuniorGP Championship.</desc>
+    <date>2025-07-07</date>
+  </programme>
+  <programme channel="400480" start="20250707071500 +0000" stop="20250707080000 +0000">
+    <title lang="zh">FIM JuniorGP World Championship</title>
+    <desc>Action from the Moto2 race two in Nevers Magny-Cours, part of the 2025 FIM JuniorGP Championship.</desc>
+    <date>2025-07-07</date>
+  </programme>
+  <programme channel="400480" start="20250707080000 +0000" stop="20250707084500 +0000">
+    <title lang="zh">FIM JuniorGP World Championship</title>
+    <desc>Action from the ETC race two in Nevers Magny-Cours, part of the 2025 FIM JuniorGP Championship.</desc>
+    <date>2025-07-07</date>
+  </programme>
+  <programme channel="400480" start="20250707084500 +0000" stop="20250707093000 +0000">
+    <title lang="zh">FIM JuniorGP World Championship</title>
+    <desc>Action from the Stock class of the 2025 FIM JuniorGP Championship in Nevers Magny-Cours.</desc>
+    <date>2025-07-07</date>
+  </programme>
+  <programme channel="400480" start="20250707093000 +0000" stop="20250707094500 +0000">
+    <title lang="zh">MotoGP Rewind</title>
+    <desc>A look back at the best action from the 2025 Grand Prix of Netherlands at the iconic TT Circuit Assen, as title-chasing Marc Marquez looked for a 68th MotoGP victory.</desc>
+    <date>2025-07-07</date>
+  </programme>
+  <programme channel="400480" start="20250707094500 +0000" stop="20250707104500 +0000">
+    <title lang="zh">FIM Speedway Grand Prix</title>
+    <desc>Action from round seven the 2025 FIM Speedway Grand Prix at Malilla's Skrotfrag Arena. Bartosz Zmarzlik is searching for his fifth GP win at this iconic venue.</desc>
+    <date>2025-07-07</date>
+  </programme>
+  <programme channel="400480" start="20250707104500 +0000" stop="20250707124500 +0000">
+    <title lang="zh">Live: Giro d'Italia Women</title>
+    <desc>Stage two of the 2025 Giro d'Italia Women, as the riders take on a hilly 92km route from Clusone to the town of Aprica.</desc>
+    <date>2025-07-07</date>
+  </programme>
+  <programme channel="400480" start="20250707124500 +0000" stop="20250707134500 +0000">
+    <title lang="zh">Test Cricket</title>
+    <desc>Action from day four of the second Test between West Indies and Australia at National Cricket Stadium in Grenada.</desc>
+    <date>2025-07-07</date>
+  </programme>
+  <programme channel="400480" start="20250707134500 +0000" stop="20250707220000 +0000">
+    <title lang="zh">Live: Test Cricket</title>
+    <desc>Action from day five of the second Test between West Indies and Australia at National Cricket Stadium in Grenada.</desc>
+    <date>2025-07-07</date>
+  </programme>
+  <programme channel="400480" start="20250707220000 +0000" stop="20250707221500 +0000">
+    <title lang="zh">TNT Sports Cricket Reload</title>
+    <desc>A look back at the second ODI between Sri Lanka and Bangladesh at R. Premadasa Stadium.</desc>
+    <date>2025-07-07</date>
+  </programme>
+  <programme channel="400480" start="20250707221500 +0000" stop="20250707223000 +0000">
+    <title lang="zh">TNT Sports Cricket Reload</title>
+    <desc>We look back at the first One Day International between Ireland and West Indies at Clontarf Cricket Club, featuring a classy century by Andrew Balbirnie.</desc>
+    <date>2025-07-07</date>
+  </programme>
+  <programme channel="400480" start="20250707223000 +0000" stop="20250707233000 +0000">
+    <title lang="zh">One-Day International Cricket</title>
+    <desc>Action from the second One Day International between Sri Lanka and Bangladesh at R Premadasa International Stadium in Colombo. The Lions hold a 1-0 lead in the series.</desc>
+    <date>2025-07-07</date>
+  </programme>
+  <programme channel="400480" start="20250707233000 +0000" stop="20250707234500 +0000">
+    <title lang="zh">TNT Sports Cricket Reload</title>
+    <desc>A look back at the best batting action from the second Test between Sri Lanka and Bangladesh, including another brilliant century by opener Pathum Nissanka.</desc>
+    <date>2025-07-07</date>
+  </programme>
+  <programme channel="400480" start="20250707234500 +0000" stop="20250708000000 +0000">
+    <title lang="zh">TNT Sports Cricket Reload</title>
+    <desc>A look back at the best bowling action from the second Test between Sri Lanka and Bangladesh, as Asitha Fernando and Dhananjaya de Silva caused problems for the visitors.</desc>
+    <date>2025-07-07</date>
   </programme>
 <channel id="405060">
     <display-name lang="Canada">TSN3</display-name>
