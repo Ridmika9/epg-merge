@@ -526,6 +526,11 @@
     <desc>A look back at the best bowling action from the second Test between Sri Lanka and Bangladesh, as Asitha Fernando and Dhananjaya de Silva caused problems for the visitors.</desc>
     <date>2025-07-07</date>
   </programme>
+  <programme channel="400480" start="20250708000000 +0000" stop="20250709000000 +0000">
+    <title lang="zh">Global Champions Tour</title>
+    <desc>Coverage of the Longines Global Champions Tour and the 2025 Grand Prix of Monaco, as the best riders in the world compete in a breathtaking waterfront setting.</desc>
+    <date>2025-07-08</date>
+  </programme>
 <channel id="405060">
     <display-name lang="Canada">TSN3</display-name>
     <icon src="" />
