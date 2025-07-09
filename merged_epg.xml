@@ -417,6 +417,11 @@
     <desc>Angling magazine show presented by Rob Hughes and Andy Ford, featuring the 2025 Sea Angling Classic.</desc>
     <date>2025-07-10</date>
   </programme>
+  <programme channel="400477" start="20250711000000 +0000" stop="20250712000000 +0000">
+    <title lang="zh">T100 Triathlon World Tour</title>
+    <desc>Highlights from the third round of the 2025 T100 Triathlon World Tour in Vancouver, Canada.</desc>
+    <date>2025-07-11</date>
+  </programme>
 <channel id="400480">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 2 HD</display-name>
     <icon src="" />
