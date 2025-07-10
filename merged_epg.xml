@@ -417,6 +417,11 @@
     <desc>This weekly MLB highlights show showcases the most exciting plays from the past week's matches.</desc>
     <date>2025-07-11</date>
   </programme>
+  <programme channel="400477" start="20250712000000 +0000" stop="20250713000000 +0000">
+    <title lang="zh">MLB: Off The Bat</title>
+    <desc>All the latest action from Major League Baseball wrapped up, featuring the league's top hitters and pitchers.</desc>
+    <date>2025-07-12</date>
+  </programme>
 <channel id="400480">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 2 HD</display-name>
     <icon src="" />
