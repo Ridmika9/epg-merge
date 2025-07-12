@@ -566,6 +566,11 @@
     <desc>The best bits from TNT Sports over the last week, including exclusive interviews, the best action and so much more.</desc>
     <date>2025-07-13</date>
   </programme>
+  <programme channel="400480" start="20250714000000 +0000" stop="20250715000000 +0000">
+    <title lang="zh">FIA Formula E</title>
+    <desc>Highlights from the 2025 ABB FIA Formula E World Championship and race two at Berlin's iconic Tempelhof Airport circuit.</desc>
+    <date>2025-07-14</date>
+  </programme>
 <channel id="405060">
     <display-name lang="Canada">TSN3</display-name>
     <icon src="" />
