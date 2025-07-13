@@ -382,6 +382,11 @@
     <desc>Major League Baseball action from the 2024 Home Run Derby at Globe Life Field in Arlington, Texas. Eight big hitters will compete for the big money prize.</desc>
     <date>2025-07-14</date>
   </programme>
+  <programme channel="400477" start="20250715000000 +0000" stop="20250716000000 +0000">
+    <title lang="zh">Live: Major League Baseball</title>
+    <desc>Coverage of the MLB 2025 Home Run Derby at Truist Park in Atlanta, Georgia. Braves favourite Ronald Acuna Jr. will be swinging for the fences, along with other superstar sluggers.</desc>
+    <date>2025-07-15</date>
+  </programme>
 <channel id="400480">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 2 HD</display-name>
     <icon src="" />
