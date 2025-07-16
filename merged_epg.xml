@@ -357,6 +357,11 @@
     <desc>Cricket action from the third T20 between Sri Lanka and Bangladesh at R. Premadasa Stadium in Colombo.</desc>
     <date>2025-07-17</date>
   </programme>
+  <programme channel="400477" start="20250718000000 +0000" stop="20250719000000 +0000">
+    <title lang="zh">Tour de France Cycling</title>
+    <desc>Highlights from stage 12 of the 2025 Tour de France, as the peloton face tough climbs and 3,850m of elevation on a 180km course from Auch to the ski resort of Hautacam.</desc>
+    <date>2025-07-18</date>
+  </programme>
 <channel id="400480">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 2 HD</display-name>
     <icon src="" />
