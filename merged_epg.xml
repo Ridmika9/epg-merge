@@ -422,6 +422,11 @@
     <desc>Ultimate Pool action from Group 10 of the Pairs Cup.</desc>
     <date>2025-07-24</date>
   </programme>
+  <programme channel="400477" start="20250725000000 +0000" stop="20250726000000 +0000">
+    <title lang="zh">Tour de France Cycling</title>
+    <desc>Highlights from stage 18 of the 2025 Tour de France, as the riders confront 5,450m of elevation on a tough 171km mountain route from Vif to Col de la Loze.</desc>
+    <date>2025-07-25</date>
+  </programme>
 <channel id="400480">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 2 HD</display-name>
     <icon src="" />
@@ -635,6 +640,11 @@
     <title lang="zh">Tri-Series International T20 Cricket</title>
     <desc>New Zealand and Zimbabwe meet in the sixth match of this T20 Tri-Series at Harare Sports Club.</desc>
     <date>2025-07-24</date>
+  </programme>
+  <programme channel="400480" start="20250725000000 +0000" stop="20250726000000 +0000">
+    <title lang="zh">Australian Rules</title>
+    <desc>Action from the Australian Football League as Hawthorn play Carlton.</desc>
+    <date>2025-07-25</date>
   </programme>
 <channel id="405060">
     <display-name lang="Canada">TSN3</display-name>
