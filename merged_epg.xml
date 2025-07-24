@@ -432,6 +432,11 @@
     <desc>The best bits from TNT Sports over the last week, including exclusive interviews, the best action and so much more.</desc>
     <date>2025-07-25</date>
   </programme>
+  <programme channel="400477" start="20250726000000 +0000" stop="20250727000000 +0000">
+    <title lang="zh">Australian Rules</title>
+    <desc>AFL action as Essendon face Western Bulldogs.</desc>
+    <date>2025-07-26</date>
+  </programme>
 <channel id="400480">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 2 HD</display-name>
     <icon src="" />
