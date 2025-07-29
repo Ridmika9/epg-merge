@@ -447,6 +447,11 @@
     <desc>The best bits from TNT Sports over the last week, including exclusive interviews, the best action and so much more.</desc>
     <date>2025-07-30</date>
   </programme>
+  <programme channel="400477" start="20250731000000 +0000" stop="20250801000000 +0000">
+    <title lang="zh">Test Cricket</title>
+    <desc>Day one of the first Test between Zimbabwe and New Zealand.</desc>
+    <date>2025-07-31</date>
+  </programme>
 <channel id="400480">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 2 HD</display-name>
     <icon src="" />
