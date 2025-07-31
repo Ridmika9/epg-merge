@@ -362,6 +362,11 @@
     <desc>On the Arctic Circle, a special annual match unfolds, where 86-year-old players from neighboring villages battle it out for one last time.</desc>
     <date>2025-08-01</date>
   </programme>
+  <programme channel="400477" start="20250802000000 +0000" stop="20250803000000 +0000">
+    <title lang="zh">Live: NWSL</title>
+    <desc>Action from the National Women's Soccer League as Racing Louisville FC face league leaders Kansas City Current at Lynn Family Stadium.</desc>
+    <date>2025-08-02</date>
+  </programme>
 <channel id="400480">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 2 HD</display-name>
     <icon src="" />
@@ -565,6 +570,11 @@
     <title lang="zh">MLB: Off The Bat</title>
     <desc>All the latest action from Major League Baseball wrapped up, featuring the league's top hitters and pitchers.</desc>
     <date>2025-08-01</date>
+  </programme>
+  <programme channel="400480" start="20250802000000 +0000" stop="20250803000000 +0000">
+    <title lang="zh">MLB Plays of the Week</title>
+    <desc>This weekly MLB highlights show showcases the most exciting plays from the past week's matches.</desc>
+    <date>2025-08-02</date>
   </programme>
 <channel id="405060">
     <display-name lang="Canada">TSN3</display-name>
