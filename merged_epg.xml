@@ -879,9 +879,59 @@
     <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
     <date>2025-08-02</date>
   </programme>
-  <programme channel="405134" start="20250802080000 +0000" stop="20250803000000 +0000">
+  <programme channel="405134" start="20250802080000 +0000" stop="20250802090000 +0000">
     <title lang="zh">SportsCentre</title>
     <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-08-02</date>
+  </programme>
+  <programme channel="405134" start="20250802090000 +0000" stop="20250802100000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-08-02</date>
+  </programme>
+  <programme channel="405134" start="20250802100000 +0000" stop="20250802110000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-08-02</date>
+  </programme>
+  <programme channel="405134" start="20250802110000 +0000" stop="20250802160000 +0000">
+    <title lang="zh">Live: 2025 AIG Women's Open</title>
+    <desc>From Royal Porthcawl Golf Club in Porthcawl, Bridgend, United Kingdom.</desc>
+    <date>2025-08-02</date>
+  </programme>
+  <programme channel="405134" start="20250802160000 +0000" stop="20250802180000 +0000">
+    <title lang="zh">Live: 2025 AIG Women's Open</title>
+    <desc>From Royal Porthcawl Golf Club in Porthcawl, Bridgend, United Kingdom.</desc>
+    <date>2025-08-02</date>
+  </programme>
+  <programme channel="405134" start="20250802180000 +0000" stop="20250802183000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-08-02</date>
+  </programme>
+  <programme channel="405134" start="20250802183000 +0000" stop="20250802190000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-08-02</date>
+  </programme>
+  <programme channel="405134" start="20250802190000 +0000" stop="20250802220000 +0000">
+    <title lang="zh">Live: PGA Tour Golf</title>
+    <desc>The Wyndham Championship's third round begins. Sedgefield Country Club has hosted the event since 2008, and did so on 20 different occasions during the 20th century. The course also co-hosted the first four years (1938-1941) with Starmount Forest.</desc>
+    <date>2025-08-02</date>
+  </programme>
+  <programme channel="405134" start="20250802220000 +0000" stop="20250802223000 +0000">
+    <title lang="zh">Porsche Supercup</title>
+    <desc>From Circuit de Spa-Francorchamps in Francorchamps, Liège, Belgium.</desc>
+    <date>2025-08-02</date>
+  </programme>
+  <programme channel="405134" start="20250802223000 +0000" stop="20250802230000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-08-02</date>
+  </programme>
+  <programme channel="405134" start="20250802230000 +0000" stop="20250803000000 +0000">
+    <title lang="zh">Live: Northern Super League Soccer</title>
+    <desc>From Swangard Stadium in Burnaby, British Columbia.</desc>
     <date>2025-08-02</date>
   </programme>
 </tv>
