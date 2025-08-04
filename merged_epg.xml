@@ -467,6 +467,11 @@
     <desc>A look at the upcoming MLB action ahead of Cincinnati Reds @ Chicago Cubs.</desc>
     <date>2025-08-05</date>
   </programme>
+  <programme channel="400477" start="20250806000000 +0000" stop="20250807000000 +0000">
+    <title lang="zh">Live: Major League Baseball</title>
+    <desc>Action from Major League Baseball as Cincinnati Reds face Chicago Cubs.</desc>
+    <date>2025-08-06</date>
+  </programme>
 <channel id="400480">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 2 HD</display-name>
     <icon src="" />
