@@ -486,12 +486,7 @@
     <desc>Action from Major League Baseball as Milwaukee Brewers take on New York Mets.</desc>
     <date>2025-08-10</date>
   </programme>
-  <programme channel="400480" start="20250810211500 +0000" stop="20250810213000 +0000">
-    <title lang="zh">The Ultimate Fighting Championship</title>
-    <desc>Action from UFC Fight Night in Las Vegas, featuring the clash between top ten middleweights Roman Dolidze and Anthony Hernandez.</desc>
-    <date>2025-08-10</date>
-  </programme>
-  <programme channel="400480" start="20250810213000 +0000" stop="20250811000000 +0000">
+  <programme channel="400480" start="20250810211500 +0000" stop="20250811000000 +0000">
     <title lang="zh">The Ultimate Fighting Championship</title>
     <desc>Action from UFC Fight Night in Las Vegas, featuring the clash between top ten middleweights Roman Dolidze and Anthony Hernandez.</desc>
     <date>2025-08-10</date>
