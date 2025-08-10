@@ -387,6 +387,11 @@
     <desc>Highlights from Major League Baseball.</desc>
     <date>2025-08-11</date>
   </programme>
+  <programme channel="400477" start="20250812000000 +0000" stop="20250813000000 +0000">
+    <title lang="zh">Live: Major League Baseball</title>
+    <desc>Action from Major League Baseball as Houston Astros take on Boston Red Sox.</desc>
+    <date>2025-08-12</date>
+  </programme>
 <channel id="400480">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 2 HD</display-name>
     <icon src="" />
