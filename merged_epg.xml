@@ -741,6 +741,11 @@
     <desc>A look back at some of the best batting action from the second Test between Zimbabwe and New Zealand.</desc>
     <date>2025-08-13</date>
   </programme>
+  <programme channel="400480" start="20250814000000 +0000" stop="20250815000000 +0000">
+    <title lang="zh">UEFA Super Cup</title>
+    <desc>Action from the 2025 UEFA Super Cup as Champions League winners Paris Saint-Germain face Europa League winners Tottenham Hotspur at Bluenergy Stadium.</desc>
+    <date>2025-08-14</date>
+  </programme>
 <channel id="405060">
     <display-name lang="Canada">TSN3</display-name>
     <icon src="" />
