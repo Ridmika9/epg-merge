@@ -706,6 +706,11 @@
     <desc>Ahead of the BMW Championship, we look back at Keegan Bradley's 2024 victory, speak to fellow former winner Viktor Hovland, and hit the range with Cameron Young.</desc>
     <date>2025-08-15</date>
   </programme>
+  <programme channel="400480" start="20250816000000 +0000" stop="20250817000000 +0000">
+    <title lang="zh">Live: NWSL</title>
+    <desc>Action from the National Women's Soccer League as Washington Spirit face Racing Louisville FC.</desc>
+    <date>2025-08-16</date>
+  </programme>
 <channel id="405060">
     <display-name lang="Canada">TSN3</display-name>
     <icon src="" />
