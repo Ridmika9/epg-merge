@@ -407,6 +407,11 @@
     <desc>A preview of UFC 319 at the United Center in Chicago. Middleweight champion Dricus du Plessis will defend his title against Khamzat Chimaev in the main event.</desc>
     <date>2025-08-16</date>
   </programme>
+  <programme channel="400477" start="20250817000000 +0000" stop="20250818000000 +0000">
+    <title lang="zh">Live: The Ultimate Fighting Championship</title>
+    <desc>Action from the UFC 319 Prelims at United Center in Chicago ahead of the clash between middleweight champion Dricus du Plessis and undefeated contender Khamzat Chimaev.</desc>
+    <date>2025-08-17</date>
+  </programme>
 <channel id="400480">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 2 HD</display-name>
     <icon src="" />
