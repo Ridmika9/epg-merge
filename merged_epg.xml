@@ -3,131 +3,6 @@
     <display-name lang="US">USA Network - East Feed</display-name>
     <icon src="" />
   </channel>
-  <programme channel="403626" start="20250816000000 +0000" stop="20250816020000 +0000">
-    <title lang="zh">Live: WWE Friday Night SmackDown</title>
-    <desc>The Superstars of World Wrestling Entertainment display their skills and athleticism in weekly episodic programming, as scores are settled and enduring rivalries play out in the ring.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="403626" start="20250816020000 +0000" stop="20250816030100 +0000">
-    <title lang="zh">The Rainmaker</title>
-    <desc>Fresh out of law school, Rudy Baylor confronts Leo F. Drummond in a medical malpractice case.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="403626" start="20250816030100 +0000" stop="20250816030500 +0000">
-    <title lang="zh">The Rainmaker</title>
-    <desc>A look inside Episode 1 of USA's The Rainmaker.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="403626" start="20250816030500 +0000" stop="20250816040400 +0000">
-    <title lang="zh">9-1-1</title>
-    <desc>The 118 and Tommy are presented with the Medal of Valor for their work on the cruise ship rescue; Hen and Karen encounter an unforeseen hurdle in their foster care journey; Eddie's emotional affair develops further.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="403626" start="20250816040400 +0000" stop="20250816050300 +0000">
-    <title lang="zh">9-1-1</title>
-    <desc>Following the devastating fire at the Nash home, Bobby's fate remains uncertain; Athena embarks on a mission to uncover the truth; Hen and Karin engage in a heated custody battle; Christopher grapples with forgiving Eddie.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="403626" start="20250816050300 +0000" stop="20250816060300 +0000">
-    <title lang="zh">The Rainmaker</title>
-    <desc>Fresh out of law school, Rudy Baylor confronts Leo F. Drummond in a medical malpractice case.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="403626" start="20250816060300 +0000" stop="20250816070200 +0000">
-    <title lang="zh">Dateline</title>
-    <desc>The case of Johnny Hincapie, whose conviction for the 1990 murder of a Utah tourist in New York -- a case that represented a tipping point in the city's law enforcement -- was overturned after 25 years.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="403626" start="20250816070200 +0000" stop="20250816080000 +0000">
-    <title lang="zh">Dateline</title>
-    <desc>After a young Army veteran disappears, detectives uncover a cryptic 911 call placed 11 days before she went missing, which exposes a twisted story -- and the truth.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="403626" start="20250816080000 +0000" stop="20250816090000 +0000">
-    <title lang="zh">Dateline</title>
-    <desc>A wife and mother survives an attack in her home and a shot to the head; authorities search for a motive.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="403626" start="20250816090000 +0000" stop="20250816100000 +0000">
-    <title lang="zh">Dateline</title>
-    <desc>A wife and mother survives an attack in her home and a shot to the head; authorities search for a motive.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="403626" start="20250816100000 +0000" stop="20250816110000 +0000">
-    <title lang="zh">9-1-1</title>
-    <desc>When the Hollywood Reservoir dam breaks, Bobby and the 118 race into action to save passengers on a city bus that has crashed into a building several stories in the air; the team adjusts to life as first responders during the pandemic.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="403626" start="20250816110000 +0000" stop="20250816113000 +0000">
-    <title lang="zh">Live: Premier League Mornings</title>
-    <desc>Stateside Premier League fan festival that includes a turf pitch, the Premier League trophy, club mascots, special guests, contests, and more.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="403626" start="20250816113000 +0000" stop="20250816133000 +0000">
-    <title lang="zh">Live: Premier League Soccer</title>
-    <desc>Aston Villa host Newcastle United. In 2024-25, both clubs finished level on 66 points, with Newcastle earning the fifth and final UEFA Champions League spot on goal differential. Villa thrashed Newcastle 4-1 during the last meeting in Birmingham.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="403626" start="20250816133000 +0000" stop="20250816140000 +0000">
-    <title lang="zh">Live: Premier League Mornings</title>
-    <desc>Stateside Premier League fan festival that includes a turf pitch, the Premier League trophy, club mascots, special guests, contests, and more.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="403626" start="20250816140000 +0000" stop="20250816160000 +0000">
-    <title lang="zh">Live: Premier League Soccer</title>
-    <desc>Fulham head to the south shore of England to begin their 2025-26 Premier League campaign by facing Brighton. The Seagulls just missed out on European qualification with their eighth-place finish last season and lost striker João Pedro to Chelsea.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="403626" start="20250816160000 +0000" stop="20250816163000 +0000">
-    <title lang="zh">Live: Premier League Mornings</title>
-    <desc>Stateside Premier League fan festival that includes a turf pitch, the Premier League trophy, club mascots, special guests, contests, and more.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="403626" start="20250816163000 +0000" stop="20250816173100 +0000">
-    <title lang="zh">The Rainmaker</title>
-    <desc>Fresh out of law school, Rudy Baylor confronts Leo F. Drummond in a medical malpractice case.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="403626" start="20250816173100 +0000" stop="20250816180000 +0000">
-    <title lang="zh">Forensic Files</title>
-    <desc>Who put a bomb in the home of a 29-year-old woman and killed her?</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="403626" start="20250816180000 +0000" stop="20250816190000 +0000">
-    <title lang="zh">9-1-1</title>
-    <desc>In the aftermath of the dam break, massive mudslides wreak havoc throughout Los Angeles; Athena fights to save herself and an agoraphobic woman after her house collapses; a group of pregnant women trapped in a submerged house.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="403626" start="20250816190000 +0000" stop="20250816200000 +0000">
-    <title lang="zh">9-1-1</title>
-    <desc>The team races to save a man under siege by his high-tech smart home; a yoga teacher loses her vision; Athena hunts down a bank robber disguised by COVID-19 protocols; members of the 118's crew prepare for an out-of-state mission.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="403626" start="20250816200000 +0000" stop="20250816210000 +0000">
-    <title lang="zh">9-1-1</title>
-    <desc>Athena investigates a mysterious murder during a neighborhood block party; the 118 rush to save lives endangered by a bomb threat; Chimney has a hard time keeping secrets when Maddie and Buck's parents come to town.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="403626" start="20250816210000 +0000" stop="20250816220000 +0000">
-    <title lang="zh">9-1-1</title>
-    <desc>The 118 races to save the lives of workers trapped in a factory fire; Maddie reveals a painful family secret that causes Buck to confront his childhood and answer why he is the daredevil he is today.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="403626" start="20250816220000 +0000" stop="20250816230000 +0000">
-    <title lang="zh">9-1-1</title>
-    <desc>The 118 has a day from hell with a never-ending series of bizarre emergency calls; a man tapes himself to a freeway billboard; a restaurant manager destroys his own business; Eddie feels a spark with Christopher's former teacher.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="403626" start="20250816230000 +0000" stop="20250816233000 +0000">
-    <title lang="zh">Live: NASCAR Cup Series Countdown to Green</title>
-    <desc>Pre-race show with analysis, driver profiles, reports from the garage, interviews with drivers and crew chiefs, and more.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="403626" start="20250816233000 +0000" stop="20250817000000 +0000">
-    <title lang="zh">Live: NASCAR Cup Series</title>
-    <desc>The NASCAR Cup Series season rolls on with the Cook Out 400. Shane van Gisbergen ran his road-course win streak to four races Aug. 10 in New York, and joined Dan Gurney as the only drivers to collect their first five career victories on road courses.</desc>
-    <date>2025-08-16</date>
-  </programme>
   <programme channel="403626" start="20250817023000 +0000" stop="20250817030000 +0000">
     <title lang="zh">Live: NASCAR Cup Series Post Race</title>
     <desc>Post race coverage from the latest Cup event.</desc>
@@ -238,90 +113,140 @@
     <desc>The female CEO of a popular wellness company says she was raped, but her business partner claims the accusation is part of an embezzlement cover-up.</desc>
     <date>2025-08-17</date>
   </programme>
-  <programme channel="403626" start="20250818000000 +0000" stop="20250819000000 +0000">
+  <programme channel="403626" start="20250818000000 +0000" stop="20250818010000 +0000">
     <title lang="zh">Law &amp; Order: Special Victims Unit</title>
     <desc>While Fin and Phoebe make wedding plans, Benson and Rollins try to help a homeless single mother who's being trafficked in exchange for safe housing.</desc>
     <date>2025-08-18</date>
+  </programme>
+  <programme channel="403626" start="20250818010000 +0000" stop="20250818020000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>As the investigation into a sex-for-housing scheme expands, Benson's loyalty to Garland is tested; Rollins and Carisi try to keep their witnesses on board when a powerful congressman is identified as a suspect.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="403626" start="20250818020000 +0000" stop="20250818030000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>The search for a missing witness leads Fin and Kat down a dangerous path; Chief McGrath puts pressure on Garland and Benson to get a conviction.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="403626" start="20250818030000 +0000" stop="20250818040100 +0000">
+    <title lang="zh">The Rainmaker</title>
+    <desc>Fresh out of law school, Rudy Baylor confronts Leo F. Drummond in a medical malpractice case.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="403626" start="20250818040100 +0000" stop="20250818050100 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Benson and Stabler suspect a pair of college basketball players of murdering a female student, but officials don't want to draw negative attention to the school.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="403626" start="20250818050100 +0000" stop="20250818060100 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>When two police officers in separate precincts attack their wives and demonstrate suicidal behavior, Benson and Stabler suspect a malaria drug both men received while serving in a reserve unit in Afghanistan.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="403626" start="20250818060100 +0000" stop="20250818070000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Detectives Benson and Stabler believe a fellow cop may be behind murders going back 30 years; Munch is in rare form during a child molestation case.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="403626" start="20250818070000 +0000" stop="20250818080000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Detectives Benson and Stabler investigate the shooting death of a sleazy judge who abused the criminal-justice system.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="403626" start="20250818080000 +0000" stop="20250818090000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Benson and Stabler investigate the case of a woman (Cynthia Nixon) with multiple personalities who may have abused and killed her daughter; the detectives must adjust to sweeping changes in the SVU.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="403626" start="20250818090000 +0000" stop="20250818100000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>When Officer Michael Groves ends up in a psych ward after leveling accusations at the 12th Precinct, Internal Affairs asks the team to help investigate.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="403626" start="20250818100000 +0000" stop="20250818103000 +0000">
+    <title lang="zh">Forensic Files</title>
+    <desc>A killer tried to destroy everything which could link them to the crime; but in doing so, they inadvertently created new forensic evidence, evidence which came to light using a technique never before used in a criminal investigation.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="403626" start="20250818103000 +0000" stop="20250818113000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>A woman with a seemingly squeaky-clean image is found dead in a fountain; further investigation reveals a surprising motive and multiple suspects.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="403626" start="20250818113000 +0000" stop="20250818123000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>When a young woman is attacked in her apartment, evidence points to traumatic events from her buried past.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="403626" start="20250818123000 +0000" stop="20250818133000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Benson questions Detective Qadri's involvement in the case of a district attorney who fell to her death.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="403626" start="20250818133000 +0000" stop="20250818143000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Detectives Benson and Stabler's investigation into a sexual abuse case goes awry when their wealthy suspect involves his lawyer.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="403626" start="20250818143000 +0000" stop="20250818153000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>When a pregnant 13-year-old won't identify the father of her baby, Benson and the squad try to determine if she was raped; after the investigation uncovers a secret, someone goes missing.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="403626" start="20250818153000 +0000" stop="20250818163000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>When a dancer is raped by a man with a unique tattoo, details of the case remind Rollins of a serial rapist she was tracking in Atlanta.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="403626" start="20250818163000 +0000" stop="20250818173000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>The detectives investigate when woman visiting from Buffalo, N.Y., claims her car was stolen with her baby in the backseat.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="403626" start="20250818173000 +0000" stop="20250818183000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>When a young mail-order bride is found dead, the investigation leads the detectives to the Russian mafia.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="403626" start="20250818183000 +0000" stop="20250818190000 +0000">
+    <title lang="zh">Live: Premier League Live</title>
+    <desc>Discussion and analysis of Premier League soccer.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="403626" start="20250818190000 +0000" stop="20250818210000 +0000">
+    <title lang="zh">Live: Premier League Soccer</title>
+    <desc>Leeds United host Everton in this 2025-26 Premier League opener. Leeds returns to England's top tier after winning the Championship in 2024-25. The clubs played to a 1-1 draw during their last league outing at Elland Road on Aug. 30, 2022.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="403626" start="20250818210000 +0000" stop="20250818213000 +0000">
+    <title lang="zh">Live: Premier League Goal Zone</title>
+    <desc>The best moments from the weekend in Premier League action.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="403626" start="20250818213000 +0000" stop="20250818220000 +0000">
+    <title lang="zh">Forensic Files</title>
+    <desc>When an aspiring model turns up dead, police suspect her boyfriend. But must dig deeper for clues when he is cleared.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="403626" start="20250818220000 +0000" stop="20250818230000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>Detectives Benson and Rollins investigate when a mental patient says he witnessed a rape, but the alleged victim denies the assault happened.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="403626" start="20250818230000 +0000" stop="20250819000000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>When a child disappears on his way home from school, Benson and Amaro interview the distraught parents, who don't trust the police; with the help of their TARU tech (Gilbert Gottfried) and a meddling reporter, the detectives narrow the suspects list.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="403626" start="20250819000000 +0000" stop="20250820000000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>When the detectives find a missing 14-year-old working as a prostitute, they set up a sting to put the johns away for statutory rape and find one of her customers is a former professional football player.</desc>
+    <date>2025-08-19</date>
   </programme>
 <channel id="400477">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 1 HD</display-name>
     <icon src="" />
   </channel>
-  <programme channel="400477" start="20250816024500 +0000" stop="20250816030000 +0000">
-    <title lang="zh">TNT Sports Cricket Reload</title>
-    <desc>We revisit the second T20 between Australia and South Africa.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="400477" start="20250816030000 +0000" stop="20250816060000 +0000">
-    <title lang="zh">Live: Australian Rules</title>
-    <desc>Action from the Australian Football League as Carlton host Port Adelaide.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="400477" start="20250816060000 +0000" stop="20250816090000 +0000">
-    <title lang="zh">Live: Australian Rules</title>
-    <desc>Action from the Australian Football League as Hawthorn face Melbourne.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="400477" start="20250816090000 +0000" stop="20250816093000 +0000">
-    <title lang="zh">Premier League Stories</title>
-    <desc>Newcastle United are a team on the rise under Eddie Howe; a manager quietly rewriting the modern history of the club. With exclusive access and interviews from inside St. James' Park, we uncover the transformation Howe has led, from stabilising the team to delivering silverware and reigniting belief on Tyneside. As the Magpies set their sights on even greater heights, we ask just how far he can ta</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="400477" start="20250816093000 +0000" stop="20250816100000 +0000">
-    <title lang="zh">Premier League Preview</title>
-    <desc>A look ahead to the opening weekend of the 2025/26 Premier League season, including Aston Villa v Newcastle, Liverpool v Bournemouth and Man United v Arsenal.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="400477" start="20250816100000 +0000" stop="20250816140000 +0000">
-    <title lang="zh">Live: Premier League</title>
-    <desc>Action from the opening weekend of the 2025/26 Premier League season, as Unai Emery's Aston Villa host Eddie Howe's Newcastle United at Villa Park.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="400477" start="20250816140000 +0000" stop="20250816141500 +0000">
-    <title lang="zh">Xtra Time</title>
-    <desc>All the post-match reaction and debate from the Premier League showdown between Aston Villa and Newcastle United at Villa Park.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="400477" start="20250816141500 +0000" stop="20250816160000 +0000">
-    <title lang="zh">TNT Sports Films</title>
-    <desc>A film charting Tom Daley's career from his first Olympics in Beijing at 14 years old, through winning gold at Tokyo 2020 and his final Olympic appearance at Paris 2024.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="400477" start="20250816160000 +0000" stop="20250816170000 +0000">
-    <title lang="zh">T100 Triathlon World Tour</title>
-    <desc>Highlights from the T100 Triathlon World Tour in London. Brits Lucy Charles-Barclay and Kate Waugh would battle for glory in the thrilling Women's race.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="400477" start="20250816170000 +0000" stop="20250816200000 +0000">
-    <title lang="zh">Live: Saudi Arabia Snooker Masters</title>
-    <desc>Session two of the 2025 Saudi Masters final.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="400477" start="20250816200000 +0000" stop="20250816210000 +0000">
-    <title lang="zh">International T20 Cricket</title>
-    <desc>Action from the third T20 between Australia and South Africa at Cazalys Stadium in Cairns.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="400477" start="20250816210000 +0000" stop="20250816211500 +0000">
-    <title lang="zh">Crouchy and Cole</title>
-    <desc>Peter Crouch and Joe Cole visit Lords to try their hand at cricket, taught by England greats Lydia Greenway and Alastair Cook.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="400477" start="20250816211500 +0000" stop="20250816224500 +0000">
-    <title lang="zh">TNT Sports Films</title>
-    <desc>Formed in 1993, the UFC has risen from tough beginnings to become a leading force in combat sports. This documentary delves into the history of this powerhouse company.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="400477" start="20250816224500 +0000" stop="20250816231500 +0000">
-    <title lang="zh">UFC Connected</title>
-    <desc>Malcolm Wellmaker details leaving his blue-collar job for a full-time career in MMA. And, we join Brandon Moreno front row at UFC 317 for the flyweight title fight.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="400477" start="20250816231500 +0000" stop="20250817000000 +0000">
-    <title lang="zh">Fight Week</title>
-    <desc>A preview of UFC 319 at the United Center in Chicago. Middleweight champion Dricus du Plessis will defend his title against Khamzat Chimaev in the main event.</desc>
-    <date>2025-08-16</date>
-  </programme>
   <programme channel="400477" start="20250817000000 +0000" stop="20250817020000 +0000">
     <title lang="zh">Live: The Ultimate Fighting Championship</title>
     <desc>Action from the UFC 319 Prelims at United Center in Chicago ahead of the clash between middleweight champion Dricus du Plessis and undefeated contender Khamzat Chimaev.</desc>
@@ -407,125 +332,145 @@
     <desc>Action from Major League Baseball as Seattle Mariners and New York Mets go head-to-head.</desc>
     <date>2025-08-17</date>
   </programme>
+  <programme channel="400477" start="20250818021500 +0000" stop="20250818024500 +0000">
+    <title lang="zh">MLB Plays of the Week</title>
+    <desc>This weekly MLB highlights show showcases the most exciting plays from the past week's matches.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="400477" start="20250818024500 +0000" stop="20250818030000 +0000">
+    <title lang="zh">TNT Sports Reload</title>
+    <desc>The best bits from TNT Sports over the last week, including exclusive interviews, the best action and so much more.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="400477" start="20250818030000 +0000" stop="20250818040000 +0000">
+    <title lang="zh">Inside Serie A</title>
+    <desc>We preview the 2025/26 Serie A season, as Antonio Conte looks to lead Napoli to another Scudetto. And, there are new eras at Chivu's Inter, Tudor's Juventus and Allegri's Milan.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="400477" start="20250818040000 +0000" stop="20250818050000 +0000">
+    <title lang="zh">International T20 Cricket</title>
+    <desc>Action from the third T20 between Australia and South Africa at Cazalys Stadium in Cairns. Can the Proteas upset the Aussies against and win this series-deciding contest?</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="400477" start="20250818050000 +0000" stop="20250818053000 +0000">
+    <title lang="zh">Premier League: The Big Interview</title>
+    <desc>Sean Longstaff discusses his near decade spell at Newcastle United, winning the EFL Cup with his boyhood club, and his decision to take on an exciting new project at Leeds United.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="400477" start="20250818053000 +0000" stop="20250818060000 +0000">
+    <title lang="zh">Premier League Stories</title>
+    <desc>When Arne Slot guided Liverpool to their 20th League title in his debut season, it marked the beginning of a new era, yet echoed a familiar tradition. Explore the rich legacy of Liverpool's managerial transitions, where through decades of change, one constant endures: the club's remarkable ability to evolve and triumph, through seamless succession.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="400477" start="20250818060000 +0000" stop="20250818064500 +0000">
+    <title lang="zh">The Breakdown</title>
+    <desc>Who will win the league? Who will be the best signing of the summer? Joe Cole, Peter Crouch and Owen Hargreaves debate all things Premier League in this 2025/26 pre-season special.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="400477" start="20250818064500 +0000" stop="20250818070000 +0000">
+    <title lang="zh">Training Day</title>
+    <desc>Former pros Shay Given and Steve Sidwell spend the day training with Newcastle United's academy. How will Sidwell handle a high-intensity pre-season experience?</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="400477" start="20250818070000 +0000" stop="20250818083000 +0000">
+    <title lang="zh">Premier League</title>
+    <desc>Action from the opening weekend of the 2025/26 Premier League season, as Unai Emery's Aston Villa host Eddie Howe's Newcastle United at Villa Park.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="400477" start="20250818083000 +0000" stop="20250818093000 +0000">
+    <title lang="zh">Inside Serie A</title>
+    <desc>We preview the 2025/26 Serie A season, as Antonio Conte looks to lead Napoli to another Scudetto. And, there are new eras at Chivu's Inter, Tudor's Juventus and Allegri's Milan.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="400477" start="20250818093000 +0000" stop="20250818100000 +0000">
+    <title lang="zh">UEFA Champions League Classics</title>
+    <desc>We revisit the extraordinary UEFA Champions League last 16 second leg clash between Barcelona and Paris Saint-Germain, featuring one of the competition's greatest ever comebacks.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="400477" start="20250818100000 +0000" stop="20250818103000 +0000">
+    <title lang="zh">UEFA Champions League Football</title>
+    <desc>Relive Man City and Tottenham's Champions League quarter-final. It was a classic at the Etihad with seven goals, five of them coming in 17 pulsating minutes, and late VAR drama.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="400477" start="20250818103000 +0000" stop="20250818110000 +0000">
+    <title lang="zh">UEFA Champions League Football</title>
+    <desc>Revisit Tottenham's sensational UEFA Champions League semi-final second leg with Ajax at the Amsterdam Arena. Spurs' final hopes hung in the balance after a 1-0 first-leg defeat.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="400477" start="20250818110000 +0000" stop="20250818120000 +0000">
+    <title lang="zh">TNT Sports Films</title>
+    <desc>TV personality Rylan examines the place of homosexuality within football. He takes a look at his own personal experiences and interviews numerous figures from the beautiful game.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="400477" start="20250818120000 +0000" stop="20250818130000 +0000">
+    <title lang="zh">Major League Baseball</title>
+    <desc>Highlights from Major League Baseball.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="400477" start="20250818130000 +0000" stop="20250818140000 +0000">
+    <title lang="zh">Sign Up: Into Football</title>
+    <desc>Watch our favourite interviews and moments from last season, all featuring British Sign Language and subtitles. Guests include Arne Slot, Phil Foden, John McGinn and Eberechi Eze.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="400477" start="20250818140000 +0000" stop="20250818150000 +0000">
+    <title lang="zh">International T20 Cricket</title>
+    <desc>Action from the third T20 between Australia and South Africa at Cazalys Stadium in Cairns. Can the Proteas upset the Aussies against and win this series-deciding contest?</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="400477" start="20250818150000 +0000" stop="20250818163000 +0000">
+    <title lang="zh">TNT Sports Films</title>
+    <desc>Former Leinster, Ireland and Lions rugby captain Brian O'Driscoll goes on a discovery to better understand the mental health struggles elite sportsmen face following retirement.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="400477" start="20250818163000 +0000" stop="20250818170000 +0000">
+    <title lang="zh">UEFA Champions League Football</title>
+    <desc>Relive one of the greatest European comebacks of all time as Liverpool entertained Barcelona at Anfield in the second leg of their UEFA Champions League semi-final tie.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="400477" start="20250818170000 +0000" stop="20250818203000 +0000">
+    <title lang="zh">Live: Ultimate Pool Pairs Cup</title>
+    <desc>Ultimate Pool action from Group 12 of the Pairs Cup.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="400477" start="20250818203000 +0000" stop="20250818210000 +0000">
+    <title lang="zh">Fight Week</title>
+    <desc>We review the best action from UFC 319 at the United Center in Chicago, as Dricus du Plessis put his middleweight title on the line against Khamzat Chimaev.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="400477" start="20250818210000 +0000" stop="20250818213000 +0000">
+    <title lang="zh">Golden Trail World Series</title>
+    <desc>Action from the Golden Trail World Series in Sierre Zinal in Switzerland. This is the oldest race of its kind in Europe.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="400477" start="20250818213000 +0000" stop="20250818214500 +0000">
+    <title lang="zh">The Gruppetto</title>
+    <desc>Hosted by Rob Hatch, The Gruppetto brings you everything you need to stay up to speed with the world of cycling, from in-depth race reviews to the latest news from the peloton.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="400477" start="20250818214500 +0000" stop="20250818221500 +0000">
+    <title lang="zh">What I Wore</title>
+    <desc>We revisit our best conversations with some of the biggest names in football, focusing on classic football shirts and kit culture in the UK.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="400477" start="20250818221500 +0000" stop="20250818223000 +0000">
+    <title lang="zh">Major League Baseball</title>
+    <desc>Highlights from the 1973 MLB All-Star Game at the Royals Stadium in Kansas City, featuring Johnny Bench, Joe Morgan, Pete Rose and Hank Aaron.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="400477" start="20250818223000 +0000" stop="20250818233000 +0000">
+    <title lang="zh">Major League Baseball</title>
+    <desc>Highlights from Major League Baseball.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="400477" start="20250818233000 +0000" stop="20250819000000 +0000">
+    <title lang="zh">Live: Major League Baseball</title>
+    <desc>Major League Baseball action as Texas Rangers go head-to-head with Kansas City Royals.</desc>
+    <date>2025-08-18</date>
+  </programme>
 <channel id="400480">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 2 HD</display-name>
     <icon src="" />
   </channel>
-  <programme channel="400480" start="20250816000000 +0000" stop="20250816021500 +0000">
-    <title lang="zh">Live: NWSL</title>
-    <desc>Action from the National Women's Soccer League as Washington Spirit face Racing Louisville FC.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="400480" start="20250816021500 +0000" stop="20250816023000 +0000">
-    <title lang="zh">TNT Sports Films</title>
-    <desc>What does the future hold for rugby in the battle against global warming? Reshmin Chowdhury meets people at all levels to discuss how rugby can be a positive force for change.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="400480" start="20250816023000 +0000" stop="20250816053000 +0000">
-    <title lang="zh">Live: Australian Rules</title>
-    <desc>Action from the Australian Football League as Gold Coast Suns face GWS Giants.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="400480" start="20250816053000 +0000" stop="20250816054500 +0000">
-    <title lang="zh">MotoGP Rewind</title>
-    <desc>A look back at the best of the action from 2024 Grand Prix of Austria.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="400480" start="20250816054500 +0000" stop="20250816060000 +0000">
-    <title lang="zh">MotoGP Rewind</title>
-    <desc>A look back at the best of the action from the 2025 MotoGP Grand Prix of Czechia at Automotodrom Brno, as Ducati's Marc Marquez look to continue his dominant run.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="400480" start="20250816060000 +0000" stop="20250816063000 +0000">
-    <title lang="zh">MotoGP: The Inside Line</title>
-    <desc>Action, news and reactions from the thirteenth round of the 2025 MotoGP Season. Suzi Perry and the team are trackside at Red Bull Ring in Spielberg, Austria.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="400480" start="20250816063000 +0000" stop="20250816080000 +0000">
-    <title lang="zh">Live: MotoGP</title>
-    <desc>Coverage of the Moto2 and Moto3 second free practice sessions at the 2025 Grand Prix of Austria.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="400480" start="20250816080000 +0000" stop="20250816100000 +0000">
-    <title lang="zh">Live: MotoGP</title>
-    <desc>MotoGP action from the second free practice and qualifying sessions at the 2025 Grand Prix of Austria.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="400480" start="20250816100000 +0000" stop="20250816104500 +0000">
-    <title lang="zh">Live: MotoE</title>
-    <desc>Race one of the 2025 MotoE Grand Prix of Austria at the Red Bull Ring in Spielberg.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="400480" start="20250816104500 +0000" stop="20250816124500 +0000">
-    <title lang="zh">Live: MotoGP</title>
-    <desc>Coverage of the Moto2 and Moto3 qualifying sessions at the 2025 Grand Prix of Austria.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="400480" start="20250816124500 +0000" stop="20250816134500 +0000">
-    <title lang="zh">Live: MotoGP</title>
-    <desc>Action from the Sprint Race at the 2025 MotoGP Grand Prix of Austria at the Red Bull Ring in Spielberg.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="400480" start="20250816134500 +0000" stop="20250816140000 +0000">
-    <title lang="zh">British Superbikes Rewind</title>
-    <desc>We look back at the best action from round six of the 2025 British Superbikes at Thruxton Circuit in Hampshire.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="400480" start="20250816140000 +0000" stop="20250816144500 +0000">
-    <title lang="zh">Live: MotoE</title>
-    <desc>Race two of the 2025 MotoE Grand Prix of Austria at the Red Bull Ring in Spielberg.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="400480" start="20250816144500 +0000" stop="20250816154500 +0000">
-    <title lang="zh">Live: Red Bull MotoGP Rookies Cup</title>
-    <desc>Race 11 of the 2025 Red Bull MotoGP Rookies Cup at the Red Bull Ring in Spielberg.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="400480" start="20250816154500 +0000" stop="20250816161500 +0000">
-    <title lang="zh">Onboard</title>
-    <desc>A special onboard look at the Ocean Race, a yacht race around the world.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="400480" start="20250816161500 +0000" stop="20250816171500 +0000">
-    <title lang="zh">T100 Triathlon World Tour</title>
-    <desc>Highlights from the T100 Triathlon World Tour in London. Brits Lucy Charles-Barclay and Kate Waugh would battle for glory in the thrilling Women's race.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="400480" start="20250816171500 +0000" stop="20250816173000 +0000">
-    <title lang="zh">TNT Sports Cricket Reload</title>
-    <desc>We revisit the second T20 between Australia and South Africa.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="400480" start="20250816173000 +0000" stop="20250816180000 +0000">
-    <title lang="zh">MotoGP Highlights</title>
-    <desc>Action from the Sprint Race at the 2025 MotoGP Grand Prix of Austria at the Red Bull Ring in Spielberg.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="400480" start="20250816180000 +0000" stop="20250816190000 +0000">
-    <title lang="zh">Major League Baseball</title>
-    <desc>Highlights from Major League Baseball.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="400480" start="20250816190000 +0000" stop="20250816221500 +0000">
-    <title lang="zh">Live: Major League Baseball</title>
-    <desc>Action from Major League Baseball as Toronto Blue Jays take on Texas Rangers.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="400480" start="20250816221500 +0000" stop="20250816223000 +0000">
-    <title lang="zh">TNT Sports Reload</title>
-    <desc>The best bits from TNT Sports over the last week, including exclusive interviews, the best action and so much more.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="400480" start="20250816223000 +0000" stop="20250816230000 +0000">
-    <title lang="zh">Tom Aspinall's Fight Lab</title>
-    <desc>Heavyweight champion Tom Aspinall previews UFC 319, which will feature the middleweight title bout between Dricus du Plessis and Khamzat Chimaev.</desc>
-    <date>2025-08-16</date>
-  </programme>
-  <programme channel="400480" start="20250816230000 +0000" stop="20250817000000 +0000">
-    <title lang="zh">Live: Major League Baseball</title>
-    <desc>Major League Baseball action as St. Louis Cardinals take on New York Yankees.</desc>
-    <date>2025-08-16</date>
-  </programme>
   <programme channel="400480" start="20250817021500 +0000" stop="20250817024500 +0000">
     <title lang="zh">MLB Plays of the Week</title>
     <desc>This weekly MLB highlights show showcases the most exciting plays from the past week's matches.</desc>
@@ -615,6 +560,126 @@
     <title lang="zh">Live: CPL T20</title>
     <desc>Caribbean Premier League action as Antigua &amp; Barbuda Falcons face-off against St Lucia Kings at Sir Vivian Richards Stadium.</desc>
     <date>2025-08-17</date>
+  </programme>
+  <programme channel="400480" start="20250818024500 +0000" stop="20250818034500 +0000">
+    <title lang="zh">MotoGP Highlights</title>
+    <desc>Race action from the 2025 MotoGP Grand Prix of Austria. Can Marc Marquez end his nine-year wait for a win at the Red Bull Ring?</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="400480" start="20250818034500 +0000" stop="20250818044500 +0000">
+    <title lang="zh">MotoGP Chequered Flag</title>
+    <desc>Post-race show featuring analysis, highlights and interviews with all the key riders following the 2025 Grand Prix of Austria at the Red Bull Ring.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="400480" start="20250818044500 +0000" stop="20250818050000 +0000">
+    <title lang="zh">In My Blood</title>
+    <desc>The latest episode of In My Blood, as rock band Blossoms and defender Rico Lewis share their love of Manchester City.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="400480" start="20250818050000 +0000" stop="20250818060000 +0000">
+    <title lang="zh">MotoGP Highlights</title>
+    <desc>Race action from the 2025 Moto3 Grand Prix of Austria at the Red Bull Ring. Can Jose Antonio Rueda pick up his eighth win of the season?</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="400480" start="20250818060000 +0000" stop="20250818070000 +0000">
+    <title lang="zh">MotoGP Highlights</title>
+    <desc>Race action from the 2025 Moto2 Grand Prix of Austria at the Red Bull Ring. Can Jake Dixon and other riders close the gap on standings leader Manuel Gonzalez?</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="400480" start="20250818070000 +0000" stop="20250818073000 +0000">
+    <title lang="zh">MotoGP Highlights</title>
+    <desc>Action from the Sprint Race at the 2025 MotoGP Grand Prix of Austria at the Red Bull Ring in Spielberg. Francesco Bagnaia was triumphant in this race last year.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="400480" start="20250818073000 +0000" stop="20250818083000 +0000">
+    <title lang="zh">MotoGP Highlights</title>
+    <desc>Race action from the 2025 MotoGP Grand Prix of Austria. Can Marc Marquez end his nine-year wait for a win at the Red Bull Ring?</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="400480" start="20250818083000 +0000" stop="20250818093000 +0000">
+    <title lang="zh">MotoGP Chequered Flag</title>
+    <desc>Post-race show featuring analysis, highlights and interviews with all the key riders following the 2025 Grand Prix of Austria at the Red Bull Ring.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="400480" start="20250818093000 +0000" stop="20250818101500 +0000">
+    <title lang="zh">FIM World Championship Motocross Racing</title>
+    <desc>Motocross World Championship action from MX2 race one at Uddevalla circuit in Sweden.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="400480" start="20250818101500 +0000" stop="20250818110000 +0000">
+    <title lang="zh">FIM World Championship Motocross Racing</title>
+    <desc>Motocross World Championship action from MX2 race two at Uddevalla circuit in Sweden.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="400480" start="20250818110000 +0000" stop="20250818114500 +0000">
+    <title lang="zh">FIM World Championship Motocross Racing</title>
+    <desc>Motocross World Championship action from MXGP race one at Uddevalla circuit in Sweden.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="400480" start="20250818114500 +0000" stop="20250818123000 +0000">
+    <title lang="zh">FIM World Championship Motocross Racing</title>
+    <desc>Motocross World Championship action from MXGP race two at Uddevalla circuit in Sweden.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="400480" start="20250818123000 +0000" stop="20250818130000 +0000">
+    <title lang="zh">Onboard</title>
+    <desc>A special onboard look at the Ocean Race, a yacht race around the world.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="400480" start="20250818130000 +0000" stop="20250818140000 +0000">
+    <title lang="zh">Australia Championship Supercars</title>
+    <desc>Highlights from the Supercars Championship and day one of the 2025 Century Batteries Ipswich Super 440 at Queensland Raceway.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="400480" start="20250818140000 +0000" stop="20250818150000 +0000">
+    <title lang="zh">Australia Championship Supercars</title>
+    <desc>Highlights from the Supercars Championship and day two of the 2025 Century Batteries Ipswich Super 440 at Queensland Raceway.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="400480" start="20250818150000 +0000" stop="20250818160000 +0000">
+    <title lang="zh">WNBA Basketball</title>
+    <desc>Action from the Women's National Basketball Association as Las Vegas Aces host Dallas Wings at Michelob ULTRA Arena.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="400480" start="20250818160000 +0000" stop="20250818170000 +0000">
+    <title lang="zh">Major League Baseball</title>
+    <desc>Highlights from Major League Baseball.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="400480" start="20250818170000 +0000" stop="20250818190000 +0000">
+    <title lang="zh">Saudi Arabia Snooker Masters</title>
+    <desc>Highlights from the 2025 Snooker Saudi Masters.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="400480" start="20250818190000 +0000" stop="20250818191500 +0000">
+    <title lang="zh">The Gruppetto</title>
+    <desc>Hosted by Rob Hatch, The Gruppetto brings you everything you need to stay up to speed with the world of cycling, from in-depth race reviews to the latest news from the peloton.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="400480" start="20250818191500 +0000" stop="20250818193000 +0000">
+    <title lang="zh">TNT Sports Films</title>
+    <desc>What does the future hold for cycling in the battle against global warming? Reshmin Chowdhury meets people at all levels to discuss how cycling can be a positive force for change.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="400480" start="20250818193000 +0000" stop="20250818200000 +0000">
+    <title lang="zh">Onboard</title>
+    <desc>A special onboard look at the Ocean Race, a yacht race around the world.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="400480" start="20250818200000 +0000" stop="20250818210000 +0000">
+    <title lang="zh">Fishing: On the Bank</title>
+    <desc>Hughesy heads up to the River Trent in search of carp and barbel, We look at sediment issues in River Keepers Diary, and the lads go head to head in a floater v fly challenge.</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="400480" start="20250818210000 +0000" stop="20250818220000 +0000">
+    <title lang="zh">International T20 Cricket</title>
+    <desc>Action from the third T20 between Australia and South Africa at Cazalys Stadium in Cairns. Can the Proteas upset the Aussies against and win this series-deciding contest?</desc>
+    <date>2025-08-18</date>
+  </programme>
+  <programme channel="400480" start="20250818220000 +0000" stop="20250819000000 +0000">
+    <title lang="zh">The Ultimate Fighting Championship</title>
+    <desc>Action from UFC 319 at United Center in Chicago, featuring the main event showdown between middleweight champion Dricus du Plessis and undefeated contender Khamzat Chimaev.</desc>
+    <date>2025-08-18</date>
   </programme>
 <channel id="405060">
     <display-name lang="Canada">TSN3</display-name>
