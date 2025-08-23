@@ -511,6 +511,11 @@
     <desc>What does the future hold for football in the battle against global warming? Reshmin Chowdhury meets people at all levels to discuss how football can be a force for change.</desc>
     <date>2025-08-24</date>
   </programme>
+  <programme channel="400480" start="20250825000000 +0000" stop="20250826000000 +0000">
+    <title lang="zh">Live: NWSL</title>
+    <desc>National Women's Soccer League action as San Diego Wave FC face Racing Louisville FC at Snapdragon Stadium. The Waves are unbeaten in their last five league games.</desc>
+    <date>2025-08-25</date>
+  </programme>
 <channel id="405060">
     <display-name lang="Canada">TSN3</display-name>
     <icon src="" />
