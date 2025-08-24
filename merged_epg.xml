@@ -505,136 +505,6 @@
     <display-name lang="Canada">TSN3</display-name>
     <icon src="" />
   </channel>
-  <programme channel="405060" start="20250823000000 +0000" stop="20250823010000 +0000">
-    <title lang="zh">Park the Bus</title>
-    <desc>TSN Soccer's Kevin Kilbane and Steven Caldwell discuss the world of soccer as Canada prepares to host the FIFA Men's World Cup in 2026.</desc>
-    <date>2025-08-23</date>
-  </programme>
-  <programme channel="405060" start="20250823010000 +0000" stop="20250823030000 +0000">
-    <title lang="zh">Live: 2025 World Rugby Pacific Nations Cup</title>
-    <desc>From McMahon Stadium in Calgary, Alberta.</desc>
-    <date>2025-08-23</date>
-  </programme>
-  <programme channel="405060" start="20250823030000 +0000" stop="20250823040000 +0000">
-    <title lang="zh">Live: SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-08-23</date>
-  </programme>
-  <programme channel="405060" start="20250823040000 +0000" stop="20250823043000 +0000">
-    <title lang="zh">SC</title>
-    <desc>The best and worst from the world of sports.</desc>
-    <date>2025-08-23</date>
-  </programme>
-  <programme channel="405060" start="20250823043000 +0000" stop="20250823050000 +0000">
-    <title lang="zh">SC</title>
-    <desc>The best and worst from the world of sports.</desc>
-    <date>2025-08-23</date>
-  </programme>
-  <programme channel="405060" start="20250823050000 +0000" stop="20250823060000 +0000">
-    <title lang="zh">Live: SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-08-23</date>
-  </programme>
-  <programme channel="405060" start="20250823060000 +0000" stop="20250823070000 +0000">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-08-23</date>
-  </programme>
-  <programme channel="405060" start="20250823070000 +0000" stop="20250823080000 +0000">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-08-23</date>
-  </programme>
-  <programme channel="405060" start="20250823080000 +0000" stop="20250823090000 +0000">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-08-23</date>
-  </programme>
-  <programme channel="405060" start="20250823090000 +0000" stop="20250823100000 +0000">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-08-23</date>
-  </programme>
-  <programme channel="405060" start="20250823100000 +0000" stop="20250823110000 +0000">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-08-23</date>
-  </programme>
-  <programme channel="405060" start="20250823110000 +0000" stop="20250823120000 +0000">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-08-23</date>
-  </programme>
-  <programme channel="405060" start="20250823120000 +0000" stop="20250823130000 +0000">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-08-23</date>
-  </programme>
-  <programme channel="405060" start="20250823130000 +0000" stop="20250823140000 +0000">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-08-23</date>
-  </programme>
-  <programme channel="405060" start="20250823140000 +0000" stop="20250823150000 +0000">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-08-23</date>
-  </programme>
-  <programme channel="405060" start="20250823150000 +0000" stop="20250823160000 +0000">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-08-23</date>
-  </programme>
-  <programme channel="405060" start="20250823160000 +0000" stop="20250823163000 +0000">
-    <title lang="zh">SC</title>
-    <desc>The best and worst from the world of sports.</desc>
-    <date>2025-08-23</date>
-  </programme>
-  <programme channel="405060" start="20250823163000 +0000" stop="20250823170000 +0000">
-    <title lang="zh">SC</title>
-    <desc>The best and worst from the world of sports.</desc>
-    <date>2025-08-23</date>
-  </programme>
-  <programme channel="405060" start="20250823170000 +0000" stop="20250823173000 +0000">
-    <title lang="zh">SC</title>
-    <desc>The best and worst from the world of sports.</desc>
-    <date>2025-08-23</date>
-  </programme>
-  <programme channel="405060" start="20250823173000 +0000" stop="20250823183000 +0000">
-    <title lang="zh">The Amazing Race Canada</title>
-    <desc>Racers head to Sherbrooke and the Eastern Townships, Quebec for a Gladiator style Face Off and a Roadblock that defies the laws of physics.</desc>
-    <date>2025-08-23</date>
-  </programme>
-  <programme channel="405060" start="20250823183000 +0000" stop="20250823190000 +0000">
-    <title lang="zh">SC</title>
-    <desc>The best and worst from the world of sports.</desc>
-    <date>2025-08-23</date>
-  </programme>
-  <programme channel="405060" start="20250823190000 +0000" stop="20250823193000 +0000">
-    <title lang="zh">SC</title>
-    <desc>The best and worst from the world of sports.</desc>
-    <date>2025-08-23</date>
-  </programme>
-  <programme channel="405060" start="20250823193000 +0000" stop="20250823200000 +0000">
-    <title lang="zh">SC</title>
-    <desc>The best and worst from the world of sports.</desc>
-    <date>2025-08-23</date>
-  </programme>
-  <programme channel="405060" start="20250823200000 +0000" stop="20250823203000 +0000">
-    <title lang="zh">Live: LPGA Tour Golf</title>
-    <desc>From Mississauga Golf and Country Club in Mississauga, Ontario.</desc>
-    <date>2025-08-23</date>
-  </programme>
-  <programme channel="405060" start="20250823203000 +0000" stop="20250823230000 +0000">
-    <title lang="zh">Live: LPGA Tour Golf</title>
-    <desc>From Mississauga Golf and Country Club in Mississauga, Ontario.</desc>
-    <date>2025-08-23</date>
-  </programme>
-  <programme channel="405060" start="20250823230000 +0000" stop="20250824000000 +0000">
-    <title lang="zh">Live: CFL Football</title>
-    <desc>From McMahon Stadium in Calgary, Alberta.</desc>
-    <date>2025-08-23</date>
-  </programme>
   <programme channel="405060" start="20250824020000 +0000" stop="20250824030000 +0000">
     <title lang="zh">Live: SportsCentre</title>
     <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
@@ -730,115 +600,90 @@
     <desc>From Canada Life Centre in Winnipeg, Manitoba.</desc>
     <date>2025-08-24</date>
   </programme>
+  <programme channel="405060" start="20250825013000 +0000" stop="20250825023000 +0000">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-08-25</date>
+  </programme>
+  <programme channel="405060" start="20250825023000 +0000" stop="20250825033000 +0000">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-08-25</date>
+  </programme>
+  <programme channel="405060" start="20250825033000 +0000" stop="20250825040000 +0000">
+    <title lang="zh">Why We Love Football</title>
+    <desc>Sports talk centered around the latest moves and news in the CFL and NFL.</desc>
+    <date>2025-08-25</date>
+  </programme>
+  <programme channel="405060" start="20250825040000 +0000" stop="20250825050000 +0000">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-08-25</date>
+  </programme>
+  <programme channel="405060" start="20250825050000 +0000" stop="20250825060000 +0000">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-08-25</date>
+  </programme>
+  <programme channel="405060" start="20250825060000 +0000" stop="20250825070000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-08-25</date>
+  </programme>
+  <programme channel="405060" start="20250825070000 +0000" stop="20250825080000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-08-25</date>
+  </programme>
+  <programme channel="405060" start="20250825080000 +0000" stop="20250825090000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-08-25</date>
+  </programme>
+  <programme channel="405060" start="20250825090000 +0000" stop="20250825100000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-08-25</date>
+  </programme>
+  <programme channel="405060" start="20250825100000 +0000" stop="20250825110000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-08-25</date>
+  </programme>
+  <programme channel="405060" start="20250825110000 +0000" stop="20250825120000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-08-25</date>
+  </programme>
+  <programme channel="405060" start="20250825120000 +0000" stop="20250825130000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-08-25</date>
+  </programme>
+  <programme channel="405060" start="20250825130000 +0000" stop="20250825140000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-08-25</date>
+  </programme>
+  <programme channel="405060" start="20250825140000 +0000" stop="20250825150000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-08-25</date>
+  </programme>
+  <programme channel="405060" start="20250825150000 +0000" stop="20250825230000 +0000">
+    <title lang="zh">Live: 2025 US Open Tennis</title>
+    <desc>From the USTA Billie Jean King National Tennis Center in Flushing, N.Y.</desc>
+    <date>2025-08-25</date>
+  </programme>
+  <programme channel="405060" start="20250825230000 +0000" stop="20250826000000 +0000">
+    <title lang="zh">Live: 2025 US Open Tennis</title>
+    <desc>From the USTA Billie Jean King National Tennis Center in Flushing, N.Y.</desc>
+    <date>2025-08-25</date>
+  </programme>
 <channel id="405134">
     <display-name lang="Canada">TSN4</display-name>
     <icon src="" />
   </channel>
-  <programme channel="405134" start="20250823003000 +0000" stop="20250823030000 +0000">
-    <title lang="zh">Live: CEBL Basketball</title>
-    <desc>Western Conference Final.</desc>
-    <date>2025-08-23</date>
-  </programme>
-  <programme channel="405134" start="20250823030000 +0000" stop="20250823040000 +0000">
-    <title lang="zh">Live: SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-08-23</date>
-  </programme>
-  <programme channel="405134" start="20250823040000 +0000" stop="20250823043000 +0000">
-    <title lang="zh">SC</title>
-    <desc>The best and worst from the world of sports.</desc>
-    <date>2025-08-23</date>
-  </programme>
-  <programme channel="405134" start="20250823043000 +0000" stop="20250823050000 +0000">
-    <title lang="zh">SC</title>
-    <desc>The best and worst from the world of sports.</desc>
-    <date>2025-08-23</date>
-  </programme>
-  <programme channel="405134" start="20250823050000 +0000" stop="20250823060000 +0000">
-    <title lang="zh">Live: SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-08-23</date>
-  </programme>
-  <programme channel="405134" start="20250823060000 +0000" stop="20250823070000 +0000">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-08-23</date>
-  </programme>
-  <programme channel="405134" start="20250823070000 +0000" stop="20250823080000 +0000">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-08-23</date>
-  </programme>
-  <programme channel="405134" start="20250823080000 +0000" stop="20250823090000 +0000">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-08-23</date>
-  </programme>
-  <programme channel="405134" start="20250823090000 +0000" stop="20250823100000 +0000">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-08-23</date>
-  </programme>
-  <programme channel="405134" start="20250823100000 +0000" stop="20250823110000 +0000">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-08-23</date>
-  </programme>
-  <programme channel="405134" start="20250823110000 +0000" stop="20250823120000 +0000">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-08-23</date>
-  </programme>
-  <programme channel="405134" start="20250823120000 +0000" stop="20250823130000 +0000">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-08-23</date>
-  </programme>
-  <programme channel="405134" start="20250823130000 +0000" stop="20250823140000 +0000">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-08-23</date>
-  </programme>
-  <programme channel="405134" start="20250823140000 +0000" stop="20250823150000 +0000">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-08-23</date>
-  </programme>
-  <programme channel="405134" start="20250823150000 +0000" stop="20250823160000 +0000">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-08-23</date>
-  </programme>
-  <programme channel="405134" start="20250823160000 +0000" stop="20250823170000 +0000">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-08-23</date>
-  </programme>
-  <programme channel="405134" start="20250823170000 +0000" stop="20250823173000 +0000">
-    <title lang="zh">SC</title>
-    <desc>The best and worst from the world of sports.</desc>
-    <date>2025-08-23</date>
-  </programme>
-  <programme channel="405134" start="20250823173000 +0000" stop="20250823183000 +0000">
-    <title lang="zh">The Amazing Race Canada</title>
-    <desc>Racers head to Sherbrooke and the Eastern Townships, Quebec for a Gladiator style Face Off and a Roadblock that defies the laws of physics.</desc>
-    <date>2025-08-23</date>
-  </programme>
-  <programme channel="405134" start="20250823183000 +0000" stop="20250823230000 +0000">
-    <title lang="zh">Live: 2025 TOUR Championship</title>
-    <desc>The third round of the Tour Championship gets underway from Atlanta. East Lake Golf Club has hosted the tour's playoff finale since 2004. Harris English, Sepp Straka, Russell Henley and Brian Harman played college golf at the University of Georgia.</desc>
-    <date>2025-08-23</date>
-  </programme>
-  <programme channel="405134" start="20250823230000 +0000" stop="20250823233000 +0000">
-    <title lang="zh">SC</title>
-    <desc>The best and worst from the world of sports.</desc>
-    <date>2025-08-23</date>
-  </programme>
-  <programme channel="405134" start="20250823233000 +0000" stop="20250824000000 +0000">
-    <title lang="zh">Live: MLS Soccer</title>
-    <desc>From Saputo Stadium in Montreal-Est, Québec.</desc>
-    <date>2025-08-23</date>
-  </programme>
   <programme channel="405134" start="20250824013000 +0000" stop="20250824033000 +0000">
     <title lang="zh">Live: MLS Soccer</title>
     <desc>From BC Place Stadium in Vancouver, British Columbia.</desc>
@@ -923,5 +768,80 @@
     <title lang="zh">Live: MLB Baseball</title>
     <desc>From Yankee Stadium in the Bronx, N.Y.</desc>
     <date>2025-08-24</date>
+  </programme>
+  <programme channel="405134" start="20250825020000 +0000" stop="20250825033000 +0000">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-08-25</date>
+  </programme>
+  <programme channel="405134" start="20250825033000 +0000" stop="20250825040000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-08-25</date>
+  </programme>
+  <programme channel="405134" start="20250825040000 +0000" stop="20250825050000 +0000">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-08-25</date>
+  </programme>
+  <programme channel="405134" start="20250825050000 +0000" stop="20250825060000 +0000">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-08-25</date>
+  </programme>
+  <programme channel="405134" start="20250825060000 +0000" stop="20250825070000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-08-25</date>
+  </programme>
+  <programme channel="405134" start="20250825070000 +0000" stop="20250825080000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-08-25</date>
+  </programme>
+  <programme channel="405134" start="20250825080000 +0000" stop="20250825090000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-08-25</date>
+  </programme>
+  <programme channel="405134" start="20250825090000 +0000" stop="20250825100000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-08-25</date>
+  </programme>
+  <programme channel="405134" start="20250825100000 +0000" stop="20250825110000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-08-25</date>
+  </programme>
+  <programme channel="405134" start="20250825110000 +0000" stop="20250825120000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-08-25</date>
+  </programme>
+  <programme channel="405134" start="20250825120000 +0000" stop="20250825130000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-08-25</date>
+  </programme>
+  <programme channel="405134" start="20250825130000 +0000" stop="20250825140000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-08-25</date>
+  </programme>
+  <programme channel="405134" start="20250825140000 +0000" stop="20250825150000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-08-25</date>
+  </programme>
+  <programme channel="405134" start="20250825150000 +0000" stop="20250825230000 +0000">
+    <title lang="zh">Live: 2025 US Open Tennis</title>
+    <desc>From the USTA Billie Jean King National Tennis Center in Flushing, N.Y.</desc>
+    <date>2025-08-25</date>
+  </programme>
+  <programme channel="405134" start="20250825230000 +0000" stop="20250826000000 +0000">
+    <title lang="zh">Live: 2025 US Open Tennis</title>
+    <desc>From the USTA Billie Jean King National Tennis Center in Flushing, N.Y.</desc>
+    <date>2025-08-25</date>
   </programme>
 </tv>
