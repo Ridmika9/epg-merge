@@ -427,6 +427,11 @@
     <desc>Rangers look to fight back from two goals behind as they face Club Brugge in the second leg of the UEFA Champions League play-off at Jan Breydel Stadium.</desc>
     <date>2025-08-28</date>
   </programme>
+  <programme channel="400477" start="20250829000000 +0000" stop="20250830000000 +0000">
+    <title lang="zh">UEFA Champions League Football</title>
+    <desc>Action from the second leg of the UEFA Champions League play-off between Qarabag and Ferencvaros at Tofiq Bahramov Republican Stadium. Can Qarabag hold onto their two-goal lead?</desc>
+    <date>2025-08-29</date>
+  </programme>
 <channel id="400480">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 2 HD</display-name>
     <icon src="" />
