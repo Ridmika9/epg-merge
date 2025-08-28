@@ -790,9 +790,54 @@
     <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
     <date>2025-08-29</date>
   </programme>
-  <programme channel="405060" start="20250829080000 +0000" stop="20250830000000 +0000">
+  <programme channel="405060" start="20250829080000 +0000" stop="20250829090000 +0000">
     <title lang="zh">SportsCentre</title>
     <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-08-29</date>
+  </programme>
+  <programme channel="405060" start="20250829090000 +0000" stop="20250829100000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-08-29</date>
+  </programme>
+  <programme channel="405060" start="20250829100000 +0000" stop="20250829110000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-08-29</date>
+  </programme>
+  <programme channel="405060" start="20250829110000 +0000" stop="20250829120000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-08-29</date>
+  </programme>
+  <programme channel="405060" start="20250829120000 +0000" stop="20250829130000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-08-29</date>
+  </programme>
+  <programme channel="405060" start="20250829130000 +0000" stop="20250829140000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-08-29</date>
+  </programme>
+  <programme channel="405060" start="20250829140000 +0000" stop="20250829150000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-08-29</date>
+  </programme>
+  <programme channel="405060" start="20250829150000 +0000" stop="20250829220000 +0000">
+    <title lang="zh">Live: 2025 US Open Tennis</title>
+    <desc>From the USTA Billie Jean King National Tennis Center in Flushing, N.Y.</desc>
+    <date>2025-08-29</date>
+  </programme>
+  <programme channel="405060" start="20250829220000 +0000" stop="20250829230000 +0000">
+    <title lang="zh">Live: 2025 US Open Tennis</title>
+    <desc>From the USTA Billie Jean King National Tennis Center in Flushing, N.Y.</desc>
+    <date>2025-08-29</date>
+  </programme>
+  <programme channel="405060" start="20250829230000 +0000" stop="20250830000000 +0000">
+    <title lang="zh">Live: 2025 US Open Tennis</title>
+    <desc>From the USTA Billie Jean King National Tennis Center in Flushing, N.Y.</desc>
     <date>2025-08-29</date>
   </programme>
 <channel id="405134">
