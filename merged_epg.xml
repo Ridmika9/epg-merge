@@ -681,6 +681,11 @@
     <desc>An inside look at NFL training camps and what it takes, professionally and personally, for the players and staff to make it all the way.</desc>
     <date>2025-08-29</date>
   </programme>
+  <programme channel="400480" start="20250830000000 +0000" stop="20250831000000 +0000">
+    <title lang="zh">Live: NWSL</title>
+    <desc>National Women's Soccer League action as Seb Hines' Orlando Pride face NJ/NY Gotham FC. Pride are without a win in their last five league games.</desc>
+    <date>2025-08-30</date>
+  </programme>
 <channel id="405060">
     <display-name lang="Canada">TSN3</display-name>
     <icon src="" />
