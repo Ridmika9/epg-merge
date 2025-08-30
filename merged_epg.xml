@@ -621,6 +621,11 @@
     <desc>After putting five past Torino in their Serie A opener, Inter look to lay down another early marker in their pursuit of the Scudetto, as they welcome Kosta Runjaic's Udinese at San Siro.</desc>
     <date>2025-08-31</date>
   </programme>
+  <programme channel="400480" start="20250901000000 +0000" stop="20250902000000 +0000">
+    <title lang="zh">Premier League Stories</title>
+    <desc>We follow the remarkable journey of Olivier Giroud, from his Premier League days with Arsenal and Chelsea to Champions League glory and beyond. A World Cup winner known for his elegance and resilience, Giroud's career has taken him from London to Milan, then to LA, and now back home with a move to Lille. As he begins this new chapter, we reflect on the highs, the hurdles, and the legacy of one of </desc>
+    <date>2025-09-01</date>
+  </programme>
 <channel id="405060">
     <display-name lang="Canada">TSN3</display-name>
     <icon src="" />
@@ -934,9 +939,69 @@
     <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
     <date>2025-08-31</date>
   </programme>
-  <programme channel="405134" start="20250831080000 +0000" stop="20250901000000 +0000">
+  <programme channel="405134" start="20250831080000 +0000" stop="20250831090000 +0000">
     <title lang="zh">SportsCentre</title>
     <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="405134" start="20250831090000 +0000" stop="20250831100000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="405134" start="20250831100000 +0000" stop="20250831110000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="405134" start="20250831110000 +0000" stop="20250831120000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="405134" start="20250831120000 +0000" stop="20250831124200 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="405134" start="20250831124200 +0000" stop="20250831151500 +0000">
+    <title lang="zh">Live: 2025 Women's Rugby World Cup</title>
+    <desc>Pool C.</desc>
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="405134" start="20250831151500 +0000" stop="20250831152700 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="405134" start="20250831152700 +0000" stop="20250831180000 +0000">
+    <title lang="zh">Live: 2025 Women's Rugby World Cup</title>
+    <desc>Pool D.</desc>
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="405134" start="20250831180000 +0000" stop="20250831183000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="405134" start="20250831183000 +0000" stop="20250831190000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="405134" start="20250831190000 +0000" stop="20250831220000 +0000">
+    <title lang="zh">Live: College Football</title>
+    <desc>The No. 13 Gamecocks begin a season of heightened expectations by taking on the Hokies. South Carolina is ranked in the AP's preseason poll for the first time since 2014, and looks to build around promising sophomore quarterback LaNorris Sellers.</desc>
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="405134" start="20250831220000 +0000" stop="20250831230000 +0000">
+    <title lang="zh">Live: Sunday Night Baseball Countdown</title>
+    <desc>A preview of the game of the week, with interviews, highlights and analysis.</desc>
+    <date>2025-08-31</date>
+  </programme>
+  <programme channel="405134" start="20250831230000 +0000" stop="20250901000000 +0000">
+    <title lang="zh">Live: MLB Baseball</title>
+    <desc>From Citizens Bank Park in Philadelphia.</desc>
     <date>2025-08-31</date>
   </programme>
 </tv>
