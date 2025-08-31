@@ -387,6 +387,11 @@
     <desc>Highlights from the 2025 Wuhan Open.</desc>
     <date>2025-09-01</date>
   </programme>
+  <programme channel="400477" start="20250902000000 +0000" stop="20250903000000 +0000">
+    <title lang="zh">UCI World Cup Mountain Biking</title>
+    <desc>Women's UCI Mountain Bike World Series action from the DHI Final in Haute Savoie, France.</desc>
+    <date>2025-09-02</date>
+  </programme>
 <channel id="400480">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 2 HD</display-name>
     <icon src="" />
