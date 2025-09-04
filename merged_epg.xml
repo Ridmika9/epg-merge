@@ -885,9 +885,74 @@
     <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
     <date>2025-09-05</date>
   </programme>
-  <programme channel="405060" start="20250905083000 +0000" stop="20250906000000 +0000">
+  <programme channel="405060" start="20250905083000 +0000" stop="20250905093000 +0000">
     <title lang="zh">SportsCentre</title>
     <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-05</date>
+  </programme>
+  <programme channel="405060" start="20250905093000 +0000" stop="20250905103000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-05</date>
+  </programme>
+  <programme channel="405060" start="20250905103000 +0000" stop="20250905113000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-05</date>
+  </programme>
+  <programme channel="405060" start="20250905113000 +0000" stop="20250905123000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-05</date>
+  </programme>
+  <programme channel="405060" start="20250905123000 +0000" stop="20250905133000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-05</date>
+  </programme>
+  <programme channel="405060" start="20250905133000 +0000" stop="20250905143000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-05</date>
+  </programme>
+  <programme channel="405060" start="20250905143000 +0000" stop="20250905153000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-05</date>
+  </programme>
+  <programme channel="405060" start="20250905153000 +0000" stop="20250905160000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-05</date>
+  </programme>
+  <programme channel="405060" start="20250905160000 +0000" stop="20250905180000 +0000">
+    <title lang="zh">Live: 2025 US Open Tennis</title>
+    <desc>From the USTA Billie Jean King National Tennis Center in Flushing, N.Y.</desc>
+    <date>2025-09-05</date>
+  </programme>
+  <programme channel="405060" start="20250905180000 +0000" stop="20250905183000 +0000">
+    <title lang="zh">SC</title>
+    <desc>Top plays from the 2024-25 NFL season.</desc>
+    <date>2025-09-05</date>
+  </programme>
+  <programme channel="405060" start="20250905183000 +0000" stop="20250905190000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-09-05</date>
+  </programme>
+  <programme channel="405060" start="20250905190000 +0000" stop="20250905220000 +0000">
+    <title lang="zh">Live: 2025 US Open Tennis</title>
+    <desc>From the USTA Billie Jean King National Tennis Center in Flushing, N.Y.</desc>
+    <date>2025-09-05</date>
+  </programme>
+  <programme channel="405060" start="20250905220000 +0000" stop="20250905230000 +0000">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-05</date>
+  </programme>
+  <programme channel="405060" start="20250905230000 +0000" stop="20250906000000 +0000">
+    <title lang="zh">Live: 2025 US Open Tennis</title>
+    <desc>From the USTA Billie Jean King National Tennis Center in Flushing, N.Y.</desc>
     <date>2025-09-05</date>
   </programme>
 <channel id="405134">
