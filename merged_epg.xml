@@ -735,9 +735,54 @@
     <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
     <date>2025-09-07</date>
   </programme>
-  <programme channel="405060" start="20250907080000 +0000" stop="20250908000000 +0000">
+  <programme channel="405060" start="20250907080000 +0000" stop="20250907090000 +0000">
     <title lang="zh">SportsCentre</title>
     <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="405060" start="20250907090000 +0000" stop="20250907100000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="405060" start="20250907100000 +0000" stop="20250907110000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="405060" start="20250907110000 +0000" stop="20250907120000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="405060" start="20250907120000 +0000" stop="20250907130000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="405060" start="20250907130000 +0000" stop="20250907140000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="405060" start="20250907140000 +0000" stop="20250907170000 +0000">
+    <title lang="zh">Live: NFL Countdown</title>
+    <desc>Highlights from previous week's action in the National Football League.</desc>
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="405060" start="20250907170000 +0000" stop="20250907200000 +0000">
+    <title lang="zh">Live: NFL Football</title>
+    <desc>The Bengals and Browns dive into 2025 with the Battle of Ohio. Cincinnati finished 2024 at 9-8 and riding a five-game win streak, but missed the postseason. Cincinnati signed a one-year, $30 million pact with Trey Hendrickson to end his holdout.</desc>
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="405060" start="20250907200000 +0000" stop="20250907230000 +0000">
+    <title lang="zh">Live: NFL Football</title>
+    <desc>The 49ers and Seahawks meet to begin the season. San Francisco followed up an NFC title with a disappointing 6-11 run in 2024. Seattle moved on from DK Metcalf during the offseason, but inked quarterback Sam Darnold and Yakima, Wash., WR Cooper Kupp.</desc>
+    <date>2025-09-07</date>
+  </programme>
+  <programme channel="405060" start="20250907230000 +0000" stop="20250908000000 +0000">
+    <title lang="zh">Live: Football Night in America</title>
+    <desc>Host Maria Taylor, Hall of Fame head coach Tony Dungy, former NFL head coach Jason Garrett, former NFL quarterback Chris Simms and NFL insider Mike Florio recap the day's NFL highlights. Jac Collinsworth and Rodney Harrison contribute on-site.</desc>
     <date>2025-09-07</date>
   </programme>
 <channel id="405134">
