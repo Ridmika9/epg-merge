@@ -667,7 +667,7 @@
     <date>2025-09-08</date>
   </programme>
 <channel id="405060">
-    <display-name lang="加拿大">TSN3</display-name>
+    <display-name lang="Canada">TSN3</display-name>
     <icon src="" />
   </channel>
   <programme channel="405060" start="20250907020000 +0000" stop="20250907030000 +0000">
