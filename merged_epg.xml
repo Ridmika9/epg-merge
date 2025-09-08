@@ -821,6 +821,11 @@
     <desc>MotoGP action from the 2025 Grand Prix of Catalonia Sprint Race at Circuit de Barcelona-Catalunya. Can anyone deny Marc Marquez an eighth straight Sprint win?</desc>
     <date>2025-09-09</date>
   </programme>
+  <programme channel="400480" start="20250910000000 +0000" stop="20250911000000 +0000">
+    <title lang="zh">MotoGP Highlights</title>
+    <desc>Race action from the 2025 Grand Prix of Catalonia at Circuit de Barcelona-Catalunya. Can anyone halt Marc Marquez on his home turf?</desc>
+    <date>2025-09-10</date>
+  </programme>
 <channel id="405060">
     <display-name lang="Canada">TSN3</display-name>
     <icon src="" />
