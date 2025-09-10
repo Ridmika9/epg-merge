@@ -740,9 +740,84 @@
     <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
     <date>2025-09-11</date>
   </programme>
-  <programme channel="405060" start="20250911083000 +0000" stop="20250912000000 +0000">
+  <programme channel="405060" start="20250911083000 +0000" stop="20250911093000 +0000">
     <title lang="zh">SportsCentre</title>
     <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-11</date>
+  </programme>
+  <programme channel="405060" start="20250911093000 +0000" stop="20250911103000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-11</date>
+  </programme>
+  <programme channel="405060" start="20250911103000 +0000" stop="20250911113000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-11</date>
+  </programme>
+  <programme channel="405060" start="20250911113000 +0000" stop="20250911123000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-11</date>
+  </programme>
+  <programme channel="405060" start="20250911123000 +0000" stop="20250911133000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-11</date>
+  </programme>
+  <programme channel="405060" start="20250911133000 +0000" stop="20250911143000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-11</date>
+  </programme>
+  <programme channel="405060" start="20250911143000 +0000" stop="20250911153000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-11</date>
+  </programme>
+  <programme channel="405060" start="20250911153000 +0000" stop="20250911163000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-11</date>
+  </programme>
+  <programme channel="405060" start="20250911163000 +0000" stop="20250911170000 +0000">
+    <title lang="zh">PGA TOUR - The Drop</title>
+    <desc>The Drop blends storytelling, competition, and personality. Each week, the show dives into the intensity of tournament play, previewing what's ahead and recapping the biggest storylines, giving fans a unique look at the players on and off the course.</desc>
+    <date>2025-09-11</date>
+  </programme>
+  <programme channel="405060" start="20250911170000 +0000" stop="20250911190000 +0000">
+    <title lang="zh">PBR Bull Riding</title>
+    <desc>Coverage of classic bull riding events from around the United States.</desc>
+    <date>2025-09-11</date>
+  </programme>
+  <programme channel="405060" start="20250911190000 +0000" stop="20250911200000 +0000">
+    <title lang="zh">Live: NBA Today</title>
+    <desc>In-depth, comprehensive daily coverage of all aspects of the NBA from expert analysts.</desc>
+    <date>2025-09-11</date>
+  </programme>
+  <programme channel="405060" start="20250911200000 +0000" stop="20250911210000 +0000">
+    <title lang="zh">Live: NFL Live</title>
+    <desc>Host Laura Rutledge takes the helm of this weekday show featuring the likes of Marcus Spears, Dan Orlovsky, Mina Kimes, and Adam Schefter, who offer the latest news and analysis from across the NFL.Guests: Marcus Spears, Dan Orlovsky, Ryan Clark, Mina Kimes, Field Yates, Adam Schefter, Keyshawn Johnson..</desc>
+    <date>2025-09-11</date>
+  </programme>
+  <programme channel="405060" start="20250911210000 +0000" stop="20250911213000 +0000">
+    <title lang="zh">College Football Live</title>
+    <desc>ESPN's daily college football show sharing reactions to the day's biggest stories and previews of each week's most important matchups. Kelsey Riggs and Jen Lada host alongside contributors Desmond Howard, Sam Acho, Greg McElroy and Pete Thamel.</desc>
+    <date>2025-09-11</date>
+  </programme>
+  <programme channel="405060" start="20250911213000 +0000" stop="20250911220000 +0000">
+    <title lang="zh">Live: Pardon the Interruption</title>
+    <desc>Opinions regarding the day's top sports stories.</desc>
+    <date>2025-09-11</date>
+  </programme>
+  <programme channel="405060" start="20250911220000 +0000" stop="20250911230000 +0000">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-11</date>
+  </programme>
+  <programme channel="405060" start="20250911230000 +0000" stop="20250912000000 +0000">
+    <title lang="zh">Live: TNF Tonight</title>
+    <desc>Analysis of tonight's matchup and latest news from around the league.</desc>
     <date>2025-09-11</date>
   </programme>
 <channel id="405134">
