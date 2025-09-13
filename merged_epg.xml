@@ -4,7 +4,7 @@
     <icon src="" />
   </channel>
 <channel id="400477">
-    <display-name lang="大不列顛及北愛爾蘭聯合王國">TNT Sports 1 HD</display-name>
+    <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 1 HD</display-name>
     <icon src="" />
   </channel>
   <programme channel="400477" start="20250913021500 +0000" stop="20250913024500 +0000">
@@ -183,7 +183,7 @@
     <date>2025-09-14</date>
   </programme>
 <channel id="400480">
-    <display-name lang="大不列顛及北愛爾蘭聯合王國">TNT Sports 2 HD</display-name>
+    <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 2 HD</display-name>
     <icon src="" />
   </channel>
   <programme channel="400480" start="20250913024500 +0000" stop="20250913030000 +0000">
