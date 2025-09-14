@@ -407,6 +407,11 @@
     <desc>Motocross World Championship action from MXGP race two at Shanghai International Off-Road Circuit in China.</desc>
     <date>2025-09-15</date>
   </programme>
+  <programme channel="400480" start="20250916000000 +0000" stop="20250917000000 +0000">
+    <title lang="zh">PREM Rugby Cup</title>
+    <desc>Action from round one of the PREM Rugby Cup as a new-look Newcastle Red Bulls face Harlequins at Kingston Park.</desc>
+    <date>2025-09-16</date>
+  </programme>
 <channel id="405060">
     <display-name lang="Canada">TSN3</display-name>
     <icon src="" />
