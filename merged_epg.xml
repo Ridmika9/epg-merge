@@ -377,6 +377,11 @@
     <desc>After their demolition of Rangers in the play-offs, Club Brugge kick-off their league phase campaign by hosting Adi Hutter's Monaco at Jan Breydel Stadium.</desc>
     <date>2025-09-18</date>
   </programme>
+  <programme channel="400480" start="20250919000000 +0000" stop="20250920000000 +0000">
+    <title lang="zh">UEFA Champions League Football</title>
+    <desc>Eddie Howe's Newcastle United host five-time UEFA Champions League winners Barcelona in what promises to be a red-hot atmosphere at St James' Park.</desc>
+    <date>2025-09-19</date>
+  </programme>
 <channel id="405060">
     <display-name lang="Canada">TSN3</display-name>
     <icon src="" />
