@@ -446,10 +446,135 @@
     <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
     <date>2025-09-18</date>
   </programme>
-  <programme channel="405060" start="20250918083000 +0000" stop="20250919000000 +0000">
+  <programme channel="405060" start="20250918083000 +0000" stop="20250918093000 +0000">
     <title lang="zh">SportsCentre</title>
     <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
     <date>2025-09-18</date>
+  </programme>
+  <programme channel="405060" start="20250918093000 +0000" stop="20250918103000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-18</date>
+  </programme>
+  <programme channel="405060" start="20250918103000 +0000" stop="20250918113000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-18</date>
+  </programme>
+  <programme channel="405060" start="20250918113000 +0000" stop="20250918123000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-18</date>
+  </programme>
+  <programme channel="405060" start="20250918123000 +0000" stop="20250918133000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-18</date>
+  </programme>
+  <programme channel="405060" start="20250918133000 +0000" stop="20250918143000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-18</date>
+  </programme>
+  <programme channel="405060" start="20250918143000 +0000" stop="20250918153000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-18</date>
+  </programme>
+  <programme channel="405060" start="20250918153000 +0000" stop="20250918163000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-18</date>
+  </programme>
+  <programme channel="405060" start="20250918163000 +0000" stop="20250918173000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-18</date>
+  </programme>
+  <programme channel="405060" start="20250918173000 +0000" stop="20250918180000 +0000">
+    <title lang="zh">NFL GameDay</title>
+    <desc>In-progress up-to-the-minute highlights; top moments from all the day's action; interviews and analysis.</desc>
+    <date>2025-09-18</date>
+  </programme>
+  <programme channel="405060" start="20250918180000 +0000" stop="20250918183000 +0000">
+    <title lang="zh">Gridiron Nation</title>
+    <desc>Coverage of Canadians playing in the NCAA and USPORTS football.</desc>
+    <date>2025-09-18</date>
+  </programme>
+  <programme channel="405060" start="20250918183000 +0000" stop="20250918190000 +0000">
+    <title lang="zh">Bob McKenzie's Pre-Season Draft Ranking Show</title>
+    <desc />
+    <date>2025-09-18</date>
+  </programme>
+  <programme channel="405060" start="20250918190000 +0000" stop="20250918200000 +0000">
+    <title lang="zh">Live: NBA Today</title>
+    <desc>In-depth, comprehensive daily coverage of all aspects of the NBA from expert analysts.</desc>
+    <date>2025-09-18</date>
+  </programme>
+  <programme channel="405060" start="20250918200000 +0000" stop="20250918210000 +0000">
+    <title lang="zh">Live: NFL Live</title>
+    <desc>Host Laura Rutledge takes the helm of this weekday show featuring the likes of Marcus Spears, Dan Orlovsky, Mina Kimes, and Adam Schefter, who offer the latest news and analysis from across the NFL.Guests: Marcus Spears, Dan Orlovsky, Ryan Clark, Mina Kimes, Field Yates, Adam Schefter, Keyshawn Johnson..</desc>
+    <date>2025-09-18</date>
+  </programme>
+  <programme channel="405060" start="20250918210000 +0000" stop="20250918213000 +0000">
+    <title lang="zh">College Football Live</title>
+    <desc>ESPN's daily college football show sharing reactions to the day's biggest stories and previews of each week's most important matchups. Kelsey Riggs and Jen Lada host alongside contributors Desmond Howard, Sam Acho, Greg McElroy and Pete Thamel.</desc>
+    <date>2025-09-18</date>
+  </programme>
+  <programme channel="405060" start="20250918213000 +0000" stop="20250918220000 +0000">
+    <title lang="zh">Live: Pardon the Interruption</title>
+    <desc>Opinions regarding the day's top sports stories.</desc>
+    <date>2025-09-18</date>
+  </programme>
+  <programme channel="405060" start="20250918220000 +0000" stop="20250918230000 +0000">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-18</date>
+  </programme>
+  <programme channel="405060" start="20250918230000 +0000" stop="20250919000000 +0000">
+    <title lang="zh">Live: TNF Tonight</title>
+    <desc>Analysis of tonight's matchup and latest news from around the league.</desc>
+    <date>2025-09-18</date>
+  </programme>
+  <programme channel="405060" start="20250919001500 +0000" stop="20250919033000 +0000">
+    <title lang="zh">Live: NFL Football</title>
+    <desc>The 2-0 Bills host the 0-2 Dolphins. Buffalo has won 13 of the last 14 engagements, including a 31-10 verdict at Miami last season on a Thursday in Week 2. Josh Allen (BUF) is 13-2 against the Dolphins with 40 touchdown passes and 10 interceptions.</desc>
+    <date>2025-09-19</date>
+  </programme>
+  <programme channel="405060" start="20250919033000 +0000" stop="20250919050000 +0000">
+    <title lang="zh">Live: SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2025-09-19</date>
+  </programme>
+  <programme channel="405060" start="20250919050000 +0000" stop="20250919060000 +0000">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-19</date>
+  </programme>
+  <programme channel="405060" start="20250919060000 +0000" stop="20250919070000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-19</date>
+  </programme>
+  <programme channel="405060" start="20250919070000 +0000" stop="20250919073000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-19</date>
+  </programme>
+  <programme channel="405060" start="20250919073000 +0000" stop="20250919083000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-19</date>
+  </programme>
+  <programme channel="405060" start="20250919083000 +0000" stop="20250919093000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-19</date>
+  </programme>
+  <programme channel="405060" start="20250919093000 +0000" stop="20250920000000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-19</date>
   </programme>
 <channel id="405134">
     <display-name lang="Canada">TSN4</display-name>
@@ -585,9 +710,74 @@
     <desc>The latest scores and highlights, with host Jay Onrait.</desc>
     <date>2025-09-19</date>
   </programme>
-  <programme channel="405134" start="20250919080000 +0000" stop="20250920000000 +0000">
+  <programme channel="405134" start="20250919080000 +0000" stop="20250919093000 +0000">
     <title lang="zh">SC With Jay Onrait</title>
     <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2025-09-19</date>
+  </programme>
+  <programme channel="405134" start="20250919093000 +0000" stop="20250919123000 +0000">
+    <title lang="zh">Live: AFL Premiership Football</title>
+    <desc>From Melbourne Cricket Ground in Melbourne, Victoria, Australia.</desc>
+    <date>2025-09-19</date>
+  </programme>
+  <programme channel="405134" start="20250919123000 +0000" stop="20250919130000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-19</date>
+  </programme>
+  <programme channel="405134" start="20250919130000 +0000" stop="20250919140000 +0000">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2025-09-19</date>
+  </programme>
+  <programme channel="405134" start="20250919140000 +0000" stop="20250919150000 +0000">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2025-09-19</date>
+  </programme>
+  <programme channel="405134" start="20250919150000 +0000" stop="20250919160000 +0000">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2025-09-19</date>
+  </programme>
+  <programme channel="405134" start="20250919160000 +0000" stop="20250919163000 +0000">
+    <title lang="zh">Canadian Superbike Championship</title>
+    <desc>From Canadian Tire Motorsport Park in Bowmanville, Ont.</desc>
+    <date>2025-09-19</date>
+  </programme>
+  <programme channel="405134" start="20250919163000 +0000" stop="20250919170000 +0000">
+    <title lang="zh">2025 Motorcycle Experience</title>
+    <desc>News and reviews from cycle enthusiasts.</desc>
+    <date>2025-09-19</date>
+  </programme>
+  <programme channel="405134" start="20250919170000 +0000" stop="20250919173000 +0000">
+    <title lang="zh">Bob McKenzie's Pre-Season Draft Ranking Show</title>
+    <desc />
+    <date>2025-09-19</date>
+  </programme>
+  <programme channel="405134" start="20250919173000 +0000" stop="20250919180000 +0000">
+    <title lang="zh">Live: 2025 Women's Rugby World Cup Pregame</title>
+    <desc>Pregame coverage for Women's Rugby World Cup.</desc>
+    <date>2025-09-19</date>
+  </programme>
+  <programme channel="405134" start="20250919180000 +0000" stop="20250919200000 +0000">
+    <title lang="zh">Live: 2025 Women's Rugby World Cup</title>
+    <desc>Semifinal.</desc>
+    <date>2025-09-19</date>
+  </programme>
+  <programme channel="405134" start="20250919200000 +0000" stop="20250919220000 +0000">
+    <title lang="zh">Live: Overdrive</title>
+    <desc>Expert analysis on the day's biggest sports stories.</desc>
+    <date>2025-09-19</date>
+  </programme>
+  <programme channel="405134" start="20250919220000 +0000" stop="20250919230000 +0000">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-19</date>
+  </programme>
+  <programme channel="405134" start="20250919230000 +0000" stop="20250920000000 +0000">
+    <title lang="zh">Live: CFL Football</title>
+    <desc>Week 16 in the CFL begins with the Alouettes (6-7) heading down the 405 to face the Argonauts (5-8). Montreal has won both meetings with Toronto this year, but both were at home. Argos quarterback Nick Arbuckle leads the CFL with 4,089 passing yards.</desc>
     <date>2025-09-19</date>
   </programme>
 </tv>
