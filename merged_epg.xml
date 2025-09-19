@@ -397,6 +397,11 @@
     <desc>British Superbikes action from race one at the iconic TT Circuit Assen in the Netherlands.</desc>
     <date>2025-09-20</date>
   </programme>
+  <programme channel="400480" start="20250921000000 +0000" stop="20250922000000 +0000">
+    <title lang="zh">English Open Snooker</title>
+    <desc>Highlights from the English Open, part of the Snooker Home Nations Series.</desc>
+    <date>2025-09-21</date>
+  </programme>
 <channel id="405060">
     <display-name lang="Canada">TSN3</display-name>
     <icon src="" />
