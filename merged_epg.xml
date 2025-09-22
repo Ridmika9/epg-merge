@@ -452,6 +452,11 @@
     <desc>Action from the third T20 between Ireland and England at The Village in Dublin.</desc>
     <date>2025-09-23</date>
   </programme>
+  <programme channel="400480" start="20250924000000 +0000" stop="20250925000000 +0000">
+    <title lang="zh">CPL T20</title>
+    <desc>Highlights of the T20 cricket action from the Caribbean Premier League.</desc>
+    <date>2025-09-24</date>
+  </programme>
 <channel id="405060">
     <display-name lang="Canada">TSN3</display-name>
     <icon src="" />
