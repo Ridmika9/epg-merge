@@ -228,6 +228,11 @@
     <desc>Highlights from the IFSC Climbing World Championship in Seoul, South Korea.</desc>
     <date>2025-09-24</date>
   </programme>
+  <programme channel="400477" start="20250925000000 +0000" stop="20250926000000 +0000">
+    <title lang="zh">Live: Major League Baseball</title>
+    <desc>MLB action as New York Mets take on Chicago Cubs.</desc>
+    <date>2025-09-25</date>
+  </programme>
 <channel id="400480">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 2 HD</display-name>
     <icon src="" />
@@ -626,10 +631,100 @@
     <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
     <date>2025-09-24</date>
   </programme>
-  <programme channel="405060" start="20250924083000 +0000" stop="20250925000000 +0000">
+  <programme channel="405060" start="20250924083000 +0000" stop="20250924093000 +0000">
     <title lang="zh">SportsCentre</title>
     <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
     <date>2025-09-24</date>
+  </programme>
+  <programme channel="405060" start="20250924093000 +0000" stop="20250924103000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-24</date>
+  </programme>
+  <programme channel="405060" start="20250924103000 +0000" stop="20250924113000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-24</date>
+  </programme>
+  <programme channel="405060" start="20250924113000 +0000" stop="20250924123000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-24</date>
+  </programme>
+  <programme channel="405060" start="20250924123000 +0000" stop="20250924133000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-24</date>
+  </programme>
+  <programme channel="405060" start="20250924133000 +0000" stop="20250924143000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-24</date>
+  </programme>
+  <programme channel="405060" start="20250924143000 +0000" stop="20250924153000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-24</date>
+  </programme>
+  <programme channel="405060" start="20250924153000 +0000" stop="20250924163000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-24</date>
+  </programme>
+  <programme channel="405060" start="20250924163000 +0000" stop="20250924170000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-09-24</date>
+  </programme>
+  <programme channel="405060" start="20250924170000 +0000" stop="20250924180000 +0000">
+    <title lang="zh">Golf Talk Canada</title>
+    <desc>TSN's Mark Zecchino and Bob Weeks discuss the latest news in the world of golf.</desc>
+    <date>2025-09-24</date>
+  </programme>
+  <programme channel="405060" start="20250924180000 +0000" stop="20250924183000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-09-24</date>
+  </programme>
+  <programme channel="405060" start="20250924183000 +0000" stop="20250924190000 +0000">
+    <title lang="zh">Gridiron Nation</title>
+    <desc>Coverage of Canadians playing in the NCAA and USPORTS football.</desc>
+    <date>2025-09-24</date>
+  </programme>
+  <programme channel="405060" start="20250924190000 +0000" stop="20250924200000 +0000">
+    <title lang="zh">Live: NBA Today</title>
+    <desc>In-depth, comprehensive daily coverage of all aspects of the NBA from expert analysts.</desc>
+    <date>2025-09-24</date>
+  </programme>
+  <programme channel="405060" start="20250924200000 +0000" stop="20250924210000 +0000">
+    <title lang="zh">Live: NFL Live</title>
+    <desc>Host Laura Rutledge takes the helm of this weekday show featuring the likes of Marcus Spears, Dan Orlovsky, Mina Kimes, and Adam Schefter, who offer the latest news and analysis from across the NFL.Guests: Marcus Spears, Dan Orlovsky, Ryan Clark, Mina Kimes, Field Yates, Adam Schefter, Keyshawn Johnson..</desc>
+    <date>2025-09-24</date>
+  </programme>
+  <programme channel="405060" start="20250924210000 +0000" stop="20250924213000 +0000">
+    <title lang="zh">College Football Live</title>
+    <desc>ESPN's daily college football show sharing reactions to the day's biggest stories and previews of each week's most important matchups. Kelsey Riggs and Jen Lada host alongside contributors Desmond Howard, Sam Acho, Greg McElroy and Pete Thamel.</desc>
+    <date>2025-09-24</date>
+  </programme>
+  <programme channel="405060" start="20250924213000 +0000" stop="20250924220000 +0000">
+    <title lang="zh">Live: Pardon the Interruption</title>
+    <desc>Opinions regarding the day's top sports stories.</desc>
+    <date>2025-09-24</date>
+  </programme>
+  <programme channel="405060" start="20250924220000 +0000" stop="20250924233000 +0000">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-24</date>
+  </programme>
+  <programme channel="405060" start="20250924233000 +0000" stop="20250925000000 +0000">
+    <title lang="zh">Park the Bus</title>
+    <desc>TSN Soccer's Kevin Kilbane and Steven Caldwell discuss the world of soccer as Canada prepares to host the FIFA Men's World Cup in 2026.</desc>
+    <date>2025-09-24</date>
+  </programme>
+  <programme channel="405060" start="20250925000000 +0000" stop="20250926000000 +0000">
+    <title lang="zh">Live: MLB Baseball</title>
+    <desc>The Cubs and Mets continue their three-game series. Chicago starter Matthew Boyd logged a quality start against New York on May 11, surrendering two runs in six innings while striking out eight Mets batters. Mark Vientos (NYM) homered off Boyd.</desc>
+    <date>2025-09-25</date>
   </programme>
 <channel id="405134">
     <display-name lang="Canada">TSN4</display-name>
