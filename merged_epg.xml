@@ -467,6 +467,11 @@
     <desc>Action from the first Women's One Day International between India and Australia at Maharaja Yadavindra Singh International Cricket Stadium.</desc>
     <date>2025-09-24</date>
   </programme>
+  <programme channel="400480" start="20250925000000 +0000" stop="20250926000000 +0000">
+    <title lang="zh">Women's One-Day International Cricket</title>
+    <desc>Action from the second Women's ODI between India and Australia at Maharaja Yadavindra Singh International Cricket Stadium. The Aussies hold a 1-0 series lead.</desc>
+    <date>2025-09-25</date>
+  </programme>
 <channel id="405060">
     <display-name lang="Canada">TSN3</display-name>
     <icon src="" />
@@ -730,101 +735,6 @@
     <display-name lang="Canada">TSN4</display-name>
     <icon src="" />
   </channel>
-  <programme channel="405134" start="20250923001500 +0000" stop="20250923033000 +0000">
-    <title lang="zh">Live: NFL Football</title>
-    <desc>High-powered offenses battle when Baltimore hosts Detroit. The Ravens mauled the Browns 41-17 in Week 2, and squashed the Lions 38-6 when they met in 2023. Amon-Ra St. Brown hauled in three TD catches in Detroit's 52-21 Week 2 blasting of Chicago.</desc>
-    <date>2025-09-23</date>
-  </programme>
-  <programme channel="405134" start="20250923033000 +0000" stop="20250923050000 +0000">
-    <title lang="zh">Live: SC With Jay Onrait</title>
-    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
-    <date>2025-09-23</date>
-  </programme>
-  <programme channel="405134" start="20250923050000 +0000" stop="20250923060000 +0000">
-    <title lang="zh">Live: SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-09-23</date>
-  </programme>
-  <programme channel="405134" start="20250923060000 +0000" stop="20250923070000 +0000">
-    <title lang="zh">SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-09-23</date>
-  </programme>
-  <programme channel="405134" start="20250923070000 +0000" stop="20250923080000 +0000">
-    <title lang="zh">SC With Jay Onrait</title>
-    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
-    <date>2025-09-23</date>
-  </programme>
-  <programme channel="405134" start="20250923080000 +0000" stop="20250923090000 +0000">
-    <title lang="zh">SC With Jay Onrait</title>
-    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
-    <date>2025-09-23</date>
-  </programme>
-  <programme channel="405134" start="20250923090000 +0000" stop="20250923100000 +0000">
-    <title lang="zh">SC With Jay Onrait</title>
-    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
-    <date>2025-09-23</date>
-  </programme>
-  <programme channel="405134" start="20250923100000 +0000" stop="20250923110000 +0000">
-    <title lang="zh">SC With Jay Onrait</title>
-    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
-    <date>2025-09-23</date>
-  </programme>
-  <programme channel="405134" start="20250923110000 +0000" stop="20250923120000 +0000">
-    <title lang="zh">SC With Jay Onrait</title>
-    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
-    <date>2025-09-23</date>
-  </programme>
-  <programme channel="405134" start="20250923120000 +0000" stop="20250923130000 +0000">
-    <title lang="zh">SC With Jay Onrait</title>
-    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
-    <date>2025-09-23</date>
-  </programme>
-  <programme channel="405134" start="20250923130000 +0000" stop="20250923140000 +0000">
-    <title lang="zh">SC With Jay Onrait</title>
-    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
-    <date>2025-09-23</date>
-  </programme>
-  <programme channel="405134" start="20250923140000 +0000" stop="20250923150000 +0000">
-    <title lang="zh">SC With Jay Onrait</title>
-    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
-    <date>2025-09-23</date>
-  </programme>
-  <programme channel="405134" start="20250923150000 +0000" stop="20250923160000 +0000">
-    <title lang="zh">SC With Jay Onrait</title>
-    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
-    <date>2025-09-23</date>
-  </programme>
-  <programme channel="405134" start="20250923160000 +0000" stop="20250923180000 +0000">
-    <title lang="zh">First Take</title>
-    <desc>Stephen A. Smith joins Molly Qerim to debate the hottest topics in sports with contributors and guests.</desc>
-    <date>2025-09-23</date>
-  </programme>
-  <programme channel="405134" start="20250923180000 +0000" stop="20250923190000 +0000">
-    <title lang="zh">The Rebuild: Inside the Montreal Canadiens</title>
-    <desc>After a training camp is filled with injuries and surprises, the season kicks off in Montreal.</desc>
-    <date>2025-09-23</date>
-  </programme>
-  <programme channel="405134" start="20250923190000 +0000" stop="20250923200000 +0000">
-    <title lang="zh">Live: NBA Today</title>
-    <desc>In-depth, comprehensive daily coverage of all aspects of the NBA from expert analysts.</desc>
-    <date>2025-09-23</date>
-  </programme>
-  <programme channel="405134" start="20250923200000 +0000" stop="20250923220000 +0000">
-    <title lang="zh">Live: Overdrive</title>
-    <desc>Expert analysis on the day's biggest sports stories.</desc>
-    <date>2025-09-23</date>
-  </programme>
-  <programme channel="405134" start="20250923220000 +0000" stop="20250923230000 +0000">
-    <title lang="zh">Live: SportsCentre</title>
-    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2025-09-23</date>
-  </programme>
-  <programme channel="405134" start="20250923230000 +0000" stop="20250924000000 +0000">
-    <title lang="zh">Live: NHL Hockey</title>
-    <desc>From Scotiabank Arena in Toronto.</desc>
-    <date>2025-09-23</date>
-  </programme>
   <programme channel="405134" start="20250924013000 +0000" stop="20250924023000 +0000">
     <title lang="zh">Live: SportsCentre</title>
     <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
@@ -930,9 +840,104 @@
     <desc>TSN Soccer's Kevin Kilbane and Steven Caldwell discuss the world of soccer as Canada prepares to host the FIFA Men's World Cup in 2026.</desc>
     <date>2025-09-24</date>
   </programme>
-  <programme channel="405134" start="20250925000000 +0000" stop="20250926000000 +0000">
+  <programme channel="405134" start="20250925000000 +0000" stop="20250925030000 +0000">
     <title lang="zh">Live: MLB Baseball</title>
     <desc>From Wrigley Field in Chicago.</desc>
+    <date>2025-09-25</date>
+  </programme>
+  <programme channel="405134" start="20250925030000 +0000" stop="20250925040000 +0000">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-25</date>
+  </programme>
+  <programme channel="405134" start="20250925040000 +0000" stop="20250925050000 +0000">
+    <title lang="zh">Live: SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2025-09-25</date>
+  </programme>
+  <programme channel="405134" start="20250925050000 +0000" stop="20250925060000 +0000">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-25</date>
+  </programme>
+  <programme channel="405134" start="20250925060000 +0000" stop="20250925070000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-25</date>
+  </programme>
+  <programme channel="405134" start="20250925070000 +0000" stop="20250925080000 +0000">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2025-09-25</date>
+  </programme>
+  <programme channel="405134" start="20250925080000 +0000" stop="20250925090000 +0000">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2025-09-25</date>
+  </programme>
+  <programme channel="405134" start="20250925090000 +0000" stop="20250925100000 +0000">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2025-09-25</date>
+  </programme>
+  <programme channel="405134" start="20250925100000 +0000" stop="20250925110000 +0000">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2025-09-25</date>
+  </programme>
+  <programme channel="405134" start="20250925110000 +0000" stop="20250925120000 +0000">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2025-09-25</date>
+  </programme>
+  <programme channel="405134" start="20250925120000 +0000" stop="20250925130000 +0000">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2025-09-25</date>
+  </programme>
+  <programme channel="405134" start="20250925130000 +0000" stop="20250925140000 +0000">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2025-09-25</date>
+  </programme>
+  <programme channel="405134" start="20250925140000 +0000" stop="20250925150000 +0000">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2025-09-25</date>
+  </programme>
+  <programme channel="405134" start="20250925150000 +0000" stop="20250925160000 +0000">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2025-09-25</date>
+  </programme>
+  <programme channel="405134" start="20250925160000 +0000" stop="20250925180000 +0000">
+    <title lang="zh">First Take</title>
+    <desc>Stephen A. Smith joins Molly Qerim to debate the hottest topics in sports with contributors and guests.</desc>
+    <date>2025-09-25</date>
+  </programme>
+  <programme channel="405134" start="20250925180000 +0000" stop="20250925190000 +0000">
+    <title lang="zh">SailGP Highlights</title>
+    <desc>Highlights of various sailing grand prix races from around the world.</desc>
+    <date>2025-09-25</date>
+  </programme>
+  <programme channel="405134" start="20250925190000 +0000" stop="20250925200000 +0000">
+    <title lang="zh">Live: NBA Today</title>
+    <desc>In-depth, comprehensive daily coverage of all aspects of the NBA from expert analysts.</desc>
+    <date>2025-09-25</date>
+  </programme>
+  <programme channel="405134" start="20250925200000 +0000" stop="20250925220000 +0000">
+    <title lang="zh">Live: Overdrive</title>
+    <desc>Expert analysis on the day's biggest sports stories.</desc>
+    <date>2025-09-25</date>
+  </programme>
+  <programme channel="405134" start="20250925220000 +0000" stop="20250925230000 +0000">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-09-25</date>
+  </programme>
+  <programme channel="405134" start="20250925230000 +0000" stop="20250926000000 +0000">
+    <title lang="zh">Live: Toronto Maple Leafs Pre-Game</title>
+    <desc>News and analysis for the Toronto Maple Leafs.</desc>
     <date>2025-09-25</date>
   </programme>
 </tv>
