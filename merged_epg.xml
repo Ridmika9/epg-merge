@@ -467,6 +467,11 @@
     <desc>Highlights from the 2025 MotoGP Grand Prix of San Marino at Misano World Circuit Marco Simoncelli. Could Marc Marquez take another big step towards the title?</desc>
     <date>2025-09-25</date>
   </programme>
+  <programme channel="400480" start="20250926000000 +0000" stop="20250927000000 +0000">
+    <title lang="zh">Live: MotoGP</title>
+    <desc>Action from the free practice session ahead of the 2025 MotoGP Grand Prix of Japan.</desc>
+    <date>2025-09-26</date>
+  </programme>
 <channel id="405060">
     <display-name lang="Canada">TSN3</display-name>
     <icon src="" />
