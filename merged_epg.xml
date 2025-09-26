@@ -93,6 +93,11 @@
     <desc>Action from the 2025 Australian Football League Grand Final between Geelong Cats and reigning premiers Brisbane Lions at the MCG.</desc>
     <date>2025-09-27</date>
   </programme>
+  <programme channel="400477" start="20250928000000 +0000" stop="20250929000000 +0000">
+    <title lang="zh">Live: The Ultimate Fighting Championship</title>
+    <desc>Action from the UFC Fight Night Prelims in Perth, Australia, ahead of the light heavyweight bout between Carlos Ulberg and Dominick Reyes.</desc>
+    <date>2025-09-28</date>
+  </programme>
 <channel id="400480">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 2 HD</display-name>
     <icon src="" />
