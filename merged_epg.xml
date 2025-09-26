@@ -247,9 +247,14 @@
     <desc>Action from the qualifying ahead of the Moto2 and Moto3 Grand Prix of Japan.</desc>
     <date>2025-09-27</date>
   </programme>
-  <programme channel="400480" start="20250927054500 +0000" stop="20250928000000 +0000">
+  <programme channel="400480" start="20250927054500 +0000" stop="20250927233000 +0000">
     <title lang="zh">Live: MotoGP</title>
     <desc>MotoGP action from the 2025 Grand Prix of Japan Sprint Race at Mobility Resort Motegi. Can Marc Marquez take another huge step towards sealing the MotoGP title?</desc>
+    <date>2025-09-27</date>
+  </programme>
+  <programme channel="400480" start="20250927233000 +0000" stop="20250928000000 +0000">
+    <title lang="zh">Live: Asia Talent Cup</title>
+    <desc>Action from the Asia Talent Cup, the feeder series looking to promote the best young talent from the world of motorcycle racing.</desc>
     <date>2025-09-27</date>
   </programme>
 <channel id="405060">
