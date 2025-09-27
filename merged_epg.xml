@@ -28,9 +28,14 @@
     <desc>Action from UFC Fight Night at RAC Arena in Perth, Australia, featuring the light heavyweight bout between Carlos Ulberg and Dominick Reyes.</desc>
     <date>2025-09-28</date>
   </programme>
-  <programme channel="400477" start="20250928053000 +0000" stop="20250929000000 +0000">
+  <programme channel="400477" start="20250928053000 +0000" stop="20250928233000 +0000">
     <title lang="zh">Live: Women's Australian Rules</title>
     <desc>Action from the AFLW as Brisbane Lions meet Richmond at Brighton Homes Arena. The Tigers are looking to avoid a seventh defeat in a row.</desc>
+    <date>2025-09-28</date>
+  </programme>
+  <programme channel="400477" start="20250928233000 +0000" stop="20250929000000 +0000">
+    <title lang="zh">Australian Rules</title>
+    <desc>Action from the Australian Football League.</desc>
     <date>2025-09-28</date>
   </programme>
 <channel id="400480">
