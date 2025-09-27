@@ -77,10 +77,20 @@
     <desc>Race action from the 2025 Moto2 Grand Prix of Japan at Mobility Resort Motegi. Manuel Gonzalez topped the podium in this race last year.</desc>
     <date>2025-09-28</date>
   </programme>
-  <programme channel="400480" start="20250928041500 +0000" stop="20250929000000 +0000">
+  <programme channel="400480" start="20250928041500 +0000" stop="20250928044500 +0000">
     <title lang="zh">Live: MotoGP</title>
     <desc>Race action from the 2025 MotoGP Grand Prix of Japan at Mobility Resort Motegi. Will Marc Marquez seal the MotoGP title in style?</desc>
     <date>2025-09-28</date>
+  </programme>
+  <programme channel="400480" start="20250928044500 +0000" stop="20250929000000 +0000">
+    <title lang="zh">Live: MotoGP</title>
+    <desc>Race action from the 2025 MotoGP Grand Prix of Japan at Mobility Resort Motegi. Will Marc Marquez seal the MotoGP title in style?</desc>
+    <date>2025-09-28</date>
+  </programme>
+  <programme channel="400480" start="20250929000000 +0000" stop="20250930000000 +0000">
+    <title lang="zh">WA World Athletics Championships</title>
+    <desc>We look back at the best stories and action from the 2025 World Athletics Championships in Tokyo, as Great Britain picked up five medals.</desc>
+    <date>2025-09-29</date>
   </programme>
 <channel id="405060">
     <display-name lang="Canada">TSN3</display-name>
