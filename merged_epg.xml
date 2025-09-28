@@ -58,9 +58,14 @@
     <desc>The pick of the goals from matchday one of the UEFA Europa League, including Aston Villa v Bologna, Rangers v Genk, Red Star v Celtic, and Real Betis v Nottm Forest.</desc>
     <date>2025-09-29</date>
   </programme>
-  <programme channel="400477" start="20250929054500 +0000" stop="20250930000000 +0000">
+  <programme channel="400477" start="20250929054500 +0000" stop="20250929230000 +0000">
     <title lang="zh">Live: Le Tour de Langkawi</title>
     <desc>Men's Cycling Pro Series action from the second stage of the 2025 Tour of Langkawi in Malaysia, which takes the riders on a 167km route from Padang Besar to Kepala Batas.</desc>
+    <date>2025-09-29</date>
+  </programme>
+  <programme channel="400477" start="20250929230000 +0000" stop="20250930000000 +0000">
+    <title lang="zh">The Ultimate Fighting Championship</title>
+    <desc>Action from UFC Fight Night at RAC Arena in Perth, Australia, featuring the light heavyweight bout between Carlos Ulberg and Dominick Reyes.</desc>
     <date>2025-09-29</date>
   </programme>
 <channel id="400480">
