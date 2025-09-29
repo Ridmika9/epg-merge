@@ -93,6 +93,11 @@
     <desc>Men's Cycling Pro Series action from the second stage of the 2025 Tour of Langkawi in Malaysia, which takes the riders on a 167km route from Padang Besar to Kepala Batas.</desc>
     <date>2025-09-30</date>
   </programme>
+  <programme channel="400477" start="20251001000000 +0000" stop="20251002000000 +0000">
+    <title lang="zh">Tom Aspinall's Fight Lab</title>
+    <desc>Tom Aspinall previews a huge card at UFC 320, which will feature Merab Dvalishvili v Cory Sandhagen and Magomed Ankalaev v Alex Pereira.</desc>
+    <date>2025-10-01</date>
+  </programme>
 <channel id="400480">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 2 HD</display-name>
     <icon src="" />
@@ -157,12 +162,9 @@
     <desc>A look back at the best from matchday six the Premier League, including Brentford v Man United, Newcastle v Arsenal and Chelsea v Brighton.</desc>
     <date>2025-09-30</date>
   </programme>
-<channel id="405060">
-    <display-name lang="Canada">TSN3</display-name>
-    <icon src="" />
-  </channel>
-<channel id="405134">
-    <display-name lang="Canada">TSN4</display-name>
-    <icon src="" />
-  </channel>
+  <programme channel="400480" start="20251001000000 +0000" stop="20251002000000 +0000">
+    <title lang="zh">The Gruppetto</title>
+    <desc>Hosted by Rob Hatch, The Gruppetto brings you everything you need to stay up to speed with the world of cycling, from in-depth race reviews to the latest news from the peloton.</desc>
+    <date>2025-10-01</date>
+  </programme>
 </tv>
