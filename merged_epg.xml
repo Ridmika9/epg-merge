@@ -152,9 +152,19 @@
     <desc>We rewind to relive the most exhilarating moments from the Aragon Round of the 2025 Superbike World Championship.</desc>
     <date>2025-10-01</date>
   </programme>
-  <programme channel="400480" start="20251001050000 +0000" stop="20251002000000 +0000">
+  <programme channel="400480" start="20251001050000 +0000" stop="20251001051500 +0000">
     <title lang="zh">Live: Le Tour de Langkawi</title>
     <desc>Men's Cycling Pro Series action from stage four of the Tour of Langkawi.</desc>
+    <date>2025-10-01</date>
+  </programme>
+  <programme channel="400480" start="20251001051500 +0000" stop="20251001220000 +0000">
+    <title lang="zh">Live: Le Tour de Langkawi</title>
+    <desc>Men's Cycling Pro Series action from stage four of the Tour of Langkawi.</desc>
+    <date>2025-10-01</date>
+  </programme>
+  <programme channel="400480" start="20251001220000 +0000" stop="20251002000000 +0000">
+    <title lang="zh">Live: Major League Baseball</title>
+    <desc>Game two of the MLB American League Wild Card Series between Boston Red Sox and New York Yankees at Yankee Stadium.</desc>
     <date>2025-10-01</date>
   </programme>
 </tv>
