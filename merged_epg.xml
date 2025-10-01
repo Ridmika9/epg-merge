@@ -58,6 +58,11 @@
     <desc>Men's Cycling Pro Series action from stage five of the Tour of Langkawi.</desc>
     <date>2025-10-02</date>
   </programme>
+  <programme channel="400477" start="20251003000000 +0000" stop="20251004000000 +0000">
+    <title lang="zh">Test Cricket</title>
+    <desc>Following their ninth Asia Cup triumph, India return to Test match cricket action as they host West Indies at Narendra Modi Stadium. Who will make a strong start on day one?</desc>
+    <date>2025-10-03</date>
+  </programme>
 <channel id="400480">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 2 HD</display-name>
     <icon src="" />
@@ -136,5 +141,10 @@
     <title lang="zh">UEFA Champions League Football</title>
     <desc>Mikel Arteta's Arsenal take on Greek champions Olympiacos at the Emirates. Olympiacos have won two of their last three Champions League clashes with the Gunners.</desc>
     <date>2025-10-02</date>
+  </programme>
+  <programme channel="400480" start="20251003000000 +0000" stop="20251004000000 +0000">
+    <title lang="zh">MotoGP Highlights</title>
+    <desc>MotoGP highlights from the Grand Prix of Indonesia at the Pertamina Mandalika International Circuit.</desc>
+    <date>2025-10-03</date>
   </programme>
 </tv>
