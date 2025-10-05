@@ -3,86 +3,6 @@
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 1 HD</display-name>
     <icon src="" />
   </channel>
-  <programme channel="400477" start="20251004000000 +0000" stop="20251004023000 +0000">
-    <title lang="zh">Live: WNBA</title>
-    <desc>Coverage of game one from the finals (Tip-off TBA).</desc>
-    <date>2025-10-04</date>
-  </programme>
-  <programme channel="400477" start="20251004023000 +0000" stop="20251004030000 +0000">
-    <title lang="zh">Premier League Preview</title>
-    <desc>A look ahead to matchday seven in the top flight, including Leeds United v Tottenham Hotspur, Chelsea v Liverpool, Arsenal v West Ham United, and Brentford v Manchester City.</desc>
-    <date>2025-10-04</date>
-  </programme>
-  <programme channel="400477" start="20251004030000 +0000" stop="20251004050000 +0000">
-    <title lang="zh">Live: AFLW</title>
-    <desc>GWS Giants Women v St Kilda Saints Women (Bounce-up 4.05am). Coverage of the match from Henson Park in"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1," Sydney.</desc>
-    <date>2025-10-04</date>
-  </programme>
-  <programme channel="400477" start="20251004050000 +0000" stop="20251004060000 +0000">
-    <title lang="zh">Men's Cycling Pro Series</title>
-    <desc>Action "])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"from the sixth stage of the Tour of Langkawi.</desc>
-    <date>2025-10-04</date>
-  </programme>
-  <programme channel="400477" start="20251004060000 +0000" stop="20251004073000 +0000">
-    <title lang="zh">Live: Men's Cycling Pro Series</title>
-    <desc>Coverage of the seventh stage of the Tour of Langkawi, consisting of a 214.9km route from Melaka to Medini.</desc>
-    <date>2025-10-04</date>
-  </programme>
-  <programme channel="400477" start="20251004073000 +0000" stop="20251004090000 +0000">
-    <title lang="zh">Live: AFLW</title>
-    <desc>Gold Coast Suns Women v Brisbane Lions Women (Bounce-up 8.05am). Coverage of the match from People"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1," First Stadium on the Gold Coast.</desc>
-    <date>2025-10-04</date>
-  </programme>
-  <programme channel="400477" start="20251004090000 +0000" stop="20251004093000 +0000">
-    <title lang="zh">Premier League - The Big Interview</title>
-    <desc>An interview with a Premier League star of the past or present.</desc>
-    <date>2025-10-04</date>
-  </programme>
-  <programme channel="400477" start="20251004093000 +0000" stop="20251004100000 +0000">
-    <title lang="zh">Premier League Preview</title>
-    <desc>A look ahead to matchday seven in the top flight, including Leeds United v Tottenham Hotspur, Chelsea v Liverpool, Arsenal v West Ham United, and Brentford v Manchester City.</desc>
-    <date>2025-10-04</date>
-  </programme>
-  <programme channel="400477" start="20251004100000 +0000" stop="20251004140000 +0000">
-    <title lang="zh">Live Premier League</title>
-    <desc>Leeds United v Totten"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"ham Hotspur (Kick-off 12.30pm). Coverage of the top-flight match from Elland Road. The visitors have won their past four meetings against the West Yorkshire side, and have scored four goals in three of those matches. The last fixture here between the two teams saw Tottenham come away with a 4-1 victory to send Leeds back to the Champi</desc>
-    <date>2025-10-04</date>
-  </programme>
-  <programme channel="400477" start="20251004140000 +0000" stop="20251004161500 +0000">
-    <title lang="zh">Live: The Gallagher PREM</title>
-    <desc>Leicester Tigers v Harlequins (Kick-off 3.05pm)).</desc>
-    <date>2025-10-04</date>
-  </programme>
-  <programme channel="400477" start="20251004161500 +0000" stop="20251004184500 +0000">
-    <title lang="zh">Live: The Gallagher PREM</title>
-    <desc>Saracens v Bristol Bears (Kick-off 5.30pm)).</desc>
-    <date>2025-10-04</date>
-  </programme>
-  <programme channel="400477" start="20251004184500 +0000" stop="20251004193000 +0000">
-    <title lang="zh">Autumn Nations Series</title>
-    <desc>A look back at the 2024 Autumn Na"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"tions series.</desc>
-    <date>2025-10-04</date>
-  </programme>
-  <programme channel="400477" start="20251004193000 +0000" stop="20251004200000 +0000">
-    <title lang="zh">MLB Lead Off</title>
-    <desc>A look at the upcoming MLB action.</desc>
-    <date>2025-10-04</date>
-  </programme>
-  <programme channel="400477" start="20251004200000 +0000" stop="20251004230000 +0000">
-    <title lang="zh">Live MLB</title>
-    <desc>Action from MLB Postseason (Start-time TBA).</desc>
-    <date>2025-10-04</date>
-  </programme>
-  <programme channel="400477" start="20251004230000 +0000" stop="20251004233000 +0000">
-    <title lang="zh">MLB Closer</title>
-    <desc>A look back at the best action from the MLB.</desc>
-    <date>2025-10-04</date>
-  </programme>
-  <programme channel="400477" start="20251004233000 +0000" stop="20251005000000 +0000">
-    <title lang="zh">Fight Week</title>
-    <desc>A preview of UFC 320 at T-Mobile Arena in Paradise, Nevada.</desc>
-    <date>2025-10-04</date>
-  </programme>
   <programme channel="400477" start="20251005000000 +0000" stop="20251005020000 +0000">
     <title lang="zh">Live UFC</title>
     <desc>Coverage of the preliminary bouts from UFC 320, which take place at T-Mobile Arena in Las Vegas.</desc>
@@ -188,125 +108,120 @@
     <desc>A round-up of action from Major League Baseball.</desc>
     <date>2025-10-05</date>
   </programme>
-  <programme channel="400477" start="20251006000000 +0000" stop="20251007000000 +0000">
+  <programme channel="400477" start="20251006000000 +0000" stop="20251006031500 +0000">
     <title lang="zh">Live MLB</title>
     <desc>Action from MLB Postseason (Start-time TBA).</desc>
+    <date>2025-10-06</date>
+  </programme>
+  <programme channel="400477" start="20251006031500 +0000" stop="20251006034500 +0000">
+    <title lang="zh">MLB Plays of the Week</title>
+    <desc>A look at the most"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1," exciting plays from the past week's matches.</desc>
+    <date>2025-10-06</date>
+  </programme>
+  <programme channel="400477" start="20251006034500 +0000" stop="20251006040000 +0000">
+    <title lang="zh">TNT Sports Reload</title>
+    <desc>The best bits from TNT Sports over the last week, including exclusiv"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"e interviews, the best action and so much more.</desc>
+    <date>2025-10-06</date>
+  </programme>
+  <programme channel="400477" start="20251006040000 +0000" stop="20251006043000 +0000">
+    <title lang="zh">UCI Mountain Bike World Series Women</title>
+    <desc>Action from the XCO Olympic elite race at Lake Placid.</desc>
+    <date>2025-10-06</date>
+  </programme>
+  <programme channel="400477" start="20251006043000 +0000" stop="20251006050000 +0000">
+    <title lang="zh">UCI Mountain Bike World Series Men</title>
+    <desc>Action from the XCO Olympic elite race at Lake Placid.</desc>
+    <date>2025-10-06</date>
+  </programme>
+  <programme channel="400477" start="20251006050000 +0000" stop="20251006060000 +0000">
+    <title lang="zh">Premier League Review</title>
+    <desc>A look back at the "])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"best from matchday seven of the top flight, including Leeds United v Tottenham Hotspur, Manchester United v Sunderland, and Chelsea v Liverpool.</desc>
+    <date>2025-10-06</date>
+  </programme>
+  <programme channel="400477" start="20251006060000 +0000" stop="20251006063000 +0000">
+    <title lang="zh">Premier League - The Big Interview</title>
+    <desc>An interview with a Premier League star of the past or present.</desc>
+    <date>2025-10-06</date>
+  </programme>
+  <programme channel="400477" start="20251006063000 +0000" stop="20251006070000 +0000">
+    <title lang="zh">Premier League Stories</title>
+    <desc>The story of AFC Bournemouth, who defied th"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"e odds and rose from near-extinction to become a certified Premier League contender, with their eyes set on Europe.</desc>
+    <date>2025-10-06</date>
+  </programme>
+  <programme channel="400477" start="20251006070000 +0000" stop="20251006083000 +0000">
+    <title lang="zh">Premier League</title>
+    <desc>Leeds United v Tottenham Hotspur.</desc>
+    <date>2025-10-06</date>
+  </programme>
+  <programme channel="400477" start="20251006083000 +0000" stop="20251006093000 +0000">
+    <title lang="zh">Serie A</title>
+    <desc>Fiorentina v AS Roma.</desc>
+    <date>2025-10-06</date>
+  </programme>
+  <programme channel="400477" start="20251006093000 +0000" stop="20251006103000 +0000">
+    <title lang="zh">Serie A</title>
+    <desc>Juventus v AC Milan.</desc>
+    <date>2025-10-06</date>
+  </programme>
+  <programme channel="400477" start="20251006103000 +0000" stop="20251006113000 +0000">
+    <title lang="zh">Premier League Review</title>
+    <desc>A look back at th"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"e best from matchday seven of the top flight, including Leeds United v Tottenham Hotspur, Manchester United v Sunderland, and Chelsea v Liverpool.</desc>
+    <date>2025-10-06</date>
+  </programme>
+  <programme channel="400477" start="20251006113000 +0000" stop="20251006123000 +0000">
+    <title lang="zh">Men's Cycling Pro Series</title>
+    <desc>Actio"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"n from the sixth stage of the CRO Race in Croatia.</desc>
+    <date>2025-10-06</date>
+  </programme>
+  <programme channel="400477" start="20251006123000 +0000" stop="20251006133000 +0000">
+    <title lang="zh">Cycling European Championship</title>
+    <desc>Action from the men's elite road race in France.</desc>
+    <date>2025-10-06</date>
+  </programme>
+  <programme channel="400477" start="20251006133000 +0000" stop="20251006150000 +0000">
+    <title lang="zh">Live: Men's Cycling Pro Series</title>
+    <desc>The Bernocchi Cup. Coverage of the one-day race held in Legnano, Italy.</desc>
+    <date>2025-10-06</date>
+  </programme>
+  <programme channel="400477" start="20251006150000 +0000" stop="20251006160000 +0000">
+    <title lang="zh">Cycling European Championship</title>
+    <desc>Action from the women's elite road race in France.</desc>
+    <date>2025-10-06</date>
+  </programme>
+  <programme channel="400477" start="20251006160000 +0000" stop="20251006163000 +0000">
+    <title lang="zh">Premier League Stories</title>
+    <desc>The story of AFC Bournemouth, who defied th"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"e odds and rose from near-extinction to become a certified Premier League contender, with their eyes set on Europe.</desc>
+    <date>2025-10-06</date>
+  </programme>
+  <programme channel="400477" start="20251006163000 +0000" stop="20251006173000 +0000">
+    <title lang="zh">Premier League Review</title>
+    <desc>A look back at the "])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"best from matchday seven of the top flight, including Leeds United v Tottenham Hotspur, Manchester United v Sunderland, and Chelsea v Liverpool.</desc>
+    <date>2025-10-06</date>
+  </programme>
+  <programme channel="400477" start="20251006173000 +0000" stop="20251006183000 +0000">
+    <title lang="zh">British Speedway</title>
+    <desc>Action from Sheffield Tiger"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"s v Leicester Lions in the second leg of the second play-off semi-final.</desc>
+    <date>2025-10-06</date>
+  </programme>
+  <programme channel="400477" start="20251006183000 +0000" stop="20251006210000 +0000">
+    <title lang="zh">Live: British Speedway</title>
+    <desc>Leicester Lions v Ips"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"wich Witches. Coverage of the first leg of the Premiership Grand Final, held at Hydroscand Arena.</desc>
+    <date>2025-10-06</date>
+  </programme>
+  <programme channel="400477" start="20251006210000 +0000" stop="20251006213000 +0000">
+    <title lang="zh">Fight Week</title>
+    <desc>A review of UFC 320 at T-Mobile Arena in Las Vegas, Nevada.</desc>
+    <date>2025-10-06</date>
+  </programme>
+  <programme channel="400477" start="20251006213000 +0000" stop="20251007000000 +0000">
+    <title lang="zh">UFC</title>
+    <desc>Magomed Ankalaev v Alex Pereira.</desc>
     <date>2025-10-06</date>
   </programme>
 <channel id="400480">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 2 HD</display-name>
     <icon src="" />
   </channel>
-  <programme channel="400480" start="20251004000000 +0000" stop="20251004003000 +0000">
-    <title lang="zh">MotoGP</title>
-    <desc>Action from the GP of Indonesia.</desc>
-    <date>2025-10-04</date>
-  </programme>
-  <programme channel="400480" start="20251004003000 +0000" stop="20251004020000 +0000">
-    <title lang="zh">Live MotoGP</title>
-    <desc>The Grand Prix of Indonesia Moto2 and Moto3 second practice sessions. Coverage"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1," from the 18th round of the season at Pertamina Mandalika Circuit.</desc>
-    <date>2025-10-04</date>
-  </programme>
-  <programme channel="400480" start="20251004020000 +0000" stop="20251004044500 +0000">
-    <title lang="zh">Live MotoGP</title>
-    <desc>The Grand Prix of Indonesia MotoGP qualifying session. Coverage from the 18th round of the s"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"eason at Pertamina Mandalika Circuit.</desc>
-    <date>2025-10-04</date>
-  </programme>
-  <programme channel="400480" start="20251004044500 +0000" stop="20251004064500 +0000">
-    <title lang="zh">Live MotoGP</title>
-    <desc>The Grand Prix of Indonesia Moto3 and Moto2 qualifying sessions. Coverage from the"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1," 18th round of the season at Pertamina Mandalika Circuit.</desc>
-    <date>2025-10-04</date>
-  </programme>
-  <programme channel="400480" start="20251004064500 +0000" stop="20251004074500 +0000">
-    <title lang="zh">Live MotoGP</title>
-    <desc>The Grand Prix of Indonesia MotoGP sprint race (Start-time 8.00am). Coverage fro"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"m the 18th round of the season at Pertamina Mandalika Circuit.</desc>
-    <date>2025-10-04</date>
-  </programme>
-  <programme channel="400480" start="20251004074500 +0000" stop="20251004080000 +0000">
-    <title lang="zh">MotoGP Rewind</title>
-    <desc>A look back at the best of the action from the Grand Prix of Japan.</desc>
-    <date>2025-10-04</date>
-  </programme>
-  <programme channel="400480" start="20251004080000 +0000" stop="20251004090000 +0000">
-    <title lang="zh">Live Motorcycling: Asia Talent Cup</title>
-    <desc>Coverage of the seventh race from the fourth round of the season, which takes place at Mandalika International Street Circuit in Mandalika, Indonesia.</desc>
-    <date>2025-10-04</date>
-  </programme>
-  <programme channel="400480" start="20251004090000 +0000" stop="20251004110000 +0000">
-    <title lang="zh">Live: AFLW</title>
-    <desc>Port Adelaide Power Women v Western Bulldogs Women (Bounce-up 10.15am). Coverage of the m"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"atch from Alberton Oval in Adelaide.</desc>
-    <date>2025-10-04</date>
-  </programme>
-  <programme channel="400480" start="20251004110000 +0000" stop="20251004130000 +0000">
-    <title lang="zh">Live: Men's Cycling Pro Series</title>
-    <desc>Coverage of the fifth stage of the CRO race in Croatia, consisting of a 151.5km route from Karlovac to Sveta Nedelja.</desc>
-    <date>2025-10-04</date>
-  </programme>
-  <programme channel="400480" start="20251004130000 +0000" stop="20251004131500 +0000">
-    <title lang="zh">Playing for Our Future - Cycling</title>
-    <desc>Asking what the future holds for cycling in the battle against global warming. Reshmin Chowdhury meets people at all levels to discuss how it can be a positive force for change.</desc>
-    <date>2025-10-04</date>
-  </programme>
-  <programme channel="400480" start="20251004131500 +0000" stop="20251004134500 +0000">
-    <title lang="zh">MotoGP</title>
-    <desc>Action from the 2025 Grand Prix of Indonesia sprint race.</desc>
-    <date>2025-10-04</date>
-  </programme>
-  <programme channel="400480" start="20251004134500 +0000" stop="20251004141500 +0000">
-    <title lang="zh">Xtra Time</title>
-    <desc>Post-match reaction and analysis from the Premier League clash between Leeds United and Tottenham Hotspur at Elland Road.</desc>
-    <date>2025-10-04</date>
-  </programme>
-  <programme channel="400480" start="20251004141500 +0000" stop="20251004143000 +0000">
-    <title lang="zh">TNT Sports Reload</title>
-    <desc>The best bits from TNT Sports over the last week, including exclus"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"ive interviews, the best action and so much more.</desc>
-    <date>2025-10-04</date>
-  </programme>
-  <programme channel="400480" start="20251004143000 +0000" stop="20251004153000 +0000">
-    <title lang="zh">WNBA</title>
-    <desc>Action from game one of the WNBA finals.</desc>
-    <date>2025-10-04</date>
-  </programme>
-  <programme channel="400480" start="20251004153000 +0000" stop="20251004163000 +0000">
-    <title lang="zh">Men's Cycling Pro Series</title>
-    <desc>Actio"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"n from the seventh stage of the Tour of Langkawi.</desc>
-    <date>2025-10-04</date>
-  </programme>
-  <programme channel="400480" start="20251004163000 +0000" stop="20251004180000 +0000">
-    <title lang="zh">Live: UCI Mountain Bike World Series Women</title>
-    <desc>Coverage of the DHI elite final, which takes place at Lake Placid.</desc>
-    <date>2025-10-04</date>
-  </programme>
-  <programme channel="400480" start="20251004180000 +0000" stop="20251004201500 +0000">
-    <title lang="zh">Live: UCI Mountain Bike World Series Men</title>
-    <desc>Coverage of the DHI elite final, which takes place at Lake Placid.</desc>
-    <date>2025-10-04</date>
-  </programme>
-  <programme channel="400480" start="20251004201500 +0000" stop="20251004214500 +0000">
-    <title lang="zh">SailGP Highlights</title>
-    <desc>Action from the first day of the 11th ro"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"und of the season in Cadiz, Spain.</desc>
-    <date>2025-10-04</date>
-  </programme>
-  <programme channel="400480" start="20251004214500 +0000" stop="20251004220000 +0000">
-    <title lang="zh">UEFA Champions League Goals Reload</title>
-    <desc>The pick of the goals from the second round of fixtures, featuring Paris Saint-Germain v Barcelona, Union Saint-Gilloise v Newcastle United, and Galatasaray v Liverpool.</desc>
-    <date>2025-10-04</date>
-  </programme>
-  <programme channel="400480" start="20251004220000 +0000" stop="20251004223000 +0000">
-    <title lang="zh">British Superbikes</title>
-    <desc>Action from the first race at Oulton Park in Chesh"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"ire.</desc>
-    <date>2025-10-04</date>
-  </programme>
-  <programme channel="400480" start="20251004223000 +0000" stop="20251004230000 +0000">
-    <title lang="zh">MotoGP</title>
-    <desc>Action from the 2025 Grand Prix of Indonesia sprint race.</desc>
-    <date>2025-10-04</date>
-  </programme>
-  <programme channel="400480" start="20251004230000 +0000" stop="20251005000000 +0000">
-    <title lang="zh">Men's Cycling Pro Series</title>
-    <desc>Actio"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"n from the fifth stage of the CRO Race in Croatia.</desc>
-    <date>2025-10-04</date>
-  </programme>
   <programme channel="400480" start="20251005000000 +0000" stop="20251005010000 +0000">
     <title lang="zh">Cycling European Championship</title>
     <desc>Action from the women's elite road race in France.</desc>
@@ -401,5 +316,145 @@
     <title lang="zh">UFC</title>
     <desc>Magomed Ankalaev v Alex Pereira.</desc>
     <date>2025-10-05</date>
+  </programme>
+  <programme channel="400480" start="20251006023000 +0000" stop="20251006030000 +0000">
+    <title lang="zh">UFC Connected</title>
+    <desc>UFC Connected brings fans a unique look inside the UFC with exclusive access to fighters, teams an"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"d events from around the globe.</desc>
+    <date>2025-10-06</date>
+  </programme>
+  <programme channel="400480" start="20251006030000 +0000" stop="20251006040000 +0000">
+    <title lang="zh">Men's Cycling Pro Series</title>
+    <desc>Action"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1," from the sixth stage of the CRO Race in Croatia.</desc>
+    <date>2025-10-06</date>
+  </programme>
+  <programme channel="400480" start="20251006040000 +0000" stop="20251006050000 +0000">
+    <title lang="zh">Cycling European Championship</title>
+    <desc>Action from the men's elite road race in France.</desc>
+    <date>2025-10-06</date>
+  </programme>
+  <programme channel="400480" start="20251006050000 +0000" stop="20251006060000 +0000">
+    <title lang="zh">MotoGP</title>
+    <desc>Action from the 2025 Moto3 Grand Prix of Indonesia.</desc>
+    <date>2025-10-06</date>
+  </programme>
+  <programme channel="400480" start="20251006060000 +0000" stop="20251006070000 +0000">
+    <title lang="zh">MotoGP</title>
+    <desc>Action from the 2025 Moto2 Grand Prix of Indonesia.</desc>
+    <date>2025-10-06</date>
+  </programme>
+  <programme channel="400480" start="20251006070000 +0000" stop="20251006073000 +0000">
+    <title lang="zh">MotoGP</title>
+    <desc>Action from the 2025 Grand Prix of Indonesia sprint race.</desc>
+    <date>2025-10-06</date>
+  </programme>
+  <programme channel="400480" start="20251006073000 +0000" stop="20251006083000 +0000">
+    <title lang="zh">MotoGP</title>
+    <desc>Action from the 2025 MotoGP Grand Prix of Indonesia.</desc>
+    <date>2025-10-06</date>
+  </programme>
+  <programme channel="400480" start="20251006083000 +0000" stop="20251006093000 +0000">
+    <title lang="zh">MotoGP Chequered Flag</title>
+    <desc>Post-race show featuring analysis, highlights and interviews with all the key riders).</desc>
+    <date>2025-10-06</date>
+  </programme>
+  <programme channel="400480" start="20251006093000 +0000" stop="20251006100000 +0000">
+    <title lang="zh">British Superbikes</title>
+    <desc>Action from the first race at Oulton Park in Cheshir"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"e.</desc>
+    <date>2025-10-06</date>
+  </programme>
+  <programme channel="400480" start="20251006100000 +0000" stop="20251006103000 +0000">
+    <title lang="zh">British Superbikes</title>
+    <desc>Action from the second race at Oulton Park in Chesh"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"ire.</desc>
+    <date>2025-10-06</date>
+  </programme>
+  <programme channel="400480" start="20251006103000 +0000" stop="20251006110000 +0000">
+    <title lang="zh">British Superbikes</title>
+    <desc>Action from the third race at Oulton Park in Cheshir"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"e.</desc>
+    <date>2025-10-06</date>
+  </programme>
+  <programme channel="400480" start="20251006110000 +0000" stop="20251006114500 +0000">
+    <title lang="zh">Motocross World Championship</title>
+    <desc>Action from race one of the 2025 Monster Energy Motocross of Nations.</desc>
+    <date>2025-10-06</date>
+  </programme>
+  <programme channel="400480" start="20251006114500 +0000" stop="20251006123000 +0000">
+    <title lang="zh">Motocross World Championship</title>
+    <desc>Action from race two of the 2025 Monster Energy Motocross of Nations.</desc>
+    <date>2025-10-06</date>
+  </programme>
+  <programme channel="400480" start="20251006123000 +0000" stop="20251006131500 +0000">
+    <title lang="zh">Motocross World Championship</title>
+    <desc>Action from race three of the 2025 Monster Energy Motocross of Nations.</desc>
+    <date>2025-10-06</date>
+  </programme>
+  <programme channel="400480" start="20251006131500 +0000" stop="20251006134500 +0000">
+    <title lang="zh">UCI Mountain Bike World Series Women</title>
+    <desc>Action from the XCC short track elite race at Lake Placid.</desc>
+    <date>2025-10-06</date>
+  </programme>
+  <programme channel="400480" start="20251006134500 +0000" stop="20251006141500 +0000">
+    <title lang="zh">UCI Mountain Bike World Series Men</title>
+    <desc>Action from the XCC short track elite race at Lake Placid.</desc>
+    <date>2025-10-06</date>
+  </programme>
+  <programme channel="400480" start="20251006141500 +0000" stop="20251006144500 +0000">
+    <title lang="zh">UCI Mountain Bike World Series Women</title>
+    <desc>Action from the DHI elite final at Lake Placid.</desc>
+    <date>2025-10-06</date>
+  </programme>
+  <programme channel="400480" start="20251006144500 +0000" stop="20251006151500 +0000">
+    <title lang="zh">UCI Mountain Bike World Series Men</title>
+    <desc>Action from the DHI elite final at Lake Placid.</desc>
+    <date>2025-10-06</date>
+  </programme>
+  <programme channel="400480" start="20251006151500 +0000" stop="20251006154500 +0000">
+    <title lang="zh">UCI Mountain Bike World Series Women</title>
+    <desc>Action from the XCO Olympic elite race at Lake Placid.</desc>
+    <date>2025-10-06</date>
+  </programme>
+  <programme channel="400480" start="20251006154500 +0000" stop="20251006161500 +0000">
+    <title lang="zh">UCI Mountain Bike World Series Men</title>
+    <desc>Action from the XCO Olympic elite race at Lake Placid.</desc>
+    <date>2025-10-06</date>
+  </programme>
+  <programme channel="400480" start="20251006161500 +0000" stop="20251006164500 +0000">
+    <title lang="zh">BMX Freestyle</title>
+    <desc>Action from the women's final of the 2025 UEC BMX Freestyle Park"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1," and Flatland European Championships in Eindhoven.</desc>
+    <date>2025-10-06</date>
+  </programme>
+  <programme channel="400480" start="20251006164500 +0000" stop="20251006171500 +0000">
+    <title lang="zh">BMX Freestyle</title>
+    <desc>Action from the men's final of the UEC BMX Freestyle Park and Flatland "])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"European Championships in Eindhoven.</desc>
+    <date>2025-10-06</date>
+  </programme>
+  <programme channel="400480" start="20251006171500 +0000" stop="20251006173000 +0000">
+    <title lang="zh">TNT Sports Meets</title>
+    <desc>Former England international Owen Hargreaves meets Manchester United manager Ruben Amorim\","])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"\"genre\":\"Sports.</desc>
+    <date>2025-10-06</date>
+  </programme>
+  <programme channel="400480" start="20251006173000 +0000" stop="20251006183000 +0000">
+    <title lang="zh">Test Cricket Highlights</title>
+    <desc>India v West Indies. Action from the fifth "])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"and final day of the First Test in the two-match series from Narendra Modi Stadium in Ahmedabad.</desc>
+    <date>2025-10-06</date>
+  </programme>
+  <programme channel="400480" start="20251006183000 +0000" stop="20251006193000 +0000">
+    <title lang="zh">MLB Highlights</title>
+    <desc>Action from Major League Baseball.</desc>
+    <date>2025-10-06</date>
+  </programme>
+  <programme channel="400480" start="20251006193000 +0000" stop="20251006200000 +0000">
+    <title lang="zh">MLB Lead Off</title>
+    <desc>A look at the upcoming MLB action.</desc>
+    <date>2025-10-06</date>
+  </programme>
+  <programme channel="400480" start="20251006200000 +0000" stop="20251006233000 +0000">
+    <title lang="zh">Live MLB</title>
+    <desc>Action from MLB Postseason (Start-time TBA).</desc>
+    <date>2025-10-06</date>
+  </programme>
+  <programme channel="400480" start="20251006233000 +0000" stop="20251007000000 +0000">
+    <title lang="zh">Live MLB</title>
+    <desc>Action from MLB Postseason (Start-time TBA).</desc>
+    <date>2025-10-06</date>
   </programme>
 </tv>
