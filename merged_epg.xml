@@ -3,61 +3,6 @@
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 1 HD</display-name>
     <icon src="" />
   </channel>
-  <programme channel="400477" start="20251011000000 +0000" stop="20251011031500 +0000">
-    <title lang="zh">Live MLB</title>
-    <desc>Action from MLB Postseason (Start-time TBA).</desc>
-    <date>2025-10-11</date>
-  </programme>
-  <programme channel="400477" start="20251011031500 +0000" stop="20251011034500 +0000">
-    <title lang="zh">Serie A - Full Impact</title>
-    <desc>The best moments from the six"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"th matchday of the 2025/26 season, including Juventus v AC Milan, Inter Milan v Cremonese, and Fiorentina v Napoli.</desc>
-    <date>2025-10-11</date>
-  </programme>
-  <programme channel="400477" start="20251011034500 +0000" stop="20251011120000 +0000">
-    <title lang="zh">Live Test Cricket</title>
-    <desc>India v West Indies. Coverage of the second day of the Second and Final"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1," Test in the series from Arun Jaitley Stadium in Delhi. India have dominated matches against their visitors in this format since the West Indies last won a Test match against them back in 2002. The visitors won a three-match series 2-1 23 years ago, but have struggled since then, and h</desc>
-    <date>2025-10-11</date>
-  </programme>
-  <programme channel="400477" start="20251011120000 +0000" stop="20251011130000 +0000">
-    <title lang="zh">Live: UCI Gravel World Championships</title>
-    <desc>Coverage of the latest women's race, which takes place in Zuid-Limburg, Netherlands.</desc>
-    <date>2025-10-11</date>
-  </programme>
-  <programme channel="400477" start="20251011130000 +0000" stop="20251011133000 +0000">
-    <title lang="zh">Grit and Glory: Enduro Mountain Bike Racing</title>
-    <desc>A behind-the-scenes look at the UCI Enduro World Cup.</desc>
-    <date>2025-10-11</date>
-  </programme>
-  <programme channel="400477" start="20251011133000 +0000" stop="20251011161500 +0000">
-    <title lang="zh">Live: The Gallagher PREM</title>
-    <desc>Northampton Saints v Leicester Tigers (Kick-off 3.05pm). Coverage of the match from cinch Stadium at Franklin's Gardens. The Tigers did the double over Northampton in the league last season on their way to a second place finish. This fixture last year ended in a comprehensive 33-0 win for Leicester as the visitors ran in four tries, with three of them coming inside the opening 12 minutes.</desc>
-    <date>2025-10-11</date>
-  </programme>
-  <programme channel="400477" start="20251011161500 +0000" stop="20251011184500 +0000">
-    <title lang="zh">Live: The Gallagher PREM</title>
-    <desc>Bath Rugby v Gloucester Rugby (Kick-off 5.30pm)).</desc>
-    <date>2025-10-11</date>
-  </programme>
-  <programme channel="400477" start="20251011184500 +0000" stop="20251011203000 +0000">
-    <title lang="zh">The Gallagher PREM</title>
-    <desc>Bristol Bears v Exeter Chiefs.</desc>
-    <date>2025-10-11</date>
-  </programme>
-  <programme channel="400477" start="20251011203000 +0000" stop="20251011210000 +0000">
-    <title lang="zh">UFC Connected</title>
-    <desc>UFC Connected brings fans a unique look inside the UFC with exclusive access to fighters, team"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"s and events from around the globe.</desc>
-    <date>2025-10-11</date>
-  </programme>
-  <programme channel="400477" start="20251011210000 +0000" stop="20251011230000 +0000">
-    <title lang="zh">Live UFC</title>
-    <desc>Coverage of the preliminary bouts from UFC Fight Night, which takes place at Farmasi Arena in Rio de Janeiro, Brazi"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"l.</desc>
-    <date>2025-10-11</date>
-  </programme>
-  <programme channel="400477" start="20251011230000 +0000" stop="20251012000000 +0000">
-    <title lang="zh">Live UFC</title>
-    <desc>Charles Oliveira v Mateusz Gamrot. Coverage of the lightweight bout from Farmasi Arena in Rio de Janeiro, Brazil, plus the undercard.</desc>
-    <date>2025-10-11</date>
-  </programme>
   <programme channel="400477" start="20251012023000 +0000" stop="20251012024500 +0000">
     <title lang="zh">TNT Sports Cricket Reload</title>
     <desc>A look back at the best batting action from India v West Indies in the First Test of the series.</desc>
@@ -128,7 +73,72 @@
     <desc>Kenny Allstar and Stillryan join forces to take on the world of baseball.</desc>
     <date>2025-10-12</date>
   </programme>
-  <programme channel="400477" start="20251013000000 +0000" stop="20251014000000 +0000">
+  <programme channel="400477" start="20251013000000 +0000" stop="20251013031500 +0000">
+    <title lang="zh">Live MLB</title>
+    <desc>Action from MLB Postseason (Start-time TBA).</desc>
+    <date>2025-10-13</date>
+  </programme>
+  <programme channel="400477" start="20251013031500 +0000" stop="20251013033000 +0000">
+    <title lang="zh">TNT Sports Cricket Reload</title>
+    <desc>New Zealand's performance as they bowled out India for just 46 runs.</desc>
+    <date>2025-10-13</date>
+  </programme>
+  <programme channel="400477" start="20251013033000 +0000" stop="20251013034500 +0000">
+    <title lang="zh">TNT Sports Cricket Reload</title>
+    <desc>A look back at the best batting in the Third Test between West Indies and Australia.</desc>
+    <date>2025-10-13</date>
+  </programme>
+  <programme channel="400477" start="20251013034500 +0000" stop="20251013120000 +0000">
+    <title lang="zh">Live Test Cricket</title>
+    <desc>India v West Indies. Coverage of the fourth day of the Second and Final T"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"est in the series from Arun Jaitley Stadium in Delhi. The hosts haven't won a Test series in their last three attempts and will be looking to put that run to an end in this game. The last time India had a run as bad as this was when they went five series without a victory between Dec</desc>
+    <date>2025-10-13</date>
+  </programme>
+  <programme channel="400477" start="20251013120000 +0000" stop="20251013143000 +0000">
+    <title lang="zh">Live: Snooker Xi'an Grand Prix</title>
+    <desc>Coverage of the second session from the final of the tournament, which takes place at Qujiang Sports Complex in Xi'an, China.</desc>
+    <date>2025-10-13</date>
+  </programme>
+  <programme channel="400477" start="20251013143000 +0000" stop="20251013150000 +0000">
+    <title lang="zh">UEFA Champions League Magazine</title>
+    <desc>The latest news and updates from Europe's premier club football competition.</desc>
+    <date>2025-10-13</date>
+  </programme>
+  <programme channel="400477" start="20251013150000 +0000" stop="20251013153000 +0000">
+    <title lang="zh">Premier League Stories</title>
+    <desc>A look at the career of Yaya Toure, "])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"from his humble beginnings in Ivory Coast to his key role in Manchester City's emergence as a dominant force in the Premier League.</desc>
+    <date>2025-10-13</date>
+  </programme>
+  <programme channel="400477" start="20251013153000 +0000" stop="20251013160000 +0000">
+    <title lang="zh">Premier League - The Big Interview</title>
+    <desc>An interview with Liverpool's Cody Gakpo.</desc>
+    <date>2025-10-13</date>
+  </programme>
+  <programme channel="400477" start="20251013160000 +0000" stop="20251013173000 +0000">
+    <title lang="zh">The Club That George Built</title>
+    <desc>A look at George Dowell's determination to transform his childhood club Worthing FC into a National League team after saving it from financial ruin.</desc>
+    <date>2025-10-13</date>
+  </programme>
+  <programme channel="400477" start="20251013173000 +0000" stop="20251013210000 +0000">
+    <title lang="zh">Live Emirates FA Cup</title>
+    <desc>Worthing v Fores"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"t Green Rovers (Kick-off 7.30pm). Coverage of the fourth qualifying round match from Sussex Transport Community Stadium.</desc>
+    <date>2025-10-13</date>
+  </programme>
+  <programme channel="400477" start="20251013210000 +0000" stop="20251013220000 +0000">
+    <title lang="zh">Tom Aspinall: Road To Undisputed</title>
+    <desc>A look at the story of UFC fighter Tom Aspinall.</desc>
+    <date>2025-10-13</date>
+  </programme>
+  <programme channel="400477" start="20251013220000 +0000" stop="20251013230000 +0000">
+    <title lang="zh">UEFA Champions League Road to Glory</title>
+    <desc>We relive Man Utd's 1998/99 UEFA Champions League success. From their two 3-3 draws with Barcelona in the group stage to their famous final victory over Bayern Munich.</desc>
+    <date>2025-10-13</date>
+  </programme>
+  <programme channel="400477" start="20251013230000 +0000" stop="20251013233000 +0000">
+    <title lang="zh">MLB Lead Off</title>
+    <desc>A look at the upcoming MLB action.</desc>
+    <date>2025-10-13</date>
+  </programme>
+  <programme channel="400477" start="20251013233000 +0000" stop="20251014000000 +0000">
     <title lang="zh">Live MLB</title>
     <desc>Action from MLB Postseason (Start-time TBA).</desc>
     <date>2025-10-13</date>
@@ -137,111 +147,6 @@
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 2 HD</display-name>
     <icon src="" />
   </channel>
-  <programme channel="400480" start="20251011000000 +0000" stop="20251011023000 +0000">
-    <title lang="zh">Live: WNBA</title>
-    <desc>Phoenix Mercury v Las Vegas Aces (Tip-off 1.00am). Coverage of game four of the WNBA finals from PHX Arena.</desc>
-    <date>2025-10-11</date>
-  </programme>
-  <programme channel="400480" start="20251011023000 +0000" stop="20251011024500 +0000">
-    <title lang="zh">TNT Sports Reload</title>
-    <desc>The best bits from TNT Sports over the last week, including exclu"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"sive interviews, the best action and so much more.</desc>
-    <date>2025-10-11</date>
-  </programme>
-  <programme channel="400480" start="20251011024500 +0000" stop="20251011034500 +0000">
-    <title lang="zh">Test Cricket Highlights</title>
-    <desc>India v West Indies. Action from the fir"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"st day of the Second and Final Test in the series from Arun Jaitley Stadium in Delhi.</desc>
-    <date>2025-10-11</date>
-  </programme>
-  <programme channel="400480" start="20251011034500 +0000" stop="20251011040000 +0000">
-    <title lang="zh">Premier League Reload</title>
-    <desc>A whirlwind catch-u"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"p from matchday seven of the top flight, featuring all the goals and major talking points from Leeds United v Tottenham Hotspur and more.</desc>
-    <date>2025-10-11</date>
-  </programme>
-  <programme channel="400480" start="20251011040000 +0000" stop="20251011060000 +0000">
-    <title lang="zh">Live: AFLW</title>
-    <desc>Geelong Cats Women v GWS Giants Women (Bounce-up 5.05am). Coverage of the match from GMHBA Stadium in Ge"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"elong.</desc>
-    <date>2025-10-11</date>
-  </programme>
-  <programme channel="400480" start="20251011060000 +0000" stop="20251011080000 +0000">
-    <title lang="zh">Live: AFLW</title>
-    <desc>Brisbane Lions Women v Port Adelaide Power Women (Bounce-up 7.05am). Coverage of the match fr"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"om Brighton Homes Arena in Ipswich, Australia.</desc>
-    <date>2025-10-11</date>
-  </programme>
-  <programme channel="400480" start="20251011080000 +0000" stop="20251011083000 +0000">
-    <title lang="zh">Live: Superbike World Championship</title>
-    <desc>Coverage of the Superbike third free practice session from Circuito do Estoril in Portugal, where the 11th round of the season takes place.</desc>
-    <date>2025-10-11</date>
-  </programme>
-  <programme channel="400480" start="20251011083000 +0000" stop="20251011093000 +0000">
-    <title lang="zh">Superbike World Championship Highlights</title>
-    <desc>Action from the 10th round of the season in Aragon.</desc>
-    <date>2025-10-11</date>
-  </programme>
-  <programme channel="400480" start="20251011093000 +0000" stop="20251011103000 +0000">
-    <title lang="zh">Live: Superbike World Championship</title>
-    <desc>Coverage of the Superbike Superpole session from Circuito do Estoril in Portugal, where the 11th round of the season takes place.</desc>
-    <date>2025-10-11</date>
-  </programme>
-  <programme channel="400480" start="20251011103000 +0000" stop="20251011104500 +0000">
-    <title lang="zh">British Superbikes Rewind</title>
-    <desc>A look back at the best action from round 10 at Oulton Park in Cheshire.</desc>
-    <date>2025-10-11</date>
-  </programme>
-  <programme channel="400480" start="20251011104500 +0000" stop="20251011110000 +0000">
-    <title lang="zh">MotoGP Rewind</title>
-    <desc>A look back at the best of the action from the 2025 Grand Prix of Indone"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"sia.</desc>
-    <date>2025-10-11</date>
-  </programme>
-  <programme channel="400480" start="20251011110000 +0000" stop="20251011123000 +0000">
-    <title lang="zh">Live: Superbike World Championship</title>
-    <desc>Coverage of the Supersport first race from Circuito do Estoril in Portugal, where the 11th round of the season takes place.</desc>
-    <date>2025-10-11</date>
-  </programme>
-  <programme channel="400480" start="20251011123000 +0000" stop="20251011140000 +0000">
-    <title lang="zh">Live: Superbike World Championship</title>
-    <desc>Coverage of the Superbike first race from Circuito do Estoril in Portugal, where the 11th round of the season takes place.</desc>
-    <date>2025-10-11</date>
-  </programme>
-  <programme channel="400480" start="20251011140000 +0000" stop="20251011151500 +0000">
-    <title lang="zh">Live: Superbike World Championship</title>
-    <desc>Coverage of the Supersport 300 first race from Circuito do Estoril in Portugal, where the 11th round of the season takes place.</desc>
-    <date>2025-10-11</date>
-  </programme>
-  <programme channel="400480" start="20251011151500 +0000" stop="20251011153000 +0000">
-    <title lang="zh">Superbike Rewind</title>
-    <desc>Action from the 10th round of the season in Aragon, Spain.</desc>
-    <date>2025-10-11</date>
-  </programme>
-  <programme channel="400480" start="20251011153000 +0000" stop="20251011160000 +0000">
-    <title lang="zh">UCI Mountain Bike World Series Men</title>
-    <desc>Action from the XCC short track elite race in Mont Sainte Anne, Canada.</desc>
-    <date>2025-10-11</date>
-  </programme>
-  <programme channel="400480" start="20251011160000 +0000" stop="20251011163000 +0000">
-    <title lang="zh">UCI Mountain Bike World Series Women</title>
-    <desc>Action from the XCC short track elite race in Mont Sainte Anne, Canada.</desc>
-    <date>2025-10-11</date>
-  </programme>
-  <programme channel="400480" start="20251011163000 +0000" stop="20251011180000 +0000">
-    <title lang="zh">Live: UCI Mountain Bike World Series Women</title>
-    <desc>Coverage of the DHI elite final, which takes place at Mont Sainte Anne in Canada.</desc>
-    <date>2025-10-11</date>
-  </programme>
-  <programme channel="400480" start="20251011180000 +0000" stop="20251011201500 +0000">
-    <title lang="zh">Live: UCI Mountain Bike World Series Men</title>
-    <desc>Coverage of the DHI elite final, which takes place at Mont Sainte Anne in Canada.</desc>
-    <date>2025-10-11</date>
-  </programme>
-  <programme channel="400480" start="20251011201500 +0000" stop="20251011203000 +0000">
-    <title lang="zh">MLB Lead Off</title>
-    <desc>A look at the upcoming MLB action.</desc>
-    <date>2025-10-11</date>
-  </programme>
-  <programme channel="400480" start="20251011203000 +0000" stop="20251012000000 +0000">
-    <title lang="zh">Live MLB</title>
-    <desc>Action from MLB Postseason (Start-time TBA).</desc>
-    <date>2025-10-11</date>
-  </programme>
   <programme channel="400480" start="20251012000000 +0000" stop="20251012033000 +0000">
     <title lang="zh">Live MLB</title>
     <desc>Action from MLB Postseason (Start-time TBA).</desc>
@@ -357,9 +262,144 @@
     <desc>Action from the men's race in Zuid-Limburg, Netherlands.</desc>
     <date>2025-10-12</date>
   </programme>
-  <programme channel="400480" start="20251013000000 +0000" stop="20251014000000 +0000">
+  <programme channel="400480" start="20251013000000 +0000" stop="20251013003000 +0000">
     <title lang="zh">UCI Mountain Bike World Series Women</title>
     <desc>Action from the XCO Olympic elite race at Mont Sainte Anne in Canada.</desc>
     <date>2025-10-13</date>
+  </programme>
+  <programme channel="400480" start="20251013003000 +0000" stop="20251013010000 +0000">
+    <title lang="zh">UCI Mountain Bike World Series Men</title>
+    <desc>Action from the XCO Olympic elite race at Mont Sainte Anne in Canada.</desc>
+    <date>2025-10-13</date>
+  </programme>
+  <programme channel="400480" start="20251013010000 +0000" stop="20251013030000 +0000">
+    <title lang="zh">Snooker Xi'an Grand Prix</title>
+    <desc>Action from the sixth day of the tournament.</desc>
+    <date>2025-10-13</date>
+  </programme>
+  <programme channel="400480" start="20251013030000 +0000" stop="20251013033000 +0000">
+    <title lang="zh">UCI Gravel World Championships</title>
+    <desc>Action from the women's race in Zuid-Limburg, Netherlands.</desc>
+    <date>2025-10-13</date>
+  </programme>
+  <programme channel="400480" start="20251013033000 +0000" stop="20251013040000 +0000">
+    <title lang="zh">UCI Gravel World Championships</title>
+    <desc>Action from the men's race in Zuid-Limburg, Netherlands.</desc>
+    <date>2025-10-13</date>
+  </programme>
+  <programme channel="400480" start="20251013040000 +0000" stop="20251013050000 +0000">
+    <title lang="zh">Men's Cycling Pro Series</title>
+    <desc>Action from the 2025 P"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"aris Tours race.</desc>
+    <date>2025-10-13</date>
+  </programme>
+  <programme channel="400480" start="20251013050000 +0000" stop="20251013060000 +0000">
+    <title lang="zh">The Gallagher PREM</title>
+    <desc>Sale Sharks v Newcastle Red Bulls.</desc>
+    <date>2025-10-13</date>
+  </programme>
+  <programme channel="400480" start="20251013060000 +0000" stop="20251013070000 +0000">
+    <title lang="zh">The Gallagher PREM</title>
+    <desc>Bristol Bears v Exeter Chiefs.</desc>
+    <date>2025-10-13</date>
+  </programme>
+  <programme channel="400480" start="20251013070000 +0000" stop="20251013080000 +0000">
+    <title lang="zh">The Gallagher PREM</title>
+    <desc>Northampton Saints v Leicester Tigers.</desc>
+    <date>2025-10-13</date>
+  </programme>
+  <programme channel="400480" start="20251013080000 +0000" stop="20251013090000 +0000">
+    <title lang="zh">The Gallagher PREM</title>
+    <desc>Bath Rugby v Gloucester Rugby.</desc>
+    <date>2025-10-13</date>
+  </programme>
+  <programme channel="400480" start="20251013090000 +0000" stop="20251013100000 +0000">
+    <title lang="zh">The Gallagher PREM</title>
+    <desc>Harlequins v Saracens.</desc>
+    <date>2025-10-13</date>
+  </programme>
+  <programme channel="400480" start="20251013100000 +0000" stop="20251013101500 +0000">
+    <title lang="zh">Playing for Our Future - Football</title>
+    <desc>Asking what the future holds for football in the battle against global warming. Reshmin Chowdhury meets people at all levels to discuss how cricket can be a force for change 2/2.</desc>
+    <date>2025-10-13</date>
+  </programme>
+  <programme channel="400480" start="20251013101500 +0000" stop="20251013120000 +0000">
+    <title lang="zh">Brothers in Football</title>
+    <desc>Commemor"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"ating the centenary of armistice with an inspiring film that tells the story of non-league side Corinthians-Casuals and their links to Brazilian giants Corinthians.</desc>
+    <date>2025-10-13</date>
+  </programme>
+  <programme channel="400480" start="20251013120000 +0000" stop="20251013130000 +0000">
+    <title lang="zh">MLB Highlights</title>
+    <desc>Action from Major League Baseball.</desc>
+    <date>2025-10-13</date>
+  </programme>
+  <programme channel="400480" start="20251013130000 +0000" stop="20251013133000 +0000">
+    <title lang="zh">Superbike World Championship</title>
+    <desc>Action from the first Superbike race at the 11th round of the season, which takes place at Circuito do Estoril in Portugal.</desc>
+    <date>2025-10-13</date>
+  </programme>
+  <programme channel="400480" start="20251013133000 +0000" stop="20251013140000 +0000">
+    <title lang="zh">Superbike World Championship</title>
+    <desc>Action from the Superpole race at the 11th round of the season, which takes place at Circuito do Estoril in Portugal.</desc>
+    <date>2025-10-13</date>
+  </programme>
+  <programme channel="400480" start="20251013140000 +0000" stop="20251013143000 +0000">
+    <title lang="zh">Superbike World Championship</title>
+    <desc>Action from the second Superbike race at the 11th round of the season, which takes place at Circuito do Estoril in Portugal.</desc>
+    <date>2025-10-13</date>
+  </programme>
+  <programme channel="400480" start="20251013143000 +0000" stop="20251013153000 +0000">
+    <title lang="zh">NWSL</title>
+    <desc>Orlando Pride v Portland Thorns.</desc>
+    <date>2025-10-13</date>
+  </programme>
+  <programme channel="400480" start="20251013153000 +0000" stop="20251013163000 +0000">
+    <title lang="zh">NWSL</title>
+    <desc>Kansas City Current v NJ/NY Gotham FC.</desc>
+    <date>2025-10-13</date>
+  </programme>
+  <programme channel="400480" start="20251013163000 +0000" stop="20251013164500 +0000">
+    <title lang="zh">The Gallagher PREM - The Wrap Up</title>
+    <desc>Action from week three of the 2025/26 season, featuring Sale Sharks v Newcastle Red Bulls, Bristol Bears v Exeter Chiefs, Harlequins v Saracens, and Bath Rugby v Gloucester Rugby.</desc>
+    <date>2025-10-13</date>
+  </programme>
+  <programme channel="400480" start="20251013164500 +0000" stop="20251013174500 +0000">
+    <title lang="zh">FIA Extreme H World Cup Highlights</title>
+    <desc>Action from the 2025 Extreme H World Cup.</desc>
+    <date>2025-10-13</date>
+  </programme>
+  <programme channel="400480" start="20251013174500 +0000" stop="20251013184500 +0000">
+    <title lang="zh">Superbike World Championship Highlights</title>
+    <desc>Action from the 11th round of the season in Estoril.</desc>
+    <date>2025-10-13</date>
+  </programme>
+  <programme channel="400480" start="20251013184500 +0000" stop="20251013190000 +0000">
+    <title lang="zh">The Gruppetto</title>
+    <desc>A look back at the latest cycling action.</desc>
+    <date>2025-10-13</date>
+  </programme>
+  <programme channel="400480" start="20251013190000 +0000" stop="20251013200000 +0000">
+    <title lang="zh">MLB Highlights</title>
+    <desc>Action from Major League Baseball.</desc>
+    <date>2025-10-13</date>
+  </programme>
+  <programme channel="400480" start="20251013200000 +0000" stop="20251013231500 +0000">
+    <title lang="zh">Live MLB</title>
+    <desc>Action from MLB Postseason (Start-time TBA).</desc>
+    <date>2025-10-13</date>
+  </programme>
+  <programme channel="400480" start="20251013231500 +0000" stop="20251013233000 +0000">
+    <title lang="zh">Training Day</title>
+    <desc>Kenny Allstar and Stillryan join forces to take on the world of baseball.</desc>
+    <date>2025-10-13</date>
+  </programme>
+  <programme channel="400480" start="20251013233000 +0000" stop="20251014000000 +0000">
+    <title lang="zh">UEFA Champions League - Stories of the Finals</title>
+    <desc>We turn back the clock to 1997 and Borussia Dortmund's historic victory against Juventus. Plus, a look back at the 2016 final between Real Madrid and Atletico.</desc>
+    <date>2025-10-13</date>
+  </programme>
+  <programme channel="400480" start="20251014000000 +0000" stop="20251015000000 +0000">
+    <title lang="zh">NWSL</title>
+    <desc>Orlando Pride v Portland Thorns.</desc>
+    <date>2025-10-14</date>
   </programme>
 </tv>
