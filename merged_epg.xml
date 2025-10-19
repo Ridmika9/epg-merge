@@ -3,81 +3,6 @@
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 1 HD</display-name>
     <icon src="" />
   </channel>
-  <programme channel="400477" start="20251018000000 +0000" stop="20251018033000 +0000">
-    <title lang="zh">Live MLB</title>
-    <desc>Action from MLB Postseason (Start-time TBA).</desc>
-    <date>2025-10-18</date>
-  </programme>
-  <programme channel="400477" start="20251018033000 +0000" stop="20251018040000 +0000">
-    <title lang="zh">MLB Closer</title>
-    <desc>A look back at the best action from the MLB.</desc>
-    <date>2025-10-18</date>
-  </programme>
-  <programme channel="400477" start="20251018040000 +0000" stop="20251018043000 +0000">
-    <title lang="zh">MLB: Off the Bat</title>
-    <desc>All the latest action from Major League Baseball wrapped up.</desc>
-    <date>2025-10-18</date>
-  </programme>
-  <programme channel="400477" start="20251018043000 +0000" stop="20251018050000 +0000">
-    <title lang="zh">World Rally Championship</title>
-    <desc>Action from the first day of the Central European Rally.</desc>
-    <date>2025-10-18</date>
-  </programme>
-  <programme channel="400477" start="20251018050000 +0000" stop="20251018051500 +0000">
-    <title lang="zh">TNT Sports Reload</title>
-    <desc>The best bits from TNT Sports over the last week, including exclu"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"sive interviews, the best action and so much more.</desc>
-    <date>2025-10-18</date>
-  </programme>
-  <programme channel="400477" start="20251018051500 +0000" stop="20251018053000 +0000">
-    <title lang="zh">TNT Sports Cricket Reload</title>
-    <desc>A look back at New Zealand v Australia in the first T20 of the series.</desc>
-    <date>2025-10-18</date>
-  </programme>
-  <programme channel="400477" start="20251018053000 +0000" stop="20251018060000 +0000">
-    <title lang="zh">TNT Sports Cricket Reload</title>
-    <desc>A look back at New Zealand v Australia in the second T20 of the series.</desc>
-    <date>2025-10-18</date>
-  </programme>
-  <programme channel="400477" start="20251018060000 +0000" stop="20251018100000 +0000">
-    <title lang="zh">Live International T20 Cricket</title>
-    <desc>New Zealand v England. Coverage of the first T20 in the three-match series from Hagley Oval in Christchurch. The hosts haven't beaten England in a T20 series since 2013 when they won a two-match contest 1-0 thanks to a tight five-run victory at the Oval. Since then the visitors have gone unbeaten in the last three series including a 3-2 victory in New Zealand in 2019.</desc>
-    <date>2025-10-18</date>
-  </programme>
-  <programme channel="400477" start="20251018100000 +0000" stop="20251018140000 +0000">
-    <title lang="zh">Live Premier League</title>
-    <desc>Nottingham Forest v Chels"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"ea (Kick-off 12.30pm). Coverage of the top-flight match from The City Ground. The last time these two sides met was on the final day of last season at this ground, as Chelsea claimed a 1-0 victory to finish in the Champions League places. The defeat meant that Forest finished seventh and in the Conference League position, although</desc>
-    <date>2025-10-18</date>
-  </programme>
-  <programme channel="400477" start="20251018140000 +0000" stop="20251018161500 +0000">
-    <title lang="zh">Live: The Gallagher PREM</title>
-    <desc>Leicester Tigers v Bath Rugby (Kick-off 3.05pm)).</desc>
-    <date>2025-10-18</date>
-  </programme>
-  <programme channel="400477" start="20251018161500 +0000" stop="20251018184500 +0000">
-    <title lang="zh">Live: The Gallagher PREM</title>
-    <desc>Saracens v Sale Sharks (Kick-off 5.30pm)).</desc>
-    <date>2025-10-18</date>
-  </programme>
-  <programme channel="400477" start="20251018184500 +0000" stop="20251018204500 +0000">
-    <title lang="zh">Live: Serie A</title>
-    <desc>AS Roma v Inter Milan (Kick-off 7.45pm). Coverage of the Italian top-flight match from Stadio "])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"Olimpico.</desc>
-    <date>2025-10-18</date>
-  </programme>
-  <programme channel="400477" start="20251018204500 +0000" stop="20251018210000 +0000">
-    <title lang="zh">TNT Sports Reload</title>
-    <desc>The best bits from TNT Sports over the last week, including excl"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"usive interviews, the best action and so much more.</desc>
-    <date>2025-10-18</date>
-  </programme>
-  <programme channel="400477" start="20251018210000 +0000" stop="20251018230000 +0000">
-    <title lang="zh">Live UFC</title>
-    <desc>Coverage of the preliminary bouts from UFC Fight Night, which takes place at Rogers Arena in Vancouver, Canada.</desc>
-    <date>2025-10-18</date>
-  </programme>
-  <programme channel="400477" start="20251018230000 +0000" stop="20251019000000 +0000">
-    <title lang="zh">Live UFC</title>
-    <desc>Reinier de Ridder v Brendan Allen. Coverage of the middleweight bout from Rogers Arena in Vancouver, Canada, plus the undercard.</desc>
-    <date>2025-10-18</date>
-  </programme>
   <programme channel="400477" start="20251019023000 +0000" stop="20251019033000 +0000">
     <title lang="zh">The Gallagher PREM</title>
     <desc>Saracens v Sale Sharks.</desc>
@@ -148,130 +73,115 @@
     <desc>Action from Major League Baseball.</desc>
     <date>2025-10-19</date>
   </programme>
-  <programme channel="400477" start="20251020000000 +0000" stop="20251021000000 +0000">
+  <programme channel="400477" start="20251020000000 +0000" stop="20251020033000 +0000">
     <title lang="zh">Live MLB</title>
     <desc>Action from MLB Postseason (Start-time TBA).</desc>
+    <date>2025-10-20</date>
+  </programme>
+  <programme channel="400477" start="20251020033000 +0000" stop="20251020034500 +0000">
+    <title lang="zh">TNT Sports Cricket Reload</title>
+    <desc>A look back at New Zealand v Australia in the second T20 of the series.</desc>
+    <date>2025-10-20</date>
+  </programme>
+  <programme channel="400477" start="20251020034500 +0000" stop="20251020040000 +0000">
+    <title lang="zh">TNT Sports Cricket Reload</title>
+    <desc>A look back at New Zealand v Australia in the third and final T20 of the series.</desc>
+    <date>2025-10-20</date>
+  </programme>
+  <programme channel="400477" start="20251020040000 +0000" stop="20251020050000 +0000">
+    <title lang="zh">One Day International Cricket</title>
+    <desc>Australia v India).</desc>
+    <date>2025-10-20</date>
+  </programme>
+  <programme channel="400477" start="20251020050000 +0000" stop="20251020060000 +0000">
+    <title lang="zh">International T20 Cricket Highlights</title>
+    <desc>New Zealand v England. Action from the first T20 in the three-match series from Hagley Oval in Christchurch.</desc>
+    <date>2025-10-20</date>
+  </programme>
+  <programme channel="400477" start="20251020060000 +0000" stop="20251020100000 +0000">
+    <title lang="zh">Live International T20 Cricket</title>
+    <desc>New Zealand v England. Coverage of the second T20 in the three-match series from Hagley Oval in Christchurch. The last time these two sides met in a T20 series was in England in 2023, when a four-match contest finished 2-2. England went 2-0 up in the series before two impressive New Zealand victories in Birmingham and Nottingham saw them square the series.</desc>
+    <date>2025-10-20</date>
+  </programme>
+  <programme channel="400477" start="20251020100000 +0000" stop="20251020101500 +0000">
+    <title lang="zh">TNT Sports Cricket Reload</title>
+    <desc>A look back at Ireland v England in the first T20 in the three-match series.</desc>
+    <date>2025-10-20</date>
+  </programme>
+  <programme channel="400477" start="20251020101500 +0000" stop="20251020103000 +0000">
+    <title lang="zh">TNT Sports Cricket Reload</title>
+    <desc>A look back at Ireland v England in the third and final T20 in the series.</desc>
+    <date>2025-10-20</date>
+  </programme>
+  <programme channel="400477" start="20251020103000 +0000" stop="20251020110000 +0000">
+    <title lang="zh">Premier League Stories</title>
+    <desc>An interview with Ev"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"erton legend Duncan Ferguson.</desc>
+    <date>2025-10-20</date>
+  </programme>
+  <programme channel="400477" start="20251020110000 +0000" stop="20251020120000 +0000">
+    <title lang="zh">UEFA Europa League &amp; Conference League Magazine</title>
+    <desc>A round-up of all the latest action and stories.</desc>
+    <date>2025-10-20</date>
+  </programme>
+  <programme channel="400477" start="20251020120000 +0000" stop="20251020140000 +0000">
+    <title lang="zh">Live: Northern Ireland Open Snooker</title>
+    <desc>Coverage of the fifth session from the first round of the tournament, which takes place at Waterfront Hall in Belfast. The previous two winners of this event have been English with Kyren Wilson and Judd Trump both succeeding in the last two years. Wilson beat Trump 9-3 in last year's final to claim his first ever title in this competition, whilst also stopping Trump earning his fifth victory here </desc>
+    <date>2025-10-20</date>
+  </programme>
+  <programme channel="400477" start="20251020140000 +0000" stop="20251020160000 +0000">
+    <title lang="zh">Live: Northern Ireland Open Snooker</title>
+    <desc>Coverage of the sixth session from the first round of the tournament, which takes place at Waterfront Hall in Belfast. Mark Allen is the only Northern Irishman to win this event after his successes in 2021 and 2022, while the other winners have come from England and Wales.</desc>
+    <date>2025-10-20</date>
+  </programme>
+  <programme channel="400477" start="20251020160000 +0000" stop="20251020163000 +0000">
+    <title lang="zh">Golden Trail World Series</title>
+    <desc>Action from the Grand Finale of the Golden Trail World Series, as the runners tackle a relentless 21km course in the Ledro Valley, Italy.</desc>
+    <date>2025-10-20</date>
+  </programme>
+  <programme channel="400477" start="20251020163000 +0000" stop="20251020170000 +0000">
+    <title lang="zh">Tom Aspinall's Fight Lab</title>
+    <desc>A look "])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"ahead to UFC 321 at Etihad Arena in Abu Dhabi.</desc>
+    <date>2025-10-20</date>
+  </programme>
+  <programme channel="400477" start="20251020170000 +0000" stop="20251020180000 +0000">
+    <title lang="zh">One Day International Cricket</title>
+    <desc>Australia v India).</desc>
+    <date>2025-10-20</date>
+  </programme>
+  <programme channel="400477" start="20251020180000 +0000" stop="20251020190000 +0000">
+    <title lang="zh">International T20 Cricket Highlights</title>
+    <desc>New Zealand v England. Action from the second T20 in the three-match series from Hagley Oval in Christchurch.</desc>
+    <date>2025-10-20</date>
+  </programme>
+  <programme channel="400477" start="20251020190000 +0000" stop="20251020193000 +0000">
+    <title lang="zh">UEFA Champions League Magazine</title>
+    <desc>The latest news and updates from Europe's premier club football competition.</desc>
+    <date>2025-10-20</date>
+  </programme>
+  <programme channel="400477" start="20251020193000 +0000" stop="20251020200000 +0000">
+    <title lang="zh">MLB: Off the Bat</title>
+    <desc>All the latest action from Major League Baseball wrapped up.</desc>
+    <date>2025-10-20</date>
+  </programme>
+  <programme channel="400477" start="20251020200000 +0000" stop="20251020203000 +0000">
+    <title lang="zh">MLB Highlights</title>
+    <desc>Action from Major League Baseball.</desc>
+    <date>2025-10-20</date>
+  </programme>
+  <programme channel="400477" start="20251020203000 +0000" stop="20251020210000 +0000">
+    <title lang="zh">MLB Lead Off</title>
+    <desc>A look at the upcoming MLB action.</desc>
+    <date>2025-10-20</date>
+  </programme>
+  <programme channel="400477" start="20251020210000 +0000" stop="20251021000000 +0000">
+    <title lang="zh">Live MLB</title>
+    <desc>Milwaukee Brewers v Los Angeles Dodgers (Start-time 10.08pm). Coverage of game six of the National League Champi"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"onship Series from American Family Field.</desc>
     <date>2025-10-20</date>
   </programme>
 <channel id="400480">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 2 HD</display-name>
     <icon src="" />
   </channel>
-  <programme channel="400480" start="20251018014500 +0000" stop="20251018034500 +0000">
-    <title lang="zh">Live MotoGP</title>
-    <desc>The Grand Prix of Australia Moto2 and Moto3 qualifying sessio"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"ns (Start-time 2.50am). Coverage from the 19th round of the season at Phillip Island Grand Prix Circuit.</desc>
-    <date>2025-10-18</date>
-  </programme>
-  <programme channel="400480" start="20251018034500 +0000" stop="20251018044500 +0000">
-    <title lang="zh">Live MotoGP</title>
-    <desc>The Grand Prix of Australia MotoGP sprint race (Start-time 5.00am). Coverage fr"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"om the 19th round of the season at Phillip Island Grand Prix Circuit.</desc>
-    <date>2025-10-18</date>
-  </programme>
-  <programme channel="400480" start="20251018044500 +0000" stop="20251018050000 +0000">
-    <title lang="zh">MotoGP Rewind</title>
-    <desc>A look back at the best of the action from 2024 Grand Prix of Australia.</desc>
-    <date>2025-10-18</date>
-  </programme>
-  <programme channel="400480" start="20251018050000 +0000" stop="20251018070000 +0000">
-    <title lang="zh">Live: Men's Cycling World Tour</title>
-    <desc>Coverage of the fifth stage of the Tour of Guangxi.</desc>
-    <date>2025-10-18</date>
-  </programme>
-  <programme channel="400480" start="20251018070000 +0000" stop="20251018073000 +0000">
-    <title lang="zh">Live: Superbike World Championship</title>
-    <desc>Coverage of the Superbike third free practice session from Circuito de Jerez in Spain, where the 12th round of the season takes place.</desc>
-    <date>2025-10-18</date>
-  </programme>
-  <programme channel="400480" start="20251018073000 +0000" stop="20251018080000 +0000">
-    <title lang="zh">The Fantasy Show</title>
-    <desc>Insight and tips ahead of gameweek eight of t"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"he 2025/26 Premier League season.</desc>
-    <date>2025-10-18</date>
-  </programme>
-  <programme channel="400480" start="20251018080000 +0000" stop="20251018083000 +0000">
-    <title lang="zh">Premier League Preview</title>
-    <desc>A look ahead to matchday eight of the top flight, including Nottingham Forest v Chelsea, Liverpool v Manchester United, and Tottenham Hotspur v Aston Villa.</desc>
-    <date>2025-10-18</date>
-  </programme>
-  <programme channel="400480" start="20251018083000 +0000" stop="20251018093000 +0000">
-    <title lang="zh">Live: Superbike World Championship</title>
-    <desc>Coverage of the Superbike Superpole session from Circuito de Jerez in Spain, where the 12th round of the season takes place.</desc>
-    <date>2025-10-18</date>
-  </programme>
-  <programme channel="400480" start="20251018093000 +0000" stop="20251018103000 +0000">
-    <title lang="zh">Live: Women's Circuit Racing World Championship</title>
-    <desc>Coverage of the first race from Circuito de Jerez in Spain, where the sixth round of the season takes place.</desc>
-    <date>2025-10-18</date>
-  </programme>
-  <programme channel="400480" start="20251018103000 +0000" stop="20251018113000 +0000">
-    <title lang="zh">Live: Superbike World Championship</title>
-    <desc>Coverage of the Supersport 300 first race from Circuito de Jerez in Spain, where the 12th round of the season takes place.</desc>
-    <date>2025-10-18</date>
-  </programme>
-  <programme channel="400480" start="20251018113000 +0000" stop="20251018130000 +0000">
-    <title lang="zh">Live: Superbike World Championship</title>
-    <desc>Coverage of the Superbike first race from Circuito de Jerez in Spain, where the 12th round of the season takes place.</desc>
-    <date>2025-10-18</date>
-  </programme>
-  <programme channel="400480" start="20251018130000 +0000" stop="20251018134500 +0000">
-    <title lang="zh">Live: Superbike World Championship</title>
-    <desc>Coverage of the Supersport first race from Circuito de Jerez in Spain, where the 12th round of the season takes place.</desc>
-    <date>2025-10-18</date>
-  </programme>
-  <programme channel="400480" start="20251018134500 +0000" stop="20251018141500 +0000">
-    <title lang="zh">Xtra Time</title>
-    <desc>Post-match reaction and analysis from the Premier League clash between Nottingham Forest and Chelsea at the City Ground.</desc>
-    <date>2025-10-18</date>
-  </programme>
-  <programme channel="400480" start="20251018141500 +0000" stop="20251018161500 +0000">
-    <title lang="zh">Live: British Superbikes</title>
-    <desc>Coverage of the first day of the 11th round of the season, which takes place at Brands Hatch in Kent.</desc>
-    <date>2025-10-18</date>
-  </programme>
-  <programme channel="400480" start="20251018161500 +0000" stop="20251018180000 +0000">
-    <title lang="zh">Live World Rally Championship</title>
-    <desc>The 2025 Central European Rally. Coverage of special stage 14 from the 12th round of the season, which takes place in Germany, Austria and Czechia.</desc>
-    <date>2025-10-18</date>
-  </programme>
-  <programme channel="400480" start="20251018180000 +0000" stop="20251018190000 +0000">
-    <title lang="zh">International T20 Cricket Highlights</title>
-    <desc>New Zealand v England. Action from the first T20 in the three-match series from Hagley Oval in Christchurch.</desc>
-    <date>2025-10-18</date>
-  </programme>
-  <programme channel="400480" start="20251018190000 +0000" stop="20251018200000 +0000">
-    <title lang="zh">MLB Highlights</title>
-    <desc>Action from Major League Baseball.</desc>
-    <date>2025-10-18</date>
-  </programme>
-  <programme channel="400480" start="20251018200000 +0000" stop="20251018210000 +0000">
-    <title lang="zh">Tom Aspinall: Road To Undisputed</title>
-    <desc>A look at the story of UFC fighter Tom Aspinall.</desc>
-    <date>2025-10-18</date>
-  </programme>
-  <programme channel="400480" start="20251018210000 +0000" stop="20251018213000 +0000">
-    <title lang="zh">Superbike World Championship</title>
-    <desc>Action from the first Superbike race from the 12th round of the season, which takes place at Circuito de Jerez in Spain.</desc>
-    <date>2025-10-18</date>
-  </programme>
-  <programme channel="400480" start="20251018213000 +0000" stop="20251018220000 +0000">
-    <title lang="zh">British Superbikes</title>
-    <desc>Action from the first race at Brands Hatch in Kent\","])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"\"genre\":\"Motorcycling.</desc>
-    <date>2025-10-18</date>
-  </programme>
-  <programme channel="400480" start="20251018220000 +0000" stop="20251018223000 +0000">
-    <title lang="zh">MotoGP</title>
-    <desc>Action from the 2025 Grand Prix of Australia sprint race.</desc>
-    <date>2025-10-18</date>
-  </programme>
-  <programme channel="400480" start="20251018223000 +0000" stop="20251018230000 +0000">
-    <title lang="zh">Live MotoGP</title>
-    <desc>The Grand Prix of Australia MotoGP warm-up session. Coverage from the 19th round of the seaso"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"n at Phillip Island Grand Prix Circuit.</desc>
-    <date>2025-10-18</date>
-  </programme>
-  <programme channel="400480" start="20251018230000 +0000" stop="20251019000000 +0000">
-    <title lang="zh">Live MotoGP</title>
-    <desc>The Grand Prix of Australia Moto3 race (Start-time 1.00am). Coverage from the 19th roun"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"d of the season at Phillip Island Grand Prix Circuit.</desc>
-    <date>2025-10-18</date>
-  </programme>
   <programme channel="400480" start="20251019010000 +0000" stop="20251019021500 +0000">
     <title lang="zh">Live MotoGP</title>
     <desc>The Grand Prix of Australia Moto2 race (Start-time 2.15am). Coverage from the 19th round "])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"of the season at Phillip Island Grand Prix Circuit.</desc>
@@ -372,9 +282,114 @@
     <desc>Exeter Chiefs v Harlequins.</desc>
     <date>2025-10-19</date>
   </programme>
-  <programme channel="400480" start="20251020000000 +0000" stop="20251021000000 +0000">
+  <programme channel="400480" start="20251020000000 +0000" stop="20251020010000 +0000">
     <title lang="zh">Serie A</title>
     <desc>AC Milan v Fiorentina.</desc>
     <date>2025-10-20</date>
+  </programme>
+  <programme channel="400480" start="20251020010000 +0000" stop="20251020020000 +0000">
+    <title lang="zh">Ref: Stories from the Weekend</title>
+    <desc>An in-depth look at the world of referees, contrasting those at the elite level to the men and women doing the job at different levels of the game.</desc>
+    <date>2025-10-20</date>
+  </programme>
+  <programme channel="400480" start="20251020020000 +0000" stop="20251020040000 +0000">
+    <title lang="zh">Northern Ireland Open Snooker</title>
+    <desc>Action from the first day of the tournament.</desc>
+    <date>2025-10-20</date>
+  </programme>
+  <programme channel="400480" start="20251020040000 +0000" stop="20251020043000 +0000">
+    <title lang="zh">World Rally Championship</title>
+    <desc>Action from the third day of the Central European Rally.</desc>
+    <date>2025-10-20</date>
+  </programme>
+  <programme channel="400480" start="20251020043000 +0000" stop="20251020050000 +0000">
+    <title lang="zh">Formula E Unplugged</title>
+    <desc>A look at the career of Lucas Di Grassi.</desc>
+    <date>2025-10-20</date>
+  </programme>
+  <programme channel="400480" start="20251020050000 +0000" stop="20251020060000 +0000">
+    <title lang="zh">MotoGP</title>
+    <desc>Action from the 2025 Moto3 Grand Prix of Australia.</desc>
+    <date>2025-10-20</date>
+  </programme>
+  <programme channel="400480" start="20251020060000 +0000" stop="20251020070000 +0000">
+    <title lang="zh">MotoGP</title>
+    <desc>Action from the 2025 Moto2 Grand Prix of Australia.</desc>
+    <date>2025-10-20</date>
+  </programme>
+  <programme channel="400480" start="20251020070000 +0000" stop="20251020073000 +0000">
+    <title lang="zh">MotoGP</title>
+    <desc>Action from the 2025 Grand Prix of Australia sprint race.</desc>
+    <date>2025-10-20</date>
+  </programme>
+  <programme channel="400480" start="20251020073000 +0000" stop="20251020083000 +0000">
+    <title lang="zh">MotoGP</title>
+    <desc>Action from the 2025 MotoGP Grand Prix of Australia.</desc>
+    <date>2025-10-20</date>
+  </programme>
+  <programme channel="400480" start="20251020083000 +0000" stop="20251020093000 +0000">
+    <title lang="zh">MotoGP Chequered Flag</title>
+    <desc>Post-race show featuring analysis, highlights and interviews with all the key riders).</desc>
+    <date>2025-10-20</date>
+  </programme>
+  <programme channel="400480" start="20251020093000 +0000" stop="20251020100000 +0000">
+    <title lang="zh">UEFA Champions League Magazine</title>
+    <desc>The latest news and updates from Europe's premier club football competition.</desc>
+    <date>2025-10-20</date>
+  </programme>
+  <programme channel="400480" start="20251020100000 +0000" stop="20251020120000 +0000">
+    <title lang="zh">Northern Ireland Open Snooker</title>
+    <desc>Action from the first day of the tournament.</desc>
+    <date>2025-10-20</date>
+  </programme>
+  <programme channel="400480" start="20251020120000 +0000" stop="20251020140000 +0000">
+    <title lang="zh">Live: Northern Ireland Open Snooker</title>
+    <desc>Coverage of the fifth session from the first round of the tournament, which takes place at Waterfront Hall in Belfast. The previous two winners of this event have been English with Kyren Wilson and Judd Trump both succeeding in the last two years. Wilson beat Trump 9-3 in last year's final to claim his first ever title in this competition, whilst also stopping Trump earning his fifth victory here </desc>
+    <date>2025-10-20</date>
+  </programme>
+  <programme channel="400480" start="20251020140000 +0000" stop="20251020160000 +0000">
+    <title lang="zh">Live: Northern Ireland Open Snooker</title>
+    <desc>Coverage of the sixth session from the first round of the tournament, which takes place at Waterfront Hall in Belfast. Mark Allen is the only Northern Irishman to win this event after his successes in 2021 and 2022, while the other winners have come from England and Wales.</desc>
+    <date>2025-10-20</date>
+  </programme>
+  <programme channel="400480" start="20251020160000 +0000" stop="20251020163000 +0000">
+    <title lang="zh">UEFA Champions League Magazine</title>
+    <desc>The latest news and updates from Europe's premier club football competition.</desc>
+    <date>2025-10-20</date>
+  </programme>
+  <programme channel="400480" start="20251020163000 +0000" stop="20251020170000 +0000">
+    <title lang="zh">Premier League - The Big Interview</title>
+    <desc>With former Arsenal and Manchester City forward Emmanuel Adebayor.</desc>
+    <date>2025-10-20</date>
+  </programme>
+  <programme channel="400480" start="20251020170000 +0000" stop="20251020180000 +0000">
+    <title lang="zh">Longines Global Champions Tour</title>
+    <desc>Action from the Grand Prix of Rabat.</desc>
+    <date>2025-10-20</date>
+  </programme>
+  <programme channel="400480" start="20251020180000 +0000" stop="20251020200000 +0000">
+    <title lang="zh">Live: Northern Ireland Open Snooker</title>
+    <desc>Further coverage of the sixth session from the first round of the tournament, which takes place at Waterfront Hall in Belfast.</desc>
+    <date>2025-10-20</date>
+  </programme>
+  <programme channel="400480" start="20251020200000 +0000" stop="20251020220100 +0000">
+    <title lang="zh">Live: Northern Ireland Open Snooker</title>
+    <desc>Coverage of the eighth session from the first round of the tournament, which takes place at Waterfront Hall in Belfast. England's Judd Trump is the most successful player at this event having won the title on four separate occasions. He also won three years in a row between 2018 and 2020, and last won here in 2023.</desc>
+    <date>2025-10-20</date>
+  </programme>
+  <programme channel="400480" start="20251020220100 +0000" stop="20251020230000 +0000">
+    <title lang="zh">NWSL</title>
+    <desc>Washington Spirit v Orlando Pride.</desc>
+    <date>2025-10-20</date>
+  </programme>
+  <programme channel="400480" start="20251020230000 +0000" stop="20251021000000 +0000">
+    <title lang="zh">NWSL</title>
+    <desc>Angel City FC v Portland Thorns.</desc>
+    <date>2025-10-20</date>
+  </programme>
+  <programme channel="400480" start="20251021000000 +0000" stop="20251022000000 +0000">
+    <title lang="zh">Live MLB</title>
+    <desc>Toronto Blue Jays v Seattle Mariners (Start-time 1.08am). Coverage of game seven of the American League Championship"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1," Series from Rogers Centre.</desc>
+    <date>2025-10-21</date>
   </programme>
 </tv>
