@@ -3,81 +3,6 @@
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 1 HD</display-name>
     <icon src="" />
   </channel>
-  <programme channel="400477" start="20251023000000 +0000" stop="20251023010000 +0000">
-    <title lang="zh">The Gallagher PREM</title>
-    <desc>Gloucester Rugby v Bristol Bears.</desc>
-    <date>2025-10-23</date>
-  </programme>
-  <programme channel="400477" start="20251023010000 +0000" stop="20251023020000 +0000">
-    <title lang="zh">The Gallagher PREM</title>
-    <desc>Newcastle Red Bulls v Northampton Saints.</desc>
-    <date>2025-10-23</date>
-  </programme>
-  <programme channel="400477" start="20251023020000 +0000" stop="20251023030000 +0000">
-    <title lang="zh">The Gallagher PREM</title>
-    <desc>Leicester Tigers v Bath Rugby.</desc>
-    <date>2025-10-23</date>
-  </programme>
-  <programme channel="400477" start="20251023030000 +0000" stop="20251023040000 +0000">
-    <title lang="zh">The Gallagher PREM</title>
-    <desc>Saracens v Sale Sharks.</desc>
-    <date>2025-10-23</date>
-  </programme>
-  <programme channel="400477" start="20251023040000 +0000" stop="20251023050000 +0000">
-    <title lang="zh">The Gallagher PREM</title>
-    <desc>Exeter Chiefs v Harlequins.</desc>
-    <date>2025-10-23</date>
-  </programme>
-  <programme channel="400477" start="20251023050000 +0000" stop="20251023060000 +0000">
-    <title lang="zh">International T20 Cricket Highlights</title>
-    <desc>New Zealand v England. Action from the second T20 in the three-match series from Hagley Oval in Christchurch.</desc>
-    <date>2025-10-23</date>
-  </programme>
-  <programme channel="400477" start="20251023060000 +0000" stop="20251023100000 +0000">
-    <title lang="zh">Live International T20 Cricket</title>
-    <desc>New Zealand v England. Coverage of the third and final T20 in the series from Eden Park in Auckland. The visitors will be looking to claim their first series victory over their hosts since a 3-2 victory back in November 2019. England won the first contest before New Zealand fought back to go 2-1 up in the series, then the visitors took the final two matches, including a Super Over win in the last </desc>
-    <date>2025-10-23</date>
-  </programme>
-  <programme channel="400477" start="20251023100000 +0000" stop="20251023123000 +0000">
-    <title lang="zh">Live: One Day International Cricket</title>
-    <desc>Australia v India. Coverage of the second ODI in the three-match series from Adelaide Oval.</desc>
-    <date>2025-10-23</date>
-  </programme>
-  <programme channel="400477" start="20251023123000 +0000" stop="20251023160000 +0000">
-    <title lang="zh">Live: Northern Ireland Open Snooker</title>
-    <desc>Coverage of the second session from the third round of the tournament, which takes place at Waterfront Hall in Belfast.</desc>
-    <date>2025-10-23</date>
-  </programme>
-  <programme channel="400477" start="20251023160000 +0000" stop="20251023163000 +0000">
-    <title lang="zh">Premier League Stories</title>
-    <desc>A look at the rise of one of Italy's most gifted midfielders, Sandro Tonali).</desc>
-    <date>2025-10-23</date>
-  </programme>
-  <programme channel="400477" start="20251023163000 +0000" stop="20251023184500 +0000">
-    <title lang="zh">Live UEFA Europa League</title>
-    <desc>Go Ahead Eagles v Aston Villa (Kick-off 5.45pm)).</desc>
-    <date>2025-10-23</date>
-  </programme>
-  <programme channel="400477" start="20251023184500 +0000" stop="20251023213000 +0000">
-    <title lang="zh">Live UEFA Europa League</title>
-    <desc>Nottingham Forest v FC Porto (Kick-off 8.00pm)).</desc>
-    <date>2025-10-23</date>
-  </programme>
-  <programme channel="400477" start="20251023213000 +0000" stop="20251023221500 +0000">
-    <title lang="zh">UEFA Europa &amp; Conference League Highlights</title>
-    <desc>All the action from matchday three of the Europa League and matchday two of the Conference League.</desc>
-    <date>2025-10-23</date>
-  </programme>
-  <programme channel="400477" start="20251023221500 +0000" stop="20251023231500 +0000">
-    <title lang="zh">Tom Aspinall: Road To Undisputed</title>
-    <desc>A look at the story of UFC fighter Tom Aspinall.</desc>
-    <date>2025-10-23</date>
-  </programme>
-  <programme channel="400477" start="20251023231500 +0000" stop="20251024000000 +0000">
-    <title lang="zh">Fight Week</title>
-    <desc>A preview of UFC 321 at Etihad Arena in Abu Dhabi.</desc>
-    <date>2025-10-23</date>
-  </programme>
   <programme channel="400477" start="20251024000000 +0000" stop="20251024003000 +0000">
     <title lang="zh">Tom Aspinall's Fight Lab</title>
     <desc>A look "])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"ahead to UFC 321 at Etihad Arena in Abu Dhabi.</desc>
@@ -182,6 +107,86 @@
     <title lang="zh">Live MLB</title>
     <desc>Coverage of game one of the World Series (Start-time TBA).</desc>
     <date>2025-10-24</date>
+  </programme>
+  <programme channel="400477" start="20251025033000 +0000" stop="20251025040000 +0000">
+    <title lang="zh">Premier League Preview</title>
+    <desc>A look ahead to matchday nine in the top flight, including Manchester United v Brighton \u0026 Hove Albion, Brentford v Liverpool and Arsenal v Crystal Palace.</desc>
+    <date>2025-10-25</date>
+  </programme>
+  <programme channel="400477" start="20251025040000 +0000" stop="20251025060000 +0000">
+    <title lang="zh">Live: Isuzu UTE A-League</title>
+    <desc>Auckland FC v Western Sydney Wanderers (Kick-off 5.00am). Coverage of the Australian top-flight match from Go Media Stadium in Auckland.</desc>
+    <date>2025-10-25</date>
+  </programme>
+  <programme channel="400477" start="20251025060000 +0000" stop="20251025080000 +0000">
+    <title lang="zh">Live: Isuzu UTE A-League</title>
+    <desc>Melbourne City v Perth Glory (Kick-off 7.00am)).</desc>
+    <date>2025-10-25</date>
+  </programme>
+  <programme channel="400477" start="20251025080000 +0000" stop="20251025083000 +0000">
+    <title lang="zh">Premier League Preview</title>
+    <desc>A look ahead to matchday nine in the top flight, including Manchester United v Brighton \u0026 Hove Albion, Brentford v Liverpool and Arsenal v Crystal Palace.</desc>
+    <date>2025-10-25</date>
+  </programme>
+  <programme channel="400477" start="20251025083000 +0000" stop="20251025103000 +0000">
+    <title lang="zh">Live: Isuzu UTE A-League</title>
+    <desc>Sydney FC v Central Coast Mariners (Kick-off 9.35am). Coverage of the Australian top-flight match from Leichhardt Oval in Lilyfield, New South Wales.</desc>
+    <date>2025-10-25</date>
+  </programme>
+  <programme channel="400477" start="20251025103000 +0000" stop="20251025110000 +0000">
+    <title lang="zh">The Breakdown</title>
+    <desc>The TNT Sports pundits take an analytical look at some of the world's best strikers.</desc>
+    <date>2025-10-25</date>
+  </programme>
+  <programme channel="400477" start="20251025110000 +0000" stop="20251025133000 +0000">
+    <title lang="zh">Live: Adobe Women's FA Cup</title>
+    <desc>Middlesbrough Women v Cheadle Town Stingers WFC (Kick-off 12.15pm). Coverage of the first-round match from The Map Group UK Stadium.</desc>
+    <date>2025-10-25</date>
+  </programme>
+  <programme channel="400477" start="20251025133000 +0000" stop="20251025161500 +0000">
+    <title lang="zh">Live: The Gallagher PREM</title>
+    <desc>Bath Rugby v Bristol Bears (Kick-off 3.05pm)).</desc>
+    <date>2025-10-25</date>
+  </programme>
+  <programme channel="400477" start="20251025161500 +0000" stop="20251025180000 +0000">
+    <title lang="zh">Live: Serie A</title>
+    <desc>Napoli v Inter Milan. Coverage of the Italian top-flight match from Stadio Diego Armando Maradona, joining the ac"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"tion 15 minutes after kick-off.</desc>
+    <date>2025-10-25</date>
+  </programme>
+  <programme channel="400477" start="20251025180000 +0000" stop="20251025213000 +0000">
+    <title lang="zh">Live Premier League</title>
+    <desc>Brentford v Liverpool (Kick-off "])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"8.00pm). Coverage of the top-flight match from Gtech Community Stadium. The visitors have dominated this fixture ever since their hosts returned to the top flight back in 2021. In the eight games they've played each other since Brentford were promoted Liverpool have on six of those and only lost the once in that run. That s</desc>
+    <date>2025-10-25</date>
+  </programme>
+  <programme channel="400477" start="20251025213000 +0000" stop="20251025220000 +0000">
+    <title lang="zh">The Breakdown</title>
+    <desc>The TNT Sports pundits take an analytical look at some of the world's best strikers.</desc>
+    <date>2025-10-25</date>
+  </programme>
+  <programme channel="400477" start="20251025220000 +0000" stop="20251025230000 +0000">
+    <title lang="zh">One Day International Cricket</title>
+    <desc>Australia v India).</desc>
+    <date>2025-10-25</date>
+  </programme>
+  <programme channel="400477" start="20251025230000 +0000" stop="20251025233000 +0000">
+    <title lang="zh">Porsche Supercup</title>
+    <desc>A review of the campaign.</desc>
+    <date>2025-10-25</date>
+  </programme>
+  <programme channel="400477" start="20251025233000 +0000" stop="20251025234500 +0000">
+    <title lang="zh">TNT Sports Reload</title>
+    <desc>The best bits from TNT Sports over the last week, including exclu"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"sive interviews, the best action and so much more.</desc>
+    <date>2025-10-25</date>
+  </programme>
+  <programme channel="400477" start="20251025234500 +0000" stop="20251026000000 +0000">
+    <title lang="zh">Playing for Our Future - Cricket</title>
+    <desc>Asking what the future holds for cricket in the battle against global warming. Reshmin Chowdhury meets people at all levels to discuss how cricket can be a force for change.</desc>
+    <date>2025-10-25</date>
+  </programme>
+  <programme channel="400477" start="20251026000000 +0000" stop="20251027000000 +0000">
+    <title lang="zh">TNT Sports Cricket Reload</title>
+    <desc>A look back at New Zealand v England in the first T20 of the series.</desc>
+    <date>2025-10-26</date>
   </programme>
 <channel id="400480">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 2 HD</display-name>
