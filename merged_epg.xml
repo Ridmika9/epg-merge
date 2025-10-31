@@ -277,76 +277,6 @@
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 2 HD</display-name>
     <icon src="" />
   </channel>
-  <programme channel="400480" start="20251030000000 +0000" stop="20251030003000 +0000">
-    <title lang="zh">Fight Week</title>
-    <desc>Adam Catterall, Nick Peet and Michael Bisping react to UFC 321.</desc>
-    <date>2025-10-30</date>
-  </programme>
-  <programme channel="400480" start="20251030003000 +0000" stop="20251030030000 +0000">
-    <title lang="zh">UFC Reloaded</title>
-    <desc>A look back at UFC 203 from September 2016 in Cleveland, featuring the thrilling headline bout between Stipe Mioci"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"c and Alistair Overeem.</desc>
-    <date>2025-10-30</date>
-  </programme>
-  <programme channel="400480" start="20251030030000 +0000" stop="20251030053000 +0000">
-    <title lang="zh">UFC Reloaded</title>
-    <desc>A look back at UFC 207 from December 2016 in Las Vegas, featuring the enthralling headline bout between Ronda Rousey"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1," and Amanda Nunes.</desc>
-    <date>2025-10-30</date>
-  </programme>
-  <programme channel="400480" start="20251030053000 +0000" stop="20251030060000 +0000">
-    <title lang="zh">Mass Participation World</title>
-    <desc>Action f"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"rom the 2025 Cardiff Half Marathon.</desc>
-    <date>2025-10-30</date>
-  </programme>
-  <programme channel="400480" start="20251030060000 +0000" stop="20251030083000 +0000">
-    <title lang="zh">MLB</title>
-    <desc>Toronto Blue Jays v Los Angeles Dodgers. Action from game one of the World Series at Rogers Centre.</desc>
-    <date>2025-10-30</date>
-  </programme>
-  <programme channel="400480" start="20251030083000 +0000" stop="20251030110000 +0000">
-    <title lang="zh">MLB</title>
-    <desc>Toronto Blue Jays v Los Angeles Dodgers. Action from game two of the World Series at Rogers Centre.</desc>
-    <date>2025-10-30</date>
-  </programme>
-  <programme channel="400480" start="20251030110000 +0000" stop="20251030133000 +0000">
-    <title lang="zh">MLB</title>
-    <desc>Los Angeles Dodgers v Toronto Blue Jays. Action from game three of the World Series at Dodger Stadium.</desc>
-    <date>2025-10-30</date>
-  </programme>
-  <programme channel="400480" start="20251030133000 +0000" stop="20251030160000 +0000">
-    <title lang="zh">MLB</title>
-    <desc>Los Angeles Dodgers v Toronto Blue Jays. Action from game four of the World Series at Dodger Stadium.</desc>
-    <date>2025-10-30</date>
-  </programme>
-  <programme channel="400480" start="20251030160000 +0000" stop="20251030183000 +0000">
-    <title lang="zh">MLB</title>
-    <desc>Los Angeles Dodgers v Toronto Blue Jays. Action from game five of the World Series at Dodger Stadium.</desc>
-    <date>2025-10-30</date>
-  </programme>
-  <programme channel="400480" start="20251030183000 +0000" stop="20251030190000 +0000">
-    <title lang="zh">TCR World Tour Review</title>
-    <desc>Action from the fifth round of the season at Inje Speedium in South Korea.</desc>
-    <date>2025-10-30</date>
-  </programme>
-  <programme channel="400480" start="20251030190000 +0000" stop="20251030203000 +0000">
-    <title lang="zh">Ultimate Pool</title>
-    <desc>Action from finals night of the Pairs Cup.</desc>
-    <date>2025-10-30</date>
-  </programme>
-  <programme channel="400480" start="20251030203000 +0000" stop="20251030210000 +0000">
-    <title lang="zh">TNT Sports Reload</title>
-    <desc>The best bits from TNT Sports over the last week, including exclu"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"sive interviews, the best action and so much more.</desc>
-    <date>2025-10-30</date>
-  </programme>
-  <programme channel="400480" start="20251030210000 +0000" stop="20251030233000 +0000">
-    <title lang="zh">MLB</title>
-    <desc>Los Angeles Dodgers v Toronto Blue Jays. Action from game five of the World Series at Dodger Stadium.</desc>
-    <date>2025-10-30</date>
-  </programme>
-  <programme channel="400480" start="20251030233000 +0000" stop="20251031000000 +0000">
-    <title lang="zh">UFC Reloaded</title>
-    <desc>A look back at UFC Fight Night in Dublin from October 2015, featuring the enthralling headline flyweight bout between "])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"Louis Smolka and Paddy Holohan.</desc>
-    <date>2025-10-30</date>
-  </programme>
   <programme channel="400480" start="20251031011500 +0000" stop="20251031030000 +0000">
     <title lang="zh">UFC Reloaded</title>
     <desc>A look back at UFC Fight Night in Las Vegas from December 2015 as Rose Namajunas took on Paige VanZant in a strawweight"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1," showdown. In the co-main event, Michael Chiesa faced Jim Miller.</desc>
@@ -447,9 +377,79 @@
     <desc>Los Angeles Dodgers v Toronto Blue Jays. Action from game five of the World Series at Dodger Stadium.</desc>
     <date>2025-10-31</date>
   </programme>
-  <programme channel="400480" start="20251101000000 +0000" stop="20251102000000 +0000">
+  <programme channel="400480" start="20251101000000 +0000" stop="20251101040000 +0000">
     <title lang="zh">Live MLB</title>
     <desc>Toronto Blue Jays v Los Angeles Dodgers (Start-time 12.00am). Coverage of game six of the World Series from Ro"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"gers Centre.</desc>
     <date>2025-11-01</date>
+  </programme>
+  <programme channel="400480" start="20251101040000 +0000" stop="20251101060000 +0000">
+    <title lang="zh">Live: AFLW</title>
+    <desc>Richmond Tigers Women v Gold Coast Suns Women (Bounce-up 4.05am). Coverage of the match from IKO"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"N Park in Melbourne.</desc>
+    <date>2025-11-01</date>
+  </programme>
+  <programme channel="400480" start="20251101060000 +0000" stop="20251101080000 +0000">
+    <title lang="zh">Live: Isuzu UTE A-League</title>
+    <desc>Newcastle Jets v Sydney FC (Kick-off 6.00am)).</desc>
+    <date>2025-11-01</date>
+  </programme>
+  <programme channel="400480" start="20251101080000 +0000" stop="20251101083000 +0000">
+    <title lang="zh">Premier League Preview</title>
+    <desc>A look ahead to matchday 10 of the top flight, including Nottingham Forest v Manchester United, Tottenham Hotspur v Chelsea, and Liverpool v Aston Villa.</desc>
+    <date>2025-11-01</date>
+  </programme>
+  <programme channel="400480" start="20251101083000 +0000" stop="20251101103000 +0000">
+    <title lang="zh">Live: Isuzu UTE A-League</title>
+    <desc>Macarthur FC v Western Sydney Wanderers (Kick-off 8.35am). Coverage of the Australian top-flight match from Campbelltown Sports Stadium in Leumeah, Sydney.</desc>
+    <date>2025-11-01</date>
+  </programme>
+  <programme channel="400480" start="20251101103000 +0000" stop="20251101110000 +0000">
+    <title lang="zh">UEFA Champions League Magazine</title>
+    <desc>The latest news and updates from Europe's premier club football competition.</desc>
+    <date>2025-11-01</date>
+  </programme>
+  <programme channel="400480" start="20251101110000 +0000" stop="20251101120000 +0000">
+    <title lang="zh">UEFA Europa League &amp; Conference League Magazine</title>
+    <desc>A round-up of all the latest action and stories.</desc>
+    <date>2025-11-01</date>
+  </programme>
+  <programme channel="400480" start="20251101120000 +0000" stop="20251101130000 +0000">
+    <title lang="zh">International T20 Cricket Highlights</title>
+    <desc>Australia v India. Action from the second T20 in the five-match series from Melbourne Cricket Ground.</desc>
+    <date>2025-11-01</date>
+  </programme>
+  <programme channel="400480" start="20251101130000 +0000" stop="20251101134500 +0000">
+    <title lang="zh">Quilter Nations Series</title>
+    <desc>A look back at the 2024"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1," Autumn Nations series.</desc>
+    <date>2025-11-01</date>
+  </programme>
+  <programme channel="400480" start="20251101134500 +0000" stop="20251101140000 +0000">
+    <title lang="zh">Quilter Nations Series (?)</title>
+    <desc>).</desc>
+    <date>2025-11-01</date>
+  </programme>
+  <programme channel="400480" start="20251101140000 +0000" stop="20251101173000 +0000">
+    <title lang="zh">Live: Quilter Nations Series (?)</title>
+    <desc>).</desc>
+    <date>2025-11-01</date>
+  </programme>
+  <programme channel="400480" start="20251101173000 +0000" stop="20251101194500 +0000">
+    <title lang="zh">Live: Quilter Nations Series (?)</title>
+    <desc>).</desc>
+    <date>2025-11-01</date>
+  </programme>
+  <programme channel="400480" start="20251101194500 +0000" stop="20251101223000 +0000">
+    <title lang="zh">Live International Rugby Union (?)</title>
+    <desc>).</desc>
+    <date>2025-11-01</date>
+  </programme>
+  <programme channel="400480" start="20251101223000 +0000" stop="20251102000000 +0000">
+    <title lang="zh">Lions Uncut: Australia 2025 (?)</title>
+    <desc>).</desc>
+    <date>2025-11-01</date>
+  </programme>
+  <programme channel="400480" start="20251102000000 +0000" stop="20251103000000 +0000">
+    <title lang="zh">Cyclocross (?)</title>
+    <desc>).</desc>
+    <date>2025-11-02</date>
   </programme>
 </tv>
