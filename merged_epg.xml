@@ -3,91 +3,6 @@
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 1 HD</display-name>
     <icon src="" />
   </channel>
-  <programme channel="400477" start="20251124000000 +0000" stop="20251124010000 +0000">
-    <title lang="zh">Test Cricket Highlights</title>
-    <desc>India v South Africa. Action from the second day of the Second and Final Test of the series, which takes place at ACA Stadium in Guwahati.</desc>
-    <date>2025-11-24</date>
-  </programme>
-  <programme channel="400477" start="20251124010000 +0000" stop="20251124020000 +0000">
-    <title lang="zh">The Ashes</title>
-    <desc>Australia v England. Action from the third day of the First Test in the five-match series from Optus Stadium in Perth.</desc>
-    <date>2025-11-24</date>
-  </programme>
-  <programme channel="400477" start="20251124020000 +0000" stop="20251124103000 +0000">
-    <title lang="zh">The Ashes Live</title>
-    <desc>Australia v England. Coverage of the fourth day of the First Test in the five-match series, which takes place at Optus Stadium in Perth. Of the 13 Ashes series this century, the hosts have won six and the visitors have won five, with the other two ending in draws. The previous series in 2023 ended in a draw as England came from 2-0 down to draw the series 2-2 thanks to victories in the Third and F</desc>
-    <date>2025-11-24</date>
-  </programme>
-  <programme channel="400477" start="20251124103000 +0000" stop="20251124120000 +0000">
-    <title lang="zh">Live Test Cricket</title>
-    <desc>India v South Africa. Coverage of the third day of the Second and Final Test of the series, which takes place at ACA Stadium in Guwahati. The hosts are searching for their first series victory over South Africa since a 3-0 victory in India in October 2019. However that series win was one of only two victories for India against their visitors in 10 series stretching back to 2004, so Shubman Gill's </desc>
-    <date>2025-11-24</date>
-  </programme>
-  <programme channel="400477" start="20251124120000 +0000" stop="20251124130000 +0000">
-    <title lang="zh">One Day International Cricket</title>
-    <desc>New Zealand v West Indies. Action from the third and final ODI in the series from Seddon Park in Hamilton.</desc>
-    <date>2025-11-24</date>
-  </programme>
-  <programme channel="400477" start="20251124130000 +0000" stop="20251124140000 +0000">
-    <title lang="zh">The Ashes</title>
-    <desc>Australia v England. Action from the fourth day of the First Test in the five-match series from Optus Stadium in Perth.</desc>
-    <date>2025-11-24</date>
-  </programme>
-  <programme channel="400477" start="20251124140000 +0000" stop="20251124143000 +0000">
-    <title lang="zh">The Breakdown</title>
-    <desc>A look ahead to forthcoming UEFA Champions League action.</desc>
-    <date>2025-11-24</date>
-  </programme>
-  <programme channel="400477" start="20251124143000 +0000" stop="20251124150000 +0000">
-    <title lang="zh">UEFA Champions League Magazine</title>
-    <desc>The latest news and updates from the competition.</desc>
-    <date>2025-11-24</date>
-  </programme>
-  <programme channel="400477" start="20251124150000 +0000" stop="20251124160000 +0000">
-    <title lang="zh">UEFA Europa League &amp; Conference League Magazine</title>
-    <desc>A round-up of all the latest action and stories.</desc>
-    <date>2025-11-24</date>
-  </programme>
-  <programme channel="400477" start="20251124160000 +0000" stop="20251124170000 +0000">
-    <title lang="zh">Serie A</title>
-    <desc>Inter Milan v AC Milan.</desc>
-    <date>2025-11-24</date>
-  </programme>
-  <programme channel="400477" start="20251124170000 +0000" stop="20251124180000 +0000">
-    <title lang="zh">The Ashes</title>
-    <desc>Australia v England. Action from the fourth day of the First Test in the five-match series from Optus Stadium in Perth.</desc>
-    <date>2025-11-24</date>
-  </programme>
-  <programme channel="400477" start="20251124180000 +0000" stop="20251124210000 +0000">
-    <title lang="zh">Live: Curling European Championship</title>
-    <desc>Switzerland v Scotland. Coverage of the round-robin match from Lohja, Finland.</desc>
-    <date>2025-11-24</date>
-  </programme>
-  <programme channel="400477" start="20251124210000 +0000" stop="20251124220000 +0000">
-    <title lang="zh">Fishing: On the Bank</title>
-    <desc>Angling magazine show presented by Rob Hughes and Andy Ford, featuring coverage of round four of the 2024 European Fishing League.</desc>
-    <date>2025-11-24</date>
-  </programme>
-  <programme channel="400477" start="20251124220000 +0000" stop="20251124230000 +0000">
-    <title lang="zh">The Ashes</title>
-    <desc>Australia v England. Action from the fourth day of the First Test in the five-match series from Optus Stadium in Perth.</desc>
-    <date>2025-11-24</date>
-  </programme>
-  <programme channel="400477" start="20251124230000 +0000" stop="20251124233000 +0000">
-    <title lang="zh">The Breakdown</title>
-    <desc>A look ahead to forthcoming UEFA Champions League action.</desc>
-    <date>2025-11-24</date>
-  </programme>
-  <programme channel="400477" start="20251124233000 +0000" stop="20251124234500 +0000">
-    <title lang="zh">Kenny Allstar's Number 1's</title>
-    <desc>Kenny Allstar chats to Nottingham Forest winger Callum Hudson-Odoi.</desc>
-    <date>2025-11-24</date>
-  </programme>
-  <programme channel="400477" start="20251124234500 +0000" stop="20251125000000 +0000">
-    <title lang="zh">August 4th: An Olympic Odyssey</title>
-    <desc>A look at some of the most historic moments in the Olympic Games that have occurred on August 4th, including Jesse Owens' win in front of Adolf Hitler in 1936.</desc>
-    <date>2025-11-24</date>
-  </programme>
   <programme channel="400477" start="20251125010000 +0000" stop="20251125020000 +0000">
     <title lang="zh">The Ashes</title>
     <desc>Australia v England. Action from the fourth day of the First Test in the five-match series from Optus Stadium in Perth.</desc>
@@ -158,85 +73,95 @@
     <desc>With Ronnie O'Sullivan approaching 50, Craig Doyle invites the seven-time world snooker champion to revisit the defining moments of his career.</desc>
     <date>2025-11-25</date>
   </programme>
-  <programme channel="400477" start="20251126000000 +0000" stop="20251127000000 +0000">
+  <programme channel="400477" start="20251126000000 +0000" stop="20251126010000 +0000">
     <title lang="zh">V8 Supercars Highlights</title>
     <desc>Action from the first day of the Penrile Oil Sandown 500.</desc>
     <date>2025-11-26</date>
+  </programme>
+  <programme channel="400477" start="20251126010000 +0000" stop="20251126020000 +0000">
+    <title lang="zh">V8 Supercars Highlights</title>
+    <desc>Action from the second day of the Penrile Oil Sandown 500.</desc>
+    <date>2025-11-26</date>
+  </programme>
+  <programme channel="400477" start="20251126020000 +0000" stop="20251126021500 +0000">
+    <title lang="zh">Kenny Allstar's Number 1's</title>
+    <desc>Host Kenny Allstar sits down for a chat with Brazil and Manchester United forward Matheus Cunha.</desc>
+    <date>2025-11-26</date>
+  </programme>
+  <programme channel="400477" start="20251126021500 +0000" stop="20251126024500 +0000">
+    <title lang="zh">SailGP - Racing on the Edge</title>
+    <desc>An unprecedented look at SailGP and the sport's best athletes.</desc>
+    <date>2025-11-26</date>
+  </programme>
+  <programme channel="400477" start="20251126024500 +0000" stop="20251126034500 +0000">
+    <title lang="zh">The Ashes</title>
+    <desc>Australia v Engla"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"nd. Action from the fifth and final day of the First Test in the five-match series from Optus Stadium in Perth.</desc>
+    <date>2025-11-26</date>
+  </programme>
+  <programme channel="400477" start="20251126034500 +0000" stop="20251126120000 +0000">
+    <title lang="zh">Live Test Cricket</title>
+    <desc>India v South Africa. Coverage of the fifth and final day of the Second and Final Test of the series, which takes place at ACA Stadium in Guwahati. The visitors will be hoping to continue their strong run of form in this format having gone unbeaten in their last six Test Series, a run that stretches back to February 2024. Their last series in Pakistan ended in a 1-1 draw, and before that they had </desc>
+    <date>2025-11-26</date>
+  </programme>
+  <programme channel="400477" start="20251126120000 +0000" stop="20251126130000 +0000">
+    <title lang="zh">UEFA Europa League &amp; Conference League Magazine</title>
+    <desc>A round-up of all the latest action and stories.</desc>
+    <date>2025-11-26</date>
+  </programme>
+  <programme channel="400477" start="20251126130000 +0000" stop="20251126150000 +0000">
+    <title lang="zh">Live UEFA Youth League</title>
+    <desc>Arsenal U19 v Bayern Munich U19 (Kick-off 1.00pm). Coverage of the league-phase match at Meadow Park in Borehamwood.</desc>
+    <date>2025-11-26</date>
+  </programme>
+  <programme channel="400477" start="20251126150000 +0000" stop="20251126160000 +0000">
+    <title lang="zh">Premier League Review</title>
+    <desc>A look back at the best action from matchday 12 of the top flight, including Burnley v Chelsea, Newcastle United v Manchester City, and Arsenal v Tottenham Hotspur.</desc>
+    <date>2025-11-26</date>
+  </programme>
+  <programme channel="400477" start="20251126160000 +0000" stop="20251126163000 +0000">
+    <title lang="zh">Premier League Stories</title>
+    <desc>Chelsea legend Eden Hazard reflects on his rise to the top, the moments that defined his career, and the pride he feels at being inducted into the Premier League Hall of Fame.</desc>
+    <date>2025-11-26</date>
+  </programme>
+  <programme channel="400477" start="20251126163000 +0000" stop="20251126170000 +0000">
+    <title lang="zh">Serie A - Full Impact</title>
+    <desc>All the best moments from matchday 12 of Serie A, including Napoli v Atalanta, Fiorentina v Juventus, and Inter Milan v AC Milan.</desc>
+    <date>2025-11-26</date>
+  </programme>
+  <programme channel="400477" start="20251126170000 +0000" stop="20251126173000 +0000">
+    <title lang="zh">The WRC Magazine</title>
+    <desc>A look ahead to the Rally Saudi Arabia.</desc>
+    <date>2025-11-26</date>
+  </programme>
+  <programme channel="400477" start="20251126173000 +0000" stop="20251126190000 +0000">
+    <title lang="zh">Live World Rally Championship</title>
+    <desc>The Rally Saudi Arabia. Coverage of special stage one from the latest round of the season in Saudi Arabia.</desc>
+    <date>2025-11-26</date>
+  </programme>
+  <programme channel="400477" start="20251126190000 +0000" stop="20251126223000 +0000">
+    <title lang="zh">Live UEFA Champions League</title>
+    <desc>Arsenal v Bayern Munich (Kick-off 8.00pm). Coverage of the league phase match from Emirates Stadium. Both these teams boast 100 per cent records after their first four games in this season's competition, and they will each be looking to make a statement this evening. The sides last met in the quarter-finals of the 2023/24 competition, when Munich prevailed 3-2 on aggregate.</desc>
+    <date>2025-11-26</date>
+  </programme>
+  <programme channel="400477" start="20251126223000 +0000" stop="20251126230000 +0000">
+    <title lang="zh">Live: UEFA Champions League Goals Show Xtra</title>
+    <desc>Coverage of all the goals from the latest round of fixtures, featuring Arsenal v Bayern Munich, Paris Saint-Germain v Tottenham Hotspur, and Liverpool v PSV Eindhoven.</desc>
+    <date>2025-11-26</date>
+  </programme>
+  <programme channel="400477" start="20251126230000 +0000" stop="20251127000000 +0000">
+    <title lang="zh">The Edge</title>
+    <desc>A look back at the opening Test of the Ashes at Optus Stadium in Perth.</desc>
+    <date>2025-11-26</date>
+  </programme>
+  <programme channel="400477" start="20251127000000 +0000" stop="20251128000000 +0000">
+    <title lang="zh">UFC</title>
+    <desc>Arman Tsarukyan v Dan Hooker.</desc>
+    <date>2025-11-27</date>
   </programme>
 <channel id="400480">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 2 HD</display-name>
     <icon src="" />
   </channel>
-  <programme channel="400480" start="20251124023000 +0000" stop="20251124024500 +0000">
-    <title lang="zh">TNT Sports Cricket Reload</title>
-    <desc>Action from the third T20 between New Zealand and West Indies.</desc>
-    <date>2025-11-24</date>
-  </programme>
-  <programme channel="400480" start="20251124024500 +0000" stop="20251124034500 +0000">
-    <title lang="zh">Test Cricket Highlights</title>
-    <desc>India v South Africa. Action from the second day of the Second and Final Test of the series, which takes place at ACA Stadium in Guwahati.</desc>
-    <date>2025-11-24</date>
-  </programme>
-  <programme channel="400480" start="20251124034500 +0000" stop="20251124120000 +0000">
-    <title lang="zh">Live Test Cricket</title>
-    <desc>India v South Africa. Coverage of the third day of the Second and Final Test of the series, which takes place at ACA Stadium in Guwahati. The hosts are searching for their first series victory over South Africa since a 3-0 victory in India in October 2019. However that series win was one of only two victories for India against their visitors in 10 series stretching back to 2004, so Shubman Gill's </desc>
-    <date>2025-11-24</date>
-  </programme>
-  <programme channel="400480" start="20251124120000 +0000" stop="20251124130000 +0000">
-    <title lang="zh">Quilter Nations Series</title>
-    <desc>Wales v New Zealand.</desc>
-    <date>2025-11-24</date>
-  </programme>
-  <programme channel="400480" start="20251124130000 +0000" stop="20251124140000 +0000">
-    <title lang="zh">Quilter Nations Series</title>
-    <desc>Ireland v South Africa.</desc>
-    <date>2025-11-24</date>
-  </programme>
-  <programme channel="400480" start="20251124140000 +0000" stop="20251124150000 +0000">
-    <title lang="zh">Quilter Nations Series</title>
-    <desc>Italy v Chile.</desc>
-    <date>2025-11-24</date>
-  </programme>
-  <programme channel="400480" start="20251124150000 +0000" stop="20251124160000 +0000">
-    <title lang="zh">Quilter Nations Series</title>
-    <desc>France v Australia.</desc>
-    <date>2025-11-24</date>
-  </programme>
-  <programme channel="400480" start="20251124160000 +0000" stop="20251124170000 +0000">
-    <title lang="zh">Quilter Nations Series</title>
-    <desc>Scotland v Tonga.</desc>
-    <date>2025-11-24</date>
-  </programme>
-  <programme channel="400480" start="20251124170000 +0000" stop="20251124180000 +0000">
-    <title lang="zh">Quilter Nations Series</title>
-    <desc>England v Argentina.</desc>
-    <date>2025-11-24</date>
-  </programme>
-  <programme channel="400480" start="20251124180000 +0000" stop="20251124213000 +0000">
-    <title lang="zh">Live: Ultimate Pool</title>
-    <desc>Coverage from group one of the Mixed Pairs Cup, as some of the country's leading eightball players battle it out for places in the next stage.</desc>
-    <date>2025-11-24</date>
-  </programme>
-  <programme channel="400480" start="20251124213000 +0000" stop="20251124220000 +0000">
-    <title lang="zh">Cyclocross</title>
-    <desc>Action from the Women's World Cup in Tabor, Czech Republic.</desc>
-    <date>2025-11-24</date>
-  </programme>
-  <programme channel="400480" start="20251124220000 +0000" stop="20251124223000 +0000">
-    <title lang="zh">Cyclocross</title>
-    <desc>Action from the Men's World Cup in Tabor, Czech Republic.</desc>
-    <date>2025-11-24</date>
-  </programme>
-  <programme channel="400480" start="20251124223000 +0000" stop="20251124233000 +0000">
-    <title lang="zh">Longines Global Champions Tour</title>
-    <desc>Action from the second day of the Grand Prix of Prague.</desc>
-    <date>2025-11-24</date>
-  </programme>
-  <programme channel="400480" start="20251124233000 +0000" stop="20251125000000 +0000">
-    <title lang="zh">Test Cricket Highlights</title>
-    <desc>India v South Africa. Action from the third day of the Second and Final Test of the series, which takes place at ACA Stadium in Guwahati.</desc>
-    <date>2025-11-24</date>
-  </programme>
   <programme channel="400480" start="20251125003000 +0000" stop="20251125013000 +0000">
     <title lang="zh">One Day International Cricket</title>
     <desc>New Zealand v West Indies. Action from the third and final ODI in the series from Seddon Park in Hamilton.</desc>
@@ -307,9 +232,89 @@
     <desc>Australia v Engla"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"nd. Action from the fifth and final day of the First Test in the five-match series from Optus Stadium in Perth.</desc>
     <date>2025-11-25</date>
   </programme>
-  <programme channel="400480" start="20251126000000 +0000" stop="20251127000000 +0000">
+  <programme channel="400480" start="20251126000000 +0000" stop="20251126010000 +0000">
     <title lang="zh">Test Cricket Highlights</title>
     <desc>India v South Africa. Action from the fourth day of the Second and Final Test of the series, which takes place at ACA Stadium in Guwahati.</desc>
     <date>2025-11-26</date>
+  </programme>
+  <programme channel="400480" start="20251126010000 +0000" stop="20251126011500 +0000">
+    <title lang="zh">Playing for Our Future - Cricket</title>
+    <desc>Asking what the future holds for cricket in the battle against global warming. Reshmin Chowdhury meets people at all levels to discuss how cricket can be a force for change.</desc>
+    <date>2025-11-26</date>
+  </programme>
+  <programme channel="400480" start="20251126011500 +0000" stop="20251126014500 +0000">
+    <title lang="zh">Premier League Stories</title>
+    <desc>Chelsea legend Eden Hazard reflects on his rise to the top, the moments that defined his career, and the pride he feels at being inducted into the Premier League Hall of Fame.</desc>
+    <date>2025-11-26</date>
+  </programme>
+  <programme channel="400480" start="20251126014500 +0000" stop="20251126024500 +0000">
+    <title lang="zh">Roll The Tape</title>
+    <desc>With Ronnie O'Sullivan approaching 50, Craig Doyle invites the seven-time world snooker champion to revisit the defining moments of his career.</desc>
+    <date>2025-11-26</date>
+  </programme>
+  <programme channel="400480" start="20251126024500 +0000" stop="20251126034500 +0000">
+    <title lang="zh">Test Cricket Highlights</title>
+    <desc>India v South Africa. Action from the fourth day of the Second and Final Test of the series, which takes place at ACA Stadium in Guwahati.</desc>
+    <date>2025-11-26</date>
+  </programme>
+  <programme channel="400480" start="20251126034500 +0000" stop="20251126120000 +0000">
+    <title lang="zh">Live Test Cricket</title>
+    <desc>India v South Africa. Coverage of the fifth and final day of the Second and Final Test of the series, which takes place at ACA Stadium in Guwahati. The visitors will be hoping to continue their strong run of form in this format having gone unbeaten in their last six Test Series, a run that stretches back to February 2024. Their last series in Pakistan ended in a 1-1 draw, and before that they had </desc>
+    <date>2025-11-26</date>
+  </programme>
+  <programme channel="400480" start="20251126120000 +0000" stop="20251126130000 +0000">
+    <title lang="zh">The Ashes</title>
+    <desc>Australia v Engl"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"and. Action from the fifth and final day of the First Test in the five-match series from Optus Stadium in Perth.</desc>
+    <date>2025-11-26</date>
+  </programme>
+  <programme channel="400480" start="20251126130000 +0000" stop="20251126140000 +0000">
+    <title lang="zh">The Ashes</title>
+    <desc>A review of the thrilling 2010/11 Ashes series, which saw Andrew Strauss lead England to victory in Australia for the first time in 24 years.</desc>
+    <date>2025-11-26</date>
+  </programme>
+  <programme channel="400480" start="20251126140000 +0000" stop="20251126160000 +0000">
+    <title lang="zh">Live: Ski Jumping World Cup</title>
+    <desc>Coverage of the men's HS134, which takes place in Falun, Sweden.</desc>
+    <date>2025-11-26</date>
+  </programme>
+  <programme channel="400480" start="20251126160000 +0000" stop="20251126163000 +0000">
+    <title lang="zh">The Monuments</title>
+    <desc>A look at the history of the Ruhpolding biathlon race.</desc>
+    <date>2025-11-26</date>
+  </programme>
+  <programme channel="400480" start="20251126163000 +0000" stop="20251126170000 +0000">
+    <title lang="zh">The Monuments</title>
+    <desc>A look at the history of the Holmenkollen Ski Festival.</desc>
+    <date>2025-11-26</date>
+  </programme>
+  <programme channel="400480" start="20251126170000 +0000" stop="20251126180000 +0000">
+    <title lang="zh">Test Cricket Highlights</title>
+    <desc>India v South Africa. Action from the fifth and final day of the Second and Final Test of the series, which takes place at ACA Stadium in Guwahati.</desc>
+    <date>2025-11-26</date>
+  </programme>
+  <programme channel="400480" start="20251126180000 +0000" stop="20251126190000 +0000">
+    <title lang="zh">The Edge</title>
+    <desc>A look back at the opening Test of the Ashes at Optus Stadium in Perth.</desc>
+    <date>2025-11-26</date>
+  </programme>
+  <programme channel="400480" start="20251126190000 +0000" stop="20251126223000 +0000">
+    <title lang="zh">Live UEFA Champions League</title>
+    <desc>Liverpool v PSV Eindhoven (Kick-off 8.00pm). Coverage of the league phase match from Anfield.</desc>
+    <date>2025-11-26</date>
+  </programme>
+  <programme channel="400480" start="20251126223000 +0000" stop="20251126230000 +0000">
+    <title lang="zh">Live: UEFA Champions League Goals Show Xtra</title>
+    <desc>Coverage of all the goals from the latest round of fixtures, featuring Arsenal v Bayern Munich, Paris Saint-Germain v Tottenham Hotspur, and Liverpool v PSV Eindhoven.</desc>
+    <date>2025-11-26</date>
+  </programme>
+  <programme channel="400480" start="20251126230000 +0000" stop="20251127000000 +0000">
+    <title lang="zh">Roll The Tape</title>
+    <desc>With Ronnie O'Sullivan approaching 50, Craig Doyle invites the seven-time world snooker champion to revisit the defining moments of his career.</desc>
+    <date>2025-11-26</date>
+  </programme>
+  <programme channel="400480" start="20251127000000 +0000" stop="20251128000000 +0000">
+    <title lang="zh">Quilter Nations Series</title>
+    <desc>Wales v New Zealand.</desc>
+    <date>2025-11-27</date>
   </programme>
 </tv>
