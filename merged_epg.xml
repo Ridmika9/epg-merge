@@ -178,9 +178,14 @@
     <desc>A look back at the best of the recent action, including Tottenham Hotspur v Manchester United.</desc>
     <date>2025-12-01</date>
   </programme>
-  <programme channel="400477" start="20251201184500 +0000" stop="20251202000000 +0000">
+  <programme channel="400477" start="20251201184500 +0000" stop="20251201223000 +0000">
     <title lang="zh">Live: Snooker UK Championship</title>
     <desc>Coverage of the evening session on day three from York Barbican, featuring a first-round match, played over the best of 11 frames. Judd Trump won the title for the second time in his career last year, getting his tournament underr way with a 6-3 victory over three-time champion Neil Robertson.</desc>
+    <date>2025-12-01</date>
+  </programme>
+  <programme channel="400477" start="20251201223000 +0000" stop="20251202000000 +0000">
+    <title lang="zh">Live Test Cricket</title>
+    <desc>New Zealand v West Indies. Coverage of day one of the First Test of the three-match series, held at Hagley Oval in Christchurch. New Zealand will be looking to avoid a third successive Test defeat at this venue, having lost to both Australia and England here last here.</desc>
     <date>2025-12-01</date>
   </programme>
 <channel id="400480">
@@ -422,9 +427,14 @@
     <desc>AS Roma v Napoli.</desc>
     <date>2025-12-01</date>
   </programme>
-  <programme channel="400480" start="20251201180000 +0000" stop="20251202000000 +0000">
+  <programme channel="400480" start="20251201180000 +0000" stop="20251201213000 +0000">
     <title lang="zh">Live: Ultimate Pool</title>
     <desc>Coverage from group two of the Mixed Pairs Cup, as some of the country's leading eightball players battle it out for places in the next stage.</desc>
+    <date>2025-12-01</date>
+  </programme>
+  <programme channel="400480" start="20251201213000 +0000" stop="20251202000000 +0000">
+    <title lang="zh">Live Test Cricket</title>
+    <desc>New Zealand v West Indies. Coverage of day one of the First Test of the three-match series, held at Hagley Oval in Christchurch. New Zealand will be looking to avoid a third successive Test defeat at this venue, having lost to both Australia and England here last here.</desc>
     <date>2025-12-01</date>
   </programme>
 </tv>
