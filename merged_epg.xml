@@ -367,9 +367,14 @@
     <desc>India v South Africa in the first match of the series.</desc>
     <date>2025-12-02</date>
   </programme>
-  <programme channel="400480" start="20251202203000 +0000" stop="20251203000000 +0000">
+  <programme channel="400480" start="20251202203000 +0000" stop="20251202213000 +0000">
     <title lang="zh">Test Cricket Highlights</title>
     <desc>New Zealand v West Indies. Action from day one of the First Test of the three-match series, held at Hagley Oval in Christchurch.</desc>
+    <date>2025-12-02</date>
+  </programme>
+  <programme channel="400480" start="20251202213000 +0000" stop="20251203000000 +0000">
+    <title lang="zh">Live Test Cricket</title>
+    <desc>New Zealand v West Indies. Coverage of day two of the First Test of the three-match series, held at Hagley Oval in Christchurch. The last series between the teams in this format came in December 2020 and was also in New Zealand soil, with the hosts claiming victories in Hamilton and Wellington to prevail 2-0 with the help of some fine bowling by the trio of Kyle Jamieson, Tim Southee and Neil Wagn</desc>
     <date>2025-12-02</date>
   </programme>
 </tv>
