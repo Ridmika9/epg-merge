@@ -3,71 +3,6 @@
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 1 HD</display-name>
     <icon src="" />
   </channel>
-  <programme channel="400477" start="20251202060000 +0000" stop="20251202070000 +0000">
-    <title lang="zh">WRC Review</title>
-    <desc>A review of the Rally Saudi Arabia).</desc>
-    <date>2025-12-02</date>
-  </programme>
-  <programme channel="400477" start="20251202070000 +0000" stop="20251202080000 +0000">
-    <title lang="zh">Premier League Review</title>
-    <desc>A look back at the best of the recent action, including Tottenham Hotspur v Manchester United.</desc>
-    <date>2025-12-02</date>
-  </programme>
-  <programme channel="400477" start="20251202080000 +0000" stop="20251202083000 +0000">
-    <title lang="zh">Isuzu UTE A-League Highlights</title>
-    <desc>Action from the sixth round of fixtures, including Brisbane Roar v Melbourne Victory, Auckland FC v Newcastle Jets, and Macarthur FC v Perth Glory.</desc>
-    <date>2025-12-02</date>
-  </programme>
-  <programme channel="400477" start="20251202083000 +0000" stop="20251202093000 +0000">
-    <title lang="zh">Serie A</title>
-    <desc>AC Milan v Lazio.</desc>
-    <date>2025-12-02</date>
-  </programme>
-  <programme channel="400477" start="20251202093000 +0000" stop="20251202103000 +0000">
-    <title lang="zh">Serie A</title>
-    <desc>AS Roma v Napoli.</desc>
-    <date>2025-12-02</date>
-  </programme>
-  <programme channel="400477" start="20251202103000 +0000" stop="20251202104500 +0000">
-    <title lang="zh">TNT Sports Cricket Reload</title>
-    <desc>A look back at the best bowling from Australia v England in the First Test of The Ashes.</desc>
-    <date>2025-12-02</date>
-  </programme>
-  <programme channel="400477" start="20251202104500 +0000" stop="20251202124500 +0000">
-    <title lang="zh">Snooker UK Championship</title>
-    <desc>Action from day three of the tournament.</desc>
-    <date>2025-12-02</date>
-  </programme>
-  <programme channel="400477" start="20251202124500 +0000" stop="20251202163000 +0000">
-    <title lang="zh">Live: Snooker UK Championship</title>
-    <desc>Coverage of the afternoon session on day four from York Barbican, featuring a first-round match, played over the best of 11 frames.</desc>
-    <date>2025-12-02</date>
-  </programme>
-  <programme channel="400477" start="20251202163000 +0000" stop="20251202173000 +0000">
-    <title lang="zh">One Day International Cricket</title>
-    <desc>India v South Africa in the first match of the series.</desc>
-    <date>2025-12-02</date>
-  </programme>
-  <programme channel="400477" start="20251202173000 +0000" stop="20251202183000 +0000">
-    <title lang="zh">Test Cricket Highlights</title>
-    <desc>New Zealand v West Indies. Action from day one of the First Test of the three-match series, held at Hagley Oval in Christchurch.</desc>
-    <date>2025-12-02</date>
-  </programme>
-  <programme channel="400477" start="20251202183000 +0000" stop="20251202184500 +0000">
-    <title lang="zh">The Gallagher PREM - The Wrap Up</title>
-    <desc>A look back at all of the biggest stories and best action from week six of the competition, including Sale Sharks v Exeter Cheifs and Saracens v Bath.</desc>
-    <date>2025-12-02</date>
-  </programme>
-  <programme channel="400477" start="20251202184500 +0000" stop="20251202223000 +0000">
-    <title lang="zh">Live: Snooker UK Championship</title>
-    <desc>Coverage of the evening session on day four from York Barbican, featuring a first-round match, played over the best of 11 frames. Kyren Wilson was in fine form at this stage last year, whitewashing Stephen Maguire 6-0.</desc>
-    <date>2025-12-02</date>
-  </programme>
-  <programme channel="400477" start="20251202223000 +0000" stop="20251203000000 +0000">
-    <title lang="zh">Live Test Cricket</title>
-    <desc>New Zealand v West Indies. Coverage of day two of the First Test of the three-match series, held at Hagley Oval in Christchurch. The last series between the teams in this format came in December 2020 and was also in New Zealand soil, with the hosts claiming victories in Hamilton and Wellington to prevail 2-0 with the help of some fine bowling by the trio of Kyle Jamieson, Tim Southee and Neil Wagn</desc>
-    <date>2025-12-02</date>
-  </programme>
   <programme channel="400477" start="20251203060000 +0000" stop="20251203070000 +0000">
     <title lang="zh">Serie A</title>
     <desc>AC Milan v Lazio.</desc>
@@ -153,100 +88,70 @@
     <desc>New Zealand v West Indies. Coverage of day three of the First Test of the three-match series, held at Hagley Oval in Christchurch.</desc>
     <date>2025-12-03</date>
   </programme>
+  <programme channel="400477" start="20251204033000 +0000" stop="20251204120000 +0000">
+    <title lang="zh">The Ashes Live</title>
+    <desc>Australia v England. Coverage of day one of the Second Test in the five-match series, held at Brisbane Cricket Ground. The teams last met here in the opening contest of the 2021/22 Ashes, when a fine first innings total of 152 off just 148 balls from Travis Head helped Australia to a nine-wicket victory.</desc>
+    <date>2025-12-04</date>
+  </programme>
+  <programme channel="400477" start="20251204120000 +0000" stop="20251204121500 +0000">
+    <title lang="zh">TNT Sports Cricket Reload</title>
+    <desc>A look back at the best bowling from Australia v England in the First Test of The Ashes.</desc>
+    <date>2025-12-04</date>
+  </programme>
+  <programme channel="400477" start="20251204121500 +0000" stop="20251204123000 +0000">
+    <title lang="zh">TNT Sports Cricket Reload</title>
+    <desc>A look back at the best batting from Australia v England in the First Test of The Ashes.</desc>
+    <date>2025-12-04</date>
+  </programme>
+  <programme channel="400477" start="20251204123000 +0000" stop="20251204124500 +0000">
+    <title lang="zh">TNT Sports Reload</title>
+    <desc>The best bits from TNT Sports over the last week.</desc>
+    <date>2025-12-04</date>
+  </programme>
+  <programme channel="400477" start="20251204124500 +0000" stop="20251204163000 +0000">
+    <title lang="zh">Live: Snooker UK Championship</title>
+    <desc>Coverage of the afternoon session on day six from York Barbican, featuring a second-round match, played over the best of 11 frames.</desc>
+    <date>2025-12-04</date>
+  </programme>
+  <programme channel="400477" start="20251204163000 +0000" stop="20251204170000 +0000">
+    <title lang="zh">Marc Marquez: The Greatest Comeback</title>
+    <desc>A look at how Spanish rider battled through injury hell, another diplopia episode, and a manufacturer and team switch to return to the top of the MotoGP world.</desc>
+    <date>2025-12-04</date>
+  </programme>
+  <programme channel="400477" start="20251204170000 +0000" stop="20251204173000 +0000">
+    <title lang="zh">Isuzu UTE A-League Highlights</title>
+    <desc>Action from the sixth round of fixtures, including Brisbane Roar v Melbourne Victory, Auckland FC v Newcastle Jets, and Macarthur FC v Perth Glory.</desc>
+    <date>2025-12-04</date>
+  </programme>
+  <programme channel="400477" start="20251204173000 +0000" stop="20251204180000 +0000">
+    <title lang="zh">Premier League Stories</title>
+    <desc>Gary Neville discusses the moments that defined his legacy at Manchester United.</desc>
+    <date>2025-12-04</date>
+  </programme>
+  <programme channel="400477" start="20251204180000 +0000" stop="20251204183000 +0000">
+    <title lang="zh">Premier League - The Big Interview</title>
+    <desc>An in-depth interview with Manchester United defender Harry Maguire.</desc>
+    <date>2025-12-04</date>
+  </programme>
+  <programme channel="400477" start="20251204183000 +0000" stop="20251204184500 +0000">
+    <title lang="zh">UEFA Champions League - Stories of the Finals</title>
+    <desc>Take a look back at the 2007 UEFA Champions League final between AC Milan and Liverpool. The Italian side got their revenge for the Miracle of Istanbul two years earlier.</desc>
+    <date>2025-12-04</date>
+  </programme>
+  <programme channel="400477" start="20251204184500 +0000" stop="20251204223000 +0000">
+    <title lang="zh">Live: Snooker UK Championship</title>
+    <desc>Coverage of the evening session on day six from York Barbican, featuring a second-round match, played over the best of 11 frames. Michael Holt was the final player to book his place in the quarter-finals in 2024, coming back from 5-2 down to eventually overcome Jak Jones 6-5.</desc>
+    <date>2025-12-04</date>
+  </programme>
+  <programme channel="400477" start="20251204223000 +0000" stop="20251205000000 +0000">
+    <title lang="zh">Live Test Cricket</title>
+    <desc>New Zealand v West Indies. Coverage of day four of the First Test of the three-match series, held at Hagley Oval in Christchurch.</desc>
+    <date>2025-12-04</date>
+  </programme>
 <channel id="400480">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 2 HD</display-name>
     <icon src="" />
   </channel>
-  <programme channel="400480" start="20251202060000 +0000" stop="20251202070000 +0000">
-    <title lang="zh">The Gallagher PREM</title>
-    <desc>Sale Sharks v Exeter Chiefs.</desc>
-    <date>2025-12-02</date>
-  </programme>
-  <programme channel="400480" start="20251202070000 +0000" stop="20251202080000 +0000">
-    <title lang="zh">The Gallagher PREM</title>
-    <desc>Newcastle Red Bulls v Leicester Tigers.</desc>
-    <date>2025-12-02</date>
-  </programme>
-  <programme channel="400480" start="20251202080000 +0000" stop="20251202090000 +0000">
-    <title lang="zh">The Gallagher PREM</title>
-    <desc>Bristol Bears v Northampton Saints.</desc>
-    <date>2025-12-02</date>
-  </programme>
-  <programme channel="400480" start="20251202090000 +0000" stop="20251202100000 +0000">
-    <title lang="zh">The Gallagher PREM</title>
-    <desc>Gloucester Rugby v Harlequins.</desc>
-    <date>2025-12-02</date>
-  </programme>
-  <programme channel="400480" start="20251202100000 +0000" stop="20251202110000 +0000">
-    <title lang="zh">Quilter Nations Series</title>
-    <desc>Wales v South Africa.</desc>
-    <date>2025-12-02</date>
-  </programme>
-  <programme channel="400480" start="20251202110000 +0000" stop="20251202113000 +0000">
-    <title lang="zh">Premier League Stories</title>
-    <desc>Chelsea legend Eden Hazard reflects on his rise to the top, the moments that defined his career, and the pride he feels at being inducted into the Premier League Hall of Fame.</desc>
-    <date>2025-12-02</date>
-  </programme>
-  <programme channel="400480" start="20251202113000 +0000" stop="20251202120000 +0000">
-    <title lang="zh">Premier League Netbusters</title>
-    <desc>A fast-paced look at all the best action from the Premier League, including Manchester City v Leeds United, West Ham United v Liverpool and Chelsea v Arsenal.</desc>
-    <date>2025-12-02</date>
-  </programme>
-  <programme channel="400480" start="20251202120000 +0000" stop="20251202130000 +0000">
-    <title lang="zh">One Day International Cricket</title>
-    <desc>India v South Africa in the first match of the series.</desc>
-    <date>2025-12-02</date>
-  </programme>
-  <programme channel="400480" start="20251202130000 +0000" stop="20251202140000 +0000">
-    <title lang="zh">Test Cricket Highlights</title>
-    <desc>New Zealand v West Indies. Action from day one of the First Test of the three-match series, held at Hagley Oval in Christchurch.</desc>
-    <date>2025-12-02</date>
-  </programme>
-  <programme channel="400480" start="20251202140000 +0000" stop="20251202150000 +0000">
-    <title lang="zh">West Indies Super50 Cup Highlights</title>
-    <desc>Action from the final.</desc>
-    <date>2025-12-02</date>
-  </programme>
-  <programme channel="400480" start="20251202150000 +0000" stop="20251202160000 +0000">
-    <title lang="zh">MLB Plays of the Week</title>
-    <desc>A look back at some of the best plays of the 2025 MLB season.</desc>
-    <date>2025-12-02</date>
-  </programme>
-  <programme channel="400480" start="20251202160000 +0000" stop="20251202173000 +0000">
-    <title lang="zh">Premier League</title>
-    <desc>Crystal Palace v Manchester United.</desc>
-    <date>2025-12-02</date>
-  </programme>
-  <programme channel="400480" start="20251202173000 +0000" stop="20251202183000 +0000">
-    <title lang="zh">Premier League Review</title>
-    <desc>A look back at the best of the recent action, including Tottenham Hotspur v Manchester United.</desc>
-    <date>2025-12-02</date>
-  </programme>
-  <programme channel="400480" start="20251202183000 +0000" stop="20251202190000 +0000">
-    <title lang="zh">Premier League Stories</title>
-    <desc>Gary Neville discusses the moments that defined his legacy at Manchester United.</desc>
-    <date>2025-12-02</date>
-  </programme>
-  <programme channel="400480" start="20251202190000 +0000" stop="20251202193000 +0000">
-    <title lang="zh">The Ashes</title>
-    <desc>An A-Z look at "])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"the Ashes, exploring the epic sporting rivalry between England and Australia that has produced countless iconic moments.</desc>
-    <date>2025-12-02</date>
-  </programme>
-  <programme channel="400480" start="20251202193000 +0000" stop="20251202203000 +0000">
-    <title lang="zh">One Day International Cricket</title>
-    <desc>India v South Africa in the first match of the series.</desc>
-    <date>2025-12-02</date>
-  </programme>
-  <programme channel="400480" start="20251202203000 +0000" stop="20251202213000 +0000">
-    <title lang="zh">Test Cricket Highlights</title>
-    <desc>New Zealand v West Indies. Action from day one of the First Test of the three-match series, held at Hagley Oval in Christchurch.</desc>
-    <date>2025-12-02</date>
-  </programme>
-  <programme channel="400480" start="20251202213000 +0000" stop="20251203000000 +0000">
-    <title lang="zh">Live Test Cricket</title>
-    <desc>New Zealand v West Indies. Coverage of day two of the First Test of the three-match series, held at Hagley Oval in Christchurch. The last series between the teams in this format came in December 2020 and was also in New Zealand soil, with the hosts claiming victories in Hamilton and Wellington to prevail 2-0 with the help of some fine bowling by the trio of Kyle Jamieson, Tim Southee and Neil Wagn</desc>
-    <date>2025-12-02</date>
-  </programme>
   <programme channel="400480" start="20251203060000 +0000" stop="20251203061500 +0000">
     <title lang="zh">UEFA Champions League - Stories of the Finals</title>
     <desc>A look back at the 2010 UEFA Champions League final between Inter Milan and Bayern Munich as Jose Mourinho became just the third man in history to lift the title with two clubs.</desc>
@@ -306,5 +211,90 @@
     <title lang="zh">Live Test Cricket</title>
     <desc>New Zealand v West Indies. Coverage of day three of the First Test of the three-match series, held at Hagley Oval in Christchurch.</desc>
     <date>2025-12-03</date>
+  </programme>
+  <programme channel="400480" start="20251204060000 +0000" stop="20251204063000 +0000">
+    <title lang="zh">Isuzu UTE A-League Highlights</title>
+    <desc>Action from the sixth round of fixtures, including Brisbane Roar v Melbourne Victory, Auckland FC v Newcastle Jets, and Macarthur FC v Perth Glory.</desc>
+    <date>2025-12-04</date>
+  </programme>
+  <programme channel="400480" start="20251204063000 +0000" stop="20251204070000 +0000">
+    <title lang="zh">Serie A - Full Impact</title>
+    <desc>All the best moments from Italy, including Pisa v Inter Milan, AS Roma v Napoli, and AC Milan v Lazio.</desc>
+    <date>2025-12-04</date>
+  </programme>
+  <programme channel="400480" start="20251204070000 +0000" stop="20251204080000 +0000">
+    <title lang="zh">SailGP Highlights</title>
+    <desc>Action from the Abu Dhabi Sail Grand Prix.</desc>
+    <date>2025-12-04</date>
+  </programme>
+  <programme channel="400480" start="20251204080000 +0000" stop="20251204090000 +0000">
+    <title lang="zh">MotoGP Breakdown Show</title>
+    <desc>A review of the 2025 campaign.</desc>
+    <date>2025-12-04</date>
+  </programme>
+  <programme channel="400480" start="20251204090000 +0000" stop="20251204103000 +0000">
+    <title lang="zh">Ultimate Pool</title>
+    <desc>Action from from group two of the Mixed Pairs Cup, as some of the country's leading eightball players battle it out for places in the next stage.</desc>
+    <date>2025-12-04</date>
+  </programme>
+  <programme channel="400480" start="20251204103000 +0000" stop="20251204123000 +0000">
+    <title lang="zh">Snooker UK Championship</title>
+    <desc>Action from day five of the event.</desc>
+    <date>2025-12-04</date>
+  </programme>
+  <programme channel="400480" start="20251204123000 +0000" stop="20251204130000 +0000">
+    <title lang="zh">UEFA Champions League Magazine</title>
+    <desc>Eberechi Eze opens up about his move to Arsenal and using his journey to inspire others. Plus, Benfica manager Jose Mourinho reflects on his greatest Champions League moments.</desc>
+    <date>2025-12-04</date>
+  </programme>
+  <programme channel="400480" start="20251204130000 +0000" stop="20251204140000 +0000">
+    <title lang="zh">Test Cricket Highlights</title>
+    <desc>New Zealand v West Indies. Action from the third day of the First Test of the three-match series, held at Hagley Oval in Christchurch.</desc>
+    <date>2025-12-04</date>
+  </programme>
+  <programme channel="400480" start="20251204140000 +0000" stop="20251204150000 +0000">
+    <title lang="zh">One Day International Cricket</title>
+    <desc>India v South Africa. Action from the second match in the three-game series, held at Shaheed Veer Narayan Singh International Cricket Stadium in Raipur.</desc>
+    <date>2025-12-04</date>
+  </programme>
+  <programme channel="400480" start="20251204150000 +0000" stop="20251204160000 +0000">
+    <title lang="zh">The Ashes</title>
+    <desc>Australia v England. Action from day two of the Second Test, held at Brisbane Cricket Ground.</desc>
+    <date>2025-12-04</date>
+  </programme>
+  <programme channel="400480" start="20251204160000 +0000" stop="20251204174500 +0000">
+    <title lang="zh">Live: Ski Jumping World Cup</title>
+    <desc>Coverage of day one of the women's HS134 in the latest meeting of the season, held in Wisla, Poland.</desc>
+    <date>2025-12-04</date>
+  </programme>
+  <programme channel="400480" start="20251204174500 +0000" stop="20251204181500 +0000">
+    <title lang="zh">Tom Aspinall's Fight Lab</title>
+    <desc>A preview of UFC 323 at T-Mobile Arena, which will be headlined by the bantamweight title clash between Merab Dvalishvili and Petr Yan.</desc>
+    <date>2025-12-04</date>
+  </programme>
+  <programme channel="400480" start="20251204181500 +0000" stop="20251204191500 +0000">
+    <title lang="zh">MLB Plays of the Week</title>
+    <desc>A look back at some of the best plays of the 2025 MLB season.</desc>
+    <date>2025-12-04</date>
+  </programme>
+  <programme channel="400480" start="20251204191500 +0000" stop="20251204193000 +0000">
+    <title lang="zh">UEFA Europa League Goals Reload</title>
+    <desc>The pick of the goals from the matchday five of the competition, including Aston Villa v Young Boys, Feyenoord v Aston Villa and Nottingham Forest v Malmo.</desc>
+    <date>2025-12-04</date>
+  </programme>
+  <programme channel="400480" start="20251204193000 +0000" stop="20251204200000 +0000">
+    <title lang="zh">The Breakdown</title>
+    <desc>Darren Fletcher sits down with Owen Hargreaves, Joe Cole and Joleon Lescott to assess the strengths of all the main contenders to win this season's UEFA Champions League.</desc>
+    <date>2025-12-04</date>
+  </programme>
+  <programme channel="400480" start="20251204200000 +0000" stop="20251204203000 +0000">
+    <title lang="zh">Serie A - Full Impact</title>
+    <desc>All the best moments from Italy, including Pisa v Inter Milan, AS Roma v Napoli, and AC Milan v Lazio.</desc>
+    <date>2025-12-04</date>
+  </programme>
+  <programme channel="400480" start="20251204203000 +0000" stop="20251205000000 +0000">
+    <title lang="zh">Test Cricket Highlights</title>
+    <desc>New Zealand v West Indies. Action from the third day of the First Test of the three-match series, held at Hagley Oval in Christchurch.</desc>
+    <date>2025-12-04</date>
   </programme>
 </tv>
