@@ -198,9 +198,14 @@
     <desc>Tottenham Hotspur v Slavia Prague (Kick-off 8.00pm). All the action from the matchday six fixture at Tottenham Hotspur Stadium. These teams haven't met since the last 32 of the 2007/08 UEFA Cup, when Spurs prevailed 3-2 on aggregate, and the Londoners will be hopeful of another victory this evening as they look to move a step closer to reaching the knockout stage.</desc>
     <date>2025-12-09</date>
   </programme>
-  <programme channel="400477" start="20251209223000 +0000" stop="20251210000000 +0000">
+  <programme channel="400477" start="20251209223000 +0000" stop="20251209230000 +0000">
     <title lang="zh">Live: UEFA Champions League Goals Show Xtra</title>
     <desc>Goals from Tuesday's matches, including Atalanta v Chelsea, Inter Milan v Liverpool, and Tottenham Hotspur v Slavia Prague.</desc>
+    <date>2025-12-09</date>
+  </programme>
+  <programme channel="400477" start="20251209230000 +0000" stop="20251210000000 +0000">
+    <title lang="zh">Live Test Cricket</title>
+    <desc>New Zealand v West Indies. Coverage of day one of the Second Test in the three-match series, held at Basin Reserve in Wellington. The teams last met in a Test at this venue in 2020, when New Zealand prevailed by an innings and 12 runs with the help of Henry Nicholls' knock of 174 in the first innings.</desc>
     <date>2025-12-09</date>
   </programme>
 <channel id="400480">
