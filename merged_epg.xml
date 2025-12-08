@@ -3,51 +3,6 @@
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 1 HD</display-name>
     <icon src="" />
   </channel>
-  <programme channel="400477" start="20251207000000 +0000" stop="20251207013000 +0000">
-    <title lang="zh">Premier League</title>
-    <desc>Aston Villa v Arsenal.</desc>
-    <date>2025-12-07</date>
-  </programme>
-  <programme channel="400477" start="20251207013000 +0000" stop="20251207023000 +0000">
-    <title lang="zh">Serie A</title>
-    <desc>Inter Milan v Como.</desc>
-    <date>2025-12-07</date>
-  </programme>
-  <programme channel="400477" start="20251207023000 +0000" stop="20251207033000 +0000">
-    <title lang="zh">The Ashes</title>
-    <desc>Australia v England. Action from day three of the Second Test in the five-match series, held at Brisbane Cricket Ground.</desc>
-    <date>2025-12-07</date>
-  </programme>
-  <programme channel="400477" start="20251207033000 +0000" stop="20251207120000 +0000">
-    <title lang="zh">The Ashes Live</title>
-    <desc>Australia v England. Coverage of day four of the Second Test in the five-match series, held at Brisbane Cricket Ground. The teams last met here in the opening contest of the 2021/22 Ashes, when a fine first innings total of 152 off just 148 balls from Travis Head helped Australia to a nine-wicket victory.</desc>
-    <date>2025-12-07</date>
-  </programme>
-  <programme channel="400477" start="20251207120000 +0000" stop="20251207150000 +0000">
-    <title lang="zh">Live Emirates FA Cup</title>
-    <desc>Slough Town v Macclesfield Town (Kick-off 12.30pm). Coverage of the second-round tie at Arbour Park.</desc>
-    <date>2025-12-07</date>
-  </programme>
-  <programme channel="400477" start="20251207150000 +0000" stop="20251207173000 +0000">
-    <title lang="zh">Live Emirates FA Cup</title>
-    <desc>Gateshead v Walsall (Kick-off 3.30pm). Coverage of the second-round tie at Gateshead International Stadium.</desc>
-    <date>2025-12-07</date>
-  </programme>
-  <programme channel="400477" start="20251207173000 +0000" stop="20251207200000 +0000">
-    <title lang="zh">Live Emirates FA Cup</title>
-    <desc>Blackpool v Carlisle United (Kick-off 5.30pm). Coverage of the second-round tie, held at Bloomfield Road. Blackpool prevailed 1-0 against Scunthorpe United in the previous round, while Carlisle produced a fine comeback to defeat Reading 3-2 after extra time.</desc>
-    <date>2025-12-07</date>
-  </programme>
-  <programme channel="400477" start="20251207200000 +0000" stop="20251207214500 +0000">
-    <title lang="zh">Live: Serie A</title>
-    <desc>Napoli v Juventus (Kick-off 7.45pm). All the action from the Italian top-flight match at Stadio Diego Armando Maradona.</desc>
-    <date>2025-12-07</date>
-  </programme>
-  <programme channel="400477" start="20251207214500 +0000" stop="20251208000000 +0000">
-    <title lang="zh">UFC</title>
-    <desc>Merab Dvalishvili v Petr Yan. Action from the bout for the Light"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1," Heavyweight Championship in UFC323 from T-Mobile Arena in Las Vegas, plus the undercard.</desc>
-    <date>2025-12-07</date>
-  </programme>
   <programme channel="400477" start="20251208004500 +0000" stop="20251208011500 +0000">
     <title lang="zh">UFC Connected</title>
     <desc>Exclusive access to fighters, teams and events.</desc>
@@ -158,95 +113,100 @@
     <desc>Gloucester-Hartpury v Ealing Trailfinders.</desc>
     <date>2025-12-08</date>
   </programme>
-  <programme channel="400477" start="20251209000000 +0000" stop="20251210000000 +0000">
+  <programme channel="400477" start="20251209000000 +0000" stop="20251209010000 +0000">
     <title lang="zh">The Ashes</title>
     <desc>Australia v England. Action from day five of the Second Test in the five-match series, held at Brisbane Cricket Ground.</desc>
+    <date>2025-12-09</date>
+  </programme>
+  <programme channel="400477" start="20251209010000 +0000" stop="20251209020000 +0000">
+    <title lang="zh">One Day International Cricket</title>
+    <desc>India v South Africa. Action from the third and final match of the series, held at ACA–VDCA Cricket Stadium in New Chandigarh.</desc>
+    <date>2025-12-09</date>
+  </programme>
+  <programme channel="400477" start="20251209020000 +0000" stop="20251209040000 +0000">
+    <title lang="zh">Test Cricket Highlights</title>
+    <desc>A review of the First Test between New Zealand and West Indies.</desc>
+    <date>2025-12-09</date>
+  </programme>
+  <programme channel="400477" start="20251209040000 +0000" stop="20251209060000 +0000">
+    <title lang="zh">Snooker UK Championship</title>
+    <desc>Action from the final at York Barbican.</desc>
+    <date>2025-12-09</date>
+  </programme>
+  <programme channel="400477" start="20251209060000 +0000" stop="20251209070000 +0000">
+    <title lang="zh">Premier League Review</title>
+    <desc>Action from the top flight, including Manchester City v Sunderland, Aston Villa v Arsenal, and Leeds United v  Liverpool.</desc>
+    <date>2025-12-09</date>
+  </programme>
+  <programme channel="400477" start="20251209070000 +0000" stop="20251209080000 +0000">
+    <title lang="zh">The Emirates FA Cup</title>
+    <desc>Brackley Town v Burton Albion.</desc>
+    <date>2025-12-09</date>
+  </programme>
+  <programme channel="400477" start="20251209080000 +0000" stop="20251209100000 +0000">
+    <title lang="zh">Test Cricket Highlights</title>
+    <desc>A review of the First Test between New Zealand and West Indies.</desc>
+    <date>2025-12-09</date>
+  </programme>
+  <programme channel="400477" start="20251209100000 +0000" stop="20251209101500 +0000">
+    <title lang="zh">TNT Sports Cricket Reload</title>
+    <desc>The best batting action from the Second Ashes Test between Australia and England.</desc>
+    <date>2025-12-09</date>
+  </programme>
+  <programme channel="400477" start="20251209101500 +0000" stop="20251209111500 +0000">
+    <title lang="zh">One Day International Cricket</title>
+    <desc>India v South Africa in the first match of the series.</desc>
+    <date>2025-12-09</date>
+  </programme>
+  <programme channel="400477" start="20251209111500 +0000" stop="20251209121500 +0000">
+    <title lang="zh">One Day International Cricket</title>
+    <desc>India v South Africa. Action from the second match in the three-game series, held at Shaheed Veer Narayan Singh International Cricket Stadium in Raipur.</desc>
+    <date>2025-12-09</date>
+  </programme>
+  <programme channel="400477" start="20251209121500 +0000" stop="20251209131500 +0000">
+    <title lang="zh">One Day International Cricket</title>
+    <desc>India v South Africa. Action from the third and final match of the series, held at ACA–VDCA Cricket Stadium in New Chandigarh.</desc>
+    <date>2025-12-09</date>
+  </programme>
+  <programme channel="400477" start="20251209131500 +0000" stop="20251209171500 +0000">
+    <title lang="zh">Live International T20 Cricket</title>
+    <desc>India v South Africa. Coverage of the first match in the five-game series, held at Barabati Stadium in Cuttack. The sides have met here in this format on two previous occasions, with South Africa taking the honours in both 2015 and 2022.</desc>
+    <date>2025-12-09</date>
+  </programme>
+  <programme channel="400477" start="20251209171500 +0000" stop="20251209173000 +0000">
+    <title lang="zh">TNT Sports Cricket Reload</title>
+    <desc>The best bowling action from the Second Ashes Test between Australia and England.</desc>
+    <date>2025-12-09</date>
+  </programme>
+  <programme channel="400477" start="20251209173000 +0000" stop="20251209180000 +0000">
+    <title lang="zh">The Ashes</title>
+    <desc>An A-Z look at "])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"the Ashes, exploring the epic sporting rivalry between England and Australia that has produced countless iconic moments.</desc>
+    <date>2025-12-09</date>
+  </programme>
+  <programme channel="400477" start="20251209180000 +0000" stop="20251209183000 +0000">
+    <title lang="zh">Premier League Netbusters</title>
+    <desc>Fast-paced highlights and alternative angles, including Aston Villa v Arsenal, Manchester City v Sunderland, and Wolverhampton Wanderers v Manchester United.</desc>
+    <date>2025-12-09</date>
+  </programme>
+  <programme channel="400477" start="20251209183000 +0000" stop="20251209190000 +0000">
+    <title lang="zh">Premier League Stories</title>
+    <desc>Regis Le Bris charts his journey from France to the dugout at Sunderland.</desc>
+    <date>2025-12-09</date>
+  </programme>
+  <programme channel="400477" start="20251209190000 +0000" stop="20251209223000 +0000">
+    <title lang="zh">Live UEFA Champions League</title>
+    <desc>Tottenham Hotspur v Slavia Prague (Kick-off 8.00pm). All the action from the matchday six fixture at Tottenham Hotspur Stadium. These teams haven't met since the last 32 of the 2007/08 UEFA Cup, when Spurs prevailed 3-2 on aggregate, and the Londoners will be hopeful of another victory this evening as they look to move a step closer to reaching the knockout stage.</desc>
+    <date>2025-12-09</date>
+  </programme>
+  <programme channel="400477" start="20251209223000 +0000" stop="20251210000000 +0000">
+    <title lang="zh">Live: UEFA Champions League Goals Show Xtra</title>
+    <desc>Goals from Tuesday's matches, including Atalanta v Chelsea, Inter Milan v Liverpool, and Tottenham Hotspur v Slavia Prague.</desc>
     <date>2025-12-09</date>
   </programme>
 <channel id="400480">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 2 HD</display-name>
     <icon src="" />
   </channel>
-  <programme channel="400480" start="20251207000000 +0000" stop="20251207010000 +0000">
-    <title lang="zh">UFC Countdown</title>
-    <desc>The countdown to UFC 323 at T-Mobile Arena in Las Vegas, which will feature the bantamweight title bout between Merab Dvalishvili and Petr Yan.</desc>
-    <date>2025-12-07</date>
-  </programme>
-  <programme channel="400480" start="20251207010000 +0000" stop="20251207030000 +0000">
-    <title lang="zh">Live UFC</title>
-    <desc>Coverage of the preliminary bouts from UFC 323, which take place at T-Mobile Arena in Las Vegas.</desc>
-    <date>2025-12-07</date>
-  </programme>
-  <programme channel="400480" start="20251207030000 +0000" stop="20251207070000 +0000">
-    <title lang="zh">Live UFC</title>
-    <desc>Merab Dvalishvili v Petr Yan).</desc>
-    <date>2025-12-07</date>
-  </programme>
-  <programme channel="400480" start="20251207070000 +0000" stop="20251207074500 +0000">
-    <title lang="zh">Live: A-League Women</title>
-    <desc>Adelaide United v Brisbane Roar (Kick-off 5.50am). All the action from the match at Hindmarsh Stadium.</desc>
-    <date>2025-12-07</date>
-  </programme>
-  <programme channel="400480" start="20251207074500 +0000" stop="20251207080000 +0000">
-    <title lang="zh">Kenny Allstar's Number 1's</title>
-    <desc>With Aston Villa star Morgan Rogers.</desc>
-    <date>2025-12-07</date>
-  </programme>
-  <programme channel="400480" start="20251207080000 +0000" stop="20251207083000 +0000">
-    <title lang="zh">The Emirates FA Cup Highlights</title>
-    <desc>Action from the second round.</desc>
-    <date>2025-12-07</date>
-  </programme>
-  <programme channel="400480" start="20251207083000 +0000" stop="20251207103000 +0000">
-    <title lang="zh">Live: Isuzu UTE A-League</title>
-    <desc>Adelaide United v Brisbane Roar (Kick-off 8.35am). All the action from the match at Coopers Stadium.</desc>
-    <date>2025-12-07</date>
-  </programme>
-  <programme channel="400480" start="20251207103000 +0000" stop="20251207113000 +0000">
-    <title lang="zh">Serie A</title>
-    <desc>Inter Milan v Como.</desc>
-    <date>2025-12-07</date>
-  </programme>
-  <programme channel="400480" start="20251207113000 +0000" stop="20251207120000 +0000">
-    <title lang="zh">The Emirates FA Cup Highlights</title>
-    <desc>Action from the second round.</desc>
-    <date>2025-12-07</date>
-  </programme>
-  <programme channel="400480" start="20251207120000 +0000" stop="20251207143000 +0000">
-    <title lang="zh">Live Emirates FA Cup</title>
-    <desc>Slough Town v Macclesfield Town (Kick-off 12.30pm). Coverage of the second-round tie at Arbour Park.</desc>
-    <date>2025-12-07</date>
-  </programme>
-  <programme channel="400480" start="20251207143000 +0000" stop="20251207164500 +0000">
-    <title lang="zh">Live Emirates FA Cup</title>
-    <desc>Boreham Wood v Newport County (Kick-off 2.30pm). Coverage of the second-round match at Meadow Park. National League outfit Boreham Wood were in fine form in the opening round when they prevailed 3-0 here against League Two side Crawley Town. They now face another team from that division, who defeated Gillingham on penalties in the previous round, but have struggled in the league this term.</desc>
-    <date>2025-12-07</date>
-  </programme>
-  <programme channel="400480" start="20251207164500 +0000" stop="20251207200000 +0000">
-    <title lang="zh">Live Emirates FA Cup</title>
-    <desc>Blackpool v Carlisle United (Kick-off 5.30pm). Coverage of the second-round tie, held at Bloomfield Road. Blackpool prevailed 1-0 against Scunthorpe United in the previous round, while Carlisle produced a fine comeback to defeat Reading 3-2 after extra time.</desc>
-    <date>2025-12-07</date>
-  </programme>
-  <programme channel="400480" start="20251207200000 +0000" stop="20251207210000 +0000">
-    <title lang="zh">Live: Men's Alpine Skiing World Cup</title>
-    <desc>Coverage of run two of the giant slalom in the latest meeting of the season from Beaver Creek, Colorado.</desc>
-    <date>2025-12-07</date>
-  </programme>
-  <programme channel="400480" start="20251207210000 +0000" stop="20251207220000 +0000">
-    <title lang="zh">Isuzu UTE A-League</title>
-    <desc>Adelaide United v Brisbane Roar.</desc>
-    <date>2025-12-07</date>
-  </programme>
-  <programme channel="400480" start="20251207220000 +0000" stop="20251207230000 +0000">
-    <title lang="zh">The Emirates FA Cup</title>
-    <desc>Slough Town v Macclesfield Town.</desc>
-    <date>2025-12-07</date>
-  </programme>
-  <programme channel="400480" start="20251207230000 +0000" stop="20251208000000 +0000">
-    <title lang="zh">The Emirates FA Cup</title>
-    <desc>Boreham Wood v Newport County.</desc>
-    <date>2025-12-07</date>
-  </programme>
   <programme channel="400480" start="20251208000000 +0000" stop="20251208010000 +0000">
     <title lang="zh">The Emirates FA Cup</title>
     <desc>Gateshead v Walsall.</desc>
@@ -372,9 +332,129 @@
     <desc>Bowling action from the First Test between New Zealand and West Indies.</desc>
     <date>2025-12-08</date>
   </programme>
-  <programme channel="400480" start="20251209000000 +0000" stop="20251210000000 +0000">
+  <programme channel="400480" start="20251209000000 +0000" stop="20251209010000 +0000">
     <title lang="zh">Isuzu UTE A-League</title>
     <desc>Macarthur FC v Melbourne Victory.</desc>
+    <date>2025-12-09</date>
+  </programme>
+  <programme channel="400480" start="20251209010000 +0000" stop="20251209020000 +0000">
+    <title lang="zh">Isuzu UTE A-League</title>
+    <desc>Perth Glory v Western Sydney Wanderers.</desc>
+    <date>2025-12-09</date>
+  </programme>
+  <programme channel="400480" start="20251209020000 +0000" stop="20251209030000 +0000">
+    <title lang="zh">Isuzu UTE A-League</title>
+    <desc>Auckland FC v Wellington Phoenix.</desc>
+    <date>2025-12-09</date>
+  </programme>
+  <programme channel="400480" start="20251209030000 +0000" stop="20251209040000 +0000">
+    <title lang="zh">Isuzu UTE A-League</title>
+    <desc>Newcastle Jets v Melbourne City.</desc>
+    <date>2025-12-09</date>
+  </programme>
+  <programme channel="400480" start="20251209040000 +0000" stop="20251209050000 +0000">
+    <title lang="zh">Isuzu UTE A-League</title>
+    <desc>Central Coast Mariners v Sydney FC.</desc>
+    <date>2025-12-09</date>
+  </programme>
+  <programme channel="400480" start="20251209050000 +0000" stop="20251209060000 +0000">
+    <title lang="zh">Isuzu UTE A-League</title>
+    <desc>Adelaide United v Brisbane Roar.</desc>
+    <date>2025-12-09</date>
+  </programme>
+  <programme channel="400480" start="20251209060000 +0000" stop="20251209070000 +0000">
+    <title lang="zh">MotoGP</title>
+    <desc>Action from MotoGP.</desc>
+    <date>2025-12-09</date>
+  </programme>
+  <programme channel="400480" start="20251209070000 +0000" stop="20251209080000 +0000">
+    <title lang="zh">MotoGP</title>
+    <desc>Action from MotoGP.</desc>
+    <date>2025-12-09</date>
+  </programme>
+  <programme channel="400480" start="20251209080000 +0000" stop="20251209083000 +0000">
+    <title lang="zh">The Breakdown</title>
+    <desc>Darren Fletcher sits down with Owen Hargreaves, Joe Cole and Joleon Lescott to assess the strengths of all the main contenders to win this season's UEFA Champions League.</desc>
+    <date>2025-12-09</date>
+  </programme>
+  <programme channel="400480" start="20251209083000 +0000" stop="20251209090000 +0000">
+    <title lang="zh">UEFA Champions League Magazine</title>
+    <desc>Pierre-Emerick Aubameyang reflects on the personal and professional journey that has led him to Marseille. Plus, interviews with PSG star Joao Neves and Inter boss Cristian Chivu.</desc>
+    <date>2025-12-09</date>
+  </programme>
+  <programme channel="400480" start="20251209090000 +0000" stop="20251209100000 +0000">
+    <title lang="zh">UEFA Europa League &amp; Conference League Magazine</title>
+    <desc>Oliver Glasner reflects on his successes with Frankfurt and Crystal Palace. Plus, former Liverpool midfielder Tyler Morton talks about his new start at Lyon.</desc>
+    <date>2025-12-09</date>
+  </programme>
+  <programme channel="400480" start="20251209100000 +0000" stop="20251209110000 +0000">
+    <title lang="zh">Serie A</title>
+    <desc>Inter Milan v Como.</desc>
+    <date>2025-12-09</date>
+  </programme>
+  <programme channel="400480" start="20251209110000 +0000" stop="20251209120000 +0000">
+    <title lang="zh">Serie A</title>
+    <desc>Napoli v Juventus.</desc>
+    <date>2025-12-09</date>
+  </programme>
+  <programme channel="400480" start="20251209120000 +0000" stop="20251209130000 +0000">
+    <title lang="zh">Premier League Review</title>
+    <desc>Action from the top flight, including Manchester City v Sunderland, Aston Villa v Arsenal, and Leeds United v  Liverpool.</desc>
+    <date>2025-12-09</date>
+  </programme>
+  <programme channel="400480" start="20251209130000 +0000" stop="20251209140000 +0000">
+    <title lang="zh">UEFA Europa League &amp; Conference League Magazine</title>
+    <desc>Oliver Glasner reflects on his successes with Frankfurt and Crystal Palace. Plus, former Liverpool midfielder Tyler Morton talks about his new start at Lyon.</desc>
+    <date>2025-12-09</date>
+  </programme>
+  <programme channel="400480" start="20251209140000 +0000" stop="20251209144500 +0000">
+    <title lang="zh">Sign Up - Into Football</title>
+    <desc>This month's guests include Burnley head coach Scott Parker, goalkeeper Martin Dubravka, presenter Lynsey Hipgrave and GB's Deaflympics bronze medalist, Coco Briden.</desc>
+    <date>2025-12-09</date>
+  </programme>
+  <programme channel="400480" start="20251209144500 +0000" stop="20251209150000 +0000">
+    <title lang="zh">UEFA Champions League Goals Reload</title>
+    <desc>The pick of the goals from matchday five, including Paris Saint-Germain v Tottenham Hotspur, Manchester City v Bayer Leverkusen, and Arsenal v Bayern Munich.</desc>
+    <date>2025-12-09</date>
+  </programme>
+  <programme channel="400480" start="20251209150000 +0000" stop="20251209170000 +0000">
+    <title lang="zh">Live UEFA Youth League</title>
+    <desc>Inter Milan Under-19s v Liverpool Under-19s (Kick-off 3.00pm). Coverage of the match at Centro Sportivo Giacinto Facchetti.</desc>
+    <date>2025-12-09</date>
+  </programme>
+  <programme channel="400480" start="20251209170000 +0000" stop="20251209180000 +0000">
+    <title lang="zh">Premier League Review</title>
+    <desc>Action from the top flight, including Manchester City v Sunderland, Aston Villa v Arsenal, and Leeds United v  Liverpool.</desc>
+    <date>2025-12-09</date>
+  </programme>
+  <programme channel="400480" start="20251209180000 +0000" stop="20251209181500 +0000">
+    <title lang="zh">Kenny Allstar's Number 1's</title>
+    <desc>With Aston Villa star Morgan Rogers.</desc>
+    <date>2025-12-09</date>
+  </programme>
+  <programme channel="400480" start="20251209181500 +0000" stop="20251209190000 +0000">
+    <title lang="zh">Ally's Social Club</title>
+    <desc>An interview with legendary manager, Carlo Ancelotti.</desc>
+    <date>2025-12-09</date>
+  </programme>
+  <programme channel="400480" start="20251209190000 +0000" stop="20251209223000 +0000">
+    <title lang="zh">Live UEFA Champions League</title>
+    <desc>Atalanta v Chelsea (Kick-off 8.00pm). All the action from the matchday six league phase match at Gewiss Stadium, as the teams meet in a competitive fixture for the first time. A win for either of these teams this evening will give them high hopes of reaching at least the play-off round.</desc>
+    <date>2025-12-09</date>
+  </programme>
+  <programme channel="400480" start="20251209223000 +0000" stop="20251209230000 +0000">
+    <title lang="zh">Live: UEFA Champions League Goals Show Xtra</title>
+    <desc>Goals from Tuesday's matches, including Atalanta v Chelsea, Inter Milan v Liverpool, and Tottenham Hotspur v Slavia Prague.</desc>
+    <date>2025-12-09</date>
+  </programme>
+  <programme channel="400480" start="20251209230000 +0000" stop="20251209231500 +0000">
+    <title lang="zh">Premier League Reload</title>
+    <desc>A unique and fast-paced look at all the best action from the top flight, including Manchester City v Sunderland and Aston Villa v Arsenal.</desc>
+    <date>2025-12-09</date>
+  </programme>
+  <programme channel="400480" start="20251209231500 +0000" stop="20251210000000 +0000">
+    <title lang="zh">International T20 Cricket Highlights</title>
+    <desc>India v South Africa. Action from the first match in the five-game series, held at Barabati Stadium in Cuttack.</desc>
     <date>2025-12-09</date>
   </programme>
 </tv>
