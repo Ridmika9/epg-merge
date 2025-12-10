@@ -203,9 +203,14 @@
     <desc>FC Basel v Aston Villa (Kick-off 8.00pm). Coverage of the matchday six league phase match at St Jakob-Park.</desc>
     <date>2025-12-11</date>
   </programme>
-  <programme channel="400477" start="20251211223000 +0000" stop="20251212000000 +0000">
+  <programme channel="400477" start="20251211223000 +0000" stop="20251211231500 +0000">
     <title lang="zh">UEFA Europa &amp; Conference League Highlights</title>
     <desc>Highlights of from matchday six of the Europa League and matchday five of the Conference League.</desc>
+    <date>2025-12-11</date>
+  </programme>
+  <programme channel="400477" start="20251211231500 +0000" stop="20251212000000 +0000">
+    <title lang="zh">Live Test Cricket</title>
+    <desc>New Zealand v West Indies. Coverage of day three of the Second Test in the three-match series, held at Basin Reserve in Wellington. The teams last met in a Test at this venue in 2020, when New Zealand prevailed by an innings and 12 runs with the help of Henry Nicholls' knock of 174 in the first innings.</desc>
     <date>2025-12-11</date>
   </programme>
 <channel id="400480">
