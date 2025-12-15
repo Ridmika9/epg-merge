@@ -183,9 +183,14 @@
     <desc>Coverage of a first-round match on day two from Meadowbank Sports Centre in Edinburgh, played over the best of seven frames.</desc>
     <date>2025-12-16</date>
   </programme>
-  <programme channel="400477" start="20251216210000 +0000" stop="20251217000000 +0000">
+  <programme channel="400477" start="20251216210000 +0000" stop="20251216223000 +0000">
     <title lang="zh">Live: Snooker Home Nations Series Scottish Open</title>
     <desc>Coverage of a first-round match on day two from Meadowbank Sports Centre in Edinburgh, played over the best of seven frames.</desc>
+    <date>2025-12-16</date>
+  </programme>
+  <programme channel="400477" start="20251216223000 +0000" stop="20251217000000 +0000">
+    <title lang="zh">The Ashes Live</title>
+    <desc>Australia v England. Coverage of day one of the Third Test in the five-match series, held at Adelaide Oval. Australia have an excellent recent Test record at this venue, winning their last seven matches here, including a 275-run victory over England in 2021 and a 10-wicket triump against India when they last played here in this format 12 months ago.</desc>
     <date>2025-12-16</date>
   </programme>
 <channel id="400480">
