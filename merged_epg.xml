@@ -188,9 +188,14 @@
     <desc>Coverage of a second-round match on day three from Meadowbank Sports Centre in Edinburgh, played over the best of seven frames.</desc>
     <date>2025-12-17</date>
   </programme>
-  <programme channel="400477" start="20251217210000 +0000" stop="20251218000000 +0000">
+  <programme channel="400477" start="20251217210000 +0000" stop="20251217230000 +0000">
     <title lang="zh">Live: Snooker Home Nations Series Scottish Open</title>
     <desc>Coverage of a second-round match on day three from Meadowbank Sports Centre in Edinburgh, played over the best of seven frames. Eventual champion Lei Peifan claimed a hard-fought 4-3 victory over Lei Peifan in round two last year.</desc>
+    <date>2025-12-17</date>
+  </programme>
+  <programme channel="400477" start="20251217230000 +0000" stop="20251218000000 +0000">
+    <title lang="zh">The Ashes Live</title>
+    <desc>Australia v England. Coverage of day two of the Third Test in the five-match series, held at Adelaide Oval. Australia claimed a comfortable 275-run victory when the teams last met here in this format in 2021. Marnus Labuschagne \\n was the only player to score a century for either side with his first innings total of 103, and he further helped his team to victory by following that knock with a hal</desc>
     <date>2025-12-17</date>
   </programme>
 <channel id="400480">
