@@ -3,91 +3,6 @@
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 1 HD</display-name>
     <icon src="" />
   </channel>
-  <programme channel="400477" start="20251215003000 +0000" stop="20251215013000 +0000">
-    <title lang="zh">Serie A</title>
-    <desc>AC Milan v Sassuolo.</desc>
-    <date>2025-12-15</date>
-  </programme>
-  <programme channel="400477" start="20251215013000 +0000" stop="20251215023000 +0000">
-    <title lang="zh">Serie A</title>
-    <desc>Bologna v Juventus.</desc>
-    <date>2025-12-15</date>
-  </programme>
-  <programme channel="400477" start="20251215023000 +0000" stop="20251215043000 +0000">
-    <title lang="zh">Snooker Shoot Out</title>
-    <desc>Action from the final day of the single-frame tournament.</desc>
-    <date>2025-12-15</date>
-  </programme>
-  <programme channel="400477" start="20251215043000 +0000" stop="20251215060000 +0000">
-    <title lang="zh">Ultimate Pool</title>
-    <desc>Action from group three of the Ultimate Pool Mixed Pairs.</desc>
-    <date>2025-12-15</date>
-  </programme>
-  <programme channel="400477" start="20251215060000 +0000" stop="20251215080000 +0000">
-    <title lang="zh">Snooker Shoot Out</title>
-    <desc>Action from the final day of the single-frame tournament.</desc>
-    <date>2025-12-15</date>
-  </programme>
-  <programme channel="400477" start="20251215080000 +0000" stop="20251215093000 +0000">
-    <title lang="zh">Premier League</title>
-    <desc>Arsenal v Wolverhampton Wanderers.</desc>
-    <date>2025-12-15</date>
-  </programme>
-  <programme channel="400477" start="20251215093000 +0000" stop="20251215103000 +0000">
-    <title lang="zh">UEFA Champions League Highlights Show</title>
-    <desc>A round-up of all the goals from Tuesday's matches, including Atalanta v Chelsea, Tottenham Hotspur v Slavia Prague and and Inter MIlan v Liverpool.</desc>
-    <date>2025-12-15</date>
-  </programme>
-  <programme channel="400477" start="20251215103000 +0000" stop="20251215113000 +0000">
-    <title lang="zh">UEFA Champions League Highlights Show</title>
-    <desc>A round-up of goals from Wednesday's matches, including Real Madrid v Manchester City, Club Brugge v Arsenal and Bayer Leverkusen v Newcastle United.</desc>
-    <date>2025-12-15</date>
-  </programme>
-  <programme channel="400477" start="20251215113000 +0000" stop="20251215123000 +0000">
-    <title lang="zh">UEFA Europa League &amp; Conference League Highlights Show</title>
-    <desc>Action frommatchday six of the Europa League and matchday five of the Conference League.</desc>
-    <date>2025-12-15</date>
-  </programme>
-  <programme channel="400477" start="20251215123000 +0000" stop="20251215124500 +0000">
-    <title lang="zh">TNT Sports Cricket Reload</title>
-    <desc>The best batting action from the Second Ashes Test between Australia and England.</desc>
-    <date>2025-12-15</date>
-  </programme>
-  <programme channel="400477" start="20251215124500 +0000" stop="20251215130000 +0000">
-    <title lang="zh">TNT Sports Cricket Reload</title>
-    <desc>The best bowling action from the Second Ashes Test between Australia and England.</desc>
-    <date>2025-12-15</date>
-  </programme>
-  <programme channel="400477" start="20251215130000 +0000" stop="20251215170000 +0000">
-    <title lang="zh">Live: Snooker Home Nations Series Scottish Open</title>
-    <desc>Coverage of a first-round match on day one from Meadowbank Sports Centre in Edinburgh, played over the best of seven frames.</desc>
-    <date>2025-12-15</date>
-  </programme>
-  <programme channel="400477" start="20251215170000 +0000" stop="20251215180000 +0000">
-    <title lang="zh">International T20 Cricket Highlights</title>
-    <desc>Action from the third T20 between India and South Africa.</desc>
-    <date>2025-12-15</date>
-  </programme>
-  <programme channel="400477" start="20251215180000 +0000" stop="20251215190000 +0000">
-    <title lang="zh">T100 Triathlon World Tour Highlights</title>
-    <desc>Action from the final in Doha, Qatar.</desc>
-    <date>2025-12-15</date>
-  </programme>
-  <programme channel="400477" start="20251215190000 +0000" stop="20251215210000 +0000">
-    <title lang="zh">Live: Snooker Home Nations Series Scottish Open</title>
-    <desc>Coverage of a first-round match on day one from Meadowbank Sports Centre in Edinburgh, played over the best of seven frames.</desc>
-    <date>2025-12-15</date>
-  </programme>
-  <programme channel="400477" start="20251215210000 +0000" stop="20251215230000 +0000">
-    <title lang="zh">Live: Snooker Home Nations Series Scottish Open</title>
-    <desc>Coverage of a first-round match on day one from Meadowbank Sports Centre in Edinburgh, played over the best of seven frames.</desc>
-    <date>2025-12-15</date>
-  </programme>
-  <programme channel="400477" start="20251215230000 +0000" stop="20251216000000 +0000">
-    <title lang="zh">Hard Knocks: In Season with the NFC East</title>
-    <desc>Eagles wide receiver A.J. Brown spreads some holiday cheer ahead of a crunch trip to face the Chargers, while the Cowboys hunt for a big win against the Lions.</desc>
-    <date>2025-12-15</date>
-  </programme>
   <programme channel="400477" start="20251216000000 +0000" stop="20251216010000 +0000">
     <title lang="zh">Serie A</title>
     <desc>AC Milan v Sassuolo.</desc>
@@ -193,150 +108,95 @@
     <desc>Australia v England. Coverage of day one of the Third Test in the five-match series, held at Adelaide Oval. Australia have an excellent recent Test record at this venue, winning their last seven matches here, including a 275-run victory over England in 2021 and a 10-wicket triump against India when they last played here in this format 12 months ago.</desc>
     <date>2025-12-16</date>
   </programme>
+  <programme channel="400477" start="20251217073000 +0000" stop="20251217093000 +0000">
+    <title lang="zh">Test Cricket Highlights</title>
+    <desc>A review of the Second Test between New Zealand and West Indies.</desc>
+    <date>2025-12-17</date>
+  </programme>
+  <programme channel="400477" start="20251217093000 +0000" stop="20251217094500 +0000">
+    <title lang="zh">UEFA Champions League Goals Reload</title>
+    <desc>The pick of the goals from matchday six, including Real Madrid v Manchester City, Inter Milan v Liverpool, and Bayer Leverkusen v Newcastle United.</desc>
+    <date>2025-12-17</date>
+  </programme>
+  <programme channel="400477" start="20251217094500 +0000" stop="20251217100000 +0000">
+    <title lang="zh">UEFA Europa League Goals Reload</title>
+    <desc>The pick of the goals from matchday six of the league phase.</desc>
+    <date>2025-12-17</date>
+  </programme>
+  <programme channel="400477" start="20251217100000 +0000" stop="20251217103000 +0000">
+    <title lang="zh">Premier League Netbusters</title>
+    <desc>A fast-paced look at the best action from the top flight, including Chelsea v Everton, Liverpool v Brighton \u0026 Hove Albion, and Arsenal v Wolverhampton Wanderers.</desc>
+    <date>2025-12-17</date>
+  </programme>
+  <programme channel="400477" start="20251217103000 +0000" stop="20251217110000 +0000">
+    <title lang="zh">Premier League Stories</title>
+    <desc>Yankuba Minteh's journey from The Gambia to the Premier League.</desc>
+    <date>2025-12-17</date>
+  </programme>
+  <programme channel="400477" start="20251217110000 +0000" stop="20251217120000 +0000">
+    <title lang="zh">The Ashes</title>
+    <desc>Australia v England. Action from day one of the Third Test in the five-match series, held at Adelaide Oval.</desc>
+    <date>2025-12-17</date>
+  </programme>
+  <programme channel="400477" start="20251217120000 +0000" stop="20251217130000 +0000">
+    <title lang="zh">Premier League Review</title>
+    <desc>Action from the top flight, including Liverpool v Brighton \u0026 Hove Albion, Crystal Palace v Manchester City, and Chelsea v Everton.</desc>
+    <date>2025-12-17</date>
+  </programme>
+  <programme channel="400477" start="20251217130000 +0000" stop="20251217150000 +0000">
+    <title lang="zh">Live: Snooker Home Nations Series Scottish Open</title>
+    <desc>Coverage of a second-round match on day three from Meadowbank Sports Centre in Edinburgh, played over the best of seven frames. Ali Carter edged past Robbie Williams 4-3 in one of last years second-round contests.</desc>
+    <date>2025-12-17</date>
+  </programme>
+  <programme channel="400477" start="20251217150000 +0000" stop="20251217170000 +0000">
+    <title lang="zh">Live: Snooker Home Nations Series Scottish Open</title>
+    <desc>Coverage of a second-round match on day three from Meadowbank Sports Centre in Edinburgh, played over the best of seven frames. Two-time champion Mark Selby was among the high-profile casualties at this stage last year, losing 4-2 to Noppon Saengkham.</desc>
+    <date>2025-12-17</date>
+  </programme>
+  <programme channel="400477" start="20251217170000 +0000" stop="20251217171500 +0000">
+    <title lang="zh">UEFA Champions League Goals Reload</title>
+    <desc>The pick of the goals from matchday six, including Real Madrid v Manchester City, Inter Milan v Liverpool, and Bayer Leverkusen v Newcastle United.</desc>
+    <date>2025-12-17</date>
+  </programme>
+  <programme channel="400477" start="20251217171500 +0000" stop="20251217173000 +0000">
+    <title lang="zh">UEFA Europa League Goals Reload</title>
+    <desc>The pick of the goals from matchday six of the league phase.</desc>
+    <date>2025-12-17</date>
+  </programme>
+  <programme channel="400477" start="20251217173000 +0000" stop="20251217174500 +0000">
+    <title lang="zh">UEFA Conference League Goals Reload</title>
+    <desc>A look at the best goals from matchday five of the league phase.</desc>
+    <date>2025-12-17</date>
+  </programme>
+  <programme channel="400477" start="20251217174500 +0000" stop="20251217180000 +0000">
+    <title lang="zh">Premier League Reload</title>
+    <desc>Brief highlights from the top flight.</desc>
+    <date>2025-12-17</date>
+  </programme>
+  <programme channel="400477" start="20251217180000 +0000" stop="20251217183000 +0000">
+    <title lang="zh">TNT Sports Reload</title>
+    <desc>The best bits from TNT Sports over the last week.</desc>
+    <date>2025-12-17</date>
+  </programme>
+  <programme channel="400477" start="20251217183000 +0000" stop="20251217190000 +0000">
+    <title lang="zh">Serie A - Full Impact</title>
+    <desc>All the best moments from the Italian top flight, including AC Milan v Sassuolo, Genoa v Inter Milan, AS Roma v Como and Bologna v Juventus.</desc>
+    <date>2025-12-17</date>
+  </programme>
+  <programme channel="400477" start="20251217190000 +0000" stop="20251217210000 +0000">
+    <title lang="zh">Live: Snooker Home Nations Series Scottish Open</title>
+    <desc>Coverage of a second-round match on day three from Meadowbank Sports Centre in Edinburgh, played over the best of seven frames.</desc>
+    <date>2025-12-17</date>
+  </programme>
+  <programme channel="400477" start="20251217210000 +0000" stop="20251218000000 +0000">
+    <title lang="zh">Live: Snooker Home Nations Series Scottish Open</title>
+    <desc>Coverage of a second-round match on day three from Meadowbank Sports Centre in Edinburgh, played over the best of seven frames. Eventual champion Lei Peifan claimed a hard-fought 4-3 victory over Lei Peifan in round two last year.</desc>
+    <date>2025-12-17</date>
+  </programme>
 <channel id="400480">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 2 HD</display-name>
     <icon src="" />
   </channel>
-  <programme channel="400480" start="20251215000000 +0000" stop="20251215003000 +0000">
-    <title lang="zh">UFC Fight Flashback</title>
-    <desc>A look back at the light heavyweight title showdown between Jon Jones and Daniel Cormier at UFC 182 in January 2015.</desc>
-    <date>2025-12-15</date>
-  </programme>
-  <programme channel="400480" start="20251215003000 +0000" stop="20251215010000 +0000">
-    <title lang="zh">UFC Fight Flashback</title>
-    <desc>A look back at the pulsating clash between Tyron Woodley and Stephen Thompson at UFC 205 in New York from November 2016.</desc>
-    <date>2025-12-15</date>
-  </programme>
-  <programme channel="400480" start="20251215010000 +0000" stop="20251215020000 +0000">
-    <title lang="zh">Isuzu UTE A-League</title>
-    <desc>Wellington Phoenix v Newcastle Jets.</desc>
-    <date>2025-12-15</date>
-  </programme>
-  <programme channel="400480" start="20251215020000 +0000" stop="20251215023000 +0000">
-    <title lang="zh">Cyclocross</title>
-    <desc>Action from the Women's World Cup in Namur, Belgium.</desc>
-    <date>2025-12-15</date>
-  </programme>
-  <programme channel="400480" start="20251215023000 +0000" stop="20251215030000 +0000">
-    <title lang="zh">Cyclocross</title>
-    <desc>Action from the men's World Cup in Namur, Belgium.</desc>
-    <date>2025-12-15</date>
-  </programme>
-  <programme channel="400480" start="20251215030000 +0000" stop="20251215033000 +0000">
-    <title lang="zh">Men's Alpine Skiing World Cup</title>
-    <desc>Run one of the slalom from Val d'Isere in France.</desc>
-    <date>2025-12-15</date>
-  </programme>
-  <programme channel="400480" start="20251215033000 +0000" stop="20251215040000 +0000">
-    <title lang="zh">Men's Alpine Skiing World Cup</title>
-    <desc>Run two of the slalom from Val d'Isere in France.</desc>
-    <date>2025-12-15</date>
-  </programme>
-  <programme channel="400480" start="20251215040000 +0000" stop="20251215043000 +0000">
-    <title lang="zh">Women's Alpine Skiing World Cup</title>
-    <desc>The super-G from Saint Moritz, Switzerland.</desc>
-    <date>2025-12-15</date>
-  </programme>
-  <programme channel="400480" start="20251215043000 +0000" stop="20251215050000 +0000">
-    <title lang="zh">Ski Jumping World Cup</title>
-    <desc>Day two of the men's HS140 in Klingenthal, Germany.</desc>
-    <date>2025-12-15</date>
-  </programme>
-  <programme channel="400480" start="20251215050000 +0000" stop="20251215060000 +0000">
-    <title lang="zh">Fishing: On the Bank</title>
-    <desc>Angling magazine show presented by Rob Hughes and Andy Ford, featuring coverage of round six of the European Fishing League.</desc>
-    <date>2025-12-15</date>
-  </programme>
-  <programme channel="400480" start="20251215060000 +0000" stop="20251215070000 +0000">
-    <title lang="zh">International T20 Cricket Highlights</title>
-    <desc>Action from the third T20 between India and South Africa.</desc>
-    <date>2025-12-15</date>
-  </programme>
-  <programme channel="400480" start="20251215070000 +0000" stop="20251215080000 +0000">
-    <title lang="zh">Test Cricket Highlights</title>
-    <desc>Action from day five of the Second Test between New Zealand and West Indies.</desc>
-    <date>2025-12-15</date>
-  </programme>
-  <programme channel="400480" start="20251215080000 +0000" stop="20251215090000 +0000">
-    <title lang="zh">Premiership Women's Rugby</title>
-    <desc>Exeter Chiefs v Saracens.</desc>
-    <date>2025-12-15</date>
-  </programme>
-  <programme channel="400480" start="20251215090000 +0000" stop="20251215100000 +0000">
-    <title lang="zh">Adobe Women's FA Cup</title>
-    <desc>Wolverhampton Wanderers v Nottingham Forest.</desc>
-    <date>2025-12-15</date>
-  </programme>
-  <programme channel="400480" start="20251215100000 +0000" stop="20251215110000 +0000">
-    <title lang="zh">Adobe Women's FA Cup</title>
-    <desc>Lewes v Crystal Palace.</desc>
-    <date>2025-12-15</date>
-  </programme>
-  <programme channel="400480" start="20251215110000 +0000" stop="20251215120000 +0000">
-    <title lang="zh">Serie A</title>
-    <desc>AC Milan v Sassuolo.</desc>
-    <date>2025-12-15</date>
-  </programme>
-  <programme channel="400480" start="20251215120000 +0000" stop="20251215130000 +0000">
-    <title lang="zh">Serie A</title>
-    <desc>Bologna v Juventus.</desc>
-    <date>2025-12-15</date>
-  </programme>
-  <programme channel="400480" start="20251215130000 +0000" stop="20251215133000 +0000">
-    <title lang="zh">Premier League - The Big Interview</title>
-    <desc>An in-depth interview with Manchester United defender Harry Maguire.</desc>
-    <date>2025-12-15</date>
-  </programme>
-  <programme channel="400480" start="20251215133000 +0000" stop="20251215140000 +0000">
-    <title lang="zh">Premier League Stories</title>
-    <desc>Regis Le Bris charts his journey from France to the dugout at Sunderland.</desc>
-    <date>2025-12-15</date>
-  </programme>
-  <programme channel="400480" start="20251215140000 +0000" stop="20251215150000 +0000">
-    <title lang="zh">UEFA Europa League &amp; Conference League Magazine</title>
-    <desc>Panathinaikos manager Rafa Benitez talks through some key moments in his career. Plus, an interview with Viktoria Plzen captain Matej Vydra.</desc>
-    <date>2025-12-15</date>
-  </programme>
-  <programme channel="400480" start="20251215150000 +0000" stop="20251215153000 +0000">
-    <title lang="zh">UEFA Champions League Magazine</title>
-    <desc>The latest news and updates from the competition.</desc>
-    <date>2025-12-15</date>
-  </programme>
-  <programme channel="400480" start="20251215153000 +0000" stop="20251215160000 +0000">
-    <title lang="zh">Cyclocross</title>
-    <desc>Action from the Women's World Cup in Namur, Belgium.</desc>
-    <date>2025-12-15</date>
-  </programme>
-  <programme channel="400480" start="20251215160000 +0000" stop="20251215163000 +0000">
-    <title lang="zh">Cyclocross</title>
-    <desc>Action from the men's World Cup in Namur, Belgium.</desc>
-    <date>2025-12-15</date>
-  </programme>
-  <programme channel="400480" start="20251215163000 +0000" stop="20251215180000 +0000">
-    <title lang="zh">Premier League</title>
-    <desc>Arsenal v Wolverhampton Wanderers.</desc>
-    <date>2025-12-15</date>
-  </programme>
-  <programme channel="400480" start="20251215180000 +0000" stop="20251215213000 +0000">
-    <title lang="zh">Live: Ultimate Pool</title>
-    <desc>Coverage from group four of the Mixed Pairs Cup, as some of the country's leading eightball players battle it out for places in the next stage.</desc>
-    <date>2025-12-15</date>
-  </programme>
-  <programme channel="400480" start="20251215213000 +0000" stop="20251215220000 +0000">
-    <title lang="zh">Isuzu UTE A-League Highlights</title>
-    <desc>Action from the eighth round of fixtures.</desc>
-    <date>2025-12-15</date>
-  </programme>
-  <programme channel="400480" start="20251215220000 +0000" stop="20251215223000 +0000">
-    <title lang="zh">Ninja A-League Women Highlights</title>
-    <desc>Action from the seventh round of fixtures.</desc>
-    <date>2025-12-15</date>
-  </programme>
-  <programme channel="400480" start="20251215223000 +0000" stop="20251216000000 +0000">
-    <title lang="zh">UFC</title>
-    <desc>Highlights of UFC Fight Night from UFC Apex in Las Vegas, where "])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"the flyweight bout between Brandon Royval and Manel Kape was the scheduled main event.</desc>
-    <date>2025-12-15</date>
-  </programme>
   <programme channel="400480" start="20251216013000 +0000" stop="20251216020000 +0000">
     <title lang="zh">UFC Fight Flashback</title>
     <desc>A look back at one of the all-time classic UFC bouts between featherweights Max Holloway and Jose Aldo at UFC 218 in Detroit.</desc>
@@ -432,9 +292,114 @@
     <desc>Panathinaikos manager Rafa Benitez talks through some key moments in his career. Plus, an interview with Viktoria Plzen captain Matej Vydra.</desc>
     <date>2025-12-16</date>
   </programme>
-  <programme channel="400480" start="20251217000000 +0000" stop="20251218000000 +0000">
+  <programme channel="400480" start="20251217000000 +0000" stop="20251217003000 +0000">
     <title lang="zh">Women's Alpine Skiing World Cup</title>
     <desc>Run one of the slalom in Courchevel, France.</desc>
+    <date>2025-12-17</date>
+  </programme>
+  <programme channel="400480" start="20251217003000 +0000" stop="20251217010000 +0000">
+    <title lang="zh">Women's Alpine Skiing World Cup</title>
+    <desc>Run two of the slalom in Courchevel, France.</desc>
+    <date>2025-12-17</date>
+  </programme>
+  <programme channel="400480" start="20251217010000 +0000" stop="20251217013000 +0000">
+    <title lang="zh">Cyclocross</title>
+    <desc>Action from the Women's World Cup in Namur, Belgium.</desc>
+    <date>2025-12-17</date>
+  </programme>
+  <programme channel="400480" start="20251217013000 +0000" stop="20251217020000 +0000">
+    <title lang="zh">Cyclocross</title>
+    <desc>Action from the men's World Cup in Namur, Belgium.</desc>
+    <date>2025-12-17</date>
+  </programme>
+  <programme channel="400480" start="20251217020000 +0000" stop="20251217040000 +0000">
+    <title lang="zh">Test Cricket Highlights</title>
+    <desc>A review of the Second Test between New Zealand and West Indies.</desc>
+    <date>2025-12-17</date>
+  </programme>
+  <programme channel="400480" start="20251217040000 +0000" stop="20251217050000 +0000">
+    <title lang="zh">Serie A</title>
+    <desc>AC Milan v Sassuolo.</desc>
+    <date>2025-12-17</date>
+  </programme>
+  <programme channel="400480" start="20251217050000 +0000" stop="20251217060000 +0000">
+    <title lang="zh">Serie A</title>
+    <desc>Bologna v Juventus.</desc>
+    <date>2025-12-17</date>
+  </programme>
+  <programme channel="400480" start="20251217060000 +0000" stop="20251217063000 +0000">
+    <title lang="zh">Ninja A-League Women Highlights</title>
+    <desc>Action from the seventh round of fixtures.</desc>
+    <date>2025-12-17</date>
+  </programme>
+  <programme channel="400480" start="20251217063000 +0000" stop="20251217083000 +0000">
+    <title lang="zh">Live: A-League Women</title>
+    <desc>Melbourne City Women v Adelaide United Women (Kick-off 4.00am). Coverage of the match from ctrl:cyber Pitch in Melbourne.</desc>
+    <date>2025-12-17</date>
+  </programme>
+  <programme channel="400480" start="20251217083000 +0000" stop="20251217093000 +0000">
+    <title lang="zh">Adobe Women's FA Cup</title>
+    <desc>Wolverhampton Wanderers v Nottingham Forest.</desc>
+    <date>2025-12-17</date>
+  </programme>
+  <programme channel="400480" start="20251217093000 +0000" stop="20251217103000 +0000">
+    <title lang="zh">Adobe Women's FA Cup</title>
+    <desc>Lewes v Crystal Palace.</desc>
+    <date>2025-12-17</date>
+  </programme>
+  <programme channel="400480" start="20251217103000 +0000" stop="20251217113000 +0000">
+    <title lang="zh">Sign Up - Into Football</title>
+    <desc>This month's guests include Burnley head coach Scott Parker, goalkeeper Martin Dubravka, presenter Lynsey Hipgrave and GB's Deaflympics bronze medalist, Coco Briden.</desc>
+    <date>2025-12-17</date>
+  </programme>
+  <programme channel="400480" start="20251217113000 +0000" stop="20251217120000 +0000">
+    <title lang="zh">UEFA Champions League Magazine</title>
+    <desc>A profile of Bodo/Glimt fan Frederik Nystad, who has overcome cancer and emerged as a beacon of hope for the Norwegian club.</desc>
+    <date>2025-12-17</date>
+  </programme>
+  <programme channel="400480" start="20251217120000 +0000" stop="20251217121500 +0000">
+    <title lang="zh">TNT Sports Cricket Reload</title>
+    <desc>A look back at the second T20 between India and South Africa.</desc>
+    <date>2025-12-17</date>
+  </programme>
+  <programme channel="400480" start="20251217121500 +0000" stop="20251217131500 +0000">
+    <title lang="zh">International T20 Cricket Highlights</title>
+    <desc>Action from the third T20 between India and South Africa.</desc>
+    <date>2025-12-17</date>
+  </programme>
+  <programme channel="400480" start="20251217131500 +0000" stop="20251217171500 +0000">
+    <title lang="zh">Live International T20 Cricket</title>
+    <desc>India v South Africa. Coverage of the fourth match of the five-game series, held at Ekana International Cricket Stadium in Lucknow. India have won all three of the T20s they have played at this venue, defeating West Indies, Sri Lanka and New Zealand between 2018 and 2023.</desc>
+    <date>2025-12-17</date>
+  </programme>
+  <programme channel="400480" start="20251217171500 +0000" stop="20251217173000 +0000">
+    <title lang="zh">Playing for Our Future - Cricket</title>
+    <desc>Asking what the future holds for cricket in the battle against global warming. Reshmin Chowdhury meets people at all levels to discuss how cricket can be a force for change.</desc>
+    <date>2025-12-17</date>
+  </programme>
+  <programme channel="400480" start="20251217173000 +0000" stop="20251217180000 +0000">
+    <title lang="zh">The Ashes</title>
+    <desc>An A-Z look "])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"at the Ashes, exploring the epic sporting rivalry between England and Australia that has produced countless iconic moments.</desc>
+    <date>2025-12-17</date>
+  </programme>
+  <programme channel="400480" start="20251217180000 +0000" stop="20251217190000 +0000">
+    <title lang="zh">The Ashes</title>
+    <desc>Australia v England. Action from day one of the Third Test in the five-match series, held at Adelaide Oval.</desc>
+    <date>2025-12-17</date>
+  </programme>
+  <programme channel="400480" start="20251217190000 +0000" stop="20251217210000 +0000">
+    <title lang="zh">Live: Snooker Home Nations Series Scottish Open</title>
+    <desc>Coverage of a second-round match on day three from Meadowbank Sports Centre in Edinburgh, played over the best of seven frames.</desc>
+    <date>2025-12-17</date>
+  </programme>
+  <programme channel="400480" start="20251217210000 +0000" stop="20251217230000 +0000">
+    <title lang="zh">Live: Snooker Home Nations Series Scottish Open</title>
+    <desc>Coverage of a second-round match on day three from Meadowbank Sports Centre in Edinburgh, played over the best of seven frames. Eventual champion Lei Peifan claimed a hard-fought 4-3 victory over Lei Peifan in round two last year.</desc>
+    <date>2025-12-17</date>
+  </programme>
+  <programme channel="400480" start="20251217230000 +0000" stop="20251218000000 +0000">
+    <title lang="zh">UFC</title>
+    <desc>Highlights of UFC Fight Night from UFC Apex in Las Vegas, whe"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"re the flyweight bout between Brandon Royval and Manel Kape was the scheduled main event.</desc>
     <date>2025-12-17</date>
   </programme>
 </tv>
