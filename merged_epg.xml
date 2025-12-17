@@ -178,9 +178,14 @@
     <desc>Crystal Palace v KuPS Kuopio (Kick-off 8.00pm). All the action from the matchday six league phase match at Selhurst Park. Palace will be expecting to reach the knockout stage in their first ever European campaign other than the 1998/99 Intertoto Cup, and will be looking for nothing less than three points against the Finnish outfit.</desc>
     <date>2025-12-18</date>
   </programme>
-  <programme channel="400477" start="20251218223000 +0000" stop="20251219000000 +0000">
+  <programme channel="400477" start="20251218223000 +0000" stop="20251218230000 +0000">
     <title lang="zh">UEFA Europa &amp; Conference League Highlights</title>
     <desc>Highlights from matchday six.</desc>
+    <date>2025-12-18</date>
+  </programme>
+  <programme channel="400477" start="20251218230000 +0000" stop="20251219000000 +0000">
+    <title lang="zh">The Ashes Live</title>
+    <desc>Australia v England. Coverage of day three of the Third Test in the five-match series, held at Adelaide Oval. England's last vTest ictory here came back in 2010, when some outstanding batting from Alastair Cook and Kevin Pietersen helped them to prevail by an innings and 71 runs, but they have since lost to the Aussies in this format in 2013, 2017 and 2021.</desc>
     <date>2025-12-18</date>
   </programme>
 <channel id="400480">
