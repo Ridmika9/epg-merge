@@ -153,9 +153,14 @@
     <desc>Leicester Tigers v Gloucester (Kick-off 7.45pm). Coverage of the match at Mattioli Woods Welford Road. The Tigers have made a steady, if unspectacular, start to the campaign as they look to go one better than last season when they were runners-up to Bath, while Gloucester have struggled so far.</desc>
     <date>2025-12-19</date>
   </programme>
-  <programme channel="400477" start="20251219220000 +0000" stop="20251220000000 +0000">
+  <programme channel="400477" start="20251219220000 +0000" stop="20251219230000 +0000">
     <title lang="zh">The Ashes</title>
     <desc>Australia v England. Action from day three of the Third Test in the five-match series, held at Adelaide Oval.</desc>
+    <date>2025-12-19</date>
+  </programme>
+  <programme channel="400477" start="20251219230000 +0000" stop="20251220000000 +0000">
+    <title lang="zh">The Ashes Live</title>
+    <desc>Australia v England. Coverage of day four of the Third Test in the five-match series, held at Adelaide Oval . The last Ashes series to take place on Australian soil was in the 2021/22 season, and it saw the hosts secure victory in the third match, with a win by an innings and 14 runs in Melbourne giving them an unassailable 3-0 lead.</desc>
     <date>2025-12-19</date>
   </programme>
 <channel id="400480">
