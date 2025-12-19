@@ -123,9 +123,14 @@
     <desc>Ugo Monye, Danny Care and David Flatman tour Harlequins' facilities, chat with players and coaches, and jump in on some training drills.</desc>
     <date>2025-12-20</date>
   </programme>
-  <programme channel="400477" start="20251220224500 +0000" stop="20251221000000 +0000">
+  <programme channel="400477" start="20251220224500 +0000" stop="20251220230000 +0000">
     <title lang="zh">TNT Sports Cricket Reload</title>
     <desc>A look back at the fifth T20 between India and South Africa.</desc>
+    <date>2025-12-20</date>
+  </programme>
+  <programme channel="400477" start="20251220230000 +0000" stop="20251221000000 +0000">
+    <title lang="zh">The Ashes Live</title>
+    <desc>Australia v England. Coverage of day five of the Third Test in the five-match series, held at Adelaide Oval. Australia claimed a comfortable 275-run victory when the teams last met here in this format in 2021. Marnus Labuschagne was the only player to score a century for either side with his first innings total of 103, and he further helped his team to victory by following that knock with a half-c</desc>
     <date>2025-12-20</date>
   </programme>
 <channel id="400480">
