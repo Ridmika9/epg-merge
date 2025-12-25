@@ -228,9 +228,14 @@
     <desc>A look at the influence Australian media mogul Kerry Packer had on the game with his controversial World Series Cricket competition.</desc>
     <date>2025-12-26</date>
   </programme>
-  <programme channel="400477" start="20251226220000 +0000" stop="20251227000000 +0000">
+  <programme channel="400477" start="20251226220000 +0000" stop="20251226230000 +0000">
     <title lang="zh">The Ashes</title>
     <desc>Australia v England. Action from day one of the Fourth Test in the five-match series, held at Melbourne Cricket Ground.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="400477" start="20251226230000 +0000" stop="20251227000000 +0000">
+    <title lang="zh">The Ashes Live</title>
+    <desc>Australia v England. Coverage of day two of the Fourth Test in the five-match series, held at Melbourne Cricket Ground. England have not won a Test here since 2010, when Jonathan Trott's total of 168 helped them to a comfortable victory by an innings and 157 runs. Since then they have earned two draws here and lost the other two contests, including a defeat by an innings and 14 runs when they last</desc>
     <date>2025-12-26</date>
   </programme>
 <channel id="400480">
