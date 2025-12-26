@@ -133,9 +133,14 @@
     <desc>Featuring never-before-seen footage, Jonah Lomu shares his story and how he escaped gang violence to become one of the planet's most iconic rugby players.</desc>
     <date>2025-12-27</date>
   </programme>
-  <programme channel="400477" start="20251227220000 +0000" stop="20251228000000 +0000">
+  <programme channel="400477" start="20251227220000 +0000" stop="20251227230000 +0000">
     <title lang="zh">The Ashes</title>
     <desc>Australia v England. Action from day two of the Fourth Test in the five-match series, held at Melbourne Cricket Ground.</desc>
+    <date>2025-12-27</date>
+  </programme>
+  <programme channel="400477" start="20251227230000 +0000" stop="20251228000000 +0000">
+    <title lang="zh">The Ashes Live</title>
+    <desc>Australia v England. Coverage of day three of the Fourth Test in the five-match series, held at Melbourne Cricket Ground. The last Test between the sides here came in 2021, when Australia prevailed by an innings and 14 runs. Scott Boland claimed the player of the match award after taking seven wickets in the match, including remarkable figures of 6/7 off just four overs in the second innings as th</desc>
     <date>2025-12-27</date>
   </programme>
 <channel id="400480">
