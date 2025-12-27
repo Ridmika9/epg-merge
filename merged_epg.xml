@@ -118,9 +118,14 @@
     <desc>Laura Woods and Ally McCoist host special guests that share stories, relive memories and review the year in sport.</desc>
     <date>2025-12-28</date>
   </programme>
-  <programme channel="400477" start="20251228220000 +0000" stop="20251229000000 +0000">
+  <programme channel="400477" start="20251228220000 +0000" stop="20251228230000 +0000">
     <title lang="zh">The Ashes</title>
     <desc>Australia v England. Action from day three of the Fourth Test in the five-match series, held at Melbourne Cricket Ground.</desc>
+    <date>2025-12-28</date>
+  </programme>
+  <programme channel="400477" start="20251228230000 +0000" stop="20251229000000 +0000">
+    <title lang="zh">The Ashes Live</title>
+    <desc>Australia v England. Coverage of day four of the Fourth Test in the five-match series, held at Melbourne Cricket Ground. The Fourth Test of the last series to be held in Australia in 2021/22 took place at Sydney Cricket Ground and ended in a draw, with a century in each innings from Usman Khawaja helping the Aussies to maintain their 3-0 overall lead.</desc>
     <date>2025-12-28</date>
   </programme>
 <channel id="400480">
