@@ -113,9 +113,14 @@
     <desc>Coverage of the evening session on day three at Players Pool and Snooker Lounge in Newcastle-under-Lyme.</desc>
     <date>2025-12-29</date>
   </programme>
-  <programme channel="400477" start="20251229220000 +0000" stop="20251230000000 +0000">
+  <programme channel="400477" start="20251229220000 +0000" stop="20251229230000 +0000">
     <title lang="zh">The Ashes</title>
     <desc>Australia v England. Action from day three of the Fourth Test in the five-match series, held at Melbourne Cricket Ground.</desc>
+    <date>2025-12-29</date>
+  </programme>
+  <programme channel="400477" start="20251229230000 +0000" stop="20251230000000 +0000">
+    <title lang="zh">The Ashes Live</title>
+    <desc>Australia v England. Coverage of day five of the Fourth Test in the five-match series, held at Melbourne Cricket Ground. England have not won a Test here since 2010, when Jonathan Trott's total of 168 helped them to a comfortable victory by an innings and 157 runs. Since then they have earned two draws here and lost the other two contests, including a defeat by an innings and 14 runs when they las</desc>
     <date>2025-12-29</date>
   </programme>
 <channel id="400480">
