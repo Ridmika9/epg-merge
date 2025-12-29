@@ -3,76 +3,6 @@
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 1 HD</display-name>
     <icon src="" />
   </channel>
-  <programme channel="400477" start="20251228073000 +0000" stop="20251228080000 +0000">
-    <title lang="zh">The Gruppetto</title>
-    <desc>Rob Hatch presents news from the world of cycling.</desc>
-    <date>2025-12-28</date>
-  </programme>
-  <programme channel="400477" start="20251228080000 +0000" stop="20251228100000 +0000">
-    <title lang="zh">Live: Isuzu UTE A-League</title>
-    <desc>Melbourne City v Perth Glory (Kick-off 8.00pm). All the action from the match at AAMI Park.</desc>
-    <date>2025-12-28</date>
-  </programme>
-  <programme channel="400477" start="20251228100000 +0000" stop="20251228110000 +0000">
-    <title lang="zh">The Ashes</title>
-    <desc>Australia v England. Action from day three of the Fourth Test in the five-match series, held at Melbourne Cricket Ground.</desc>
-    <date>2025-12-28</date>
-  </programme>
-  <programme channel="400477" start="20251228110000 +0000" stop="20251228113000 +0000">
-    <title lang="zh">Training Day</title>
-    <desc>A look back at the best of the series that sees former sporting stars spend the day training with modern day pros.</desc>
-    <date>2025-12-28</date>
-  </programme>
-  <programme channel="400477" start="20251228113000 +0000" stop="20251228123000 +0000">
-    <title lang="zh">The Gallagher PREM</title>
-    <desc>Bristol Bears v Newcastle Red Bulls.</desc>
-    <date>2025-12-28</date>
-  </programme>
-  <programme channel="400477" start="20251228123000 +0000" stop="20251228133000 +0000">
-    <title lang="zh">The Gallagher PREM</title>
-    <desc>Gloucester v Saracens.</desc>
-    <date>2025-12-28</date>
-  </programme>
-  <programme channel="400477" start="20251228133000 +0000" stop="20251228143000 +0000">
-    <title lang="zh">The Gallagher PREM</title>
-    <desc>Bath v Northampton Saints.</desc>
-    <date>2025-12-28</date>
-  </programme>
-  <programme channel="400477" start="20251228143000 +0000" stop="20251228173000 +0000">
-    <title lang="zh">Live: The Gallagher PREM</title>
-    <desc>Exeter Chiefs v Leicester Tigers (Kick-off 3.00pm). All the action from the match at Sandy Park.</desc>
-    <date>2025-12-28</date>
-  </programme>
-  <programme channel="400477" start="20251228173000 +0000" stop="20251228183000 +0000">
-    <title lang="zh">Story of The Autumn Nations Series 2025</title>
-    <desc>Brian O'Driscoll, Ben Kay, Daniel Biggar and John Barclay reflect on the rugby union series, with some never seen before match action angles.</desc>
-    <date>2025-12-28</date>
-  </programme>
-  <programme channel="400477" start="20251228183000 +0000" stop="20251228193000 +0000">
-    <title lang="zh">Ally's Social Club</title>
-    <desc>Ally McCoist talks to Liverpool legend Steven Gerrard.</desc>
-    <date>2025-12-28</date>
-  </programme>
-  <programme channel="400477" start="20251228193000 +0000" stop="20251228214500 +0000">
-    <title lang="zh">Live: Serie A</title>
-    <desc>Atalanta v Inter Milan (Kick-off 7.45pm). Coverage of the Italian top-flight match at Gewiss Stadium.</desc>
-    <date>2025-12-28</date>
-  </programme>
-  <programme channel="400477" start="20251228214500 +0000" stop="20251228220000 +0000">
-    <title lang="zh">For The Love Of The Game With Laura &amp; Ally</title>
-    <desc>Laura Woods and Ally McCoist host special guests that share stories, relive memories and review the year in sport.</desc>
-    <date>2025-12-28</date>
-  </programme>
-  <programme channel="400477" start="20251228220000 +0000" stop="20251228230000 +0000">
-    <title lang="zh">The Ashes</title>
-    <desc>Australia v England. Action from day three of the Fourth Test in the five-match series, held at Melbourne Cricket Ground.</desc>
-    <date>2025-12-28</date>
-  </programme>
-  <programme channel="400477" start="20251228230000 +0000" stop="20251229000000 +0000">
-    <title lang="zh">The Ashes Live</title>
-    <desc>Australia v England. Coverage of day four of the Fourth Test in the five-match series, held at Melbourne Cricket Ground. The Fourth Test of the last series to be held in Australia in 2021/22 took place at Sydney Cricket Ground and ended in a draw, with a century in each innings from Usman Khawaja helping the Aussies to maintain their 3-0 overall lead.</desc>
-    <date>2025-12-28</date>
-  </programme>
   <programme channel="400477" start="20251229073000 +0000" stop="20251229074500 +0000">
     <title lang="zh">TNT Sports Cricket Reload</title>
     <desc>The best batting action from the Third Test between New Zealand and West Indies.</desc>
@@ -123,160 +53,65 @@
     <desc>Australia v England. Coverage of day five of the Fourth Test in the five-match series, held at Melbourne Cricket Ground. England have not won a Test here since 2010, when Jonathan Trott's total of 168 helped them to a comfortable victory by an innings and 157 runs. Since then they have earned two draws here and lost the other two contests, including a defeat by an innings and 14 runs when they las</desc>
     <date>2025-12-29</date>
   </programme>
+  <programme channel="400477" start="20251230073000 +0000" stop="20251230083000 +0000">
+    <title lang="zh">Premier League Review</title>
+    <desc>Action from the latest matches, including Nottingham Forest v Manchester City, Manchester United v Newcastle United, and Liverpool v Wolverhampton Wanderers.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="400477" start="20251230083000 +0000" stop="20251230090000 +0000">
+    <title lang="zh">The Breakdown</title>
+    <desc>Darren Fletcher is joined by Ally McCoist, Owen Hargreaves, Joe Cole and Joleon Lescott to discuss the dynamics of a football dressing room.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="400477" start="20251230090000 +0000" stop="20251230100000 +0000">
+    <title lang="zh">Ally's Social Club</title>
+    <desc>Ally McCoist talks to Liverpool legend Steven Gerrard.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="400477" start="20251230100000 +0000" stop="20251230110000 +0000">
+    <title lang="zh">The Ashes</title>
+    <desc>Australia v England. Action from day five of the Fourth Test in the five-match series, held at Melbourne Cricket Ground.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="400477" start="20251230110000 +0000" stop="20251230170000 +0000">
+    <title lang="zh">Live: Ultimate Pool Taom Pro Cup (?)</title>
+    <desc>).</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="400477" start="20251230170000 +0000" stop="20251230180000 +0000">
+    <title lang="zh">Roll The Tape</title>
+    <desc>With Ronnie O'Sullivan approaching 50, Craig Doyle invites the seven-time world snooker champion to revisit the defining moments of his career.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="400477" start="20251230180000 +0000" stop="20251230190000 +0000">
+    <title lang="zh">The Ashes</title>
+    <desc>Australia v England. Action from day five of the Fourth Test in the five-match series, held at Melbourne Cricket Ground.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="400477" start="20251230190000 +0000" stop="20251230220000 +0000">
+    <title lang="zh">Live: Ultimate Pool Taom Pro Cup (?)</title>
+    <desc>).</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="400477" start="20251230220000 +0000" stop="20251230230000 +0000">
+    <title lang="zh">Roll The Tape</title>
+    <desc>With Ronnie O'Sullivan approaching 50, Craig Doyle invites the seven-time world snooker champion to revisit the defining moments of his career.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="400477" start="20251230230000 +0000" stop="20251231000000 +0000">
+    <title lang="zh">Serie A</title>
+    <desc>Pisa v Juventus.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="400477" start="20251231000000 +0000" stop="20260101000000 +0000">
+    <title lang="zh">Serie A</title>
+    <desc>Atalanta v Inter.</desc>
+    <date>2025-12-31</date>
+  </programme>
 <channel id="400480">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 2 HD</display-name>
     <icon src="" />
   </channel>
-  <programme channel="400480" start="20251228000000 +0000" stop="20251228013000 +0000">
-    <title lang="zh">Premier League</title>
-    <desc>Nottingham Forest v Manchester City.</desc>
-    <date>2025-12-28</date>
-  </programme>
-  <programme channel="400480" start="20251228013000 +0000" stop="20251228023000 +0000">
-    <title lang="zh">Serie A</title>
-    <desc>Pisa v Juventus.</desc>
-    <date>2025-12-28</date>
-  </programme>
-  <programme channel="400480" start="20251228023000 +0000" stop="20251228030000 +0000">
-    <title lang="zh">The Muddy Roots of Football - Part 1</title>
-    <desc>Following a football team in the highlands of Ireland made of members of the same family who speak a language that none of their opponents understand.</desc>
-    <date>2025-12-28</date>
-  </programme>
-  <programme channel="400480" start="20251228030000 +0000" stop="20251228040000 +0000">
-    <title lang="zh">UEFA Champions League Greatest Nights</title>
-    <desc>A nostalgic reflection on some of Tottenham's most unforgettable matches in the Champions League including interv"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"iews with former stars and managers who made history for the club.</desc>
-    <date>2025-12-28</date>
-  </programme>
-  <programme channel="400480" start="20251228040000 +0000" stop="20251228050000 +0000">
-    <title lang="zh">Isuzu UTE A-League</title>
-    <desc>Adelaide United v Western Sydney Wanderers.</desc>
-    <date>2025-12-28</date>
-  </programme>
-  <programme channel="400480" start="20251228050000 +0000" stop="20251228051500 +0000">
-    <title lang="zh">UEFA Conference League Goals Reload</title>
-    <desc>A look at the best goals from matchday six of the league phase.</desc>
-    <date>2025-12-28</date>
-  </programme>
-  <programme channel="400480" start="20251228051500 +0000" stop="20251228071500 +0000">
-    <title lang="zh">Live: A-League Women</title>
-    <desc>Melbourne City v Perth Glory (Kick-off 5.15am). All the action from the match at AAMI Park.</desc>
-    <date>2025-12-28</date>
-  </programme>
-  <programme channel="400480" start="20251228071500 +0000" stop="20251228073000 +0000">
-    <title lang="zh">UEFA Champions League - Stories of the Finals</title>
-    <desc>A look back at the 2009 UEFA Champions League final in Rome as Manchester United were hoping to become the first team to defend the trophy in the modern era against Barcelona.</desc>
-    <date>2025-12-28</date>
-  </programme>
-  <programme channel="400480" start="20251228073000 +0000" stop="20251228090000 +0000">
-    <title lang="zh">Premier League</title>
-    <desc>Nottingham Forest v Manchester City.</desc>
-    <date>2025-12-28</date>
-  </programme>
-  <programme channel="400480" start="20251228090000 +0000" stop="20251228093000 +0000">
-    <title lang="zh">Premier League Stories</title>
-    <desc>A sit down with the lesser-known graduates of Manchester United's Class of '92.</desc>
-    <date>2025-12-28</date>
-  </programme>
-  <programme channel="400480" start="20251228093000 +0000" stop="20251228100000 +0000">
-    <title lang="zh">Premier League - The Big Interview</title>
-    <desc>An in-depth interview with fromer Manchester United midfielder Michael Carrick.</desc>
-    <date>2025-12-28</date>
-  </programme>
-  <programme channel="400480" start="20251228100000 +0000" stop="20251228110000 +0000">
-    <title lang="zh">MotoGP</title>
-    <desc>T"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"he biggest stories and most thrilling races from the 2025 FIM MotoGP World Championship, which saw Marc Marquez complete a remarkable comeback.</desc>
-    <date>2025-12-28</date>
-  </programme>
-  <programme channel="400480" start="20251228110000 +0000" stop="20251228111500 +0000">
-    <title lang="zh">TNT Sports Cricket Reload</title>
-    <desc>The best batting action from the Third Test between New Zealand and West Indies.</desc>
-    <date>2025-12-28</date>
-  </programme>
-  <programme channel="400480" start="20251228111500 +0000" stop="20251228113000 +0000">
-    <title lang="zh">TNT Sports Cricket Reload</title>
-    <desc>The best batting action from the Third Test between New Zealand and West Indies.</desc>
-    <date>2025-12-28</date>
-  </programme>
-  <programme channel="400480" start="20251228113000 +0000" stop="20251228120000 +0000">
-    <title lang="zh">TNT Sports Reload</title>
-    <desc>The best bits from TNT Sports over the last week.</desc>
-    <date>2025-12-28</date>
-  </programme>
-  <programme channel="400480" start="20251228120000 +0000" stop="20251228130000 +0000">
-    <title lang="zh">Golden Trail World Series</title>
-    <desc>A review of the biggest stories and best action from the 2025 season.</desc>
-    <date>2025-12-28</date>
-  </programme>
-  <programme channel="400480" start="20251228130000 +0000" stop="20251228144500 +0000">
-    <title lang="zh">Live: Women's Alpine Skiing World Cup</title>
-    <desc>Coverage of run one of the slalom in the latest meeting of the season from Semmering, Austria.</desc>
-    <date>2025-12-28</date>
-  </programme>
-  <programme channel="400480" start="20251228144500 +0000" stop="20251228150000 +0000">
-    <title lang="zh">TNT Sports Reload</title>
-    <desc>The best bits from TNT Sports over the last week.</desc>
-    <date>2025-12-28</date>
-  </programme>
-  <programme channel="400480" start="20251228150000 +0000" stop="20251228164500 +0000">
-    <title lang="zh">Live: Ski Jumping World Cup</title>
-    <desc>Coverage of qualifying for the men's HS137 in the opening Four Hills meeting, held in Oberstdorf, Germany.</desc>
-    <date>2025-12-28</date>
-  </programme>
-  <programme channel="400480" start="20251228164500 +0000" stop="20251228170000 +0000">
-    <title lang="zh">Kenny Allstar's Number 1's</title>
-    <desc>An interview with Arsenal defender William Saliba.</desc>
-    <date>2025-12-28</date>
-  </programme>
-  <programme channel="400480" start="20251228170000 +0000" stop="20251228180000 +0000">
-    <title lang="zh">Isuzu UTE A-League</title>
-    <desc>Melbourne City v Perth Glory.</desc>
-    <date>2025-12-28</date>
-  </programme>
-  <programme channel="400480" start="20251228180000 +0000" stop="20251228193000 +0000">
-    <title lang="zh">Toprak Razgatlioglu: El Turco</title>
-    <desc>A look at the career of the Turkish motorcycle racer.</desc>
-    <date>2025-12-28</date>
-  </programme>
-  <programme channel="400480" start="20251228193000 +0000" stop="20251228194500 +0000">
-    <title lang="zh">UEFA Champions League - Stories of the Finals</title>
-    <desc>Revisit the 2011 Champions League final as Barcelona met Manchester United. Barca inflicted another final defeat on Sir Alex Ferguson's men to lift the trophy for the fourth time.</desc>
-    <date>2025-12-28</date>
-  </programme>
-  <programme channel="400480" start="20251228194500 +0000" stop="20251228203000 +0000">
-    <title lang="zh">WRC: More Than Machine</title>
-    <desc>Series following members of the M-Sport WRC team about the trials and tribulations of competing in Rally driving at the highest level.</desc>
-    <date>2025-12-28</date>
-  </programme>
-  <programme channel="400480" start="20251228203000 +0000" stop="20251228210000 +0000">
-    <title lang="zh">Cyclocross</title>
-    <desc>The Women's World Cup meeting in Dendermonde, Belgium.</desc>
-    <date>2025-12-28</date>
-  </programme>
-  <programme channel="400480" start="20251228210000 +0000" stop="20251228213000 +0000">
-    <title lang="zh">Cyclocross</title>
-    <desc>The Men's World Cup meeting in Dendermonde, Belgium.</desc>
-    <date>2025-12-28</date>
-  </programme>
-  <programme channel="400480" start="20251228213000 +0000" stop="20251228220000 +0000">
-    <title lang="zh">Women's Alpine Skiing World Cup</title>
-    <desc>Action from run one of the slalom from Semmering, Austria.</desc>
-    <date>2025-12-28</date>
-  </programme>
-  <programme channel="400480" start="20251228220000 +0000" stop="20251228223000 +0000">
-    <title lang="zh">Women's Alpine Skiing World Cup</title>
-    <desc>Action from run two of the slalom from Semmering, Austria.</desc>
-    <date>2025-12-28</date>
-  </programme>
-  <programme channel="400480" start="20251228223000 +0000" stop="20251228230000 +0000">
-    <title lang="zh">Ski Jumping World Cup</title>
-    <desc>Four hills qualifying for the men's HS137 from Oberstdorf, Germany.</desc>
-    <date>2025-12-28</date>
-  </programme>
-  <programme channel="400480" start="20251228230000 +0000" stop="20251229000000 +0000">
-    <title lang="zh">The Gallagher PREM</title>
-    <desc>Exeter Chiefs v Leicester Tigers.</desc>
-    <date>2025-12-28</date>
-  </programme>
   <programme channel="400480" start="20251229000000 +0000" stop="20251229010000 +0000">
     <title lang="zh">Isuzu UTE A-League</title>
     <desc>Melbourne City v Perth Glory.</desc>
@@ -427,9 +262,159 @@
     <desc>An inside look at the Dallas Cowboys, New York Giants, Washington Commanders, and Philadelphia Eagles during the final stretch o"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"f the NFL season and into the playoffs.</desc>
     <date>2025-12-29</date>
   </programme>
-  <programme channel="400480" start="20251230000000 +0000" stop="20251231000000 +0000">
+  <programme channel="400480" start="20251230000000 +0000" stop="20251230010000 +0000">
     <title lang="zh">Isuzu UTE A-League</title>
     <desc>Melbourne Victory v Wellington Phoenix.</desc>
     <date>2025-12-30</date>
+  </programme>
+  <programme channel="400480" start="20251230010000 +0000" stop="20251230020000 +0000">
+    <title lang="zh">The Gallagher PREM</title>
+    <desc>Sale Sharks v Harlequins.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="400480" start="20251230020000 +0000" stop="20251230030000 +0000">
+    <title lang="zh">The Gallagher PREM</title>
+    <desc>Bristol Bears v Newcastle Red Bulls.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="400480" start="20251230030000 +0000" stop="20251230040000 +0000">
+    <title lang="zh">The Gallagher PREM</title>
+    <desc>Gloucester v Saracens.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="400480" start="20251230040000 +0000" stop="20251230050000 +0000">
+    <title lang="zh">The Gallagher PREM</title>
+    <desc>Bath v Northampton Saints.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="400480" start="20251230050000 +0000" stop="20251230060000 +0000">
+    <title lang="zh">The Gallagher PREM</title>
+    <desc>Exeter Chiefs v Leicester Tigers.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="400480" start="20251230060000 +0000" stop="20251230061500 +0000">
+    <title lang="zh">The Gallagher PREM - The Wrap Up</title>
+    <desc>We look back at week eight of the season, including Sale Sharks v Harlequins, Bath v Northampton Saints and Gloucester v Saracens.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="400480" start="20251230061500 +0000" stop="20251230064500 +0000">
+    <title lang="zh">The Gruppetto</title>
+    <desc>Rob Hatch presents news from the world of cycling.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="400480" start="20251230064500 +0000" stop="20251230071500 +0000">
+    <title lang="zh">Premier League - The Big Interview</title>
+    <desc>An in-depth interview with fromer Manchester United midfielder Michael Carrick.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="400480" start="20251230071500 +0000" stop="20251230074500 +0000">
+    <title lang="zh">Training Day</title>
+    <desc>A look back at the best of the series that sees former sporting stars spend the day training with modern day pros.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="400480" start="20251230074500 +0000" stop="20251230080000 +0000">
+    <title lang="zh">For The Love Of The Game With Laura &amp; Ally</title>
+    <desc>Laura Woods and Ally McCoist host special guests that share stories, relive memories and review the year in sport.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="400480" start="20251230080000 +0000" stop="20251230100000 +0000">
+    <title lang="zh">Live: A-League Women</title>
+    <desc>Western Sydney Wanderers v Wellington Phoenix (Kick-off 8.00am). Coverage of the match at Wanderers Football Park.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="400480" start="20251230100000 +0000" stop="20251230103000 +0000">
+    <title lang="zh">Cyclocross</title>
+    <desc>The Women's Trophy meeting in Loenhout, Belgium.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="400480" start="20251230103000 +0000" stop="20251230110000 +0000">
+    <title lang="zh">Cyclocross</title>
+    <desc>The Men's Trophy meeting in Loenhout, Belgium.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="400480" start="20251230110000 +0000" stop="20251230113000 +0000">
+    <title lang="zh">The Gruppetto</title>
+    <desc>Rob Hatch presents news from the world of cycling.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="400480" start="20251230113000 +0000" stop="20251230130000 +0000">
+    <title lang="zh">Premier League</title>
+    <desc>Nottingham Forest v Manchester City.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="400480" start="20251230130000 +0000" stop="20251230140000 +0000">
+    <title lang="zh">The Ashes</title>
+    <desc>Australia v England. Action from day five of the Fourth Test in the five-match series, held at Melbourne Cricket Ground.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="400480" start="20251230140000 +0000" stop="20251230150000 +0000">
+    <title lang="zh">Premier League Review</title>
+    <desc>Action from the latest matches, including Nottingham Forest v Manchester City, Manchester United v Newcastle United, and Liverpool v Wolverhampton Wanderers.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="400480" start="20251230150000 +0000" stop="20251230153000 +0000">
+    <title lang="zh">Cyclocross</title>
+    <desc>The Men's World Cup meeting in Gavere, Belgium.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="400480" start="20251230153000 +0000" stop="20251230160000 +0000">
+    <title lang="zh">Cyclocross</title>
+    <desc>The Men's World Cup meeting in Dendermonde, Belgium.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="400480" start="20251230160000 +0000" stop="20251230163000 +0000">
+    <title lang="zh">Cyclocross</title>
+    <desc>The Men's Trophy meeting in Loenhout, Belgium.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="400480" start="20251230163000 +0000" stop="20251230170000 +0000">
+    <title lang="zh">Cyclocross</title>
+    <desc>The Women's World Cup meeting in Dendermonde, Belgium.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="400480" start="20251230170000 +0000" stop="20251230173000 +0000">
+    <title lang="zh">Cyclocross</title>
+    <desc>The Women's Trophy meeting in Loenhout, Belgium.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="400480" start="20251230173000 +0000" stop="20251230183000 +0000">
+    <title lang="zh">Live: Cyclocross</title>
+    <desc>Coverage of the latest Women's Superprestige meeting of the season, held in Diegem, Belgium.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="400480" start="20251230183000 +0000" stop="20251230190000 +0000">
+    <title lang="zh">The Gruppetto</title>
+    <desc>Rob Hatch presents news from the world of cycling.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="400480" start="20251230190000 +0000" stop="20251230201500 +0000">
+    <title lang="zh">Live: Cyclocross</title>
+    <desc>Coverage of the latest Men's Superprestige meeting of the season, held in Diegem, Belgium.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="400480" start="20251230201500 +0000" stop="20251230210000 +0000">
+    <title lang="zh">MotoGP Films</title>
+    <desc>A closer look at the title-defining races that led to Jorge Martin to become MotoGP World Champion for the first time.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="400480" start="20251230210000 +0000" stop="20251230220000 +0000">
+    <title lang="zh">The Gallagher PREM</title>
+    <desc>Sale Sharks v Harlequins.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="400480" start="20251230220000 +0000" stop="20251230230000 +0000">
+    <title lang="zh">The Gallagher PREM</title>
+    <desc>Bristol Bears v Newcastle Red Bulls.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="400480" start="20251230230000 +0000" stop="20251231000000 +0000">
+    <title lang="zh">The Gallagher PREM</title>
+    <desc>Gloucester v Saracens.</desc>
+    <date>2025-12-30</date>
+  </programme>
+  <programme channel="400480" start="20251231000000 +0000" stop="20260101000000 +0000">
+    <title lang="zh">The Gallagher PREM</title>
+    <desc>Bath v Northampton Saints.</desc>
+    <date>2025-12-31</date>
   </programme>
 </tv>
