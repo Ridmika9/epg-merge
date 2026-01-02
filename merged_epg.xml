@@ -258,9 +258,14 @@
     <desc>A look at the influence Australian media mogul Kerry Packer had on the game with his controversial World Series Cricket competition.</desc>
     <date>2026-01-03</date>
   </programme>
-  <programme channel="400477" start="20260103213000 +0000" stop="20260104000000 +0000">
+  <programme channel="400477" start="20260103213000 +0000" stop="20260103223000 +0000">
     <title lang="zh">The Edge</title>
     <desc>Highlights and analysis from the fourth Ashes Test).</desc>
+    <date>2026-01-03</date>
+  </programme>
+  <programme channel="400477" start="20260103223000 +0000" stop="20260104000000 +0000">
+    <title lang="zh">The Ashes Live</title>
+    <desc>Australia v England. Coverage of day one of the series-concluding Fifth Test, held at Sydney Cricket Ground. The teams last met here in this format three years ago, when the Fourth Test was drawn, with Australia's Usman Khawaja claiming the player of the match award as the series remained 3-0 in his team's favour.</desc>
     <date>2026-01-03</date>
   </programme>
 <channel id="400480">
