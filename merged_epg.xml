@@ -198,9 +198,14 @@
     <desc>A look back at the 2010 UEFA Champions League final between Inter Milan and Bayern Munich as Jose Mourinho became just the third man in history to lift the title with two clubs.</desc>
     <date>2026-01-04</date>
   </programme>
-  <programme channel="400477" start="20260104220000 +0000" stop="20260105000000 +0000">
+  <programme channel="400477" start="20260104220000 +0000" stop="20260104230000 +0000">
     <title lang="zh">The Ashes</title>
     <desc>Australia v England. Action from day one of the series-concluding Fifth Test, held at Sydney Cricket Ground.</desc>
+    <date>2026-01-04</date>
+  </programme>
+  <programme channel="400477" start="20260104230000 +0000" stop="20260105000000 +0000">
+    <title lang="zh">The Ashes Live</title>
+    <desc>Australia v England. Coverage of day two of the series-concluding Fifth Test, held at Sydney Cricket Ground. Australia have a slight upper hand in the six Ashes Tests players here since the turn of the century, winning three and losing two, with the most recent contest between the sides at this venue ending in a draw four years ago.</desc>
     <date>2026-01-04</date>
   </programme>
 <channel id="400480">
