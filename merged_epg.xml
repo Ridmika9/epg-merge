@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv><channel id="400477">
-    <display-name lang="大不列顛及北愛爾蘭聯合王國">TNT Sports 1 HD</display-name>
+    <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 1 HD</display-name>
     <icon src="" />
   </channel>
   <programme channel="400477" start="20260104073000 +0000" stop="20260104080000 +0000">
@@ -159,7 +159,7 @@
     <date>2026-01-05</date>
   </programme>
 <channel id="400480">
-    <display-name lang="大不列顛及北愛爾蘭聯合王國">TNT Sports 2 HD</display-name>
+    <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 2 HD</display-name>
     <icon src="" />
   </channel>
   <programme channel="400480" start="20260104000000 +0000" stop="20260104010000 +0000">
