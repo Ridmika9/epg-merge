@@ -153,9 +153,14 @@
     <desc>The best bowling action from the Second Ashes Test between Australia and England.</desc>
     <date>2026-01-05</date>
   </programme>
-  <programme channel="400477" start="20260105220000 +0000" stop="20260106000000 +0000">
+  <programme channel="400477" start="20260105220000 +0000" stop="20260105230000 +0000">
     <title lang="zh">The Ashes</title>
     <desc>Australia v England. Action from day two of the series-concluding Fifth Test, held at Sydney Cricket Ground.</desc>
+    <date>2026-01-05</date>
+  </programme>
+  <programme channel="400477" start="20260105230000 +0000" stop="20260106000000 +0000">
+    <title lang="zh">The Ashes Live</title>
+    <desc>Australia v England. Coverage of day three of the series-concluding Fifth Test, held at Sydney Cricket Ground. The last Ashes series to be played on Australian soil drew to a close with a 146-run triumph for the hosts in Hobart. Travis Head scored a century for the victors as they wrapped up a dominant 4-0 victory.</desc>
     <date>2026-01-05</date>
   </programme>
 <channel id="400480">
