@@ -163,9 +163,14 @@
     <desc>Relive the controversial 1996 Champions League final between reigning champions Ajax and Marcello Lippi's Juventus. The game went to extra-time and then penalties, which Juve won.</desc>
     <date>2026-01-06</date>
   </programme>
-  <programme channel="400477" start="20260106220000 +0000" stop="20260107000000 +0000">
+  <programme channel="400477" start="20260106220000 +0000" stop="20260106230000 +0000">
     <title lang="zh">The Ashes</title>
     <desc>Australia v England. Action from day three of the series-concluding Fifth Test, held at Sydney Cricket Ground.</desc>
+    <date>2026-01-06</date>
+  </programme>
+  <programme channel="400477" start="20260106230000 +0000" stop="20260107000000 +0000">
+    <title lang="zh">The Ashes Live</title>
+    <desc>Australia v England. Coverage of day four of the series-concluding Fifth Test, held at Sydney Cricket Ground. Since losing to England here in 2011, Australia are undefeated in their last 14 Tests at this venue. Six of those contests were drawn, including one with England in 2022, but they have won their last two, overcoming Pakistan and India.</desc>
     <date>2026-01-06</date>
   </programme>
 <channel id="400480">
