@@ -3,71 +3,6 @@
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 1 HD</display-name>
     <icon src="" />
   </channel>
-  <programme channel="400477" start="20260104073000 +0000" stop="20260104080000 +0000">
-    <title lang="zh">The Breakdown</title>
-    <desc>Darren Fletcher is joined by Steven Gerrard, Ally McCoist, Steve McManaman and Joleon Lescott to discuss England and Scotland's chances at the 2026 FIFA World Cup.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="400477" start="20260104080000 +0000" stop="20260104081500 +0000">
-    <title lang="zh">Kenny Allstar's Number 1's</title>
-    <desc>Kenny Allstar chats to Nottingham Forest winger Callum Hudson-Odoi.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="400477" start="20260104081500 +0000" stop="20260104091500 +0000">
-    <title lang="zh">Longines FEI Jumping World Cup</title>
-    <desc>Action from Mechelen, Belgium.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="400477" start="20260104091500 +0000" stop="20260104100000 +0000">
-    <title lang="zh">Live: Luge World Cup</title>
-    <desc>Coverage of run two of the women's single event in the latest meeting of the season from Sigulda, Latvia.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="400477" start="20260104100000 +0000" stop="20260104110000 +0000">
-    <title lang="zh">The Ashes</title>
-    <desc>Australia v England. Action from day one of the series-concluding Fifth Test, held at Sydney Cricket Ground.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="400477" start="20260104110000 +0000" stop="20260104150000 +0000">
-    <title lang="zh">Live Premier League</title>
-    <desc>Leeds United v Manchester United (Kick-off 12.30pm). All the action from the match at Elland Road. The sides last met here in February 2023, when late goals by Marcus Rashford and Alejandro Garnacho gave the visitors a 2-0 win, but neither of those players are currently at the club, and Leeds will hope for a competitive display in front of their own fans.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="400477" start="20260104150000 +0000" stop="20260104173000 +0000">
-    <title lang="zh">Live: The Gallagher PREM</title>
-    <desc>Leicester Tigers v Saracens (Kick-off 3.00pm). Coverage of the top-flight match at Mattioli Woods Welford Road.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="400477" start="20260104173000 +0000" stop="20260104183000 +0000">
-    <title lang="zh">The Ashes</title>
-    <desc>Australia v England. Action from day one of the series-concluding Fifth Test, held at Sydney Cricket Ground.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="400477" start="20260104183000 +0000" stop="20260104193000 +0000">
-    <title lang="zh">Serie A</title>
-    <desc>Lazio v Napoli.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="400477" start="20260104193000 +0000" stop="20260104214500 +0000">
-    <title lang="zh">Live: Serie A</title>
-    <desc>Inter Milan v Bologna (Kick-off 7.45pm). All the action from the Italian top-flight match at the San Siro.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="400477" start="20260104214500 +0000" stop="20260104220000 +0000">
-    <title lang="zh">UEFA Champions League - Stories of the Finals</title>
-    <desc>A look back at the 2010 UEFA Champions League final between Inter Milan and Bayern Munich as Jose Mourinho became just the third man in history to lift the title with two clubs.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="400477" start="20260104220000 +0000" stop="20260104230000 +0000">
-    <title lang="zh">The Ashes</title>
-    <desc>Australia v England. Action from day one of the series-concluding Fifth Test, held at Sydney Cricket Ground.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="400477" start="20260104230000 +0000" stop="20260105000000 +0000">
-    <title lang="zh">The Ashes Live</title>
-    <desc>Australia v England. Coverage of day two of the series-concluding Fifth Test, held at Sydney Cricket Ground. Australia have a slight upper hand in the six Ashes Tests players here since the turn of the century, winning three and losing two, with the most recent contest between the sides at this venue ending in a draw four years ago.</desc>
-    <date>2026-01-04</date>
-  </programme>
   <programme channel="400477" start="20260105073000 +0000" stop="20260105074500 +0000">
     <title lang="zh">TNT Sports Cricket Reload</title>
     <desc>The best batting action from the Third Test between New Zealand and West Indies.</desc>
@@ -163,140 +98,80 @@
     <desc>Australia v England. Coverage of day three of the series-concluding Fifth Test, held at Sydney Cricket Ground. The last Ashes series to be played on Australian soil drew to a close with a 146-run triumph for the hosts in Hobart. Travis Head scored a century for the victors as they wrapped up a dominant 4-0 victory.</desc>
     <date>2026-01-05</date>
   </programme>
+  <programme channel="400477" start="20260106073000 +0000" stop="20260106080000 +0000">
+    <title lang="zh">Premier League Netbusters</title>
+    <desc>A fast-paced look at all the best action from the top flight.</desc>
+    <date>2026-01-06</date>
+  </programme>
+  <programme channel="400477" start="20260106080000 +0000" stop="20260106100000 +0000">
+    <title lang="zh">Live: Isuzu UTE A-League</title>
+    <desc>Melbourne City v Brisbane Roar (Kick-off 8.00am). Coverage of the match at AAMI Park.</desc>
+    <date>2026-01-06</date>
+  </programme>
+  <programme channel="400477" start="20260106100000 +0000" stop="20260106110000 +0000">
+    <title lang="zh">The Ashes</title>
+    <desc>Australia v England. Action from day three of the series-concluding Fifth Test, held at Sydney Cricket Ground.</desc>
+    <date>2026-01-06</date>
+  </programme>
+  <programme channel="400477" start="20260106110000 +0000" stop="20260106120000 +0000">
+    <title lang="zh">Premier League Review</title>
+    <desc>Action from the latest matches, including Leeds United v Manchester United, Aston Villa v Nottingham Forest, and Manchester City v Chelsea.</desc>
+    <date>2026-01-06</date>
+  </programme>
+  <programme channel="400477" start="20260106120000 +0000" stop="20260106121500 +0000">
+    <title lang="zh">The Gallagher PREM - The Wrap Up</title>
+    <desc>A look back at all of the biggest stories and best action.</desc>
+    <date>2026-01-06</date>
+  </programme>
+  <programme channel="400477" start="20260106121500 +0000" stop="20260106124500 +0000">
+    <title lang="zh">UIM F1H2O World Championship Highlights</title>
+    <desc>Action from the United Arab Emirates.</desc>
+    <date>2026-01-06</date>
+  </programme>
+  <programme channel="400477" start="20260106124500 +0000" stop="20260106131500 +0000">
+    <title lang="zh">Ski Jumping World Cup</title>
+    <desc>Day one of the women's HS98 in Villach, Austria.</desc>
+    <date>2026-01-06</date>
+  </programme>
+  <programme channel="400477" start="20260106131500 +0000" stop="20260106150000 +0000">
+    <title lang="zh">Live: Ski Jumping World Cup</title>
+    <desc>Coverage of day one of the women's HS98 in the latest meeting of the season from Villach, Austria.</desc>
+    <date>2026-01-06</date>
+  </programme>
+  <programme channel="400477" start="20260106150000 +0000" stop="20260106180000 +0000">
+    <title lang="zh">Live: Ski Jumping World Cup</title>
+    <desc>Coverage of the men's HS142 in the final meeting of the Four Hills Tournament, held at Bischofshofen, Austria.</desc>
+    <date>2026-01-06</date>
+  </programme>
+  <programme channel="400477" start="20260106180000 +0000" stop="20260106190000 +0000">
+    <title lang="zh">The Ashes</title>
+    <desc>Australia v England. Action from day three of the series-concluding Fifth Test, held at Sydney Cricket Ground.</desc>
+    <date>2026-01-06</date>
+  </programme>
+  <programme channel="400477" start="20260106190000 +0000" stop="20260106193000 +0000">
+    <title lang="zh">Inside Serie A</title>
+    <desc>A round-up of all the latest news.</desc>
+    <date>2026-01-06</date>
+  </programme>
+  <programme channel="400477" start="20260106193000 +0000" stop="20260106214500 +0000">
+    <title lang="zh">Live: Serie A</title>
+    <desc>Sassuolo v Juventus (Kick-off 7.45pm). All the action from the Italian top-flight match at Mapei Stadium - Città del Tricolore. Sassuolo claimed a shock 4-2 win when the teams last met here two seasons ago and will hope to produce another strong display against a Juve side who have struggled for consistency on their travels so far this term.</desc>
+    <date>2026-01-06</date>
+  </programme>
+  <programme channel="400477" start="20260106214500 +0000" stop="20260106220000 +0000">
+    <title lang="zh">UEFA Champions League - Stories of the Finals</title>
+    <desc>Relive the controversial 1996 Champions League final between reigning champions Ajax and Marcello Lippi's Juventus. The game went to extra-time and then penalties, which Juve won.</desc>
+    <date>2026-01-06</date>
+  </programme>
+  <programme channel="400477" start="20260106220000 +0000" stop="20260107000000 +0000">
+    <title lang="zh">The Ashes</title>
+    <desc>Australia v England. Action from day three of the series-concluding Fifth Test, held at Sydney Cricket Ground.</desc>
+    <date>2026-01-06</date>
+  </programme>
 <channel id="400480">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 2 HD</display-name>
     <icon src="" />
   </channel>
-  <programme channel="400480" start="20260104000000 +0000" stop="20260104010000 +0000">
-    <title lang="zh">The Gallagher PREM</title>
-    <desc>Northampton Saints v Harlequins.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="400480" start="20260104010000 +0000" stop="20260104011500 +0000">
-    <title lang="zh">Playing for Our Future - Rugby</title>
-    <desc>Asking what the future holds for rugby in the battle against global warming. Reshmin Chowdhury meets people at all levels to discuss how rugby can be a positive force for change.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="400480" start="20260104011500 +0000" stop="20260104014500 +0000">
-    <title lang="zh">MotoGP Films</title>
-    <desc>Pedro Acosta made his much-anticipated MotoGP debut in 2024 and caught the attention of millions. We get unprecedented access to the Spaniard's campaign.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="400480" start="20260104014500 +0000" stop="20260104023000 +0000">
-    <title lang="zh">MotoGP Films</title>
-    <desc>As rivals Francesco Bagnaia and Jorge Martin battle it out for the 2024 MotoGP title, we explore where each rider stands heading into the final stretch of races.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="400480" start="20260104023000 +0000" stop="20260104033000 +0000">
-    <title lang="zh">Dakar Rally Saudi Arabia</title>
-    <desc>Action from the prologue in Yanbu.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="400480" start="20260104033000 +0000" stop="20260104043000 +0000">
-    <title lang="zh">Isuzu UTE A-League</title>
-    <desc>Brisbane Roar v Wellington Phoenix.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="400480" start="20260104043000 +0000" stop="20260104053000 +0000">
-    <title lang="zh">Isuzu UTE A-League</title>
-    <desc>Melbourne City v Sydney FC.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="400480" start="20260104053000 +0000" stop="20260104054500 +0000">
-    <title lang="zh">TNT Sports Reload</title>
-    <desc>The best bits from TNT Sports over the last week.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="400480" start="20260104054500 +0000" stop="20260104074500 +0000">
-    <title lang="zh">Live: A-League Women</title>
-    <desc>Adelaide United v Central Coast Mariners (Kick-off TBA). Coverage of the match at Coopers Stadium.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="400480" start="20260104074500 +0000" stop="20260104081500 +0000">
-    <title lang="zh">TNT Sports Reload</title>
-    <desc>The best bits from TNT Sports over the last week.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="400480" start="20260104081500 +0000" stop="20260104083000 +0000">
-    <title lang="zh">No Filter Rugby</title>
-    <desc>A special behind-the-scenes look at the Quilter Nations showdown between England and New Zealand at Allianz Stadium, Twickenham.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="400480" start="20260104083000 +0000" stop="20260104103000 +0000">
-    <title lang="zh">Live: Isuzu UTE A-League</title>
-    <desc>Adelaide United v Central Coast Mariners (Kick-off 8.35am). All the action from the match at Coopers Stadium.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="400480" start="20260104103000 +0000" stop="20260104110000 +0000">
-    <title lang="zh">Premier League - The Big Interview</title>
-    <desc>A interview with a top-flight footballer.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="400480" start="20260104110000 +0000" stop="20260104111500 +0000">
-    <title lang="zh">TNT Sports Reload</title>
-    <desc>The best bits from TNT Sports over the last week.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="400480" start="20260104111500 +0000" stop="20260104133000 +0000">
-    <title lang="zh">Live: Serie A</title>
-    <desc>Lazio v Napoli (Kick-off 11.30am). All the action from the Italian top-flight match at Stadio Olimpico. Although Napoli won the league last term, Lazio took four points from the two league meetings between the sides, winning 1-0 in Naples and drawing 2-2 here, and they also claimed a 3-1 home win when the teams met in the Coppa Italia.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="400480" start="20260104133000 +0000" stop="20260104143000 +0000">
-    <title lang="zh">The Ashes</title>
-    <desc>Australia v England. Action from day one of the series-concluding Fifth Test, held at Sydney Cricket Ground.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="400480" start="20260104143000 +0000" stop="20260104173000 +0000">
-    <title lang="zh">Live: The Gallagher PREM</title>
-    <desc>Leicester Tigers v Saracens (Kick-off 3.00pm). Coverage of the top-flight match at Mattioli Woods Welford Road.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="400480" start="20260104173000 +0000" stop="20260104183000 +0000">
-    <title lang="zh">One Day International Cricket</title>
-    <desc>India v South Africa in the first match of the series.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="400480" start="20260104183000 +0000" stop="20260104193000 +0000">
-    <title lang="zh">One Day International Cricket</title>
-    <desc>India v South Africa. Action from the second match in the three-game series, held at Shaheed Veer Narayan Singh International Cricket Stadium in Raipur.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="400480" start="20260104193000 +0000" stop="20260104203000 +0000">
-    <title lang="zh">One Day International Cricket</title>
-    <desc>India v South Africa. Action from the third and final match of the series, held at ACA–VDCA Cricket Stadium in New Chandigarh.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="400480" start="20260104203000 +0000" stop="20260104204500 +0000">
-    <title lang="zh">TNT Sports Cricket Reload</title>
-    <desc>A look back at the best bowling action from the Third Ashes Test.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="400480" start="20260104204500 +0000" stop="20260104210000 +0000">
-    <title lang="zh">TNT Sports Cricket Reload</title>
-    <desc>A look back at the best batting action from the Third Ashes Test.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="400480" start="20260104210000 +0000" stop="20260104213000 +0000">
-    <title lang="zh">UIM F1H2O World Championship Highlights</title>
-    <desc>Action from the United Arab Emirates.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="400480" start="20260104213000 +0000" stop="20260104220000 +0000">
-    <title lang="zh">TNT Sports Reload</title>
-    <desc>The best bits from TNT Sports over the last week.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="400480" start="20260104220000 +0000" stop="20260104230000 +0000">
-    <title lang="zh">The Gallagher PREM</title>
-    <desc>Leicester Tigers v Saracens.</desc>
-    <date>2026-01-04</date>
-  </programme>
-  <programme channel="400480" start="20260104230000 +0000" stop="20260105000000 +0000">
-    <title lang="zh">Serie A</title>
-    <desc>Lazio v Napoli.</desc>
-    <date>2026-01-04</date>
-  </programme>
   <programme channel="400480" start="20260105000000 +0000" stop="20260105010000 +0000">
     <title lang="zh">Serie A</title>
     <desc>Inter Milan v Bologna.</desc>
@@ -432,9 +307,139 @@
     <desc>Highlights from the 11th round of fixtures.</desc>
     <date>2026-01-05</date>
   </programme>
-  <programme channel="400480" start="20260106000000 +0000" stop="20260107000000 +0000">
+  <programme channel="400480" start="20260106000000 +0000" stop="20260106003000 +0000">
     <title lang="zh">Ninja A-League Women Highlights</title>
     <desc>Action from the 10th round of fixtures.</desc>
     <date>2026-01-06</date>
+  </programme>
+  <programme channel="400480" start="20260106003000 +0000" stop="20260106004500 +0000">
+    <title lang="zh">Kenny Allstar's Number 1's</title>
+    <desc>Host Kenny Allstar talks to former West Ham striker Michail Antonio.</desc>
+    <date>2026-01-06</date>
+  </programme>
+  <programme channel="400480" start="20260106004500 +0000" stop="20260106010000 +0000">
+    <title lang="zh">Kenny Allstar's Number 1's</title>
+    <desc>Host Kenny Allstar sits down for a chat with Brazil and Manchester United forward Matheus Cunha.</desc>
+    <date>2026-01-06</date>
+  </programme>
+  <programme channel="400480" start="20260106010000 +0000" stop="20260106020000 +0000">
+    <title lang="zh">Isuzu UTE A-League</title>
+    <desc>Melbourne City v Sydney FC.</desc>
+    <date>2026-01-06</date>
+  </programme>
+  <programme channel="400480" start="20260106020000 +0000" stop="20260106030000 +0000">
+    <title lang="zh">Isuzu UTE A-League</title>
+    <desc>Melbourne Victory v Perth Glory.</desc>
+    <date>2026-01-06</date>
+  </programme>
+  <programme channel="400480" start="20260106030000 +0000" stop="20260106040000 +0000">
+    <title lang="zh">Isuzu UTE A-League</title>
+    <desc>Brisbane Roar v Wellington Phoenix.</desc>
+    <date>2026-01-06</date>
+  </programme>
+  <programme channel="400480" start="20260106040000 +0000" stop="20260106050000 +0000">
+    <title lang="zh">Isuzu UTE A-League</title>
+    <desc>Adelaide United v Central Coast Mariners.</desc>
+    <date>2026-01-06</date>
+  </programme>
+  <programme channel="400480" start="20260106050000 +0000" stop="20260106060000 +0000">
+    <title lang="zh">Isuzu UTE A-League</title>
+    <desc>Macarthur FC v Auckland FC.</desc>
+    <date>2026-01-06</date>
+  </programme>
+  <programme channel="400480" start="20260106060000 +0000" stop="20260106070000 +0000">
+    <title lang="zh">Serie A</title>
+    <desc>Lazio v Napoli.</desc>
+    <date>2026-01-06</date>
+  </programme>
+  <programme channel="400480" start="20260106070000 +0000" stop="20260106080000 +0000">
+    <title lang="zh">Serie A</title>
+    <desc>Inter Milan v Bologna.</desc>
+    <date>2026-01-06</date>
+  </programme>
+  <programme channel="400480" start="20260106080000 +0000" stop="20260106090000 +0000">
+    <title lang="zh">Fishing: On the Bank</title>
+    <desc>Action from round 10 of the European Fishing League.</desc>
+    <date>2026-01-06</date>
+  </programme>
+  <programme channel="400480" start="20260106090000 +0000" stop="20260106110000 +0000">
+    <title lang="zh">Test Cricket Highlights</title>
+    <desc>A review of the First Test between New Zealand and West Indies.</desc>
+    <date>2026-01-06</date>
+  </programme>
+  <programme channel="400480" start="20260106110000 +0000" stop="20260106130000 +0000">
+    <title lang="zh">Test Cricket Highlights</title>
+    <desc>A review of the Second Test between New Zealand and West Indies.</desc>
+    <date>2026-01-06</date>
+  </programme>
+  <programme channel="400480" start="20260106130000 +0000" stop="20260106133000 +0000">
+    <title lang="zh">Serie A - Full Impact</title>
+    <desc>Action from the Italian top flight.</desc>
+    <date>2026-01-06</date>
+  </programme>
+  <programme channel="400480" start="20260106133000 +0000" stop="20260106140000 +0000">
+    <title lang="zh">Inside Serie A</title>
+    <desc>A round-up of all the latest news.</desc>
+    <date>2026-01-06</date>
+  </programme>
+  <programme channel="400480" start="20260106140000 +0000" stop="20260106143000 +0000">
+    <title lang="zh">Isuzu UTE A-League Highlights</title>
+    <desc>Highlights from the 11th round of fixtures.</desc>
+    <date>2026-01-06</date>
+  </programme>
+  <programme channel="400480" start="20260106143000 +0000" stop="20260106153000 +0000">
+    <title lang="zh">The Ashes</title>
+    <desc>Australia v England. Action from day three of the series-concluding Fifth Test, held at Sydney Cricket Ground.</desc>
+    <date>2026-01-06</date>
+  </programme>
+  <programme channel="400480" start="20260106153000 +0000" stop="20260106160000 +0000">
+    <title lang="zh">Premier League Netbusters</title>
+    <desc>A fast-paced look at all the best action from the top flight.</desc>
+    <date>2026-01-06</date>
+  </programme>
+  <programme channel="400480" start="20260106160000 +0000" stop="20260106170000 +0000">
+    <title lang="zh">Premier League Review</title>
+    <desc>Action from the latest matches, including Leeds United v Manchester United, Aston Villa v Nottingham Forest, and Manchester City v Chelsea.</desc>
+    <date>2026-01-06</date>
+  </programme>
+  <programme channel="400480" start="20260106170000 +0000" stop="20260106171500 +0000">
+    <title lang="zh">The Pioneers</title>
+    <desc>With former Arsenal and France striker Thierry Henry.</desc>
+    <date>2026-01-06</date>
+  </programme>
+  <programme channel="400480" start="20260106171500 +0000" stop="20260106181500 +0000">
+    <title lang="zh">Isuzu UTE A-League</title>
+    <desc>Melbourne City v Brisbane Roar.</desc>
+    <date>2026-01-06</date>
+  </programme>
+  <programme channel="400480" start="20260106181500 +0000" stop="20260106200000 +0000">
+    <title lang="zh">Live: Freestyle Skiing World Cup</title>
+    <desc>Coverage of day one of the men's and women's aerials in the latest meeting of the season from Lac Beauport, Canada.</desc>
+    <date>2026-01-06</date>
+  </programme>
+  <programme channel="400480" start="20260106200000 +0000" stop="20260106210000 +0000">
+    <title lang="zh">Longines FEI Jumping World Cup</title>
+    <desc>Action from Mechelen, Belgium.</desc>
+    <date>2026-01-06</date>
+  </programme>
+  <programme channel="400480" start="20260106210000 +0000" stop="20260106220000 +0000">
+    <title lang="zh">The Gallagher PREM</title>
+    <desc>Bristol Bears v Sale Sharks.</desc>
+    <date>2026-01-06</date>
+  </programme>
+  <programme channel="400480" start="20260106220000 +0000" stop="20260106230000 +0000">
+    <title lang="zh">The Gallagher PREM</title>
+    <desc>Newcastle Red Bulls v Gloucester.</desc>
+    <date>2026-01-06</date>
+  </programme>
+  <programme channel="400480" start="20260106230000 +0000" stop="20260107000000 +0000">
+    <title lang="zh">The Gallagher PREM</title>
+    <desc>Bath v Exeter Chiefs.</desc>
+    <date>2026-01-06</date>
+  </programme>
+  <programme channel="400480" start="20260107000000 +0000" stop="20260108000000 +0000">
+    <title lang="zh">The Gallagher PREM</title>
+    <desc>Northampton Saints v Harlequins.</desc>
+    <date>2026-01-07</date>
   </programme>
 </tv>
