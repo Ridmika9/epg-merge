@@ -143,9 +143,14 @@
     <desc>Highlights from the 11th round of fixtures.</desc>
     <date>2026-01-07</date>
   </programme>
-  <programme channel="400477" start="20260107220000 +0000" stop="20260108000000 +0000">
+  <programme channel="400477" start="20260107220000 +0000" stop="20260107230000 +0000">
     <title lang="zh">The Ashes</title>
     <desc>Australia v England. Action from day four of the series-concluding Fifth Test, held at Sydney Cricket Ground.</desc>
+    <date>2026-01-07</date>
+  </programme>
+  <programme channel="400477" start="20260107230000 +0000" stop="20260108000000 +0000">
+    <title lang="zh">The Ashes Live</title>
+    <desc>Australia v England. Coverage of day five of the series-concluding Fifth Test, held at Sydney Cricket Ground. The teams last met here in this format three years ago, when the Fourth Test was drawn, with Australia's Usman Khawaja claiming the player of the match award as the series remained 3-0 in his team's favour.</desc>
     <date>2026-01-07</date>
   </programme>
 <channel id="400480">
