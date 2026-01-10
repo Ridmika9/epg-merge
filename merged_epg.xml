@@ -3,126 +3,6 @@
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 1 HD</display-name>
     <icon src="" />
   </channel>
-  <programme channel="400477" start="20260109003000 +0000" stop="20260109010000 +0000">
-    <title lang="zh">TNT Sports Reload</title>
-    <desc>The best bits from TNT Sports over the last week.</desc>
-    <date>2026-01-09</date>
-  </programme>
-  <programme channel="400477" start="20260109010000 +0000" stop="20260109020000 +0000">
-    <title lang="zh">Spanish Super Cup</title>
-    <desc>Real Madrid v Atlético Madrid. Action from the semi-final match at King Abdullah Sports City Stadium in Jeddah, Saudi Arabia.</desc>
-    <date>2026-01-09</date>
-  </programme>
-  <programme channel="400477" start="20260109020000 +0000" stop="20260109021500 +0000">
-    <title lang="zh">The Gallagher PREM - The Wrap Up</title>
-    <desc>A look back at all of the biggest stories and best action.</desc>
-    <date>2026-01-09</date>
-  </programme>
-  <programme channel="400477" start="20260109021500 +0000" stop="20260109030000 +0000">
-    <title lang="zh">Ally's Social Club</title>
-    <desc>An interview with legendary manager, Carlo Ancelotti.</desc>
-    <date>2026-01-09</date>
-  </programme>
-  <programme channel="400477" start="20260109030000 +0000" stop="20260109033000 +0000">
-    <title lang="zh">UEFA Champions League - Stories of the Finals</title>
-    <desc>We revisit the dramatic all-English clash between Man United and Chelsea in 2008. Plus, we remember Real Madrid's victory against city rivals Atletico in 2014.</desc>
-    <date>2026-01-09</date>
-  </programme>
-  <programme channel="400477" start="20260109033000 +0000" stop="20260109040000 +0000">
-    <title lang="zh">UEFA Champions League - Stories of the Finals</title>
-    <desc>We look back at Real Madrid's historic 2017 Champions League final success over Juventus. Plus, we remember Inter Milan's victory against Bayern Munich in 2010.</desc>
-    <date>2026-01-09</date>
-  </programme>
-  <programme channel="400477" start="20260109040000 +0000" stop="20260109050000 +0000">
-    <title lang="zh">Serie A</title>
-    <desc>Sassuolo v Juventus.</desc>
-    <date>2026-01-09</date>
-  </programme>
-  <programme channel="400477" start="20260109050000 +0000" stop="20260109060000 +0000">
-    <title lang="zh">Serie A</title>
-    <desc>Parma v Inter Milan.</desc>
-    <date>2026-01-09</date>
-  </programme>
-  <programme channel="400477" start="20260109060000 +0000" stop="20260109070000 +0000">
-    <title lang="zh">Premier League Review</title>
-    <desc>Action from the latest matches, including Arsenal v Liverpool, Fulham v Chelsea, and Burnley v Manchester United.</desc>
-    <date>2026-01-09</date>
-  </programme>
-  <programme channel="400477" start="20260109070000 +0000" stop="20260109073000 +0000">
-    <title lang="zh">Premier League Stories</title>
-    <desc>A profile of Tottenham Hotspur defender Micky van de Ven.</desc>
-    <date>2026-01-09</date>
-  </programme>
-  <programme channel="400477" start="20260109073000 +0000" stop="20260109080000 +0000">
-    <title lang="zh">Premier League - The Big Interview</title>
-    <desc>An in-depth interview with Georginio Rutter.</desc>
-    <date>2026-01-09</date>
-  </programme>
-  <programme channel="400477" start="20260109080000 +0000" stop="20260109083000 +0000">
-    <title lang="zh">Premier League Netbusters</title>
-    <desc>A fast-paced look at all the best action from the Premier League.</desc>
-    <date>2026-01-09</date>
-  </programme>
-  <programme channel="400477" start="20260109083000 +0000" stop="20260109103000 +0000">
-    <title lang="zh">Live: Isuzu UTE A-League</title>
-    <desc>Brisbane Roar v Auckland FC (Kick-off 8.35am). Coverage of the match at Suncorp Stadium. The sides drew 1-1 when they last met at Go Media Stadium in November, with Lachlan Brook opening the scoring for Auckland, before Justin Vidic salvaged a point for Roar.</desc>
-    <date>2026-01-09</date>
-  </programme>
-  <programme channel="400477" start="20260109103000 +0000" stop="20260109110000 +0000">
-    <title lang="zh">TNT Sports Reload</title>
-    <desc>The best bits from TNT Sports over the last week.</desc>
-    <date>2026-01-09</date>
-  </programme>
-  <programme channel="400477" start="20260109110000 +0000" stop="20260109120000 +0000">
-    <title lang="zh">Premier League Review</title>
-    <desc>Action from the latest matches, including Arsenal v Liverpool, Fulham v Chelsea, and Burnley v Manchester United.</desc>
-    <date>2026-01-09</date>
-  </programme>
-  <programme channel="400477" start="20260109120000 +0000" stop="20260109123000 +0000">
-    <title lang="zh">Premier League - The Big Interview</title>
-    <desc>An in-depth interview with Georginio Rutter.</desc>
-    <date>2026-01-09</date>
-  </programme>
-  <programme channel="400477" start="20260109123000 +0000" stop="20260109130000 +0000">
-    <title lang="zh">Premier League Netbusters</title>
-    <desc>A fast-paced look at all the best action from the Premier League.</desc>
-    <date>2026-01-09</date>
-  </programme>
-  <programme channel="400477" start="20260109130000 +0000" stop="20260109131500 +0000">
-    <title lang="zh">TNT Sports Reload</title>
-    <desc>The best bits from TNT Sports over the last week.</desc>
-    <date>2026-01-09</date>
-  </programme>
-  <programme channel="400477" start="20260109131500 +0000" stop="20260109171500 +0000">
-    <title lang="zh">Live International T20 Cricket</title>
-    <desc>Sri Lanka v Pakistan. Coverage of the second Twenty20 in the three-match series, which takes place at Rangiri Dambulla International Stadium in Dambulla.</desc>
-    <date>2026-01-09</date>
-  </programme>
-  <programme channel="400477" start="20260109171500 +0000" stop="20260109180000 +0000">
-    <title lang="zh">Sign Up - Into Football</title>
-    <desc>Highlights and analysis in a groundbreaking series that uses British Sign Language and subtitles to make coverage accessible to deaf and hearing audiences alike.</desc>
-    <date>2026-01-09</date>
-  </programme>
-  <programme channel="400477" start="20260109180000 +0000" stop="20260109183000 +0000">
-    <title lang="zh">Premier League Netbusters</title>
-    <desc>A fast-paced look at all the best action from the Premier League.</desc>
-    <date>2026-01-09</date>
-  </programme>
-  <programme channel="400477" start="20260109183000 +0000" stop="20260109220000 +0000">
-    <title lang="zh">Live Emirates FA Cup</title>
-    <desc>Wrexham v Nottingham Forest (Kick-off 7.30pm). Coverage of the third-round match at StoK Racecourse.</desc>
-    <date>2026-01-09</date>
-  </programme>
-  <programme channel="400477" start="20260109220000 +0000" stop="20260109233000 +0000">
-    <title lang="zh">FA Cup: The People's Story</title>
-    <desc>Uncovering the untold stories of the FA Cup, revealing how it became a stage where sport and society collide, capturing the spirit of a nation through the beautiful game.</desc>
-    <date>2026-01-09</date>
-  </programme>
-  <programme channel="400477" start="20260109233000 +0000" stop="20260110000000 +0000">
-    <title lang="zh">Premier League Review</title>
-    <desc>Action from the latest matches, including Arsenal v Liverpool, Fulham v Chelsea, and Burnley v Manchester United.</desc>
-    <date>2026-01-09</date>
-  </programme>
   <programme channel="400477" start="20260110003000 +0000" stop="20260110013000 +0000">
     <title lang="zh">Dakar Rally Saudi Arabia</title>
     <desc>Action from stage six.</desc>
@@ -203,175 +83,115 @@
     <desc>Uncovering the untold stories of the FA Cup, revealing how it became a stage where sport and society collide, capturing the spirit of a nation through the beautiful game.</desc>
     <date>2026-01-10</date>
   </programme>
-  <programme channel="400477" start="20260111000000 +0000" stop="20260112000000 +0000">
+  <programme channel="400477" start="20260111000000 +0000" stop="20260111010000 +0000">
     <title lang="zh">Isuzu UTE A-League</title>
     <desc>Macarthur FC v Sydney FC.</desc>
     <date>2026-01-11</date>
+  </programme>
+  <programme channel="400477" start="20260111010000 +0000" stop="20260111020000 +0000">
+    <title lang="zh">Isuzu UTE A-League</title>
+    <desc>Perth Glory v Central Coast Mariners.</desc>
+    <date>2026-01-11</date>
+  </programme>
+  <programme channel="400477" start="20260111020000 +0000" stop="20260111040000 +0000">
+    <title lang="zh">Live: Isuzu UTE A-League</title>
+    <desc>Wellington Phoenix v Adelaide United (Kick-off 2.00am). All the action from the match at Sky Stadium.</desc>
+    <date>2026-01-11</date>
+  </programme>
+  <programme channel="400477" start="20260111040000 +0000" stop="20260111043000 +0000">
+    <title lang="zh">UEFA Champions League - Stories of the Finals</title>
+    <desc>Take a look back to the 2013 final as Arjen Robben scored a dramatic late winner for Bayern to defeat Jurgen Klopp's Dortmund side. Plus, relive AC Milan v Juventus from 2003.</desc>
+    <date>2026-01-11</date>
+  </programme>
+  <programme channel="400477" start="20260111043000 +0000" stop="20260111050000 +0000">
+    <title lang="zh">UEFA Champions League - Stories of the Finals</title>
+    <desc>Relive the controversial 1996 Champions League final between reigning champions Ajax and Marcello Lippi's Juventus. Plus, look back at Real Madrid's final against Bayer Leverkusen.</desc>
+    <date>2026-01-11</date>
+  </programme>
+  <programme channel="400477" start="20260111050000 +0000" stop="20260111053000 +0000">
+    <title lang="zh">UEFA Champions League - Stories of the Finals</title>
+    <desc>A look back at Barcelona's memorable victory against Manchester United in 2011. Plus, highlights of the 2004 final between FC Porto and Monaco.</desc>
+    <date>2026-01-11</date>
+  </programme>
+  <programme channel="400477" start="20260111053000 +0000" stop="20260111060000 +0000">
+    <title lang="zh">UEFA Champions League - Stories of the Finals</title>
+    <desc>We take a look back at Ajax's UEFA Champions League final against AC Milan's famous team in 1995 and Bayern Munich's dramatic victory over Valencia in the 2001 final.</desc>
+    <date>2026-01-11</date>
+  </programme>
+  <programme channel="400477" start="20260111060000 +0000" stop="20260111080000 +0000">
+    <title lang="zh">Live: Isuzu UTE A-League</title>
+    <desc>Melbourne City v Newcastle Jets (Kick-off 6.00am). Coverage of the match at AAMI Park.</desc>
+    <date>2026-01-11</date>
+  </programme>
+  <programme channel="400477" start="20260111080000 +0000" stop="20260111083000 +0000">
+    <title lang="zh">The Breakdown</title>
+    <desc>Darren Fletcher is joined by Steven Gerrard, Ally McCoist, Steve McManaman and Joleon Lescott to discuss England and Scotland's chances at the 2026 FIFA World Cup.</desc>
+    <date>2026-01-11</date>
+  </programme>
+  <programme channel="400477" start="20260111083000 +0000" stop="20260111084500 +0000">
+    <title lang="zh">Training Day</title>
+    <desc>Peter Crouch, Steve Sidwell and Wayne Bridge head to west London to find out more about how Grenfell Athletic FC have been helping the community and bringing people together.</desc>
+    <date>2026-01-11</date>
+  </programme>
+  <programme channel="400477" start="20260111084500 +0000" stop="20260111091500 +0000">
+    <title lang="zh">Live: Luge World Cup</title>
+    <desc>Coverage of run two of the women's doubles event in the latest meeting of the season from Winterberg, Germany.</desc>
+    <date>2026-01-11</date>
+  </programme>
+  <programme channel="400477" start="20260111091500 +0000" stop="20260111104500 +0000">
+    <title lang="zh">Live: Men's Alpine Skiing World Cup</title>
+    <desc>Coverage of run one of the slalom in the latest meeting of the season from Adelboden, Switzerland.</desc>
+    <date>2026-01-11</date>
+  </programme>
+  <programme channel="400477" start="20260111104500 +0000" stop="20260111123000 +0000">
+    <title lang="zh">Live: Women's Alpine Skiing World Cup</title>
+    <desc>Coverage of the super-G in the latest meeting of the season from Zauchensee, Austria.</desc>
+    <date>2026-01-11</date>
+  </programme>
+  <programme channel="400477" start="20260111123000 +0000" stop="20260111133000 +0000">
+    <title lang="zh">Live: Men's Alpine Skiing World Cup</title>
+    <desc>Coverage of run two of the slalom in the latest meeting of the season from Adelboden, Switzerland.</desc>
+    <date>2026-01-11</date>
+  </programme>
+  <programme channel="400477" start="20260111133000 +0000" stop="20260111163000 +0000">
+    <title lang="zh">Live Emirates FA Cup</title>
+    <desc>Portsmouth v Arsenal (Kick-off 2.00pm). All the action from the third-round tie at Fratton Park. The last of Pompey's two cup triumphs came in 2008, but they have endured some difficult years since then. Their opponents today are record 14-time winners of the competition, who are challenging for glory on all fronts this term.</desc>
+    <date>2026-01-11</date>
+  </programme>
+  <programme channel="400477" start="20260111163000 +0000" stop="20260111190000 +0000">
+    <title lang="zh">Live Emirates FA Cup</title>
+    <desc>Manchester United v Brighton \u0026 Hove Albion (Kick-off 4.30pm). All the action from the third-round tie at Old Trafford. The sides have already met here in the Premier League this term, with United claiming a 4-2 win to avenge losses home and away to the Seagulls in the previous campaign. The hosts last won this competition in 2024 when they beat local rivals Manchester City 2-1 in the final.</desc>
+    <date>2026-01-11</date>
+  </programme>
+  <programme channel="400477" start="20260111190000 +0000" stop="20260111213000 +0000">
+    <title lang="zh">Live: Spanish Super Cup</title>
+    <desc>Coverage of the final (Kick-off 7.00pm), which takes place at King Abdullah Sports City Stadium in Jeddah, Saudi Arabia.</desc>
+    <date>2026-01-11</date>
+  </programme>
+  <programme channel="400477" start="20260111213000 +0000" stop="20260111223000 +0000">
+    <title lang="zh">Dakar Rally Saudi Arabia</title>
+    <desc>Stage eight, from Wadi Ad-Dawasir.</desc>
+    <date>2026-01-11</date>
+  </programme>
+  <programme channel="400477" start="20260111223000 +0000" stop="20260111230000 +0000">
+    <title lang="zh">TNT Sports Reload</title>
+    <desc>The best bits from TNT Sports over the last week.</desc>
+    <date>2026-01-11</date>
+  </programme>
+  <programme channel="400477" start="20260111230000 +0000" stop="20260112000000 +0000">
+    <title lang="zh">The Emirates FA Cup</title>
+    <desc>Derby County v Leeds United.</desc>
+    <date>2026-01-11</date>
+  </programme>
+  <programme channel="400477" start="20260112000000 +0000" stop="20260113000000 +0000">
+    <title lang="zh">The Emirates FA Cup</title>
+    <desc>Portsmouth v Arsenal.</desc>
+    <date>2026-01-12</date>
   </programme>
 <channel id="400480">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 2 HD</display-name>
     <icon src="" />
   </channel>
-  <programme channel="400480" start="20260109000000 +0000" stop="20260109010000 +0000">
-    <title lang="zh">The Emirates FA Cup</title>
-    <desc>Chesterfield v Doncaster Rovers.</desc>
-    <date>2026-01-09</date>
-  </programme>
-  <programme channel="400480" start="20260109010000 +0000" stop="20260109020000 +0000">
-    <title lang="zh">The Emirates FA Cup</title>
-    <desc>Slough Town v Macclesfield Town.</desc>
-    <date>2026-01-09</date>
-  </programme>
-  <programme channel="400480" start="20260109020000 +0000" stop="20260109030000 +0000">
-    <title lang="zh">The Emirates FA Cup</title>
-    <desc>Boreham Wood v Newport County.</desc>
-    <date>2026-01-09</date>
-  </programme>
-  <programme channel="400480" start="20260109030000 +0000" stop="20260109040000 +0000">
-    <title lang="zh">The Emirates FA Cup</title>
-    <desc>Gateshead v Walsall.</desc>
-    <date>2026-01-09</date>
-  </programme>
-  <programme channel="400480" start="20260109040000 +0000" stop="20260109050000 +0000">
-    <title lang="zh">The Emirates FA Cup</title>
-    <desc>Blackpool v Carlisle United.</desc>
-    <date>2026-01-09</date>
-  </programme>
-  <programme channel="400480" start="20260109050000 +0000" stop="20260109060000 +0000">
-    <title lang="zh">The Emirates FA Cup (?)</title>
-    <desc>).</desc>
-    <date>2026-01-09</date>
-  </programme>
-  <programme channel="400480" start="20260109060000 +0000" stop="20260109070000 +0000">
-    <title lang="zh">Premier League Review (?)</title>
-    <desc>).</desc>
-    <date>2026-01-09</date>
-  </programme>
-  <programme channel="400480" start="20260109070000 +0000" stop="20260109073000 +0000">
-    <title lang="zh">Premier League - The Big Interview (?)</title>
-    <desc>).</desc>
-    <date>2026-01-09</date>
-  </programme>
-  <programme channel="400480" start="20260109073000 +0000" stop="20260109084500 +0000">
-    <title lang="zh">Live: IBSF World Cup (?)</title>
-    <desc>).</desc>
-    <date>2026-01-09</date>
-  </programme>
-  <programme channel="400480" start="20260109084500 +0000" stop="20260109091500 +0000">
-    <title lang="zh">Training Day</title>
-    <desc>A look back at the best of the series that sees former sporting stars spend the day training with modern day pros.</desc>
-    <date>2026-01-09</date>
-  </programme>
-  <programme channel="400480" start="20260109091500 +0000" stop="20260109101500 +0000">
-    <title lang="zh">Live: IBSF World Cup (?)</title>
-    <desc>).</desc>
-    <date>2026-01-09</date>
-  </programme>
-  <programme channel="400480" start="20260109101500 +0000" stop="20260109103000 +0000">
-    <title lang="zh">UEFA Champions League - Stories of the Finals</title>
-    <desc>A look back at the 2016 UEFA Champions League final between Real Madrid and Atletico Madrid.</desc>
-    <date>2026-01-09</date>
-  </programme>
-  <programme channel="400480" start="20260109103000 +0000" stop="20260109110000 +0000">
-    <title lang="zh">Training Day</title>
-    <desc>A look back at the best of the series that sees former sporting stars spend the day training with modern day pros.</desc>
-    <date>2026-01-09</date>
-  </programme>
-  <programme channel="400480" start="20260109110000 +0000" stop="20260109121500 +0000">
-    <title lang="zh">Live: IBSF World Cup (?)</title>
-    <desc>).</desc>
-    <date>2026-01-09</date>
-  </programme>
-  <programme channel="400480" start="20260109121500 +0000" stop="20260109124500 +0000">
-    <title lang="zh">Kenny Allstar's Number 1's</title>
-    <desc>Highlights of the series.</desc>
-    <date>2026-01-09</date>
-  </programme>
-  <programme channel="400480" start="20260109124500 +0000" stop="20260109134500 +0000">
-    <title lang="zh">Live: IBSF World Cup (?)</title>
-    <desc>).</desc>
-    <date>2026-01-09</date>
-  </programme>
-  <programme channel="400480" start="20260109134500 +0000" stop="20260109144500 +0000">
-    <title lang="zh">Fishing: On the Bank (?)</title>
-    <desc>).</desc>
-    <date>2026-01-09</date>
-  </programme>
-  <programme channel="400480" start="20260109144500 +0000" stop="20260109150000 +0000">
-    <title lang="zh">TNT Sports Reload</title>
-    <desc>The best bits from TNT Sports over the last week.</desc>
-    <date>2026-01-09</date>
-  </programme>
-  <programme channel="400480" start="20260109150000 +0000" stop="20260109160000 +0000">
-    <title lang="zh">Live: IBSF World Cup (?)</title>
-    <desc>).</desc>
-    <date>2026-01-09</date>
-  </programme>
-  <programme channel="400480" start="20260109160000 +0000" stop="20260109163000 +0000">
-    <title lang="zh">Training Day</title>
-    <desc>A look back at the best of the series that sees former sporting stars spend the day training with modern day pros.</desc>
-    <date>2026-01-09</date>
-  </programme>
-  <programme channel="400480" start="20260109163000 +0000" stop="20260109173000 +0000">
-    <title lang="zh">Classic Premier League</title>
-    <desc>The best goals from the 2019/20 Premier League season.</desc>
-    <date>2026-01-09</date>
-  </programme>
-  <programme channel="400480" start="20260109173000 +0000" stop="20260109180000 +0000">
-    <title lang="zh">Premier League Legends</title>
-    <desc>This episode looks at the career of Michael Owen, who burst onto the scene as a teenager at Liverpool and went on to make his name as one of the most talented players of his time.</desc>
-    <date>2026-01-09</date>
-  </programme>
-  <programme channel="400480" start="20260109180000 +0000" stop="20260109190000 +0000">
-    <title lang="zh">The Edge</title>
-    <desc>H"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"ighlights and analysis from the fifth Ashes Test.</desc>
-    <date>2026-01-09</date>
-  </programme>
-  <programme channel="400480" start="20260109190000 +0000" stop="20260109200000 +0000">
-    <title lang="zh">Isuzu UTE A-League (?)</title>
-    <desc>).</desc>
-    <date>2026-01-09</date>
-  </programme>
-  <programme channel="400480" start="20260109200000 +0000" stop="20260109201500 +0000">
-    <title lang="zh">TNT Sports Cricket Reload</title>
-    <desc>The best batting action from the Fifth Ashes Test.</desc>
-    <date>2026-01-09</date>
-  </programme>
-  <programme channel="400480" start="20260109201500 +0000" stop="20260109203000 +0000">
-    <title lang="zh">TNT Sports Cricket Reload (?)</title>
-    <desc>).</desc>
-    <date>2026-01-09</date>
-  </programme>
-  <programme channel="400480" start="20260109203000 +0000" stop="20260109210000 +0000">
-    <title lang="zh">Training Day</title>
-    <desc>A look back at the best of the series that sees former sporting stars spend the day training with modern day pros.</desc>
-    <date>2026-01-09</date>
-  </programme>
-  <programme channel="400480" start="20260109210000 +0000" stop="20260109220000 +0000">
-    <title lang="zh">ABB FIA Formula E World Championship Highlights</title>
-    <desc>Action from round one at Sao Paulo Street Circuit in Brazil.</desc>
-    <date>2026-01-09</date>
-  </programme>
-  <programme channel="400480" start="20260109220000 +0000" stop="20260109230000 +0000">
-    <title lang="zh">Live: ABB FIA Formula E World Championship (?)</title>
-    <desc>).</desc>
-    <date>2026-01-09</date>
-  </programme>
-  <programme channel="400480" start="20260109230000 +0000" stop="20260109231500 +0000">
-    <title lang="zh">Playing for Our Future - Football</title>
-    <desc>Asking what the future holds for football in the battle against global warming. Reshmin Chowdhury meets people at all levels to discuss how cricket can be a force for change.</desc>
-    <date>2026-01-09</date>
-  </programme>
-  <programme channel="400480" start="20260109231500 +0000" stop="20260109233000 +0000">
-    <title lang="zh">Playing for Our Future - Football</title>
-    <desc>Asking what the future holds for football in the battle against global warming. Reshmin Chowdhury meets people at all levels to discuss how cricket can be a force for change 2/2.</desc>
-    <date>2026-01-09</date>
-  </programme>
-  <programme channel="400480" start="20260109233000 +0000" stop="20260110000000 +0000">
-    <title lang="zh">Ultimate Pool</title>
-    <desc>Action from Group One of the Women's Champions League.</desc>
-    <date>2026-01-09</date>
-  </programme>
   <programme channel="400480" start="20260110010000 +0000" stop="20260110020000 +0000">
     <title lang="zh">The Emirates FA Cup</title>
     <desc>Wrexham v Nottingham Forest.</desc>
@@ -472,9 +292,119 @@
     <desc>Melbourne Victory v Western Sydney Wanderers.</desc>
     <date>2026-01-10</date>
   </programme>
-  <programme channel="400480" start="20260111000000 +0000" stop="20260112000000 +0000">
+  <programme channel="400480" start="20260111000000 +0000" stop="20260111010000 +0000">
     <title lang="zh">The Edge</title>
     <desc>Highlights and analysis from the fifth Ashes Test).</desc>
     <date>2026-01-11</date>
+  </programme>
+  <programme channel="400480" start="20260111010000 +0000" stop="20260111013000 +0000">
+    <title lang="zh">The Breakdown</title>
+    <desc>Darren Fletcher is joined by Steven Gerrard, Ally McCoist, Steve McManaman and Joleon Lescott to discuss England and Scotland's chances at the 2026 FIFA World Cup.</desc>
+    <date>2026-01-11</date>
+  </programme>
+  <programme channel="400480" start="20260111013000 +0000" stop="20260111020000 +0000">
+    <title lang="zh">The Gruppetto</title>
+    <desc>Rob Hatch presents news from the world of cycling.</desc>
+    <date>2026-01-11</date>
+  </programme>
+  <programme channel="400480" start="20260111020000 +0000" stop="20260111030000 +0000">
+    <title lang="zh">UFC</title>
+    <desc>A review of the action in 2025.</desc>
+    <date>2026-01-11</date>
+  </programme>
+  <programme channel="400480" start="20260111030000 +0000" stop="20260111040000 +0000">
+    <title lang="zh">Hard Knocks: In Season with the NFC East</title>
+    <desc>An inside look at the Dallas Cowboys, New York Giants, Washington Commanders, and Philadelphia Eagles during the final stretch of the NFL regular season and into the playoffs.</desc>
+    <date>2026-01-11</date>
+  </programme>
+  <programme channel="400480" start="20260111040000 +0000" stop="20260111053000 +0000">
+    <title lang="zh">Ultimate Pool</title>
+    <desc>Action from Group One of the Women's Champions League.</desc>
+    <date>2026-01-11</date>
+  </programme>
+  <programme channel="400480" start="20260111053000 +0000" stop="20260111060000 +0000">
+    <title lang="zh">The Breakdown</title>
+    <desc>Darren Fletcher is joined by Ally McCoist, Owen Hargreaves, Joe Cole and Joleon Lescott to discuss the dynamics of a football dressing room.</desc>
+    <date>2026-01-11</date>
+  </programme>
+  <programme channel="400480" start="20260111060000 +0000" stop="20260111080000 +0000">
+    <title lang="zh">Live: A-League Women</title>
+    <desc>Melbourne Victory v Brisbane Roar (Kick-off 6.00am). Coverage of the match at Home of the Matildas.</desc>
+    <date>2026-01-11</date>
+  </programme>
+  <programme channel="400480" start="20260111080000 +0000" stop="20260111090000 +0000">
+    <title lang="zh">Live: IBSF World Cup</title>
+    <desc>Coverage of the first heat of the Two Woman Bob in St Moritz-Celerina, Switzerland.</desc>
+    <date>2026-01-11</date>
+  </programme>
+  <programme channel="400480" start="20260111090000 +0000" stop="20260111093000 +0000">
+    <title lang="zh">The Breakdown</title>
+    <desc>Darren Fletcher is joined by Ally McCoist, Owen Hargreaves, Joe Cole and Joleon Lescott to discuss the dynamics of a football dressing room.</desc>
+    <date>2026-01-11</date>
+  </programme>
+  <programme channel="400480" start="20260111093000 +0000" stop="20260111103000 +0000">
+    <title lang="zh">Live: IBSF World Cup</title>
+    <desc>Coverage of the second heat of the Two Woman Bob in St Moritz-Celerina, Switzerland.</desc>
+    <date>2026-01-11</date>
+  </programme>
+  <programme channel="400480" start="20260111103000 +0000" stop="20260111113000 +0000">
+    <title lang="zh">Rylan: Homophobia, Football and Me</title>
+    <desc>TV personality Rylan examines homosexuality within football. He takes a look at his own personal experiences and interviews numerous figures from the beautiful game.</desc>
+    <date>2026-01-11</date>
+  </programme>
+  <programme channel="400480" start="20260111113000 +0000" stop="20260111143000 +0000">
+    <title lang="zh">Live Emirates FA Cup</title>
+    <desc>Derby County v Leeds United (kick-off 12.00pm). Coverage of the third-round tie at Pride Park. The sides last met in the Championship last term, when Leeds won 1-0 here and 2-0 at Elland Road en route to earning promotion to the Premier League.</desc>
+    <date>2026-01-11</date>
+  </programme>
+  <programme channel="400480" start="20260111143000 +0000" stop="20260111150000 +0000">
+    <title lang="zh">The Breakdown</title>
+    <desc>Darren Fletcher is joined by Ally McCoist, Owen Hargreaves, Joe Cole and Joleon Lescott to discuss the dynamics of a football dressing room.</desc>
+    <date>2026-01-11</date>
+  </programme>
+  <programme channel="400480" start="20260111150000 +0000" stop="20260111151500 +0000">
+    <title lang="zh">The Breakdown</title>
+    <desc>Darren Fletcher talks to former England midfielder Owen Hargreaves.</desc>
+    <date>2026-01-11</date>
+  </programme>
+  <programme channel="400480" start="20260111151500 +0000" stop="20260111153000 +0000">
+    <title lang="zh">The Breakdown</title>
+    <desc>Joe Cole talks to new Chelsea manager Liam Rosenior.</desc>
+    <date>2026-01-11</date>
+  </programme>
+  <programme channel="400480" start="20260111153000 +0000" stop="20260111190000 +0000">
+    <title lang="zh">Live Emirates FA Cup</title>
+    <desc>Manchester United v Brighton \u0026 Hove Albion (Kick-off 4.30pm). All the action from the third-round tie at Old Trafford. The sides have already met here in the Premier League this term, with United claiming a 4-2 win to avenge losses home and away to the Seagulls in the previous campaign. The hosts last won this competition in 2024 when they beat local rivals Manchester City 2-1 in the final.</desc>
+    <date>2026-01-11</date>
+  </programme>
+  <programme channel="400480" start="20260111190000 +0000" stop="20260111193000 +0000">
+    <title lang="zh">The Breakdown</title>
+    <desc>Darren Fletcher is joined by Steven Gerrard, Ally McCoist, Steve McManaman and Joleon Lescott to discuss England and Scotland's chances at the 2026 FIFA World Cup.</desc>
+    <date>2026-01-11</date>
+  </programme>
+  <programme channel="400480" start="20260111193000 +0000" stop="20260111214500 +0000">
+    <title lang="zh">Live: Serie A</title>
+    <desc>Inter Milan v Napoli (Kick-off 7.45pm). All the action from the Italian top-flight match at the San Siro.</desc>
+    <date>2026-01-11</date>
+  </programme>
+  <programme channel="400480" start="20260111214500 +0000" stop="20260111220000 +0000">
+    <title lang="zh">The Breakdown</title>
+    <desc>Darren Fletcher talks to former England midfielder Owen Hargreaves.</desc>
+    <date>2026-01-11</date>
+  </programme>
+  <programme channel="400480" start="20260111220000 +0000" stop="20260111230000 +0000">
+    <title lang="zh">One Day International Cricket</title>
+    <desc>Action from the first match between India and New Zealand.</desc>
+    <date>2026-01-11</date>
+  </programme>
+  <programme channel="400480" start="20260111230000 +0000" stop="20260112000000 +0000">
+    <title lang="zh">International T20 Cricket Highlights</title>
+    <desc>Sri Lanka v Pakistan. Highlights of the third Twenty20 in the three-match series, which took place at Rangiri Dambulla International Stadium in Dambulla.</desc>
+    <date>2026-01-11</date>
+  </programme>
+  <programme channel="400480" start="20260112000000 +0000" stop="20260113000000 +0000">
+    <title lang="zh">The Edge</title>
+    <desc>Highlights and analysis from the fifth Ashes Test).</desc>
+    <date>2026-01-12</date>
   </programme>
 </tv>
